@@ -1,0 +1,14 @@
+{{Infobox word
+|Name = {{Ruby|本家|ほんけ}}
+|Hinshi = 名詞
+}}'''本家'''とは、一族の中心となる血筋の家や、おおもととなる家のこと。
+
+[[Mastodon|マストドン]]においては、主にインスタンスの管理者などを中心に、[[オイゲン]]([[Eugen Rochko]])氏が管理している[[Github]]のリポジトリ https://github.com/tootsuite/mastodon のことを指して用いられる。
+
+また、[[Mastodon.social]]を指す場合もある。
+
+==関連項目==
+* [[マストドン公式レポジトリ]]
+
+{{DEFAULTSORT:ほんけ}}
+[[Category:象語]]

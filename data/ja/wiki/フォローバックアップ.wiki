@@ -1,0 +1,17 @@
+{{Infobox software
+| Name = フォローバックアップ
+<!-- | Image = -->
+| Developer = [[おさ]]
+| Platform = ウェブ
+| Launch = 2018年1月5日<ref name="公開告知">https://mstdn.nere9.help/@osapon/99294590207477156</ref>
+| Web = https://followlink.osa-p.net/backup.html
+}}
+'''フォローバックアップ'''は [[Mastodon]]・[[GNU social]] の[[フォロー]]状態をバックアップするツールである。
+
+開発者が同じである[[フォローリンク]]と処理を共有している。
+
+== 出典 ==
+<references />
+
+[[Category:ウェブサイト]]
+{{DEFAULTSORT:ふおろうはつくあつふ}}

@@ -1,0 +1,19 @@
+{{Infobox website
+| Name    = マストドンログ日記
+| Image   = [[ファイル:Avatar_361b63c0bf0b_128.jpg|200px]]
+| URL     = https://llxyo.tumblr.com/
+| Admin   = LLxyo
+| Country = 日本
+| Start   = 2017年9月18日
+}}
+
+'''マストドンログ日記'''または'''LLxyo'''とは、マストドンの日本語圏のコミュニティで起きた出来事を日記形式で記録しているウェブサイト。
+
+==関連項目==
+* [[マストドンつまみ食い日記]]
+
+==外部リンク==
+* [https://llxyo.tumblr.com/ マストドンログ日記]
+
+[[category:ニュースサイト]]
+{{DEFAULTSORT:ろくにつき}}

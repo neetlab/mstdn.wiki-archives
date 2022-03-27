@@ -1,0 +1,68 @@
+{{Infobox person
+| Name     = {{Ruby|墓場人夜|はかばひとよ}}
+| Image    = [[ファイル:cocona.jpeg|120px]]
+| Country  = かながわのくに
+}}{{Ruby|'''墓場人夜'''|はかばひとよ}}は、分散SNSアジテーター、ウェブアプリケーション作者、インスタンス運営者、マストドン日本語ウィキ執筆者。
+
+==名前の由来==
+'''墓場'''は、住んでいたアパートの目の前が墓地であったことから。'''人夜'''は、『ヨコハマ買い出し紀行』の「人の夜が安らかな時代でありますように！」というフレーズに由来する。
+
+==別名義==
+* {{Ruby|'''人間の精液を養分にするため女性器に擬態している植物'''|にんげんのせいえきをようぶんにするためじょせいきにぎたいしているしょくぶつ}}。なお、機械可読な識別子として'''vaginaplant'''を使用することがある。
+* {{Ruby|'''葛西くみん'''|かさいくみん}}。第1回分散SNSフォーラムの会場が葛西区民館であったことから。
+* {{Ruby|'''川内楢葉'''|かわうちならは}}は小説「はだしのフクシマ」と「カミカゼ神社ハイスクール」の登場人物であるが、墓場人夜の別名義として使われることがある。
+* '''Himawari Prodromou'''または'''ひまわりプロドロモウ'''は、カスタムキャストで作成された容姿を持ち、「African girl. Programmer.」というプロフィールを自称している。主に英語圏に向けた発信を目的としている。
+* {{Ruby|'''ア依18n'''|あいじゅうはちえぬ}}は、アルコール依存症を意味する「ア依」と、internationalizationを意味するi18nを組み合わせたハンドルネーム。18は設定上の年齢。機械可読な識別子は'''ai18n'''を使用する。
+
+== ウェブサイト ==
+* [[Who To Follow For Mastodon & Pleroma]]
+* [[Fediverse Observer (墓場人夜)|Fediverse Observer]] (2020年3月に閉鎖)
+* [[Recommendation Fairness Warrior]] (2020年2月、Fediverse Observerに移行)
+* [[分散SNSフォーラム]] (2019年7月、Recommendation Fairness Warriorに移行)
+* [[マストドンユーザーマッチング]] (2019年7月、Recommendation Fairness Warriorに移行)
+* [[ミステリーポスト]] (2019年1月頃に閉鎖)
+* [[素朴ディジタル画像インフラストラクチャー]] (2020年1月に閉鎖)
+
+==ソフトウェア==
+* [[libsocialnet]] (2020年3月頃に開発終了)
+* [[HVDSGM]] (2017年12月頃に開発終了)
+
+== マストドンインスタンス ==
+* md.distsn.org (2017年11月2日閉鎖、2.distsn.orgに移転)
+* [[2.distsn.org]] (2017年1月26日閉鎖)
+* あんたま (2018年9月14日、[[ムトー★マストドンホスティング]]の無料プラン廃止により閉鎖)
+
+== 他の分散SNSのインスタンス ==
+* [[3.distsn.org]] ([[Pleroma]]、2020年2月閉鎖)
+* オタジョ.tk ([[Pleroma]]、2018年5月5日閉鎖)
+* 7.distsn.org ([[Misskey]]、2019年1月閉鎖)
+
+==主催したイベント==
+* [https://distsn.connpass.com/event/59556/ 第1回分散SNSフォーラム] - 2017年7月1日開催
+* [https://distsn.connpass.com/event/61187/ 第2回分散SNSフォーラム] - 2017年9月2日開催
+* [https://distsn.connpass.com/event/72030/ 第1回プレロマ公会議（第3回分散SNSフォーラム）] - 2017年12月9日・流会
+* [https://distsn.connpass.com/event/83861/ 第1回プレロマ公会議] - 2018年5月5日・流会
+
+==出演したイベント==
+* [https://mastodonkaigi.connpass.com/event/61651 Mastodon Developers Kaigi #0]
+* [https://connpass.com/event/84743 Petit Mastodon Constructive Meetup]
+* [https://www.mmt18.info/ Mastodon Meetup at Tokyo]
+
+==マストドン日本語ウィキ執筆者として==
+* [[利用者:hakabahitoyo]]
+* [[利用者:Ai]]
+
+==引退==
+2020年3月頃、鬱状態のため、[[分散SNS]]に関連するすべての活動を引退した。引退後もマストドン日本語ウィキの編集などを細々と続けている。
+
+==活動再開==
+2021年12月に[[Who To Follow For Mastodon & Pleroma]]を作成するなど、徐々に活動を再開している。同月には[[Join the Fediverse (Wiki)]] の日本語訳も行った。
+
+==関連項目==
+* [[LGBTPZN]]
+
+==脚注==
+<references />
+
+[[category:人物]]
+{{DEFAULTSORT:はかはひとよ}}

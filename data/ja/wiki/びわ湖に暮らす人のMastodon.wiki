@@ -1,0 +1,38 @@
+{{Infobox instance
+| Name          = びわ湖に暮らす人のMastodon
+| Domain        = https://biwakodon.com/
+| Admin         = [https://biwakodon.com/@wakin @wakin]
+| Country       = 日本
+| Start         = 2017/04/20
+| Kifu          = なし
+| Alias         = びわ湖丼
+}}
+'''びわ湖に暮らす人のMastodon'''は、オープンソースのソーシャルネットワークMastodonのインスタンス。
+
+==概要==
+びわ湖の周りに住んでる人、通勤・通学してる人、その他ゆかりのある人向けに立ち上げられた、いわゆる地域特化インスタンスの一つ。
+
+2021年4月20日頃に、parkingcrew.net 上にあり、いわゆる「ドメインパーキング状態」だったが、2021年5月9日頃に復帰された。
+
+しかし現時点では、管理人からの状況報告がない。
+
+==独自機能==
+以下の絵文字が追加されている。
+
+*「:biwako:」で[[ファイル:Biwako.png]](びわ湖)を表示。
+*「:biwako-g:」で[[ファイル:Biwako-g.png]](緑びわ湖)を表示。
+*「:biwako-y:」で[[ファイル:Biwako-y.png]](黄びわ湖)を表示。
+*「:biwako-o:」で[[ファイル:Biwako-o.png]](橙びわ湖)を表示。
+*「:biwako-r:」で[[ファイル:Biwako-r.png]](赤びわ湖)を表示。
+*「:biwako-p:」で[[ファイル:Biwako-p.png]](桃びわ湖)を表示。
+<ul>
+<li>「:biwako-w:」で<span style="background-color:#DDDDDD">[[ファイル:Biwako-w.png]]</span>(白びわ湖)を表示。</li>
+</ul>
+
+==関連項目==
+
+*[[都道府県のインスタンス一覧]]
+
+{{DEFAULTSORT:ひわこにくらすひと}}
+[[カテゴリ:日本のインスタンス|びわこ]]
+[[category:関西広域連合]]

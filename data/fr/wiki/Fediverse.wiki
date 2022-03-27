@@ -1,0 +1,6 @@
+Le '''Fediverse''' est un gestionnaire de réseau social décentralisé de micro-blogage, constitué d’une fédération d’instances communiquant entre elles à l’aide du protocole [[OStatus]].
+
+Parmi les logiciels permettant de se connecter au Fediverse, les plus populaires sont [[Mastodon]] et GNU Social.
+
+[[pl:Fediwersum]]
+[[ja:連合]]

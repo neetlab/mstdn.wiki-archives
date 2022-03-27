@@ -1,0 +1,24 @@
+{{Mode d’emploi}}
+Bienvenue dans le guide d’utilisation de Mastodon ! Cette page décrit en détail les différentes actions disponibles dans le logiciel et vous aidera à vous familiariser avec ce dernier.
+
+Attention, ce guide <strong>n’a pas</strong> pour objectif de fournir une introduction à Mastodon permettant une prise en main rapide. Si vous êtes à la recherche d’un didacticiel vous guidant pas à pas, nous vous conseillons plutôt de lire « [[Découvrir Mastodon]] ». 
+
+== Généralités ==
+[[Mastodon]] est un logiciel libre de micro-blogage destiné à publier de courts messages sur un réseau social appelé le [[Fediverse]].
+
+Contrairement à d’autres réseaux sociaux populaires, le Fediverse est décentralisé. Plutôt que d’être entièrement hébergé et contrôlé par une seule organisation, le réseau est constitué d’une multitudes de serveurs informatiques (appelés « instances ») qui communiquent les uns avec les autres par l’intermédiaire du protocole [[OStatus]]. Mastodon étant publié sous licence libre, n’importe quelle personne disposant des ressources nécessaires peut installer sa propre instance et se connecter au reste du réseau sans avoir à demander d’autorisation préalable.
+
+Le logiciel permet à ses utilisateur·rice·s, couramment surnomé·e·s les « mastonautes », de partager des messages de cinq-cent caractères (appelés « pouets ») pouvant contenir des images et des vidéos. L’audience d’une publication peut-être sélectionnée à priori par l’utilisateur·rice, qui dispose de plusieurs réglages lui permettant d’exercer un certain contrôle sur la portée de ses pouets. Par ailleurs, il est possible de signaler que les médias publiés contiennent un contenu potentiellement choquant ainsi que de masquer le texte d’un message derrière un texte d’avertissement.
+
+== Inscription ==
+
+== Interface ==
+
+== Publication ==
+
+== Préférences ==
+
+== Voir aussi ==
+* '''(en)''' [https://github.com/tootsuite/documentation/blob/master/Using-Mastodon/User-guide.md Guide d’utilisation officiel]
+
+[[Catégorie:Mode d’emploi]]

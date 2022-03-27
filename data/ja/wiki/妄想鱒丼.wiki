@@ -1,0 +1,15 @@
+{{Infobox instance
+| Name          = {{Ruby|'''妄想鱒丼'''|もうそうますどん}}
+| Domain        = https://delusion.ariela.jp/
+| Admin         = [https://delusion.ariela.jp/@ariela ariela✳️]
+| Country       = 日本
+| Start         = 2017年4月14日
+| Kifu          = なし
+| Alias         = なし
+}}{{Ruby|'''妄想鱒丼'''|もうそうますどん}}は、[[オープンソース]]のソーシャルネットワークMastodonの[[インスタンス]]。
+
+== 概要 ==
+「妄想垂れ流し」を主なテーマとした小規模インスタンス。
+
+{{DEFAULTSORT:ariela}}
+[[category:日本のインスタンス]]

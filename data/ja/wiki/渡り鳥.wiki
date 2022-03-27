@@ -1,0 +1,19 @@
+<ruby>渡り鳥<rt>わたりどり</rt></ruby>とは、一般的には食糧、環境、繁殖などの事情に応じて定期的に長い距離を移動する鳥のことであるが、Mastodonに於いては他のSNS(主にTwitter)からMastodonに移行してきたユーザーのことである。
+
+{{infobox word
+|Name = <ruby>渡り鳥<rt>わたりどり</rt></ruby>
+|Hinshi = 名詞
+|Hatsu =[[Mastodon.cloud]]
+}}
+
+== 概要 ==
+
+Mastodonのメインの日本語インスタンスである[[mstdn.jp]]が出来てまだ間もないころ、「ITmedia<ref>http://www.itmedia.co.jp/news/articles/1704/13/news131.html</ref>」や「ねとらぼ<ref>http://nlab.itmedia.co.jp/nl/articles/1704/13/news160.html</ref>」などのニュースサイトに掲載され知名度が上がり、多くのユーザーが[[Mastodon]]に参加しようとアカウントを登録し移行をはじめ、それを見た[[Mastodon]]ユーザーが[[Twitter]]ユーザー([[鳥]])の様子を渡り鳥に比喩したことが始まりである。
+
+しかしその名の通り、その際に登録したユーザーは以後姿をあらわすこと無く[[Twitter]]に帰ってしまったため、単に迷惑なユーザーという意味でもしばしば使われる。
+
+== 出典 ==
+<references />
+
+{{DEFAULTSORT:わたりとり}}
+[[category:象語]]

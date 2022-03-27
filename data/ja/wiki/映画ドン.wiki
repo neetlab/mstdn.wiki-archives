@@ -1,0 +1,15 @@
+{{Infobox instance
+| Name          = 映画ドン
+| Domain        = https://eigadon.net/
+| Admin         = [https://dtp-mstdn.jp/@noellabo のえる]
+| Country       = 日本
+| Start         = 2017年4月23日
+| Kifu          = 不明
+| Alias         = 不明
+}}'''映画ドン'''は、オープンソースのソーシャルネットワークMastodonの[[インスタンス]]。
+
+== 概要 ==
+映画に関する話題が主のインスタンス。
+
+[[category:日本のインスタンス]]
+{{DEFAULTSORT:eigadon}}

@@ -1,0 +1,34 @@
+{{Infobox instance
+| Name          = おたじょどん
+| Image         = [[ファイル:Otajodon.png|120px]]
+| Domain        = https://otajodon.com/
+| Admin         = [https://otajodon.com/@otajodon アオヤギ]
+| Country       = 日本
+| Start         = 2017年4月18日
+| End = 2018年2月20日
+| Kifu          = [https://enty.jp/otajodon Enty]
+| Alias         = おたじょどん
+}}'''おたじょどん'''は、オープンソースのソーシャルネットワーク[[Mastodon]]のインスタンス。
+
+== 概要 ==
+2017年4月18日、アオヤギミホコ氏により「オタク女子」というユーザー層に向け立てられたインスタンス。
+
+ITmedia NEWSの記事<ref>http://www.itmedia.co.jp/news/articles/1704/27/news026.html</ref>などで取り上げられ、2000人以上のユーザー数を誇っていた。
+
+== 鎖国 ==
+2017年6月30日、運営者であるアオヤギミホコ氏は、otajodonの今後の運営方針について「7月中にどのようにするか、ご報告できればと思います<ref>[https://enty.jp/posts/55124 Enty支援者様に重要なお知らせ]</ref>」という見解を発表。その後、遅くとも7月10日<ref>[https://masto.news/2017/07/10/otajodon/ otajodon、鎖国する]</ref>には[[鎖国]]を実施した。これによりリモートフォローができなくなった。
+
+== 終了 ==
+[[File:Otajodon_end.jpg|thumb|300px|right|「otajodon クローズのお知らせ」]]
+おたじょどんは2017年7月以降、長らくバージョンが更新されず運営が放棄されていた。そして2018年2月19日、運営者であるアオヤギミホコ氏はTwitterで、「2018年2月20日いっぱいでのクローズ」を発表した<ref>https://twitter.com/ao8l22/status/965853922148589568</ref>。予告通り、2018年2月21日になると同時にインスタンスは終了、アクセスするとクローズのお知らせページが表示されるようになった。
+
+移行先として、派生インスタンスである「よじのくに」(yojinokuni.m.to) が名乗りを上げていた<ref>[https://app.simplenote.com/publish/zbjZdb よじのくに インスタンスについて 〜おたじょどん避難用インスタンスよじのくに〜]</ref><ref>otajodonは特定の移行先に言及していない。</ref>が、現在<ref>2019年2月に確認。</ref>は消滅している。また、[[Pleroma]]インスタンスでは、オタジョ.tk (otajo.tk) がおたじょどんの後継を自称していたが、こちらは2018年5月5日に消滅している。
+
+== 関連項目 ==
+*[[鎖国]]
+*[[Julika]]
+
+==脚注==
+<references />
+
+{{DEFAULTSORT:otajodon}}

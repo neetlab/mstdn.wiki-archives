@@ -1,0 +1,19 @@
+{{infobox instance
+|Name = '''やますとどんJP'''
+|Image = [[ファイル:yamastodonjp.png|300px]]
+|Domain = https://yamastodon.jp
+|Country = 日本
+|Admin = [https://yamastodon.jp/@gonten ごんてん]
+|Start = 2017年5月2日
+|Kifu = なし
+|Alias = なし
+}}'''やますとどんJP'''は、オープンソースのソーシャルネットワークMastodonの[[インスタンス]]。
+
+== 概要 ==
+2017年5月2日、ごんてん氏によって立ち上げられた、登山、クライミングなど、山に関する話題がテーマのインスタンス。
+
+== 関連項目 ==
+* [[YAMASTODON]]
+
+{{DEFAULTSORT:yamastodonjp}}
+[[Category:消滅したインスタンス]]

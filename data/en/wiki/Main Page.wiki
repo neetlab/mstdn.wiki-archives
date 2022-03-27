@@ -1,0 +1,44 @@
+__NOTOC__<!-- Hide Table-Of-Content -->
+Welcome to the Mastodon Community Wiki, aka '''<nowiki>#MastoWiki</nowiki>'''.
+
+== Masto-what? ==
+* What is [[Mastodon]]?
+* How to [[Get involved with Mastodon]]?
+
+== User Guide ==
+* Pick an instance for your account
+** [https://instances.mastodon.xyz/ Instance recommendations]
+** [https://instances.mastodon.xyz/list Full list of instances]
+** [[UI_previews|UI Previews]]
+* Have a look the public stream of an instance at [http://www.unmung.com/mastoview Mastoview]
+* #needhelp is used on mastodon to get help
+* User guide on [https://github.com/tootsuite/documentation/blob/master/Using-Mastodon/User-guide.md github.com]
+* List of mastodon apps at [https://github.com/tootsuite/documentation/blob/master/Using-Mastodon/Apps.md github.com]
+
+== Mastodon Tools / Ressources ==
+* ''Search'' content on Mastodon with [https://cler.ical.ist/ clericalist]
+* Embedded Mastodon ''feeds'' for blogs etc. https://www.mastofeed.com/
+
+== Get involved ==
+It is probably a good idea to read first: [[Get involved with Mastodon]]
+* Code
+** [https://github.com/tootsuite/mastodon/blob/master/CONTRIBUTING.md github.com]
+** IRC channel: #mastodon on irc.freenode.net
+* Translations
+** [https://github.com/tootsuite/mastodon/tree/master/config/locales github.com]
+** [https://github.com/tootsuite/mastodon/tree/master/app/assets/javascripts/components/locales github.com]
+* Administration
+** Admins Matrix Chat - https://matrix.cybre.space
+** Admins Mailing list - https://lists.ffdn.org/wws/subscribe/mastodon-admin
+
+== Languages ==
+* English (you are here)
+* [https://ja.mstdn.wiki Japanese]
+* [https://fr.mstdn.wiki/Accueil French]
+
+== Thanks ==
+Gargron, Maloki, Neetshin, and all the early responders to the [https://mastodon.social/@maloki/4231241 <nowiki>#MastoWiki</nowiki> call].
+
+[[fr:Accueil]]
+[[pl:Strona główna]]
+[[ja:メインページ]]

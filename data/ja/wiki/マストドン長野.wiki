@@ -1,0 +1,18 @@
+{{Infobox instance
+| Name          = マストドン長野
+| Domain        = https://mastodon-nagano.info/
+| Admin         = 不明
+| Country       = 日本
+| Start         = 不明
+| Kifu          = [https://enty.jp/YwmyiHZGk0oC Enty]
+| Alias         = なし
+}}マストドン長野は、長野県のご当地インスタンスである。
+
+== 概要 ==
+長野県民や長野県に興味のあるユーザー層に向け立てられたインスタンス。2017年8月現在、アクセスができない状態となっている。
+
+== 関連項目 ==
+* [[都道府県のインスタンス一覧]]
+
+{{DEFAULTSORT:なかの}}
+[[category:消滅したインスタンス]]

@@ -1,0 +1,19 @@
+{{Infobox word
+|Name = ポだよ
+|Hatsu = [[mstdn.jp]]
+}}'''ポだよ'''とは、[[Mastodon]]の日本語圏[[インスタンス]]における[[象語]]（スラング）である。
+
+== 概要 ==
+[[File:po_ss1.jpeg|thumb|right|200px|「ポ」のリプライ]]
+2017年4月後半、mstdn.jpにおいて、「ポ」というユーザー<ref>[https://mstdn.jp/@p_o_ ポ - mstdn.jp]（リンク切れ）</ref>が「ポ」や「ぽ」、「po」などといった単語に反応して[[bot]]のように「'''ポだよ'''」「'''ぽだよ'''」「'''poだよ'''」などと[[リプライ]]を送ったのが由来で、次第に様々なユーザーが同様の書き込みをするようになっていった。
+
+2017年7月頃に「ポ」が書き込みをストップして以降も、mstdn.jpをはじめ多くの日本語圏インスタンスにおいて、多くのユーザーによって書き込まれ続けている<ref>[https://realtime.userlocal.jp/toots/index?q=%E3%83%9D%E3%81%A0%E3%82%88 「ポだよ」の検索結果]、[https://realtime.userlocal.jp/toots/index?q=%E3%81%BD%E3%81%A0%E3%82%88 「ぽだよ」の検索結果]（マストドンリアルタイム検索）</ref>。
+
+また、有志により「ポ」を再現した[[bot]]<ref>https://theboss.tech/@p_o_</ref>も制作されている。
+
+== 出典 ==
+<references />
+
+{{DEFAULTSORT:ほたよ}}
+[[Category:象語]]
+[[category:Bot]]

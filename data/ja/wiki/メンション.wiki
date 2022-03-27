@@ -1,0 +1,20 @@
+{{Infobox word
+| Name          = {{Ruby|メンション|mention}}
+| Hinshi        = 名詞
+| Hatu = none
+}}'''メンション'''(英:mention)は、「言及する」を意味する英単語。また、転じてMastodonやTwitterなどのSNSにおける機能の名称。
+
+== Mastodonにおけるメンション ==
+Mastodonでは、<code>@userName</code>といった、「@」で始まるユーザー名の文字列を含んでトゥートするとそのトゥートを相手に通知させることができる。
+
+これを指した名称がメンションである。なお、冒頭に@ユーザー名を記述するのは'''[[リプライ]]'''と呼ばれている。
+
+Mastodonでは同じインスタンスであれば<code>@userName</code>と@IDを記述することでメンションを送ることができる。
+
+他のインスタンスに送ることも可能で、その場合は<code>@userName@instance.jp</code>と@IDの更に後に@インスタンス名を記述することで送る。
+
+== 関連項目 ==
+* [[リプライ]]
+
+{{DEFAULTSORT:めんしよん}}
+[[Category:マストドンの機能]]

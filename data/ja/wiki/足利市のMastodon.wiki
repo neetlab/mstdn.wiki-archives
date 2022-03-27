@@ -1,0 +1,18 @@
+{{Infobox instance
+| Name          = 足利市のMastodon
+| Domain        = https://ashikaga.link/
+| Admin         = [https://ashikaga.link/@yamada 山田 雅俊]
+| Country       = 日本
+| Start         = 2017年4月24日
+| Kifu          = なし
+| Alias         = なし
+}}'''足利市のMastodon'''は、[[オープンソース]]の[[分散SNS]]、[[Mastodon]]の[[インスタンス]]。
+
+== 概要 ==
+栃木県足利市に関係のあるユーザーに向け、山田 雅俊により2017年4月24日に立ち上げられた地域インスタンス。
+
+== 関連項目 ==
+* [[都道府県のインスタンス一覧]]
+
+{{DEFAULTSORT:あしかか}}
+[[category:日本のインスタンス]]

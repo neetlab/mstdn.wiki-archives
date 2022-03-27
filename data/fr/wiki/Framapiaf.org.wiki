@@ -1,0 +1,31 @@
+{{Infobox instance
+ | Nom      = Framapiaf
+ | Image    = [[Image:Logo de Framapiaf.png|alt= Le pingouin stylisé servant de logo à Framasoft, suivit du mot « Framapiaf » écrit en lettre violettes et vertes.|Le logo de Framapiaf]]
+ | Domaine  = https://framapiaf.org/
+ | Admin    = [https://framapiaf.org/@Framasoft Framasoft]
+ | Pays     = France
+ | Création = 2017
+}}
+'''Framapiaf''' (parfois désignée par son nom de domaine, '''framapiaf.org''') est une instance [[Mastodon]] francophone créée en 2017. Elle est maintenue par Framasoft, une association française à but non lucratif travaillant à la promotion et à la diffusion du logiciel libre et s’inscrivant dans la mouvance de l’éducation populaire.
+
+Au 8 janvier 2018, Framapiaf comprenait 4.163 utilisateur·rice·s<ref>[https://framapiaf.org/about/more « À propos »], sur ''[[Framapiaf.org|Framapiaf]]'', 2017 (consulté le 8 janvier 2018)</ref>.
+
+== Particularités ==
+L’instance possède, conformément à la [https://framasoft.org/nav/html/graphics.html charte graphique de Framasoft], un thème blanc et violet, tranchant radicalement avec le thème bleu et sombre qu’arbore [[Mastodon]] par défaut. Par ailleurs, la page d’accueil de Framapiaf a été lourdement modifiée afin d’y afficher des informations aussi bien sur le service que sur le logiciel qui le fait tourner.
+
+== Politique de modération ==
+=== Règles ===
+Les règles de Framapiaf, telles qu’elles figurent sur [https://framapiaf.org/about/more sa page d’information détaillée], rappellent aux utilisateur·rice·s de respecter la loi, prohibent l’utilisation abusive des ressources mises à disposition du public par l’association et incitent à rester poli·e·s en toutes circonstances.
+
+== Galerie ==
+<gallery mode="slideshow">
+Image:Page d’accueil de Framapiaf.png|alt=La page d’accueil sur laquelle on peut voir une capture d’écran de l’interface de l’instance.|La page d’accueil de l’instance
+Image:Page d’information de Framapiaf.png|alt=La page d’information détaillée, au texte sombre sur un fond clair. On peut voir, dans un bandeau en haut de la page, le nombre d’utilisateur·rice·s de l’instance, le nombre de statuts publiés sur cette dernière, le nombre d’instances auxquelles elle est connectée ainsi que les informations de contact de l’association administratrice. En-dessous, on peut lire les règles de l’instance.|La page d’information détaillée de l’instance
+</gallery>
+
+== Références ==
+<references />
+
+[[Catégorie:Instances]]
+
+[[ja:Framapiaf.org]]

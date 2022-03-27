@@ -1,0 +1,41 @@
+{{Infobox person
+| Name     = めいめい
+<!-- | Image    = [[ファイル:Nullkal.jpg|120px|Nullkal]] -->
+<!-- | Color    = #319D32 -->
+| Country  = 日本
+| Instance = [[friends.nico]] ほか
+| Link     = https://mei23.github.io
+<!-- | Else     = [[mstdn.jp]]管理人 -->
+}}'''めいめい'''または'''MeiMei'''または'''mei23'''とは、プログラマー、インスタンス運営者、マストドンのヘビーユーザー。
+
+==ウェブアプリケーション==
+
+*[[mstpubapi]]
+*[[mstidconv]]
+
+==マストドンインスタンス==
+
+*https://mst.m544.net (2019年6月時点で、廃止されている。)
+
+==他の分散SNSのインスタンス==
+
+*https://misskey.m544.net ([[Misskey]])
+*[https://xn--6r8h.tk 💛.tk] ([[Misskey]])
+*https://meisskey.one<nowiki/>([[Misskey]])
+
+==マストドンのヘビーユーザーとして==
+[[friends.nico]]のアカウント<ref>mei23@friends.nico (リンク切れ)</ref>は、きわめて流速 (時間あたりのトゥート数) が速く、長期間に渡って上位を保持している。
+
+他のユーザーが出現または退出するとき挨拶を欠かさない。また、語尾が「なのだわ」であり、この口調を崩さないことでも知られている。
+
+語感が似ているため、'''ちんちん'''とともに言及されることも多い。実際にはおちんちんは付いていない<ref>[https://best-friends.chat/users/mei23/statuses/102371962774677534 おちんちんはないのだわ]</ref>ようである。
+
+==外部リンク==
+
+*[https://dic.nicovideo.jp/a/%E3%82%81%E3%81%84%E3%82%81%E3%81%84%28friends.nico%29 ニコニコ大百科のめいめいの記事]
+
+==脚注==
+<references />
+
+{{DEFAULTSORT:めいめい}}
+[[category:人物]]

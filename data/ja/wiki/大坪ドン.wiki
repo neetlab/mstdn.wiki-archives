@@ -1,0 +1,29 @@
+{{Infobox person
+| Name     = {{Ruby|大坪ドン|おおつぼドン}}
+| Instance = 多数
+}}'''大坪ドン'''または'''大坪商介'''とは、インスタンス運営者。
+
+==インスタンス==
+* [[映画ドン]]（2020年6月14日頃に[[DTP-Mstdn.jp]]管理者でもある[https://dtp-mstdn.jp/@noellabo のえる]氏がサーバ運営を引き継いだ模様<ref>https://eigadon.net/@noellabo/104337972975989698</ref>）
+* [[野球ドン]]（2020年6月14日頃に[[DTP-Mstdn.jp]]管理者でもある[https://dtp-mstdn.jp/@noellabo のえる]氏がサーバ運営を引き継いだ模様<ref>https://yakyudon.net/@noellabo/104337979230145692</ref>）
+* マンガドン (<nowiki>https://mangadon.info</nowiki> に置かれていたが、2020年11月22日時点でアクセスできなくなっている。)
+* ドラマ丼 (<nowiki>https://dramadon.net</nowiki> に置かれていたが、2018年11月16日時点でアクセスできなくなっている。)
+* [[クック丼]] (<nowiki>https://cookdon.com</nowiki> に置かれていたが、2020年11月22日時点でアクセスできなくなっている。)
+
+この他に25個のインスタンスを廃止した<ref>非公開のまま廃止したものも含む。</ref><ref>[http://mangaloid.jp/?p=2948 マストドンのサーバを21個立ち上げてみた。]</ref>。
+
+==エピソード==
+
+* Pawooのアカウント<ref>https://pawoo.net/@mangakantoku</ref>のフォロワーは8,460人を超えている。
+* 第1回マストドン流行語大賞の開催を発表した<ref>[http://mangaloid.jp/?p=2854 第1回マストドン流行語大賞開催のお知らせ]</ref>。
+* 「小規模マストドンをローコストで運用するコツ」と称して、大手インスタンスを[[ドメインブロック]]する<ref>[http://mangaloid.jp/?p=3144& 小規模マストドンをローコストで運用するコツ]</ref>ことを勧めている。
+* 大坪ドンが運用しているインスタンスは、各ジャンルにおいて、日本で最初に立ち上げられたものが多い。
+
+==関連項目==
+* [[Mastodonランキング]]
+
+==脚注==
+<references />
+
+[[category:人物]]
+{{DEFAULTSORT:おおつほとん}}

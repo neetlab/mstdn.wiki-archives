@@ -1,0 +1,166 @@
+{{Infobox software
+| Name                = マストドンユーザーマッチング
+| Image               = [[ファイル:Naraha.png|120px]]
+| Developer           = [[墓場人夜]]
+| Platform            = ウェブ
+| ProgrammingLanguage = C++, JavaScript
+| Launch              = 2017年11月15日
+| License             = [[GNU Affero General Public License]]
+| Web                 = <nowiki>https://distsn.org</nowiki>
+}}'''マストドンユーザーマッチング'''は、指定されたユーザーに似ているユーザーを検索するウェブアプリケーション。観測対象となるインスタンスは[[Peers API]]を再帰的に探索することで自動的に取得している。
+
+2020年1月25日、マストドンユーザーマッチングとユーザー検索のウェブUIを廃止。APIは当面は提供されるが、近日中の廃止が予定されている。新規ユーザーリストはAPIのURLを変更したうえで存続する見通しである。
+
+==名称について==
+当初は'''マストドンユーザーマッチング'''という名称のウェブサイトとして開設された。2018年9月21日ごろ、[[GNU social]]と[[Misskey]]が検索対象に加わったことと、日本語ロケールが廃止されたことから、ウェブサイトの名称は'''User Matching for GNU social, Mastodon, Pleroma, and Misskey'''となった<ref>2019年5月16日からは、Misskeyを除外したことにより、'''User Matching for GNU social, Mastodon, Pleroma, and microblog.pub'''となった。</ref>。2019年7月3日、ウェブUIは[[Recommendation Fairness Warrior]]に移行し、本項に記載された諸機能はAPIで提供されている。 2020年2月23日より[[Fediverse Observer]]に移行。ウェブフロントエンド、APIともにURLが変更になった。
+
+作者自身による通称は'''マッチング氏'''。また、機械可読なコードネームとして'''vinayaka'''が用いられている。
+
+==機能==
+
+===マストドンユーザーマッチング===
+指定されたユーザーに似ているユーザーを検索する。ページのタイトルは'''User Matching for GNU social, Mastodon, Pleroma, and Misskey'''となっている。[[表示名]]、[[プロフィール]]、[[トゥート]]から語彙 (固定長の部分文字列) を抽出し、語彙の類似性をもとにユーザーを推挙する。2017年11月15日に開設された。開設後も何度かアルゴリズムの改良が行われている。
+
+===ユーザー検索===
+ユーザーの[[ユーザー名]]、[[表示名]]、[[プロフィール]]を検索する。ページのタイトルは'''User Search for GNU social, Mastodon, Pleroma, and Misskey'''となっている。[[Mastory]]と[[ユーザー検索くん]]の消滅を受けて、代替サービスとして開発された。
+
+===新規ユーザーリスト===
+観測可能なインスタンスに属する新しいユーザーを表示する。ページのタイトルは'''Newcomers in GNU social, Mastodon, Pleroma, and Misskey'''となっている。ソースコードは本体から分離され https://gitlab.com/distsn/newcomers に置かれている。
+
+===2週間以内に投稿したユーザーのリスト===
+2週間以内に投稿したユーザーのリストはAPIのみが提供されており、UIは提供されていない。ソースコードは https://gitlab.com/distsn/active-users に置かれており、APIは https://vinayaka.distsn.org/cgi-bin/active-users-api.cgi で提供されている。
+
+==廃止された機能==
+
+===流速順ユーザーリスト===
+観測可能なすべてのユーザーを流速順に表示する。ページのタイトルは'''Active Users in GNU social, Mastodon, Pleroma, and Misskey'''となっている。[[分散SNSフォーラム]]の流速順ユーザーリストは、機能の重複のため削除された。2019年5月24日にUIが廃止され、APIのみ提供されている。2019年10月1日にAPIも含めて廃止され、かわりに、2週間以内に投稿したユーザーのリストが提供されるようになった。
+
+==仕様==
+
+===オプトアウト===
+オプトアウトは、ユーザーが[[プロフィール]]に特定の文字列を含めるか、または、[[ActivityPub]]のActorの[[discoverable]]フラグをfalseにすることで行われる<ref>https://distsn.org/optout.html</ref>。
+
+ユーザーがオプトアウトを行うと、マストドンユーザーマッチング・ユーザー検索・新規ユーザーリストに表示されなくなる。また、トゥートの収集が停止される。[[表示名]]、[[プロフィール]]、[[アイコン]] (画像そのものではなくURL) の収集は、オプトアウトしても停止されない。これは、プロフィールの収集がオプトアウトプロセス自体のために必要であるためである。オプトアウト以前に収集したトゥートは、オプトアウトしてもすぐには削除されないが、データの更新の際に自然消滅する。
+
+===ブラックリスト===
+ユーザーとインスタンスのブラックリストを運用している。ブラックリストの編集はGitLabのマージリクエスト<ref>https://gitlab.com/distsn/vinayaka-blacklist</ref>を通して行う。マージリクエストが反映されるには、運営者による承認が必要であり、承認された事例<ref>[https://github.com/distsn/vinayaka/pull/107 #107]</ref>も却下された事例<ref>[https://github.com/distsn/vinayaka/pull/110 #110]</ref>も存在する。
+
+ブラックリストの掲載の基準は、[[bot|ボット]]、スパム、ハラスメントである。ただし、正直にボットフラグを立てているボットはブラックリストの対象にならず、かわりにボットであることが表示される。
+
+2018年10月18日より、ブラックリストの掲載の基準に「脱中央集権のコンセプトの侵害<ref>https://github.com/distsn/vinayaka/commit/814be6e1fc527d368841dcc1ea551e429141f397</ref><ref>https://github.com/distsn/vinayaka/commit/39f3867286dbafa110ffb05488795e25860775c4</ref>」が追加され、単一または事実上一体の個人・法人・集団が多数のインスタンスおよびユーザーを保有することが規制されるようになった。これにより、[[合同会社きぼうソフト]]、[[マストポータル]]、[[大坪ドン]]の影響下にあるインスタンスがブラックリストに掲載された。
+
+ブラックリストの運用は作者の政治的見解が反映されており、右派のインスタンスおよびユーザーに対しては評価が厳しくなっている。特定のインスタンスを「全面的な外国人嫌悪のコンセプト<ref>https://github.com/distsn/vinayaka/commit/78436b9dc1c892091160fa9974cf5a4425158e7b</ref>」としてブラックリストに入れている。左派に対しては寛容である。
+
+===ジェンダーアファーマティブアクション===
+女性、トランスジェンダー、アジェンダーのいずれかであることを[[プロフィール]]で公表している場合、マストドンユーザーマッチングのスコアが1.5倍になる。この仕様が導入された動機は、機械的なユーザーレコメンデーションは女性が不利になる<ref>https://blog.acolyer.org/2018/05/24/algorithmic-glass-ceiling-in-social-networks-the-effects-of-recommendation-on-social-diversity/</ref><ref>https://github.com/tootsuite/mastodon/pull/7918#issuecomment-403104996</ref>傾向があるためである。
+
+===アンチセレブリティカットオフ===
+フォロワー数が500以上であるアカウントは、マストドンユーザーマッチングで推挙されない。アンチセレブリティカットオフが導入される以前のマストドンユーザーマッチングの[[レコメンデーション・フェアネス]]は「ニュートラル」であった。アンチセレブリティカットオフを導入することで、レコメンデーション・フェアネスの評価は「フェア」に前進する。
+
+===Misskey対応の制限===
+以下のような制限がある。
+
+* MisskeyユーザーにはMisskeyユーザーを推挙しない<ref>[https://github.com/distsn/vinayaka/issues/155 Misskey から Misskey を推挙しないようにする #155]</ref>。
+* Misskeyユーザーかつフォロワー数が100を超えたら推挙されない<ref>[https://gitlab.com/distsn/vinayaka-blacklist/commit/d4d6d927a7a03520b42e3dea38e2dcc741b3edde update anti-celebrity thresholds]</ref>。
+
+==スパムの送信==
+マストドンユーザーマッチングの宣伝のため、マストドンのメンションを利用したスパムが送信された。当初は[[Kibousoft Now]]の'''mastodon_user_matching'''アカウントがスパムを送信していたが、このアカウントが[[サスペンド]]された<ref>https://2.distsn.org/@hakabahitoyo/99271994840634010{{リンク切れ|date=2018年7月}}</ref>ため、[[2.distsn.org]]の同名のアカウント<ref>https://2.distsn.org/@mastodon_user_matching{{リンク切れ|date=2018年7月}}</ref>がスパムの送信を引き継いだ。スパムの送信は、海外のユーザーを中心に<ref>https://2.distsn.org/@hakabahitoyo/99274931723684111{{リンク切れ|date=2018年7月}}</ref>批判を集め、同インスタンスは一部インスタンスから[[ドメインブロック]]される事態となった<ref>https://blog.freeradical.zone/suspending-domain-2-distsn-org/</ref>。2018年1月1日にスパムの送信を終了した。
+
+==他の分散SNSとの関係==
+マストドンユーザーマッチングが検索対象としているインスタンスは[[GNU social]]、[[Mastodon|マストドン]]、[[Pleroma]]、[[Misskey]]など<ref>対応している実装の正確なリストは[[libsocialnet]]を参照。</ref>である。マストドンユーザーマッチングがPleromaに対応するだけでなく、マストドンユーザーマッチングの改良のためにPleromaに機能を追加する<ref>https://git.pleroma.social/pleroma/pleroma/merge_requests/54</ref><ref>https://git.pleroma.social/pleroma/pleroma/merge_requests/65</ref>こともある。
+
+[[Pleroma]]のおすすめユーザーパネルはマストドンユーザーマッチングのAPIを利用している。ただし、デフォルトでは無効にされている。
+
+[[Misskey]]のおすすめユーザーパネルは、デフォルトではインスタンス内部のユーザーを推挙するが、マストドンユーザーマッチングのAPIを使用するように切り替えることができる。ただし、Misskey 11では、おすすめユーザーパネルを外部のAPIに切り替える機能が削除されている。Misskey 10からフォークして[[めいめい]]がメンテナンスしている実装<ref>https://github.com/mei23/misskey</ref>では、おすすめユーザーパネルが廃止され、かわりに「みつける」の「おすすめユーザー」セクションがマストドンユーザーマッチングのAPIを利用している。
+
+==沿革==
+2017年11月15日、マストドンユーザーマッチングを開設。
+
+2017年12月17日、流速順ユーザーリストを開設。当初は英語UIのみ提供。
+
+2017年12月17日、[[Mastodon Instances]]に登録されている全世界のインスタンスのユーザーが検索対象になった。開設当初は日本語圏のインスタンスのみが対象であった。
+
+2017年12月18日、マストドンユーザーマッチングにユーザーの[[アイコン]]が表示されるようになった。
+
+2017年12月19日、マストドンユーザーマッチングと流速順ユーザーリストにおいて、ボット、スパム、ハラスメントの疑いのあるユーザーに警告が表示されるようになった。
+
+2017年12月23日から2018年1月1日にかけて、断続的にスパムを送信した。
+
+2017年12月30日、流速順ユーザーリストの日本語UIの提供を開始。流速順ユーザーリストにユーザーの[[アイコン]]が表示されるようになった。
+
+2018年1月30日<ref>https://github.com/distsn/vinayaka/issues/57</ref>、マストドンユーザーマッチングにおいて、検索の起点が[[Pleroma]]ユーザーである場合、表示されているユーザーがフォロー済みであるかどうかが検索結果に表示されるようになった。
+
+2018年3月26日<ref>https://github.com/distsn/vinayaka/issues/70</ref>、マストドンユーザーマッチングにおいて、検索の起点が[[Mastodon|マストドン]]ユーザーである場合、表示されているユーザーがフォロー済みであるかどうかが検索結果に表示されるようになった。
+
+2018年1月28日、[[Peers API]]で到達可能なすべてのインスタンスのユーザーが検索対象になった。
+
+2018年4月15日、新規ユーザーリストを開設。
+
+2018年4月21日、新規ユーザーリストのアルゴリズムを修正。実用的な水準に達した。
+
+2018年4月29日、ユーザー検索を開設。
+
+2018年5月9日<ref>https://git.pleroma.social/pleroma/pleroma-fe/merge_requests/254</ref>、[[Pleroma]]のWho to followパネルにマストドンユーザーマッチングのAPIが採用された。
+
+2018年5月20日、[[Halcyon]]のWho to followパネルにマストドンユーザーマッチングのAPIが採用された。
+
+2018年6月28日、オプトアウトプロセスの提供を開始。マストドンユーザーマッチング、ユーザー検索、新規ユーザーリスト、流速順ユーザーリストに適用される。
+
+2018年9月20日、[[GNU social]]と[[Misskey]]が検索対象に加わった。これまでは[[Mastodon|マストドン]]と[[Pleroma]]が検索対象であった。
+
+2018年10月18日、脱中央集権のコンセプトの侵害を理由に、複数のインスタンス ([[合同会社きぼうソフト]]、[[マストポータル]]、[[dasoran]]傘下のインスタンス) がブラックリストに掲載された。
+
+2018年12月4日<ref>https://github.com/distsn/vinayaka/issues/131</ref>、マストドンユーザーマッチングで、投稿数が4未満であるユーザーを検索の起点とした場合に、新規ユーザーのリストにフォールバックするようになった。投稿数が少なすぎるユーザーは使用する語彙の傾向が不明であるため。
+
+2018年12月14日、脱中央集権のコンセプトの侵害を理由に、[[大坪ドン]]傘下のインスタンスがブラックリストに掲載された。[[dasoran]]傘下のインスタンスは規制が解除された。
+
+2018年12月17日<ref>https://gitlab.com/distsn/libsocialnet/issues/8</ref>、[[microblog.pub]]に対応した。副産物として、[[write.as]]と[[Write Freely]]のうち、[[お一人様インスタンス]]に限り対応するようになった。
+
+2018年12月17日<ref>https://github.com/distsn/vinayaka/issues/130</ref>、ジェンダーアファーマティブアクションが導入された。
+
+2019年3月27日、フォロワー数が500以上のアカウントはマストドンユーザーマッチングで推挙されないようになった。
+
+2019年5月16日、[[Misskey]]の対応を廃止。
+
+2019年5月24日、流速順ユーザー一覧のUIを廃止。APIは引き続き提供される。
+
+2019年6月上旬、Misskeyの対応を再開。
+
+2019年6月17日、ウェブフロントエンドが https://distsn.org に移動した。APIは引き続きvinayaka.distsn.orgに置かれている。
+
+2019年7月3日、ウェブフロントエンドを[[Recommendation Fairness Warrior]]に改称。
+
+2019年10月1日、流速順ユーザーリストのAPIが廃止された。ユーザーの存在検知の方法として、かわりに、2週間以内に投稿したユーザーのリストを使用するようになった。
+
+2020年1月24日、マストドンユーザーマッチングの廃止を[[Pleroma]]<ref name="pleroma-mr-2141">[https://git.pleroma.social/pleroma/pleroma/merge_requests/2141 Remove user recommendation by third party engine (!2141)]</ref>と[[Halcyon]]<ref>[https://notabug.org/halcyon-suite/halcyon/issues/114 #114 Who to follow panel is dying soon.]</ref>に通知。
+
+2020年1月25日、マストドンユーザーマッチングとユーザー検索のウェブUIを廃止。APIは当面は提供されるが、近日中の廃止が予定されている。
+
+2020年1月25日、新規ユーザーリストのAPIを <nowiki>https://vinayaka.distsn.org/cgi-bin/newcomers-api.cgi</nowiki> から https://distsn.org/cgi-bin/newcomers-api.cgi に移動。マストドンユーザーマッチングが近日中に廃止される予定であるのに対して、新規ユーザーリストは存続する方針である。
+
+2020年1月27日、[[Pleroma]]からマストドンユーザーマッチングのAPIを利用するコードが削除された<ref name="pleroma-mr-2141" />。
+
+2020年1月27日、新規ユーザーリストのAPIを利用した[[bot|ボット]]である'''Newcomers in Fediverse<ref>{{account|instance=mastodon.social|user=newcomers|link=true}}</ref>'''が開設された。
+
+2020年2月23日、[[Fediverse Observer]]に移行。ウェブフロントエンド、APIともにURLが変更になった。マストドンユーザーマッチングの機能のうち、新規ユーザーリストのみが引き継がれた。
+
+2020年3月頃、閉鎖。
+
+==関連項目==
+* [[Recommendation Fairness Warrior]]
+* [[分散SNSフォーラム]]
+* [[ミステリーポスト]]
+* [[Mastodonおすすめユーザー検索]]
+* [[おすすめフォロワー]]
+* [[Halcyon]] - おすすめユーザーパネルにマストドンユーザーマッチングのAPIを使用している。
+* [[Pleroma]] - おすすめユーザーパネルにマストドンユーザーマッチングのAPIを使用することができた。2020年1月27日廃止。
+* [[Misskey]] - おすすめユーザーパネルにマストドンユーザーマッチングのAPIを使用することができた。2019年5月16日廃止。
+* [[libsocialnet]]
+
+==脚注==
+<references />
+
+[[category:ウェブサイト]]
+[[category:ユーザーレコメンデーション]]
+[[category:GNU_Affero_General_Public_License]]
+{{DEFAULTSORT:ますととんゆうさあまつちんく}}

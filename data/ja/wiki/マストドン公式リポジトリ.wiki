@@ -1,0 +1,23 @@
+'''マストドン公式リポジトリ'''は、[[Mastodon|マストドン]]と関連ソフトウェアのソースコードが置かれているリポジトリ。マストドン本体は[[GitHub]]の'''TootSuite'''オーガニゼーションに、関連ソフトウェアは'''source.joinmastodon.org'''に置かれている。マストドンと関連ソフトウェアの開発者たちは、これらのリポジトリで、ソースコードの集約と配布、議論の集約を行っている。なお、'''リポジトリ'''と'''レポジトリ'''は表記揺れであり、意味は同じである。
+
+==TootSuite==
+'''TootSuite'''は、[[GitHub]]のオーガニゼーションの一つ。[[Mastodon|マストドン]]本体のリポジトリが置かれている。かつては[[joinmastodon.org]]や[[Mastodon Bridge]]などのリポジトリも置かれていたが、これらはsource.joinmastodon.orgに移動した。
+
+==source.joinmastodon.org==
+https://source.joinmastodon.org/mastodon には、[[joinmastodon.org]]など、マストドン公式とみなされる関連ソフトウェアのリポジトリが置かれている。具体的には以下のリポジトリがある。
+
+* [[joinmastodon.org]]
+* [[Mastodon Bridge]]
+* [[pub-relay]]
+* [[マストドン公式ブログ]]
+
+==関連項目==
+* [[本家]]
+
+==外部リンク==
+* [https://github.com/tootsuite/mastodon マストドン公式リポジトリ]
+* [https://github.com/tootsuite TootSuite]
+* https://source.joinmastodon.org/mastodon
+
+[[category:マストドン公式ウェブサイト]]
+{{DEFAULTSORT:こうしきりほしとり}}

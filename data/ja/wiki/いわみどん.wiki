@@ -1,0 +1,28 @@
+{{Infobox instance
+| Name          = いわみどん
+| Domain        = https://local.iwamidon.tech/
+| Admin         = [[SH|S.H.]]
+| Country       = 日本
+| Start         = 2017年10月21日
+| End = 2018年3月31日
+}}
+'''いわみどん'''は、オープンソースのソーシャルネットワークMastodonの[[インスタンス]]。
+
+島根県石見地方に特化したインスタンスとして運営されている。
+
+== 概要 ==
+島根県西部の石見地方に特化したインスタンスとしてHerokuとGoogle Cloud Storage にて立てられた。
+
+基本的には、石見地方で開催されるイベント情報の共有などを目的としている。
+
+2017年12月17日にドメインを'''iwami-mastodon.herokuapp.com'''から'''local.iwamidon.tech'''へと変更している。
+
+2018年3月17日<ref>https://local.iwamidon.tech/@S_H_/99696967044857227</ref>に同月末をもっての閉鎖がアナウンスされ、2018年4月現在消滅状態である。
+
+== 関連項目 ==
+* [[都道府県のインスタンス一覧]]
+
+==脚注==
+<references />
+
+{{DEFAULTSORT:いわみ}}

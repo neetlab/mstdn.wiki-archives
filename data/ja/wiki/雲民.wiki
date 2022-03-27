@@ -1,0 +1,15 @@
+{{infobox word
+|Name = <ruby>雲民<rt>くもみん</rt></ruby>
+|Hinshi = 名詞
+|Hatsu =[[Mastodon.cloud]]
+}}<ruby>雲民<rt>くもみん</rt></ruby>とは、Mastodon.cloudにおける日本人ユーザーを指す言葉である。
+== 概要 ==
+元々フランス向け[[インスタンス]]だった[[Mastodon.cloud]]に定住している日本人ユーザーのことをCloud(日:雲)からとって呼び始めたのがきっかけ。
+
+== 関連項目 ==
+*[[Mastodon.cloud]]
+*[[クラウド女学院]]
+*[[ぱおらー]]
+
+{{DEFAULTSORT:くもみん}}
+[[category:象語]]

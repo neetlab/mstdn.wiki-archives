@@ -1,0 +1,33 @@
+{{Infobox instance
+| Name          = [[{{BASEPAGENAME}}]]
+| Image = [[ファイル:マストドン@埼玉連邦.png|300px]]
+| Domain        = https://saitama-stdn.com/
+| Admin         = [https://saitama-stdn.com/@kaitani kaitani]
+| Country       = 日本
+| Start         = 2017年5月8日
+| Kifu          = なし
+| Alias         = なし
+}}'''マストドン@埼玉連邦'''とは、埼玉県のご当地インスタンス。
+
+== 概要 ==
+埼玉県に係わりのあるユーザーに向け開設された個人インスタンスである。
+
+==障害==
+2017年12月21日時点ではアクセスできなくなっている。
+
+== ルール ==
+2017年8月時点では以下５つのルールが設けられている。
+
+<blockquote>
+*法律及び、公序良俗に反する行為はしないこと
+*他者の権利や尊厳を侵害するような行為はしないこと
+*ルールを守って楽しみましょう
+</blockquote>
+== 出典 ==
+<references/>
+
+== 関連項目 ==
+* [[都道府県のインスタンス一覧]]
+
+{{DEFAULTSORT:さいたま}}
+[[category:消滅したインスタンス]]

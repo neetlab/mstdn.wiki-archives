@@ -1,0 +1,21 @@
+{{Infobox instance
+| Name          = キタ丼！
+| Domain        = https://kitadon.com/
+| Admin         = [https://kitadon.com/@kitaon_info キタオン]
+| Country       = 日本
+| Start         = 不明
+| Kifu          = なし
+| Alias         = なし
+}}キタ丼は、キタオンの運営する北海道のご当地インスタンス。
+
+== 概要 ==
+北海道の情報を発信しているキタオンが立てたインスタンス。
+
+2017年8月30日より[[セキュリティ証明書]]が期限切れとなっている。
+
+== 関連項目 ==
+* [[都道府県のインスタンス一覧]]
+* [[mstdn.hokkaido.jp]]
+
+{{DEFAULTSORT:きたとん}}
+[[Category:消滅したインスタンス]]

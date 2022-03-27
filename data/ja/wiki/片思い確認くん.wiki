@@ -1,0 +1,17 @@
+{{Infobox software
+| Name = {{Ruby|片思い確認くん|かたおもいかくにんくん}}
+<!--| Image = -->
+| Developer = WebAppUtil [https://webapputil.com/]
+| Platform = ウェブ
+| Launch = 2017年5月23日
+| Web = https://webapputil.com/md_oneway_ja/
+}}[https://webapputil.com/md_oneway_ja/ 片思い確認くん] は、片思い (フォローしているがフォローされていない)、片思われ (フォローしていないがフォローされている)、両思い (相互フォロー) の状態にあるマストドンのユーザーを検索するウェブアプリケーション。検索の起点となるユーザーのインスタンスは[[friends.nico]]、[[mstdn.jp]]、[[Pawoo]]の3インスタンスに限られるが、検索結果には他のインスタンスのユーザーも含まれる。検索結果にはフォロー／フォロワー比が表示される。
+
+2018年5月頃からアクセスできなくなっている。
+
+==関連項目==
+* [[ユーザー検索くん]]
+
+[[category:ウェブサイト]]
+[[Category:運用が放棄されたウェブサイト]]
+{{DEFAULTSORT:かたおもいかくにんくん}}

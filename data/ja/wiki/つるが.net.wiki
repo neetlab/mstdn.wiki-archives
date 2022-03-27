@@ -1,0 +1,20 @@
+{{Infobox instance
+| Name          = つるが.net 
+| Domain        = https://tsuruga.net/
+| Admin         = [https://tsuruga.net/@eigadaisuke 山下大裕]
+| Country       = 日本
+| Start         = 2017年4月27日
+| Kifu          = なし
+| Alias         = なし
+}}'''つるが.net'''は、オープンソースのソーシャルネットワークMastodonの[[インスタンス]]。
+
+== 概要 ==
+福井県敦賀市を盛り上げるべく、福井県敦賀市出身の映画監督である山下大裕氏が立ち上げたインスタンスである。
+
+話題は福井県敦賀市に関するものが主。
+
+== 関連項目 ==
+* [[都道府県のインスタンス一覧]]
+
+{{DEFAULTSORT:つるが}}
+[[category:日本のインスタンス]]

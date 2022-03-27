@@ -1,0 +1,73 @@
+本項では、[[2017年]]4月に日本で発生した[[Mastodon|マストドン]]ブームについて扱う。
+
+==ブーム以前の動向==
+[[mastodon.social]]の最古のトゥートは2016年5月16日<ref>https://mastodon.social/@Gargron/1</ref>であり、遅くともその時期には現在につながるマストドンの実装が存在した。しかし、その存在が知られるようになったのはかなり先のことであり、2016年11月に英語圏のメディアが記事にした<ref>[https://www.dailydot.com/debug/mastodon-open-source-social-media/ Mastodon is an open source, decentralized version of Twitter]</ref>ときも反応は薄かった<ref>[http://www.itmedia.co.jp/news/articles/1706/04/news028.html 2016年11月、マストドンを最初に伝えた海外メディア]</ref>。
+
+マストドンと同じく[[OStatus]]を用いる分散SNSである[[GNU social]]については、2016年11月に川奈清 (kivantium) が紹介した<ref>[http://kivantium.hateblo.jp/entry/2016/11/10/154347 PythonからGNU Socialを使う]</ref>ことから、日本語圏で知られるようになった。2017年1月には[[利用者:Hakabahitoyo|墓場人夜]]と[[LGBTPZN]]支持者らが[[GNU social|FreezePeach]]を使い始めた。
+
+2017年4月には、まず海外でマストドンの利用者が急増。インスタンスの設立も相次いだ。2017年4月4日の記事<ref>[https://mashable.com/2017/04/04/mastodon-twitter-social-network Bye, Twitter. All the cool kids are migrating to Mastodon.]</ref>が、海外におけるマストドンブームのきっかけになった<ref>[http://www.itmedia.co.jp/news/articles/1705/31/news151.html マストドンについて読んでおくべき4本の英文記事と見ておくべき1本の動画]</ref>と見られている。この時期に、日本では[[mastodon.nil.nu]]、[[mstdn.maud.io]]、[[mastodon.juggler.jp]]などが設立された。
+
+==ブーム到来==
+日本におけるマストドンブームの象徴とも言えるのが、2017年4月10日の遠藤諭の記事<ref>[http://ascii.jp/elem/000/001/465/1465842/ Twitterのライバル？ 実は、新しい「マストドン」（Mastodon）とは！]</ref>である。この記事をきっかけにマストドンを知った者も多く、その影響力から[[遠藤砲]]というスラングも生まれた。遠藤諭の記事は、英語圏におけるマストドンの大流行を受けて書かれたものである。
+
+急激なブームを受けて、[[mastodon.social]]がユーザー登録を停止したため、この時期にマストドンを知った日本語圏のユーザーは[[mastodon.cloud]]に流入した者が多い。[[mastodon.cloud]]では日本語圏のユーザーが独特な文化を作り上げ、その痕跡はこのマストドン日本語ウィキにも色濃く残されている。
+
+[[Nullkal|ぬるかる]]がマストドンに着目したのも、遠藤諭の記事がきっかけである<ref>[http://www.itmedia.co.jp/news/articles/1704/24/news045.html 世界最大の「mstdn.jp」を立ち上げた大学院生“ぬるかるさん”は一体何者か その素顔とドワンゴ入社が決まるまでの10日間に迫る]</ref>。ユーザー数の増加に伴い、[[mstdn.jp]]は4月15日にサーバーの移転とデータベースのリセットを行った。[[mstdn.jp]]はユーザー数、トゥート数ともに世界最大のインスタンスになった。
+
+4月14日に[[Pawoo]]が、4月19日に[[friends.nico]]がオープンすると、いずれも活況を呈し、[[mstdn.jp]]とあわせて「三大インスタンス」と呼ばれる状況が生まれた。
+
+==ブーム最盛期の現象==
+インスタンスの開設直後には、ローカルタイムラインの流速が、[[mstdn.jp]]で11,000トゥート／日、[[Pawoo]]で8,000トゥート／日を超える<ref>[https://hakaba-hitoyo.github.io/distsn/speed-mater-2/#15 流速計が暴いたマストドンブーム《裏の顔》]</ref>など、活況を呈した。人間が目視できないほどの流速を誇るタイムラインは'''流しそうめん'''と称された。
+
+この時期に[[膣]]や[[脱糞]]などの[[インターネットミーム]]が生まれ、多くのユーザーが熱狂した。
+
+==関連するプロダクト==
+マストドンのブームに乗って誕生したサードパーティーのウェブサイトのうち、特に登場が早かったものは、以下のものが挙げられる。
+
+* 2017年4月12日、[[Mastodonランキング]]開設。
+* 2017年4月15日、[[マストドン検索ポータル]]開設。
+* 2017年4月18日、[[日本のマストドンインスタンスの一覧 (ウェブサイト)|日本のマストドンインスタンスの一覧]]開設。
+
+この時期に設立された、マストドンに関連するニュースサイトには、以下のものがある。
+
+* 2017年4月15日、[[マストドンつまみ食い日記]]連載開始。
+* 2017年4月26日、[[マイニュー]]開設。
+
+この時期に発売された関連書籍は、以下のものがある。
+
+* 2017年5月3日、「[[これがマストドンだ！ 使い方からインスタンスの作り方まで]]」電子版発売。
+
+マストドンのブームに乗って開催されたイベントには、以下のものがある。
+
+* 2017年4月28日、マストドン会議<ref>https://lab-kadokawa24.peatix.com/</ref>開催。
+* 2017年5月17日、マストドン会議2<ref>https://lab-kadokawa25.peatix.com/</ref>開催。
+* 2017年6月7日から9日、Interop Tokyoにてマストドンブリーフィング<ref>https://www.interop.jp/2017/mastodon/</ref>開催。
+* 2017年6月10日、マストドン会議3<ref>https://lab-kadokawa26.peatix.com/</ref>開催。
+* 2017年6月12日、マストドン会議4<ref>https://osaka-mastodon.peatix.com/</ref>開催。
+
+==ブームの終息==
+[[ローカルタイムライン]]の流速で見る限り、2017年6月中旬にはブームが終息<ref>[https://hakaba-hitoyo.github.io/distsn/speed-mater-2 流速計が暴いたマストドンブーム《裏の顔》]</ref>し、その後は安定期が続いているとみられる。
+
+==ブーム終息後の動向==
+2017年6月中旬にマストドンブームが終息したとの解釈に立つならば、以下の活動はいずれもブーム終息後の出来事である。
+
+* 2017年6月26日、書籍「マストドン 次世代ソーシャルメディアのすべて」発売。
+* 2017年7月1日、第1回[[分散SNSフォーラム]]開催。
+* 2017年7月10日、「マストドン 次世代ソーシャルメディアのすべて」出版記念セミナー<ref>http://gs.dhw.ac.jp/event/170710/</ref>開催。
+* 2017年7月12日、書籍[[マストドンつまみ食い日記]]発売。
+* 2017年8月19日、Mastodon Developers Kaigi #0<ref>https://mastodonkaigi.connpass.com/event/61651/</ref>開催。
+* 2017年9月15日、書籍[[自宅・ノートPCインスタンス構築ガイド～マストドンを持って街へ出よう！～]]発売。
+
+==ブーム再燃==
+2017年8月28日、[[Twitter]]における絵師の凍結問題をきっかけにマストドンの利用者が急増<ref>[http://www.itmedia.co.jp/news/articles/1708/26/news036.html マストドンが急に注目を浴びている理由]</ref><ref>[http://www.itmedia.co.jp/news/articles/1708/28/news054.html なぜ、「絵師のTwitterアカウント」が突然凍結？ Twitterに聞いた]</ref><ref>[http://www.itmedia.co.jp/news/articles/1708/28/news085.html Pawooがマストドン最初の20万ユーザー達成 Twitterの絵師アカウント凍結騒ぎが後押し]</ref><ref>[http://www.itmedia.co.jp/news/articles/1708/29/news108.html “脱出”を先導した漫画家に聞く「Twitterアカ凍結の問題点」 Pawooの21万人ユーザー突破に寄せて]</ref>。一時的にではあるが、2017年4月のブームの再来を思わせる活況を呈した<ref>https://hakaba-hitoyo.github.io/distsn/speed-mater-2/#17</ref>。
+
+2018年8月15日、[[Twitter]]においてユーザーストリームAPIが廃止されるのに伴い、ストリーミングAPIを搭載している[[Mastodon]]の、特に[[mstdn.jp]]や[[Pawoo]]をはじめとする日本語圏インスタンスにおいて新規ユーザー・アクティブユーザーがともに大量増加し、流速が2017年4月のブーム時にみられた速度にまで活性化した<ref>{{toot|pawoo.net|pawoo_info|100554867623629476}}</ref>。
+
+==関連項目==
+* [[ブラジルにおけるマストドンブーム]]
+
+==脚注==
+<references />
+
+[[category:マストドンブーム]]
+{{DEFAULTSORT:にほんにおけるますととんふーむ}}

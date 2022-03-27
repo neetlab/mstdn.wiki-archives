@@ -1,0 +1,19 @@
+{{Infobox word
+|Name = {{Ruby|納得|なっとく}}
+|Hinshi = 名詞
+|Hatsu = [[friends.nico]]
+}}'''納得'''とは、主にfriends.nicoで使われるスラング。
+
+== 概要 ==
+高級な料理を賞賛する、もしくは料理に満足した心理状態の際に、[[飯テロ]]画像（美味しそうな料理や食べ物の写真）とともにトゥートされるスラング。
+
+friends.nicoのあるユーザーが料理やビールの写真とともに「なるほど」などとトゥートしたのが由来である<ref>https://friends.nico/@rosylilly/14640368</ref>。
+
+== 関連項目 ==
+* [[friends.nico]]
+
+== 出典 ==
+<references />
+
+[[category: 象語]]
+{{DEFAULTSORT:なつとく}}

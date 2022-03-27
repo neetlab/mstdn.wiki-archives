@@ -1,0 +1,216 @@
+==Hashtags par jours==
+'''<nowiki>#</nowiki>LundiLitterature'''
+
+''Partages et recommandations de lectures''
+
+
+'''<nowiki>#</nowiki>MardiArt'''
+
+''Partages d'oeuvres d'art''
+
+
+'''<nowiki>#</nowiki>MercrediMusique'''
+
+''Partages de musiques (peu utilisé, plutôt remplacé par #PouetRadio''
+
+
+'''<nowiki>#</nowiki>MercrediFiction'''
+
+''Fictions écrites en 500 caractères maximum (ou pas), le mercredi (mais parfois pas), reprises sur le site https://mercredifiction.bortzmeyer.org/''
+
+
+'''<nowiki>#</nowiki>JeudiDocumentaire'''
+
+''Recommandations de documentaires''
+
+
+'''<nowiki>#</nowiki>JeudiJeuVideo'''
+
+''Recommandations de Jeux Vidéos et de musiques de jeux''
+
+
+'''<nowiki>#</nowiki>JeudiCitation'''
+
+''Partages de citations''
+
+
+'''<nowiki>#</nowiki>JeudiPoésie'''
+
+''Partages de poésies (que l'on écrit soi-même)''
+
+
+'''<nowiki>#</nowiki>JeudiNanard'''
+
+''Partages de... nanards (peu utilisé)''
+
+
+'''<nowiki>#</nowiki>VendrediVideo'''
+
+''Recommandations de films, courts-métrages, clips,...''
+
+
+'''<nowiki>#</nowiki>VendrediLecture'''
+
+''Notes de lecture sur les ouvrages qu'on a appréciés (ou pas)''
+
+
+'''<nowiki>#</nowiki>ArcheoFriday'''
+
+''Tous les vendredis, un peu de pierres anciennes''
+
+
+'''<nowiki>#</nowiki>FollowFriday'''
+
+''Liste de quelques comptes qu'il est suggéré de suivre''
+
+
+'''<nowiki>#</nowiki>SamediScience'''
+
+''Partages d'articles et d'infos scientifiques''
+
+
+'''<nowiki>#</nowiki>DimanchePartage'''
+
+''Partage de ce qu'on veut...''
+
+
+'''<nowiki>#</nowiki>PenséeDuJour'''
+
+''Citation d'auteur ou bon mot...''
+
+'''<nowiki>#</nowiki>ProverbeALaConDeKiki'''
+
+''Citation détournée, bon mot...mais réservé à Kiki''
+==Vie sociale==
+
+'''<nowiki>#</nowiki>JeChercheUnJob''' / '''<nowiki>#</nowiki>JeRecrute'''
+
+''Petites annonces de recherche d'emploi''
+
+
+'''<nowiki>#</nowiki>JeChercheUnToit'''
+
+''Petites annonces de recherche immobilière''
+
+'''<nowiki>#</nowiki>Mastolove'''
+
+''Petites annonces sentimentales''
+
+'''<nowiki>#</nowiki>MastoApero'''
+
+''Parce que la vraie vie, c'est aussi se voir en vrai''
+
+==Arts et loisirs==
+
+'''<nowiki>#</nowiki>Cuisine'''
+
+''Hashtag dédié à la cuisine''
+
+
+'''<nowiki>#</nowiki>Généalogie'''
+
+''Pour les férus de Généalogie''
+
+
+'''<nowiki>#</nowiki>Lecture'''
+
+''Hashtag dédié à la lecture''
+
+
+'''<nowiki>#</nowiki>MastoArt / #MastoArts'''
+
+''Partages d'oeuvres d'art, plutôt par des anglophones''
+
+
+'''<nowiki>#</nowiki>TootFic / #TootFiction'''
+
+''Equivalent de #MercrediFiction mais sans jour attitré, participation francophone et anglophone''
+
+
+'''<nowiki>#</nowiki>WeeklyPhotoChallenge'''
+ 		 	
+''Proposition de challenge photographique : https://pad.lqdn.fr/p/photo-challenge. Les thèmes sont annoncés sur le compte https://mamot.fr/@WeeklyPhotoChallenge''
+
+==Musique==
+
+'''<nowiki>#</nowiki>MusiqueClassique'''
+
+''Hashtag dédié à la musique Classique''
+
+
+'''<nowiki>#</nowiki>PouetFM'''
+
+''Daubes et chansons dont on a honte mais qu'on a envie de partager quand même ;)''
+
+
+'''<nowiki>#</nowiki>PouetRadio'''
+
+''Musiques partagées (plutôt par les francophones) et reprises sur le site https://pouet.audio''
+
+
+'''<nowiki>#</nowiki>Soundcheck (anciennement <nowiki>#</nowiki>TeamVieux)'''
+
+''Musiques, hashtag dédié exactement et exclusivement aux genres suivants :''
+
+*Hard
+*rock
+*Gothique
+*Punk
+*Cold Wave
+
+''Tous les vendredis soirs à 21h00 (mais parfois aussi d'autres jours)''
+
+
+'''<nowiki>#</nowiki>TootRadio'''
+
+''Musiques partagées (plutôt par les anglophones)''
+
+
+'''<nowiki>#</nowiki>Trance <nowiki>#</nowiki>Techno'''
+
+''Tous les samedis soirs à 21h00 (mais parfois aussi d'autres jours)''
+
+'''#Mixdujour'''
+
+''DJ sets, lives sets et autres, plutôt orientés musique électronique au sens large''
+==Droit==
+
+
+'''<nowiki>#</nowiki>Droit'''
+
+''Hashtag générique dédié au Droit''
+
+
+'''<nowiki>#</nowiki>DroitPénal'''
+
+''Hashtag dédié au Droit Pénal''
+
+
+'''<nowiki>#</nowiki>DroitEnvironnement'''
+
+''Hashtag dédié au Droit de l'environnement''
+
+
+'''<nowiki>#</nowiki>DroitUrbanisme'''
+
+''Hashtag dédié au Droit de l'urbanisme''
+
+
+'''<nowiki>#</nowiki>LibertésPubliques'''
+
+''Hashtag dédié aux Libertés Publiques ''
+
+
+'''<nowiki>#</nowiki>CEDH'''
+
+''Hashtag dédié à la jurisprudence de la Cour Européenne des Droits de l'Homme''
+
+
+'''<nowiki>#</nowiki>CJUE'''
+
+''Hashtag dédié à la jurisprudence de la Cour de Justice de l'Union Européenne''
+
+
+'''<nowiki>#</nowiki>BigBrother'''
+
+''Hashtag dédié à la problématique de la surveillance de masse sur Internet''

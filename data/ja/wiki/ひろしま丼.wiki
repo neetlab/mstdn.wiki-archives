@@ -1,0 +1,29 @@
+'''ひろしま丼'''とは、オープンソースのソーシャルネットワークMastodonで立ち上げられた、広島県のご当地インスタンスである。<br><br>
+==概要==
+広島県に関わりのあるユーザーを対象としたサーバー。<br>
+
+管理人かき氏は、かつて存在した'''[[ひろしますとどん]]'''の管理人である。<ref>https://hiroshimastdn.club/@oyster/104630263659524520</ref><br>
+<br>
+地元テレビ局のYahoo!ニュースや広島県、広島市のRSSをIFTTTで取得して自動投稿するBotが存在する。<br>
+<br>
+2020年10月現在のユーザー数は、Botを含めて17人であるが、そのうちアクティブユーザーは5人である。<br>
+<br>
+2021年2月1日をもって、かつて'''[[ひろしますとどん]]''' で運用してたドメイン上に移転された<ref>https://hiroshimastodon.red/@oyster/105596307208298626</ref>が、4月に閉鎖状態となった。
+
+{{Infobox instance
+| Name          = {{Ruby|'''ひろしま丼'''|}}
+| Image         = [[ファイル:File.png|330px|Mastodon]]
+| Domain        = <s>hiroshimastdn.club</s><br>https://hiroshimastodon.red
+| Admin         = [https://hiroshimastodon.red/@oyster かき]
+| Country       = 日本
+| Start         = 2019年6月1日(hiroshimastdn.club)
+| Kifu          = 
+| Alias         = 
+}}
+==関連項目==
+
+*[[都道府県のインスタンス一覧]]
+
+==出典==
+<references />
+[[カテゴリ:消滅したインスタンス]]

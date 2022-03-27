@@ -1,0 +1,20 @@
+{{Infobox instance
+| Name          = 映像丼
+| Domain        = https://eizodon.jp/
+| Admin         = [https://eizodon.jp/@as_chisei 前田地生]<br />[https://eizodon.jp/@smlifcatic かてぃっく]
+| Country       = 日本
+| Start         = 2017年4月23日
+| Kifu          = なし
+| Alias         = 映像丼
+}}'''映像丼'''は、オープンソースのソーシャルネットワークMastodonの[[インスタンス]]。
+
+== 概要 ==
+アニメーション・実写・3DCGなど、ジャンル問わず「映像」に関するユーザーに向け、2017年4月23日に立ち上げられたインスタンス。
+
+株式会社Chisey代表で映像イベント「[http://frenz.jp/ FRENZ]」の主催などで知られる[https://eizodon.jp/@as_chisei 前田地生]氏と、[https://eizodon.jp/@smlifcatic かてぃっく]氏の共同で運営されている。
+
+== 関連項目 ==
+* [[ichiji.social]]
+
+{{デフォルトソートキー:eizodonjp}}
+[[category:日本のインスタンス]]

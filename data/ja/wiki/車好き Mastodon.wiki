@@ -1,0 +1,18 @@
+{{Infobox instance
+| Name          = 車好き Mastodon
+| Domain        = https://car-mastodon.link/
+| Admin         = [https://car-mastodon.link/@John_Smith John Smith]
+| Country       = 日本
+| Start         = 2017年4月20日
+| Kifu          = なし
+| Alias         = なし
+}}'''車好き マストドン'''は、オープンソースのソーシャルネットワークMastodonの[[インスタンス]]。
+
+== 概要 ==
+車が好きなユーザーなどに向け立てられたインスタンス。
+
+2020年3月現在インスタンスが表示されない状態となっている。
+
+{{DEFAULTSORT:carmastodonlink}}
+[[category:日本のインスタンス]]
+[[category:消滅したインスタンス]]

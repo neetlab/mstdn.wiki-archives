@@ -1,0 +1,15 @@
+'''玉子丼'''とは、[[ActivityPub]]の[[分散SNS]]、[[Mastodon]]の[[インスタンス]]の一つである。
+
+{{Infobox instance
+| Name          = {{Ruby|'''玉子丼'''|たまごどん}}
+| Image         = [[ファイル:Tamagodon.png|120px|tamagodon]]
+| Domain        = https://mstdn.tamag.org
+| Admin         =  [https://mstdn.tamag.org/@nieein56 nie]
+| Moderator     =  [https://mstdn.tamag.org/@qrayspray qrayspray] , [https://mstdn.tamag.org/@mar_A_war tokine]
+| Country       = 日本
+| Start         = 2019年1月3日
+| Kifu          = https://www.patreon.com/TamagoGadget
+}}
+
+==概要==
+TamagodonはTamago Gadgetが運営するコミュニティ重視型Mastodonサーバである。2020年9月現在ユーザー数は113人となっている。

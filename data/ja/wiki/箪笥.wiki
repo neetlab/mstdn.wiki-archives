@@ -1,0 +1,12 @@
+{{Infobox word
+| Name          = <ruby>箪笥<rt>タンス</rt></ruby>
+| Hinshi        = 名詞
+}}
+<ruby>箪笥<rt>タンス</rt></ruby>とは、Mastodonにおいて[[インスタンス]]の略称として用いられているスラングである。
+
+== 関連項目 ==
+* [[インスタンス]]
+* [[サーバー]]
+
+{{DEFAULTSORT:たんす}}
+[[Category:象語]]

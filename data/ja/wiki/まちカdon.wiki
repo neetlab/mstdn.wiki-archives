@@ -1,0 +1,37 @@
+'''まちカdon'''とは、[[ActivityPub]]の[[分散SNS]]、[[Mastodon]]のサーバーの一つである。
+
+{{Infobox instance
+| Name          = まちカdon
+| Image         = [[ファイル:E1e900303784932f.png|400px|まちカdon]]
+| Domain        = https://machikadon.online
+| Admin         = [https://machikadon.online/@Minemu483K みねむ]
+| Country       = 日本
+| Start         = 2020年8月7日
+|Kifu=https://www.patreon.com/machikadon}}
+
+==概要==
+可愛いものが好きなユーザーが集まるサーバーとして、[https://machikadon.online/@Minemu483K みねむ]氏が開設した。[[Masto.Host]]でホスティングされている。
+
+サーバー名は『まんがタイムきららキャラット』（芳文社）で連載中の4コマ漫画『まちカドまぞく』にちなんでいる。同作品は2019年夏にテレビアニメ化された。
+
+カスタムCSSにより、UIに以下の変更が加えられている。
+
+*[[InstanceTicker]] Type-0の導入
+*各種ボタンや検索窓のデザイン変更
+*ダークテーマをまちカドまぞくのキャラクターにちなんだ配色に変更
+
+また、200以上のさまざまなカスタム絵文字を利用することができる。
+
+2020年11月29日現在、サーバーの負荷軽減のため、新規登録を承認制にしている。
+
+==文化==
+話題に制限はなく、自由にトゥートすることができる。アクティブユーザーの多い時間帯は[[ローカルタイムライン]]での会話が活発に行われる。
+
+サーバーにはまちカドまぞくファンのユーザーが多く、まちカドまぞくに関連したトゥートも多くなっている。
+
+==外部リンク==
+
+*[http://www.dokidokivisual.com/magazine/carat/ まんがタイムきらら - まんがタイムきららキャラット]
+*[https://www.tbs.co.jp/anime/machikado/ TVアニメ「まちカドまぞく」公式ホームページ｜TBSテレビ]
+*[https://twitter.com/machikado_staff TVアニメ『まちカドまぞく』公式] (@machikado_staff) - [[Twitter]]
+*[https://discord.gg/qWwtB4E まちカdon 避難所用Discordサーバー]

@@ -1,0 +1,15 @@
+'''タミル語圏におけるマストドンブーム'''とは、[[2019年]]11月9日頃から、タミル語圏においてマストドンのユーザーが急増した現象。
+
+==経緯==
+
+[[2018年]]7月5日<ref>[http://www.kaniyam.com/introduction-to-fediverse-mastodon Universe தெரியும். Fediverse தெரியுமா?]</ref>、Prasanna Venkadeshがタミル語でマストドンを紹介する記事を書いた。この記事が[[2019年]]11月8日<ref>https://lgbtqia.is/@bumpahead/103101542648688772</ref>に紹介され、9日<ref>https://mstdn.social/@isanthakumar/103104152922198874</ref>には'''#TamilMastodon'''[[ハッシュタグ]]が流行した。また、Prasanna Venkadeshの記事に記載があることから、[[mastodon.social]]と[[Tusky]]のユーザーが急増した。
+
+[[表示名]]に''':verified:'''カスタム絵文字を入れている人も多い<ref>https://mstdn.social/@isanthakumar/103107343374247423</ref>。
+
+なお、Prasanna Venkadeshは[[Pleroma]]のインスタンス<ref>https://connect.fshm.in</ref>を運営している。
+
+==脚注==
+<references />
+
+{{DEFAULTSORT:たみるこけんにおけるますととんふうむ}}
+[[category:マストドンブーム]]

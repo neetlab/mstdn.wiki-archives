@@ -1,0 +1,18 @@
+{{Infobox instance
+| Name          = クック丼
+| Domain        = https://cookdon.com/
+| Admin         = [[大坪ドン]]
+| Country       = 日本
+| Start         = 2017年4月26日
+| Kifu          = なし
+| Alias         = なし
+}}クック丼は、オープンソースのソーシャルネットワークMastodonの[[インスタンス]]。
+
+== 概要 ==
+料理のレシピや、食後の感想などを共有する日本初のマストドンとして立ち上げられたインスタンス。
+
+== 関連項目 ==
+* [[foodon]]
+
+{{DEFAULTSORT:cookdon}}
+[[category:日本のインスタンス]]

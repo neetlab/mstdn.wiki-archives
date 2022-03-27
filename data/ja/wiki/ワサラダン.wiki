@@ -1,0 +1,29 @@
+{{Infobox instance
+| Name = ワサラダン
+| Image = [[file:wasara_fluffy.png|120px|ヒーローイメージ]]
+| Domain = https://wasaradan.m.to
+| Admin = [https://wasaradan.m.to/@inbosk 犬吠埼一介 @inbosk@wasaradan.m.to]
+<!--| Moderator = -->
+| Country = 日本国
+| Start = 2018年6月20日<ref>https://wasaradan.m.to/@inbosk/100236348438504811</ref>
+<!--| End = -->
+<!--| Kifu = -->
+| Alias = ワサラダン
+}}
+'''ワサラダン'''（'''wasaradan.m.to'''）とは、[[オープンソース]]の[[分散SNS]]、[[Mastodon]]の[[インスタンス]]。
+
+== 概要 ==
+「わさらー団」の公式インスタンスとして、2018年6月20日、[https://wasaradan.m.to/@inbosk 犬吠埼一介]氏によって[[ムトー★マストドンホスティング]]を利用して立ち上げられた。
+
+わさらー団とは、Twitter上において[https://wasaradan.m.to/@wasara わさらー]氏を中心に多数のユーザーで構成されている集団のこと。
+
+2018年6月、わさらー氏がTwitterアカウントを凍結されたのを機に、わさらー団のメンバーの「避難所」としてワサラダンが立ち上げられる事となった。
+
+== 脚注 ==
+<references />
+
+== 関連項目 ==
+* [[Twitter]]
+* [[ムトー★マストドンホスティング]]
+
+[[Category:日本のインスタンス]]

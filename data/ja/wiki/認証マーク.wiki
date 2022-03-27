@@ -1,0 +1,24 @@
+{{Infobox word
+| Name          = ✅
+| Hinshi        = なし
+}}'''認証マーク'''とは、[[Twitter]]などにおいて[[アカウント]]名の横につけられる「✅」という記号の通称である。公式マーク、認証バッジとも。UnicodeにおいてU+2705にあり、名称は「WHITE HEAVY CHECK MARK」となっている。
+
+== 概要 ==
+認証マークは本来[[Twitter]]において、その[[Twitter]][[アカウント]]が本人のものであることを証明することを目的として設けられた制度である<ref>[https://blog.twitter.com/official/ja_jp/a/ja/2016/0720verified.html 「Twitterのアカウントがその本人のものであることを証明することを目的に考えられました。」]</ref>。しかし、[[マストドン]]にその制度は設けられていないため、類似した絵文字である✅(white check mark)を名前の横に挿入することでそれらしく見せるための単なる装飾として使われている。
+
+[[ファイル:認証マーク.png|300px|Mastodon内のWhite check markの絵文字の例|thumbnail]]
+
+Mastodonのドキュメントの日本語訳では以下のように解説されている。<ref>https://github.com/tootsuite/documentation/blob/master/Using-Mastodon/FAQ_JA.md</ref>
+<blockquote>
+'''認証マーク"✅"はどのようにして付けられますか？'''<br />
+"✅"はただの絵文字です。マストドンにはアカウントの認証制度はありません。"✅"をコピーしてプロフィールにペーストすれば希望通りになるでしょう。
+</blockquote>
+
+マストドンでは「✅」が丸型であったためTwitterの認証マークと混合されることが多かったが、バージョン2.0.0から絵文字のライブラリが[[EmojiOne]]から[[Twemoji]]に変更され<ref>https://github.com/tootsuite/mastodon/releases</ref>、✅は四角型のデザインになったため、現在では多少なりとも混合は少なくなっている。
+
+Twitter風クライアントである[[Halcyon]]では、「✅」がTwitterの認証バッジと同様の絵文字で表示される。
+== 出典 ==
+<references/>
+
+[[category:象語]]
+{{DEFAULTSORT:にんしょうまあく}}

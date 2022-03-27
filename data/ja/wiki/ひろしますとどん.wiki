@@ -1,0 +1,26 @@
+{{Infobox instance
+| Name          = ひろしますとどん
+| Image         = [[ファイル:ひろしますとどん.png|300px|ひろしますとどん]]
+| Domain        = <s><nowiki>https://hiroshimastodon.red</nowiki></s>
+| Admin         = [https://hiroshimastodon.red/@Nokto_ のくと@ひろしま鯖缶]
+| Country       = 日本国
+| Start         = 2017年7月23日
+| End = 2017年12月18日
+| Kifu          = なし
+| Alias         = なし
+}}ひろしますとどんはオープンソースのソーシャルネットワークMastodonで立ち上げられた、日本の地域密着型[[インスタンス]]である。
+
+== 概要 ==
+2017年7月23日、のくと氏により広島県に縁があったり興味があるユーザーに向け立てられた地域密着型インスタンス。
+<blockquote>
+ひろしまに縁がなくても登録できるよ！　雑談おーけーおーけーだよ！！
+</blockquote>
+
+2017年12月18日、登録人数が伸びなかったことを理由に終了した。
+
+== 関連項目 ==
+* [[都道府県のインスタンス一覧]]
+* [[ふたば丼]]
+* [[syuwa.fun]]
+
+{{DEFAULTSORT:ひろしますととん}}

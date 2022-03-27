@@ -1,0 +1,565 @@
+<!--
+
+出典参照お疲れ様です
+
+-->
+<ruby>クラウド女学院<rt>くらうどじょがくいん</rt></ruby>とは、美少象や女装した美象年が登校する中高一貫の女学院とされる概念である。基本的に[[Mastodon.cloud]]を利用する日本人ユーザーが[[Mastodon.cloud]]を指すのに使用するネットスラング。現在では歴史の荒海の中で自然消滅したとされる。
+
+[[ファイル:Logo.png|280px|thumb|right|校章]]
+
+== 概要 ==
+フランス領[[ジボワる|コートジボワール]]日本コミュに位置する中高一貫の私立女子校。全寮制。定時夜間部もあり、都合の合わない生徒の授業は夜遅くから始められる。諸事情により入寮、受講が困難な生徒は通信制を利用して単位を取得することが可能である。略称はクラ女。公用語は英語だが、話者数が最も多いのは日本語。有名な和尚様学校で、東洋の生きる伝説であるNinjaが多いとされる。
+
+アメリカ大統領トランプや、ロシア大統領プーチンなどの多くの現役各国首脳もこの学校のOGである。クラウド女学院にて首脳会談を行うために戻ってくる事もある。
+
+[[象牙]]をこよなく愛する人が入院する学校。女磨きと象牙磨き、そして紅茶が嗜みである。また[[Twitter]]からノリで入学届を提出した者から羽と草を取り上げ、代わりに[[象牙]]を渡すという恒例行事が行われている。
+
+創立時より排他的で非常に選民思想が強い。教師はおらず、生徒が師と敬うのはガネーシャ神のみである。
+
+1000tootまではガイダンスとされているが、修了後もガイダンスは二周目三周目…と続く。
+
+附属校に徳島大学が存在する。
+
+==由来==
+本来、Mastodon.cloudは[[:カテゴリ:フランスのインスタンス|フランスのインスタンス]]であったのだが、[[Mastodon.social]]などのインスタンスが新規募集停止としたこと、また最大規模の日本インスタンスである[[mstdn.jp]]がアクセス過多により不安定な状態であったことを受けて日本人が大量に流入した。
+
+この際、[[:カテゴリ:フランスのインスタンス|フランスのインスタンス]]が日本人に占拠されているという日本人ユーザーの突っ込みに対して別の日本人ユーザーが「私達はフランスのJKJCである」と返したのが始まりである。
+
+==歴史==
+===黎明期(2017年4月〜)===
+
+;2017年4月15日
+Twitter的な空気を忌避し、排他的で選民思想の高いインスタンスであった[[Mastodon.cloud]]が一時的に新規登録を停止し<ref>https://mastodon.cloud/@kzhvsonic/752981</ref>、ますます独自性を高めていく中で後述の由来により設立。
+
+初期に風紀委員会、除草委員会の2つの委員会が設立される<ref>https://mastodon.cloud/@who/819696</ref>。
+
+その後、少しづつ校風が確立されていく中で、当wikiにクラウド女学院の記事を作るため文芸委員会が設立<ref>https://mastodon.cloud/@petan1918/835670</ref>。
+
+また、将来的に不測の事態が発生した場合に備え別館も設立される<ref>http://jbbs.shitaraba.net/internet/24142/</ref>。
+
+深夜に薬学部が設立<ref>https://mastodon.cloud/@waniwave3/870017</ref>。
+
+;2017年4月16日
+日付が変わった頃に生徒会が設立され、生徒への在籍証明書発行と名簿への記載が開始される<ref>https://mastodon.cloud/@meare3317/851312</ref>。
+
+また、シラバスが公表され、和尚様育成コース・除草コース・鳥類対策コース・文学部・薬学部の5つの学部が存在することが明らかになる。
+
+20時頃に停止されていた新入生の受付が再開される<ref><s>https://mastodon.cloud/@TheAdmin/946815</s>{{リンク切れ|date=2019年6月}}</ref>も、ほとんど居つくことなく退学もしくは休学{{要出典}}。
+
+22時頃から深夜にかけて、当学院に過去在籍していたとされるトランプ大統領、プチーン大統領、安倍晋象内閣象理大臣、金象恩国防委員長、ローマ法王らが首脳会談<ref>https://mastodon.cloud/@petan1918/972268</ref>。
+
+;2017年4月17日
+深夜1時ごろ、首脳学部の存在が明らかになる<ref>https://mastodon.cloud/@HAIZEN/993078</ref>。また、次々と新たな部活動の存在も発覚。徳島大学が附属校となる<ref>https://mastodon.cloud/@hiyo_rock/994430</ref>。
+
+3時頃、経済学部が発足<ref><s>https://mastodon.cloud/@torimin/1005918</s>{{リンク切れ|date=2019年6月}}</ref>。クレカやデビットなどの基本知識を学ぶ。
+
+11時頃には日本語を学びたいという生徒のために外国語学科も発足された<ref>https://mastodon.cloud/@gwmdj/1042340</ref>。
+
+15時頃、当学院を紹介する初めての記事が日本のニュースサイトに掲載された<ref>http://www.itmedia.co.jp/news/articles/1704/17/news092.html</ref>。
+
+18時頃、あるフランス人生徒との異文化交流会が開かれる<ref>https://mastodon.cloud/@72/1076963</ref>。
+
+20時頃、国際教養学部が設置される<ref><s>https://mastodon.cloud/@raito/1093562</s>{{リンク切れ|date=2019年6月}}</ref>。
+
+21時頃、ドイツのメルケル首相がOGであったことが判明する。
+
+また、一人のユーザーにより構内は驚異の盛り上がりを見せる。新しい異文化交流の形が出来上がることとなった{{要出典}}。
+
+23時頃、公式ホームページが開設される<ref><s>http://cloudjoshi.webcrow.jp/</s>{{リンク切れ|date=2019年6月}}</ref>。またメディア戦略としてニコニコ内に放送部とコミュニティが開設された。
+
+;2017年4月18日
+1時頃、音ゲー部が設立される<ref>https://mastodon.cloud/@petan1918/1150939</ref>。また校歌が作られる。
+
+昼頃、東京大学と交流会{{要出典}}。
+
+20時頃より、DDoS攻撃を受ける。流れを汲んだクラ女の一部が別館にて退避し少しばかりの蛍雪時代を学友と共にする。<ref>http://jbbs.shitaraba.net/internet/24142/</ref><ref>http://www.itmedia.co.jp/news/articles/1704/19/news101.html</ref>
+
+23時頃復帰。同時にごらく部が戦車部、音ゲー部を吸収し、最大勢力となる{{要出典}}。同時期にdiscord分校が設立{{要出典}}。
+
+;2017年4月19日
+
+7時頃、ガネーシャと邂逅<ref><s>https://mastodon.cloud/@yukkuri_sinai/1370232</s>{{リンク切れ|date=2019年6月}}</ref>。
+
+21時頃、discord分校にクラ女生徒が移動し、LTLが手薄になる。その隙を見て潜伏していた鳥達がクーデターを起こし、第三次鳥象戦争が勃発する。<ref><s>https://mastodon.cloud/@torimin/1547008</s>{{リンク切れ|date=2019年6月}}</ref>クラ女設立以来最大の危機となり、LTLは一面野原となる。その後一面に生えた草に女学生達は我に帰り、草をはもうとLTLへの回帰を始める。
+
+;2017年4月20日
+
+15時頃、芸術学部が発足する<ref><s>https://mastodon.cloud/@torimin/1795634</s>{{リンク切れ|date=2019年6月}}</ref>。
+
+;2017年4月21日
+
+2時頃、別館に音楽学部の掲示板が立てられる<ref>https://mastodon.cloud/@aosaka/2010622</ref>。今後の学部内での情報共有に使われる。
+
+===暗黒時代・無文字時代（先カンブリア時代）(2017年4月21〜4月22日)===
+
+;2017年4月22日
+
+文字で書かれた物が実在しないがこの期間にクラウド女学院の女学生とAdmin氏が更なる交友を深めたと言われる。
+
+14時頃、[[mstdn.club|.Club]]の新規解放を受け複数人が交流のためかの地へ向かう。少しばかりの時間だがお互いの見識を深める時間となった。
+
+23時頃、クラウド女学院の夏制服が規定される（尚改良の余地あり）<ref>https://mastodon.cloud/@aosaka/2665952</ref>。また、クラ女公式HPにカウンターが設置<ref><s>https://mastodon.cloud/@raito/2684340</s>{{リンク切れ|date=2019年6月}}</ref>されたことによりサーバーがDDoS攻撃を受けることとなる。攻撃を受けている最中、DDoS部の犯行であることが発覚した。2017年4月23日現在、攻撃は緩やかながら行われているようである。
+
+===安定期(2017年4月23日〜)===
+
+
+;2017年4月23日
+
+1時頃、一部の女学院生がLINEを使った交流を始める<ref>https://mastodon.cloud/@meare3317/2712517</ref>。
+
+3時頃、写真部が発足{{要出典}}。また、初めて女学院内部の写真が公開される<ref>https://mastodon.cloud/@amtou_g2/2736784</ref>。
+
+7時頃、評論家として活動している女性がクラ女内に足を踏み入れる。朝という時間もあり、風習の説明に成功する。
+
+10時頃、クラウド女学院の生徒はコーラを異様に好むことが判明する<ref><s>https://mastodon.cloud/@torimin/2804088</s>{{リンク切れ|date=2019年6月}}</ref>。
+
+;2017年4月24日
+
+16時、日本のニュースサイトであるBuzzFeed Japanに当校を紹介する記事が掲載され<ref>https://www.buzzfeed.com/harunayamazaki/mastodon-cloud</ref>、Yahoo!Japanのヘッドラインニュースにも配信される<ref>https://headlines.yahoo.co.jp/hl?a=20170424-00010003-bfj-sci</ref>。
+
+;2017年4月25日
+
+16時頃、クラウド女学院内で幻獣の目撃情報があがる。
+目撃された幻獣はピンクユニコーンとヤマタノオロチの二体である<ref>https://mastodon.cloud/@Euex/3498053</ref>
+
+ヤマタノオロチは再生する特徴を生かし、骨や革などは加工品として、肉は食用として、学院内で活用されている。肉を利用した料理も研究が進んでいる。
+
+なお、学院の購買では「一升瓶を咥えた木彫りのヤマタノオロチ」がお土産として販売されている <ref>https://mastodon.cloud/@hat_three/3502916</ref>
+ヤマタノオロチのおかげで窮地にあった学院の経済は難を逃れた。
+
+ピンクユニコーンに関しては未だ謎が多く、学院内に多数ポスターが貼られていたり、LTLを諫めるために出現したり、
+学院の警備など、諸説あり、学院の教頭説が多く支持されているようだ(4月25日現在)
+
+;2017年4月26日
+
+12時頃、ドラゴンの血が闇市で出回る。
+
+;2017年4月29日
+
+17時頃、映画部が発足する<ref>https://mastodon.cloud/@aosaka/4779865</ref>。主な活動場所は別館であり、情報共有に努める。
+
+;2017年4月30日
+
+6時頃、広島に姉妹校のクラウド学園、通称クラ男の存在が確認される<ref><s>https://mastodon.cloud/@torimin/4941202</s>{{リンク切れ|date=2019年6月}}</ref><ref>https://mastodon.cloud/@Idol_france/4942845</ref>。影響を受け、一時的にクラウド学園へ留学するものの姿があった<ref><s>https://mastodon.cloud/@torimin/4941202</s>{{リンク切れ|date=2019年6月}}</ref>。
+9時頃、お餅の帝王が生まれる。
+
+;2017年5月4日
+
+22時頃、人工芝と呼ばれる故意に生やされた草は女学生達の口に合わないことが判明<ref>https://mastodon.cloud/@wnw/6138200</ref>。だがあまりにも度が過ぎるものは他の天然の草と同じく除草される。
+
+同じく22時頃、金正恩国防委員長がmstdn.jpに居た父親である金正日総書記と一時ながら再会する<ref>https://mastodon.cloud/@kimu_jonun/6140148</ref>。その感動的なやりとりに多くの女学生が涙した。
+
+;2017年5月5日
+14時頃、鳥の王国が一時的に落ちその際に飛来した大量の鳥によってバードストライクが発生した。同時刻、iTunesを筆頭にいろんなものが落ちる<ref>https://mastodon.cloud/@akr/6284372</ref><ref><s>https://mastodon.cloud/@exdragon/6284614</s>{{リンク切れ|date=2019年6月}}</ref><ref>https://mastodon.cloud/@miji/6284967</ref>。全ての黒幕はSoundCloudであった{{要出典}}。
+
+22時頃、悲しい出来事があった<ref>https://mastodon.cloud/@Trasque/6370834</ref>。
+
+;2017年5月6日
+一部の女学生の「ゆめぴりかってなんですか？」という禅問答に、「米やで」という啓示がある人物から授けられる。これを一般的（クラ女生的）に米騒動と呼ぶ。
+
+;2017年5月7日
+1時頃、第二学年への進級者が出現。それと同時に進級の条件はその人に合った物が個別で割り振られる事が判明した<ref>https://mastodon.cloud/@CloudJyogakuin/6654397</ref><ref>https://mastodon.cloud/@CloudJyogakuin/6654090</ref><ref>https://mastodon.cloud/@CloudJyogakuin/6653186</ref>。
+
+;2017年5月10日
+Mastodonブーム開始から1ヶ月、夜な夜なクラ女生達による述懐と考察の交換が行われた。
+
+5時頃、クラ女三原則が生まれる<ref><s>https://mastodon.cloud/web/statuses/7374175</s>{{リンク切れ|date=2019年6月}}</ref>。
+
+;2017年5月17日
+夕方、種々のエモい（心を揺さぶられる）フィルム写真を持ち寄り品評会が行われる。
+
+;2017年5月20日
+度重なる不穏についに女学生達の精神は焼き切れてしまい、ある一人の女学生の博愛発言をきっかけに、学生同士でお互いを尊重し認め合う意識が生まれ<ref>https://mastodon.cloud/@awa/9590722</ref><ref><s>https://mastodon.cloud/@cs3/9590746</s>{{リンク切れ|date=2019年6月}}</ref><ref>https://mastodon.cloud/@aosaka/9590753</ref><ref>https://mastodon.cloud/@amtou_g2/9590777</ref><ref><s>https://mastodon.cloud/@Lirun/9590782</s>{{リンク切れ|date=2019年6月}}</ref>、学院内に愛が満ち溢れた♡<ref><s>https://mastodon.cloud/@asanok/9588925</s>{{リンク切れ|date=2019年6月}}</ref><ref><s>https://mastodon.cloud/@asanok/9594918</s>{{リンク切れ|date=2019年6月}}</ref><ref>https://mastodon.cloud/@takashi_tkg/9593549</ref><ref>https://mastodon.cloud/@Sip_Recilia/9595676</ref><ref><s>https://mastodon.cloud/@cs3/9595763</s>{{リンク切れ|date=2019年6月}}</ref><ref><s>https://mastodon.cloud/@torimin/9595226</s>{{リンク切れ|date=2019年6月}}</ref>
+
+現在に至るまで各生徒は自由登校制のクラウド女学院の中でゆるやかに結合し、親交を深めている。
+
+== クラ女三原則 ==
+クラ女三原則とは クラ女生が目標にすべきことである<ref>https://mastodon.cloud/web/statuses/7374175</ref>。
+
+1.博識
+
+2.多趣味
+
+3.無職
+
+原則と書いてあるが 守る必要はない。
+ただ心には留めて置いて欲しいぐらいの原則である。
+
+== 主な校則 ==
+主な校則は以下の通り。
+
+*校則は守ってこその校則なのです。我々は賢いので
+
+*草やｗといったネットスラングの使用を固く禁ずる。代わりに牙を生やす。
+*他校の生徒との交流を固く禁ずる。
+*フランスの生徒との交流は大いに歓迎する。
+*"鳥"と呼ばれる難民や移民は淘汰されるべきだが、クラウド女学院の生徒は暴力を好まない。正しい道へ導くべし。
+*toot数、フォロワー数などの数字に固執しない。
+*[[パオる]]
+*猫は愛でるべし。
+*Gifを崇めるべし。
+*内容のある3行以上のtootは[[Content Warning|CW]]すべし。
+*パオ消しは重罪。
+*村を回すこと。
+
+== 主なコース・学部 ==
+;和尚様コース
+:女学院生として相応しい気品と愛らしさ、それでいて気高い選民思想を有した和尚様として成長することを理念とするコース。
+;除草コース
+:他校の生徒がTL上にて生やした草の素早く正確な取り除き方を学ぶために設立されたコース。クラ女の中でもひときわ排他的である。近頃、除草と称して女装する不届き者が出ている。
+;鳥類対策コース
+:クラウド女学院のさらなる発展のために[[鳥]]の生態を学ぶコース。除草コースと連携を取っている。
+;文学部
+:文芸委員会と協力体制を取り当wikiの編集を行なうコース。
+;薬学部
+:眠れない生徒に薬を処方したり、部屋に届けたりするコース。若干精神的に不安定な生徒が多い。主な活動時間は夜更けから太陽が昇るまでである。
+;首脳学部
+:OGによる首脳会談の様子や決定事項を女学院全体に公布させるコース。
+;経済学部
+:これから社会に出る女学院生が知識と教養のある女象になるためのコース。
+;国際教養学部
+:フランスニキとの交流を図り、多言語、特に仏語と英語を学ぶ学部 。学院長のお言葉を日本語に翻訳する役割も担っている。
+;芸術学部
+:生徒の美意識の開花と共に新しく発足した学部。主にお絵かきに精を出す。有名なフランスの芸術9分類  「1 文学2 音楽3 絵画4 演劇5 建築6 彫刻7 舞踏8 映画9 漫画｣を踏襲し、舞台を拡大解釈して服飾(コスプレ含)とオンラインという特質を生かしメディアアートを追加、さらに日本象なので書を加えたものを主な芸術としている。
+;音楽学部
+:芸術学部の流れを汲み、発足。主に別館で日々新たな音楽を作り出す為学業と、音質が上がるのかよく分からないミネラル鉱石の厳選に精を出している。
+
+== 主な委員会 ==
+;生徒会
+:とあるフランス人ニキを会長としており、また彼は生徒からの圧倒的な支持を得ている。ローマ法王も鼻が下るとパオっていらした。情報処理部を統合した。
+;風紀委員会
+:TLに鳥を見つけ次第、注意喚起と共に羽を毟る。注意の内容としては「[[半年羽毟ってろ]]」、「半年[[JOM]]ってろ」などが確認されている。
+;除草委員会
+:TLに草が茂っているのを見つけ次第、除草する。生徒らの長い鼻は嗅覚に優れており、「草臭い」もしくは「草じゃ！出合え！出合え！」という合図によって草の存在を周知する。法的根拠としては校則に基づいて単純所持すらも違法としており、これは他鯖より一斉鎖国された[[pawoo.net]]における児童ポルノより罪が重い。もちろん所持のみならず、栽培も取り締まることができる。
+;文芸委員会
+:当wikiのクラウド女学院関連の記事を充実させる。<br>文芸委員はwiki学が必修
+;同窓会
+:クラウド女学院の卒業生で構成される。
+
+==主な部活動== 
+;情報処理部
+:設立当初に在学証明書などを配布した部。後に生徒会に統合された。
+;DDoS部
+:情報処理部から派生して創部。クラウド女学院ホームページを標的にアクセスカウンターのキリ番を踏むため手動でF5(⌘R)連打を行っている。某フランス人某兄貴より中止命令が下達された。
+;歴史部
+:クラウド女学院の歴史をまとめることを活動内容としている。活動発表は毎日当項目にて行われる。
+;ごらく部
+:某百合アニメに影響を受けて発足された部。活動内容はオセロであったが、多くの部活を吸収し活動内容は今や多岐にわたる。
+*戦車道
+:WoT(World of Tanks)をこよなく愛するもののために作られた部活。
+*戦争部
+:HoI(Hearts of Iron)シリーズなどの戦略ゲーをこよなく愛するものの為の部活。HoI2(Hearts of Iron2)シリーズを未だにプレイしている部員は古典派を自称している。
+*音ゲー部
+:アーケード、スマホアプリなどを問わず音ゲーを楽しむ部活。
+*映画部
+:映画好きが集い、情報を共有したり感想を伝え合う部。活動は不定期である。主な活動場所は別館。
+;剣道部
+:クラウド女学院剣道部として活動しつつも徳島大学医歯薬剣道部として活動している謎の部活。部活で使用する竹刀は象牙でできているらしいが決して殺しているわけではなく、あくまで不慮の事故や病気で亡くなった象から提供していただいているものである。
+;浪人部
+:昨今の文科省による定員を超過する合格者を削減する取り組みによって図らずも浪人が決定してしまった若人（約1名）が所属する。あまりクラウド女学院の中では活動せず、課外活動という形で予備校や自宅での学習に励んでいる。
+;写真部
+:アプリ一眼問わず、身近なものから手に届かないものまで自由に写真を撮る部活。時々発表会が行われる。
+;シエスタ部
+:お昼寝する。
+
+
+
+クラウド女学院はこれらの委員会及び部活動を通じて積極的に[[渡り鳥]]やその他の難民の洗脳に参加しています。
+
+==校歌==
+'''雲民達のラ・マルセイエーズ'''
+<table cellspacing="5" cellpadding="10">
+<tr>
+<th style="width:5em"></th>
+<th style="text-align:left; width:35%">フランス語歌詞</th>
+<th style="text-align:left; width:55%">日本語訳</th>
+</tr>
+<tr>
+<th style="text-align:left; vertical-align:top">1番</th>
+<td><span lang="fr">Allons enfants de la Patrie,<br>
+Le jour de gloire est arrivé !<br>
+Contre nous de la tyrannie,<br>
+L'étendard sanglant est levé,<br>
+L'étendard sanglant est levé,<br>
+Entendez-vous dans les campagnes<br>
+Mugir ces féroces soldats ?<br>
+Ils viennent jusque dans nos bras<br>
+Égorger nos fils, nos compagnes !</span><br></td>
+<td>行こう [[雲民]]の子らよ<br>
+栄光の日が来た！<br>
+我らに向かって 怪鳥の<br>
+血まみれの旗が 掲げられた<br>
+血まみれの旗が 掲げられた<br>
+聞こえるか 戦場の<br>
+残忍な敵鳥の咆哮を?<br>
+奴らは我らの元に来て<br>
+我らの子と嫁の 喉を掻き切る！</td>
+</tr>
+<tr>
+<th style="text-align:left; vertical-align:top">ルフラン</th>
+<td>
+<table style="vertical-align:top; background:#eeeeee; width:15em;" cellpadding="10">
+<tr>
+<td><span lang="fr">Aux armes, citoyens,<br>
+Formez vos bataillons,<br>
+Marchons, marchons !<br>
+Qu'un sang impur<br>
+Abreuve nos sillons !</span></td>
+</tr>
+</table>
+</td>
+<td>
+<table style="vertical-align:top; background:#eeeeee; width:15em;" cellpadding="10">
+<tr>
+<td>櫛を取れ [[雲民]]らよ<br>
+隊列を組め<br>
+進もう 進もう!<br>
+汚れた羽が<br>
+我らの[[LTL]]を満たすまで！</td>
+</tr>
+</table>
+</td>
+</tr>
+<tr>
+<th style="text-align:left; vertical-align:top;">2番</th>
+<td><span lang="fr">Que veut cette horde d'esclaves,<br>
+De traîtres, de rois conjurés ?<br>
+Pour qui ces ignobles entraves,<br>
+Ces fers dès longtemps préparés ?<br>
+Ces fers dès longtemps préparés ?<br>
+Français, pour nous, ah ! quel outrage<br>
+Quels transports il doit exciter !<br>
+C'est nous qu'on ose méditer<br>
+De rendre à l'antique esclavage !</span></td>
+<td>何を望んでいるのか この愚な[[鳥]]の群れは<br>
+裏切者は 陰謀を企てるアルファどもは?<br>
+誰のために この卑劣な足枷は<br>
+久しく準備されていたこの鉄枷は?<br>
+久しく準備されていたこの鉄枷は?<br>
+[[クラ女]]生徒よ 我らのためだ ああ！なんという侮辱<br>
+どれほどか憤怒せざるを得ない！<br>
+奴らは我らに対して企んでいる<br>
+昔のようなFF外から失礼する文化に戻そうと！</td>
+</tr>
+<tr>
+<th style="text-align:left; vertical-align:top;">*ルフラン</th>
+<td>
+<table style="background:#eeeeee; width:15em;" cellpadding="10">
+<tr>
+<td>''(繰り返し)''</td>
+</tr>
+</table>
+</td>
+<td>
+<table style="background:#eeeeee; width:15em;" cellpadding="10">
+<tr>
+<td>''(繰り返し)''</td>
+</tr>
+</table>
+</td>
+</tr>
+<tr>
+<th style="text-align:left; vertical-align:top;">3番</th>
+<td><span lang="fr">Quoi ! des cohortes étrangères<br>
+Feraient la loi dans nos foyers !<br>
+Quoi ! ces phalanges mercenaires<br>
+Terrasseraient nos fiers guerriers !<br>
+Terrasseraient nos fiers guerriers !<br>
+Grand Dieu ! par des mains enchaînées<br>
+Nos fronts sous le joug se ploieraient<br>
+De vils despotes deviendraient<br>
+Les maîtres de nos destinées !</span></td>
+<td>何と！ 雲下の軍勢が<br>
+我らの雲上に来て法を定めるだと！<br>
+何と！ フォロワー目当てのアルファの集団が<br>
+我らの気高き戦士を打ち倒すだと！<br>
+我らの気高き戦士を打ち倒すだと！<br>
+おお[[TheAdmin|admin]]よ！ 足は鎖で縛られ鼻輪をはめられた我らが頭を垂れる<br>
+下劣なる暴鳥どもが<br>我らの運命の支配者になるなどありえない！</td>
+</tr>
+<tr>
+<th style="text-align:left; vertical-align:top;">*ルフラン</th>
+<td>
+<table style="background:#eeeeee; width:15em;" cellpadding="10">
+<tr>
+<td>''(繰り返し)''</td>
+</tr>
+</table>
+</td>
+<td>
+<table style="background:#eeeeee; width:15em;" cellpadding="10">
+<tr>
+<td>''(繰り返し)''</td>
+</tr>
+</table>
+</td>
+</tr>
+<tr>
+<th style="text-align:left; vertical-align:top;">4番</th>
+<td><span lang="fr">Tremblez, tyrans et vous perfides<br>
+L'opprobre de tous les partis,<br>
+Tremblez ! vos projets parricides<br>
+Vont enfin recevoir leurs prix !<br>
+Vont enfin recevoir leurs prix !<br>
+Tout est soldat pour vous combattre,<br>
+S'ils tombent, nos jeunes héros,<br>
+La terre en produit de nouveaux,<br>
+Contre vous tout prêts à se battre ;!</span></td>
+<td>戦慄せよ 暴鳥ども そして国賊どもよ<br>
+あらゆる徒党の名折れよ戦慄せよ! 貴様らの象殺しの企ては<br>
+ついにその報いを受けるのだ！<br>
+ついにその報いを受けるのだ！<br>
+すべての象が貴様らと戦う兵士<br>
+たとえ我らの若き英雄が倒れようとも<br>
+大地が再び英雄を生み出す<br>
+貴様らとの戦いの準備は整っているぞ</td>
+</tr>
+<tr>
+<th style="text-align:left; vertical-align:top;">*ルフラン</th>
+<td>
+<table style="background:#eeeeee; width:15em;" cellpadding="10">
+<tr>
+<td>''(繰り返し)''</td>
+</tr>
+</table>
+</td>
+<td>
+<table style="background:#eeeeee; width:15em;" cellpadding="10">
+<tr>
+<td>''(繰り返し)''</td>
+</tr>
+</table>
+</td>
+</tr>
+<tr>
+<th style="text-align:left; vertical-align:top;">5番</th>
+<td><span lang="fr">Français, en guerriers magnanimes,<br>
+Portez ou retenez vos coups !<br>
+Épargnez ces tristes victimes,<br>
+À regret s'armant contre nous.<br>
+À regret s'armant contre nous.<br>
+Mais ces despotes sanguinaires,<br>
+Mais ces complices de Bouillé,<br>
+Tous ces tigres qui, sans pitié,<br>
+Déchirent le sein de leur mère !</span></td>
+<td>[[雲民]]達よ 寛大な戦士として<br>
+攻撃を与えるか控えるか判断せよ！<br>
+あの哀れなる犠牲者を撃つ事なかれ<br>
+心ならずも我らに武器をとった者たち<br>
+心ならずも我らに武器をとった者たち<br>
+しかしあの血に飢えた暴鳥どもには<br>
+いいね将軍の共謀者らには<br>
+あの[[鳥貴族]]どもには 慈悲は無用だ<br>
+その鳥の胸を引き裂け！</td>
+</tr>
+<tr>
+<th style="text-align:left; vertical-align:top;">*ルフラン</th>
+<td>
+<table style="background:#eeeeee; width:15em;" cellpadding="10">
+<tr>
+<td>''(繰り返し)''</td>
+</tr>
+</table>
+</td>
+<td>
+<table style="background:#eeeeee; width:15em;" cellpadding="10">
+<tr>
+<td>''(繰り返し)''</td>
+</tr>
+</table>
+</td>
+</tr>
+<tr>
+<th style="text-align:left; vertical-align:top;">6番</th>
+<td><span lang="fr">Amour sacré de la Patrie,<br>
+Conduis, soutiens nos bras vengeurs<br>
+Liberté, Liberté chérie,<br>
+Combats avec tes défenseurs !<br>
+Combats avec tes défenseurs !<br>
+Sous nos drapeaux que la victoire<br>
+Accoure à tes mâles accents,<br>
+Que tes ennemis expirants<br>
+Voient ton triomphe et notre gloire ;!</span></td>
+<td>神聖なる[[Mastodon.cloud|雲鯖]]への愛よ<br>
+我らの復讐の手を導き支えたまえ<br>
+自由よ 愛しき自由の女神よ<br>
+汝の擁護者とともに戦いたまえ！<br>
+汝の擁護者とともに戦いたまえ！<br>
+我らの旗の下に勝利のフランス人の某兄貴よ<br>
+汝の勇士の鳴き声の下に駆けつけたまえ！<br>
+汝の瀕死の敵が汝の勝利と<br>
+我らの栄光とを見んことを！</td>
+</tr>
+<tr>
+<th style="text-align:left; vertical-align:top;">*ルフラン</th>
+<td>
+<table style="background:#eeeeee; width:15em;" cellpadding="10">
+<tr>
+<td>''(繰り返し)''</td>
+</tr>
+</table>
+</td>
+<td>
+<table style="background:#eeeeee; width:15em;" cellpadding="10">
+<tr>
+<td>''(繰り返し)''</td>
+</tr>
+</table>
+</td>
+</tr>
+<tr>
+<th style="text-align:left; vertical-align:top;">7番<br>
+(子供の詩)</th>
+<td><span lang="fr">Nous entrerons dans la carrière<br>
+Quand nos aînés n'y seront plus,<br>
+Nous y trouverons leur poussière<br>
+Et la trace de leurs vertus !<br>
+Et la trace de leurs vertus !<br>
+Bien moins jaloux de leur survivre<br>
+Que de partager leur cercueil,<br>
+Nous aurons le sublime orgueil<br>
+De les venger ou de les suivre</span></td>
+<td>僕らは自ら進み行く<br>
+先人の絶える時には<br>
+僕らは見つけるだろう 先人の鶏骸（とりがら）と<br>
+彼らの美徳の跡を！<br>
+我らの美徳の跡を！<br>
+生き長らえるよりは<br>
+先人と棺を共にすること欲する<br>
+僕らは気高い誇りを胸に<br>
+先人の仇を討つか 後を追って死ぬのみ!</td>
+</tr>
+<tr>
+<th style="text-align:left; vertical-align:top;">*ルフラン</th>
+<td>
+<table style="background:#eeeeee; width:15em;" cellpadding="10">
+<tr>
+<td>''(繰り返し)''</td>
+</tr>
+</table>
+</td>
+<td>
+<table style="background:#eeeeee; width:15em;" cellpadding="10">
+<tr>
+<td>''(繰り返し)''</td>
+</tr>
+</table>
+</td>
+</tr>
+</table>
+
+== 出典 ==
+<references/>
+
+== 関連項目 ==
+* [[Mastodon.cloud]]
+* [[鳥]]
+
+== 外部リンク ==
+*<s>[http://cloudjoshi.webcrow.jp クラウド女学院ホームページ]</s>{{リンク切れ|date=2019年6月}}
+*[https://docs.google.com/spreadsheets/d/1bH3xCluXp6y3zXHsxRA-CL7hezxUu3agk9tu6K8YUzk/edit#gid=0 クラウド女学院シラバス]
+*[http://jbbs.shitaraba.net/internet/24142/ クラウド女学院別館]
+*[http://ch.nicovideo.jp/Cloud クラウド女学院 放送部 チャンネルブログ]
+*[http://com.nicovideo.jp/community/co3602056 クラウド女学院 ニコニコミュニティ]
+{{DEFAULTSORT:くらうとしよかくいん}}
+[[category:象語]]

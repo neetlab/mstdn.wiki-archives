@@ -1,0 +1,25 @@
+{{Infobox instance
+| Name = <ruby>NATUDON<rt>ナチュドン</rt></ruby>
+| Image = [[ファイル:NATUDON OUTDOOR.png|300px]]<br />[[ファイル:NATUDON O2.png|300px]]
+| Domain = https://natudon-outdoor.net
+| Admin = ナチュラム
+| Country = 日本
+| Start = 2017年4月28日
+}}'''ナチュドン アウトドア'''は、アウトドアグッズ通販の企業ナチュラムが運営する、オープンソースのソーシャルネットワークMastodonのインスタンスである。
+
+== 概要 ==
+ナチュラムが運営するアウトドア専門のマストドンインスタンス。 
+
+「あなたの近くに。自由で密なアウトドアコミュニティ」をコンセプトとしており、アウトドア好きのユーザーに向けたインスタンスとなっている。
+
+また、運営のナチュラムは釣りの好きなユーザーに向けた[[ナチュドンフィッシング]]というインスタンスも運営している。
+
+== 出典 ==
+[http://news.naturum.ne.jp/e2916261.html]
+
+== 関連項目 ==
+*[[ナチュドンフィッシング]]
+
+{{DEFAULTSORT:natudonoutdoor}}
+[[category:日本のインスタンス]]
+[[Category:企業が運用しているインスタンス]]

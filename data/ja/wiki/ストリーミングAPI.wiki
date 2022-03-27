@@ -1,0 +1,23 @@
+{{infobox feature
+| Name      = {{Ruby|ストリーミングAPI|Streaming API}}
+| Version   = 1.0
+| Endpoint  = GET /api/v1/streaming/user<br />GET /api/v1/streaming/public<br />GET /api/v1/streaming/public/local<br />GET /api/v1/streaming/hashtag<br />GET /api/v1/streaming/list<br />GET /api/v1/streaming/direct
+| Available = 全てのインスタンス
+| Link      = [https://github.com/tootsuite/mastodon/releases/tag/v1.0 実装されたリリース]<ref>user,public,hashtagのみ。</ref>
+}}'''ストリーミングAPI'''（英：Streaming API）とは、[[Mastodon]]における[[API]]の一種。
+
+== 概要 ==
+ストリーミング（Streaming）とはリアルタイムでデータをダウンロードしながら表示していくインターネット上でのデータ配信方法の一種を指す語であり、Mastodonにおけるストリーミングは、タイムラインをリアルタイムで表示する機能である。WebSocketの技術を使用している。また全ての通信でTLSによる暗号化がなされるため、URIのスキームはwssとなる。
+
+Mastodonには複数種類の[[タイムライン]]が存在するが、そのいずれでも利用できる。逆に、トゥートの一覧であってもタイムラインではないものにはストリーミングAPIは存在しない。(ユーザーのトゥート一覧やお気に入り登録したトゥート一覧など)
+
+以前から同種の機能を持つソーシャル・ネットワーキング・サービスとして[[Twitter]]が挙げられたが、2018年8月に廃止されている。
+
+== 関連項目 ==
+* [[タイムライン]]
+== 外部リンク ==
+* [https://github.com/tootsuite/documentation/blob/master/Using-the-API/Streaming-API.md 公式ドキュメント]
+== 脚注 ==
+<references />
+{{DEFAULTSORT:すとりいみんくえいひいあい}}
+[[Category:マストドンの機能]]

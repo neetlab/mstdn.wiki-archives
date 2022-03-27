@@ -1,0 +1,22 @@
+{{Infobox person
+| Name          = <ruby>新都心<rt>にいとしん</rt></ruby>
+| Image         = [[ファイル:Neetshin-2017-12.jpeg|300px|Neetshin]]
+| Color         = #8BC34A
+| Instance      = [[Mastodon.social]], [[Mastodon.cloud]]
+| Link          = https://mastodon.social/@neet <br /> https://knzk.me/@neet <br /> https://mastodon.cloud/@neet
+}}'''{{ruby|新都心|にいとしん}}'''または'''Neetshin'''は、マストドンに関連する複数の貢献で知られる人物。
+
+* [[Mastodon]]コントリビューター<ref>https://github.com/tootsuite/mastodon/pulls?utf8=%E2%9C%93&q=author%3Aneet</ref>
+* [[マストドン日本語ウィキ]]管理者
+* [[Halcyon]]開発者
+* [[joinmastodon.org]]日本語訳<ref>https://github.com/tootsuite/joinmastodon/pull/37</ref>
+* [[mirrortter]]開発者
+
+==関連項目==
+* [[利用者:Neetshin]]
+
+==脚注==
+<references />
+
+{{DEFAULTSORT:にいとしん}}
+[[category:人物]]

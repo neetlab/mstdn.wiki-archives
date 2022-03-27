@@ -1,0 +1,22 @@
+{{Infobox website
+| Name = {{Ruby|診断メーカー|しんだんメーカー}}
+| Image = [[File:Shindanmaker.jpeg|120px]]
+| URL = https://shindanmaker.com
+| Admin = 診断メーカー
+| Country = 日本
+| Start = 2010年2月
+}}
+'''診断メーカー'''は、いわゆる「診断」サービスを簡単に作成・公開できるウェブサービス。
+
+== 概要 ==
+2010年2月に公開された、名前を入力するとランダムな診断結果を生成する「診断」を作成・公開することができる[[Twitter]]向けのウェブアプリケーション。
+
+「診断」での結果をTwitterなどのSNS上に投稿することができるのが特徴。2017年7月より[[マストドン]]への投稿に対応しており、[[ソーシャルボタン|Mastoshare]]を経由して診断結果をトゥートすることができる。
+
+ただし、診断を作成するには[[Twitter]]アカウントが必要である、字数制限がTwitterの仕様に追従している<ref>[https://shindanmaker.blogspot.jp/2017/12/twitter280.html 280字に拡大されたTwitterの文字数制限に対応しました]</ref>など、Twitter中心の仕様である。診断の実行と診断結果の投稿は、マストドンなどTwitter以外のSNSでも可能である。
+
+==脚注==
+<references />
+
+[[category:ウェブサイト]]
+{{DEFAULTSORT:しんたんめえかあ}}

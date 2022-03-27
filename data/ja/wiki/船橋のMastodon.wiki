@@ -1,0 +1,15 @@
+{{Infobox instance
+| Name          = 船橋のMastodon
+| Domain        = https://mastdn.me/
+| Admin         = 不明
+| Country       = 日本
+| Start         = 不明
+| Kifu          = なし
+| Alias         = なし
+}}船橋のマストドンとは、千葉県船橋市のご当地インスタンスである。2017年8月現在アクセス不可となっている。
+
+== 関連項目 ==
+* [[都道府県のインスタンス一覧]]
+
+{{DEFAULTSORT:ふなはし}}
+[[Category:消滅したインスタンス]]

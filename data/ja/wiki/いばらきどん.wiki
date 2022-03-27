@@ -1,0 +1,20 @@
+{{Infobox instance
+| Name          = いばらきどん
+| Domain        = https://mstdn.ibaraki.jp/
+| Admin         = [https://mstdn.ibaraki.jp/@kanrisha 管理者だっぺ]
+| Country       = 日本
+| Start         = 2017年6月2日
+| Kifu          = なし
+| Alias         = なし
+}}いばらきどんは、茨城県のご当地インスタンスである。
+
+== 概要 ==
+茨城県民や茨城県に関わりのあるユーザー、茨城県が好きなユーザーなどに向け立てられたインスタンス。
+
+2017年10月現在、アクセスが出来ない状態となっている。
+
+== 関連項目 ==
+* [[都道府県のインスタンス一覧]]
+
+{{DEFAULTSORT:いばらき}}
+[[Category:消滅したインスタンス]]

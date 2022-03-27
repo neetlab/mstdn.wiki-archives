@@ -1,0 +1,28 @@
+{{Infobox instance
+ | Nom      = mastodon.social
+ | Domaine  = https://mastodon.social/
+ | Admin    = [https://mastodon.social/@Gargron Eugen]
+ | Pays     = Allemagne
+ | Création = 16 mars 2016 à 15h44<ref>[https://mastodon.social/@Gargron Eugen], [https://mastodon.social/@Gargron/1 pouet], sur ''[[Mastodon.social]]'', le 16 mars 2016 à 15h44 (consulté le 2 juillet 2017)</ref>
+}}
+'''mastodon.social''' est une instance créée en 2016. Administrée par Gargon, le créateur de Mastodon, celle-ci est, de fait, l’instance officielle du projet auquel elle sert de vitrine.
+
+Avec 122.447 utilisateur·rice·s<ref>[https://mastodon.social/about/more « About »], sur ''[[Mastodon.social]]'', 2017 (consulté le 7 janvier 2018)</ref>, mastodon.social était, au 7 janvier 2018, la troisième plus grosse instance du réseau et la plus grosse instance anglophone<ref>[https://instances.social/list/old All instances], sur ''[https://instances.social/ Mastodon instances]'', (consulté le 8 janvier 2018)</ref>.
+
+== Politique de modération ==
+Bien qu’elle soit une instance généraliste, la modération de mastodon.social n’en reste pas moins stricte. Celle-ci est assurée par une équipe de modérateur·rice·s.
+
+=== Règles ===
+Les règles de mastodon.social, telles qu’elles figurent sur [https://mastodon.social/about/more sa page d’information détaillée], interdisent explicitement la pédopornographie, l’apologie du nazisme, le harcèlement et la diffusion de contenu illégal en Allemagne ou en France. L’incitation au racisme, au sexisme, à la xénophobie et à la haine des minorités y sont également prohibées. Enfin, il est défendu de publier de la publicité de manière excessive, de faire diffuser des fausses informations par des robots ainsi que de poster des contenus pornographiques ou violents de manière visible et sans avertissements préalables.
+
+== Galerie ==
+<gallery mode="slideshow">
+Image:Page d’accueil de mastodon.social.png|alt=La page d’accueil, au texte clair sur clair sur un fond sombre. La mascotte de Mastodon est au centre de la page, à côté du formulaire d’inscription et d’un lien invitant à se connecter.|La page d’accueil de l’instance
+Image:Page d’information de mastodon.social.png|alt=La page d’information détaillée, au texte clair sur un fond sombre. On peut voir, dans un bandeau en haut de la page, le nombre d’utilisateur·rice·s de l’instance, le nombre de statuts publiés sur cette dernière, le nombre d’instances auxquelles elle est connectée ainsi que les informations de contact de l’administrateur. En-dessous, on peut lire les règles de l’instance.|La page d’information détaillée de l’instance
+</gallery>
+
+== Références ==
+<references />
+
+[[Catégorie:Instances]]
+[[ja:Mastodon.social]]

@@ -1,0 +1,22 @@
+'''ミニブログ'''または'''マイクロブログ'''または'''短文投稿サイト'''とは、短い文字列を投稿し、それらをタイムラインにまとめて読むことができるウェブサイト。
+
+==ミニブログであって、分散SNSでもあるもの==
+* [[GNU social]]
+* [[Mastodon]]
+* [[Pleroma]]
+* [[Misskey]]
+* [[microblog.pub]]
+* [[postActiv]]
+
+==ミニブログであって、分散SNSではないもの==
+* [[Gab]]
+* [[Twitter]]<ref>Twitterの創業者は「[https://www.inc.com/issie-lapowsky/ev-williams-twitter-early-years.html ソーシャルネットワークではなく情報ネットワーク]」、日本法人代表は「[https://toyokeizai.net/articles/amp/224254?page=3 SNSではなくニュースメディア近い場]」と表現しており、運営者の側はSNSと取られることを嫌っている。運営者ではない第三者によってマイクロブログに分類されることは多く見られる。</ref>
+
+==関連項目==
+* [[分散SNS]]
+
+==脚注==
+<references />
+
+{{DEFAULTSORT:みにふろく}}
+[[category:ミニブログ|*]]

@@ -1,0 +1,20 @@
+{{Infobox instance
+| Name = まちトドン
+| Image = [[ファイル:matitodon.png|300px]]
+| Domain = https://matitodon.com
+| Admin = [https://matitodon.com/@westantenna <ruby>にし</ruby>]
+| Country = 日本国
+| Start = 2017年4月29日
+| Kifu = [https://matitodon.com/about/more 詳細情報]を参照
+}}'''まちトドン'''は、オープンソースのソーシャルネットワーク[[Mastodon]]の[[インスタンス]]である。
+
+== 概要 ==
+2017年4月29日、[[にし]]によって設立された。
+
+主に路上観察や都市、交通に関する話題が中心となっている。
+
+== 関連項目 ==
+* [[海峡交通嘟嘟]] - 中華人民共和国の交通に関するインスタンス。
+
+{{DEFAULTSORT:まちととん}}
+[[category: 日本のインスタンス]]

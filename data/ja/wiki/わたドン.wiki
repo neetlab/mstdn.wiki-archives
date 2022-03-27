@@ -1,0 +1,13 @@
+'''わたドン'''とは、[[ActivityPub]]の[[分散SNS]]、[[Mastodon]]の[[インスタンス]]の一つである。{{Infobox instance
+| Name          = わたドン
+| Image         = [[ファイル:Wataten-eyecatch.jpg|400px|わたドン]]
+| Domain        = https://watadon.com
+| Admin         = [https://watadon.com/@semi2022 セミ]
+| Country       = 日本
+| Start         = 2020年12月3日
+}}
+
+== 概要 ==
+『コミック百合姫』（一迅社）で連載中の漫画『私に天使が舞い降りた！』ファンが中心のインスタンスとして開設された。
+
+カスタムCSSの設定により、標準のサイトテーマがブラウンをメインにした配色に変更されている。

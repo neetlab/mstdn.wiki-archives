@@ -1,0 +1,29 @@
+'''長文を自動的に畳む'''機能は、[[Mastodon|マストドン]]の一部のインスタンスで先行して導入されていた機能。[[マストドン公式レポジトリ]]の2018年9月28日以降のコードにはこの機能が含まれるが、正式なリリースには含まれていない。
+
+==マストドン公式レポジトリでの経緯==
+長文を自動的に畳む機能は、遅くても2016年11月にはすでに要望として挙げられており、[[マストドン公式レポジトリ]]にイシュー<ref>[https://github.com/tootsuite/mastodon/issues/255 Hide bulk of longer posts from different sites #255]</ref>が立てられた。その後、2017年1月にはプルリクエスト<ref>[https://github.com/tootsuite/mastodon/pull/658 #255 – Collapsable toots! #658]</ref>が作られたが、クローズされている。議論は複数のイシュー<ref>[https://github.com/tootsuite/mastodon/issues/388 post size issues and solving the sensitive content stuff #388]</ref><ref>[https://github.com/tootsuite/mastodon/issues/3784 Limit displayed content of too long publications (toot/other OStatus) #3784]</ref><ref>[https://github.com/tootsuite/mastodon/issues/5477 Webapp: Add a 'collapse' button for toots/posts with more than 500 characters #5477]</ref><ref>[https://github.com/tootsuite/mastodon/issues/6087 Two user prefs: automatic CW; length > X, or user in Auto-CW list  #6087]</ref>に派生して紛糾した。
+
+その後、2018年9月28日<ref>https://github.com/tootsuite/mastodon/pull/8205</ref>に実装がマージされ、バージョン2.6.0<ref>https://github.com/tootsuite/mastodon/releases/tag/v2.6.0</ref>で正式にリリースされた。
+
+==先行する実装==
+* [[Mastodon Glitch Edition]]は、マストドン本体よりも先に、この機能を実装していた<ref>[https://glitch-soc.github.io/docs/features/collapsible-toots/ Collapsible toots | Mastodon Glitch Edition]</ref>。
+* [[kirishima.cloud]]は、長文 (縦に長い投稿) をスクロール可能なボックスで表示している。
+
+==導入しているクライアント==
+* [[Subway Tooter]]は、長文を自動的に畳む機能<ref>[http://subwaytooter.hatenadiary.jp/entry/2017/09/19/032232 1.0.9から1.5.5までの新機能。自動CW。]</ref>を実装している。畳む文字数は設定で変更可能である。
+* [[TheDesk]]も同様に自動折りたたみ機能<ref>Mika (ver.3) より行数、Riina (ver.4)より文字数による制限に対応。詳しくはクライアントの個別ページを参照。</ref>を備える。文字数と行数<ref>brタグの数だけで判断しているので正確とはいえない。</ref>を指定できる。
+
+==Content Warningとの関係==
+長文を畳むために[[Content Warning]] (CW) を利用することも可能である。特に、日本語圏のマストドンでは、[[friends.nico]]など主に[[ローカルタイムライン]]をチャットのように用いるインスタンスにおいて、CWを利用して長文を畳むことがマナーとして定着しており、それを怠ると他のユーザーから非難を受けることがある。しかし、CWの本来の利用法は[[不穏]]やネタバレなどの危険な投稿を隠すことであり、長文を隠すために利用することは本来の使い方から逸脱するものだという批判もある。また、技術的に解決可能な課題をマナーの問題に転嫁することへの批判もある。
+
+==他の分散SNSとの関係==
+[[GNU social]]は、縦に長い投稿をスクロールボックスで表示する。[[Pleroma]]のウェブUIは、長文を自動的に畳む機能を標準で搭載している。
+
+==関連項目==
+* [[字数制限の変更]]
+
+==脚注==
+<references />
+
+[[category:インスタンスの独自機能]]
+{{DEFAULTSORT:ちようふんをしとうてきにたたむ}}

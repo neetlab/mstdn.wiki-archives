@@ -1,0 +1,11 @@
+'''合同会社分散型ソーシャルネットワーク機構'''または'''Distributed Social Network Org'''は、[[合同会社きぼうソフト]]のグループ企業。ただし、これら2社に資本関係はない<ref>https://mstdn.jp/@dsno/102847618587996341</ref>。[[2019年]]7月16日<ref>[https://mstdn.jp/@kibousoft/102450998495777677 新会社設立並びに事業譲渡に関するお知らせ]</ref>に設立された。同年7月26日、合同会社きぼうソフトから合同会社分散型ソーシャルネットワーク機構に、[[mstdn.jp]]と[[mastodon.cloud]]が譲渡された<ref>https://kibousoft.co.jp/</ref>。
+
+==外部リンク==
+* [https://mstdn.jp/@dsno dsno@mstdn.jp]
+* [https://mastodon.cloud/@dsno dsno@mastodon.cloud]
+
+==脚注==
+<references />
+
+{{DEFAULTSORT:ふんさんかたそおしあるねつとわあくきこう}}
+[[category:企業]]

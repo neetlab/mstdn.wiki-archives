@@ -1,0 +1,26 @@
+{{infobox instance
+|Name = {{Ruby|'''十日町市のMastodon'''|とおかまちしのますとどん}}
+|Image = [[ファイル:tokamstdn.png|300px]]
+|Domain = tokamstdn.jp
+|Country = 日本
+|Admin = ハル
+|Start = 2017年4月21日
+|Alias = トマドン
+}}'''十日町市のMastodon'''は、オープンソースのソーシャルネットワークMastodonの[[インスタンス]]。
+
+== 概要 ==
+新潟県十日町市に関する話題を中心としたインスタンス。
+
+インスタンスのユーザー数が100人を超えて以降長らく新規登録を停止していたが、11月30日より、新規登録が再開されている<ref>https://tokamstdn.jp/@west2538/99090755151115384</ref>。
+
+2017年6月22日にはAndroidで公式アプリ「トマドン」をリリースしている。
+
+== 関連項目 ==
+* [[都道府県のインスタンス一覧]]
+
+== 出典 ==
+<references />
+
+{{DEFAULTSORT:tokamstdn}}
+[[Category:日本のインスタンス]]
+[[category:消滅したインスタンス]]

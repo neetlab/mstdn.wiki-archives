@@ -1,0 +1,15 @@
+<div id="top_main_column">
+
+{{メインページ/記事への案内}}{{秀逸な記事
+| Title = Mastodon
+| Excerpt = マストドンまたはMastodonとは、オープンソースの分散SNS、ミニブログ。Eugen Rochko（Gargron）氏により開発されている「分散SNS」。複数のインスタンスが互いに通信し、連合（fediverse）を形成することが特徴。インスタンス間の通信プロトコルはOStatusとActivityPubが利用できるため、これらのプロトコルを持つ他の分散SNS (GNU social、Pleromaなど) とも連合を形成することができる。ミニブログ、すなわち短文投稿型SNSであるところはTwitterに類似している。...
+| Link = https://ja.mstdn.wiki/Mastodon
+}}{{メインページ/左カラム/新しいページ}}
+{{メインページ/Other language wiki}}
+
+</div>
+
+<noinclude>
+[[category:テンプレート]]
+{{デフォルトソートキー:とつふへえしひたりからむ}}
+</noinclude>

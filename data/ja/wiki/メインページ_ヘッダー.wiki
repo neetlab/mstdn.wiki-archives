@@ -1,0 +1,13 @@
+<div id="header_wrapper">
+
+<h2 class="wiki_title">マストドン日本語ウィキへようこそパオ！</h2>
+
+<h3 class="wiki_sub_title">Welcome to the Mastodon Wiki!</h3>
+
+<span  class="wiki_desc">このWikiは、自由で[[オープンソース]]な[[ソーシャル・ネットワーキング・サービス|ソーシャルネットワーク]]「[[Mastodon]]」の[[:カテゴリ:マストドンの機能|機能]], [[:カテゴリ:インスタンス|インスタンス]], [[:Category:出来事|歴史]], [[:カテゴリ:象語|スラング]]などあらゆるコンテンツを根深く紹介するWikiで、アカウントを作らなくても誰でも参加することができます！あなたも[[特別:アカウント作成|このWikiに参加]]して知識を広めよう！ by Fluffy Elephant Friend</span>
+
+</div>
+<noinclude>
+[[category:テンプレート]]
+{{デフォルトソートキー:へつたあ}}
+</noinclude>

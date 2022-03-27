@@ -1,0 +1,17 @@
+{{Infobox software
+| Name                = フォローレコメンデーションチェッカー
+| Developer           = [[Cutls P]]
+| SourceCode          = [https://github.com/cutls/Mastodon-Follow-Recommendation-Checker GitHub]
+| Platform            = Web
+| Launch              = 2018年7月13日
+| License             = [[MITライセンス]]
+| Web                 =  [https://frc.toot.app https://frc.toot.app]
+}}
+フォローレコメンデーションチェッカーは、[[フォローレコメンデーション (マストドンの機能)]] をチェックできるWebアプリケーションである。
+
+[[フォローレコメンデーション (マストドンの機能)]] は[[Mastodon]] 2.4.3で実装されたもののWebUIには実装されておらず、自分でAPIを叩いて見るか、サードパーティツール・クライアントで見なければならない。
+
+[[Category:ウェブサイト]]
+[[Category:ユーザーレコメンデーション]]
+[[Category:MITライセンス]]
+{{DEFAULTSORT:ふおろおれこめんてえしよんちぇっかあ}}

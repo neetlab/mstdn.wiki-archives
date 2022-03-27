@@ -1,0 +1,32 @@
+{{Infobox software
+| Name = {{Ruby|被災地支援のためのマストドン研究会|ひさいちしえんのためのマストドンけんきゅうかい}}
+| Developer = [https://vocalodon.net/@tomoki TOMOKI++] (発起人)
+| Platform = ウェブ
+| Launch = 2018年3月11日
+| Web = https://donken.org/forum/
+}}被災地支援のためのマストドン研究会は、災害時にマストドンをどのように活用するかを議論するフォーラム。
+== 概要 ==
+東日本大震災から7年経った2018年3月11日に正式にスタートしたインターネットフォーラム。[https://vocalodon.net/@tomoki TOMOKI++]名義で[[vocalodon]]を運営する脇元寛之氏が立ち上げた。
+
+基本的にはフォーラム上で議論を行うが、ハッシュタグ「#被災地支援のためのマストドン研究会」でマストドン上でも活動している。
+
+最初期はフォーラムとマストドンのシステム的関係(マストドン連携ログインなど)について議論していた<ref>[https://donken.org/forum/index.php?p=/discussion/12/%E3%83%95%E3%82%A9%E3%83%BC%E3%83%A9%E3%83%A0%E3%81%AE%E3%83%9E%E3%82%B9%E3%83%88%E3%83%89%E3%83%B3%E3%82%A2%E3%82%AB%E3%82%A6%E3%83%B3%E3%83%88%E9%80%A3%E6%90%BA#latest フォーラムのマストドンアカウント連携]</ref>が、次第に自治体とマストドンの関係<ref>[https://donken.org/forum/index.php?p=/discussion/21/%E3%83%9E%E3%82%B9%E3%83%88%E3%83%89%E3%83%B3%E3%81%AE%E3%82%BF%E3%82%A4%E3%83%A0%E3%83%A9%E3%82%A4%E3%83%B3%E4%B8%8A%E3%81%AE%E6%83%85%E5%A0%B1%E3%82%92%E5%A4%96%E9%83%A8%E3%81%AB%E5%85%B1%E6%9C%89%E3%81%99%E3%82%8B%E3%81%AB%E3%81%AF#latest マストドンのタイムライン上の情報を外部に共有するには]</ref>を議論している。
+
+なお、大阪府北部地震(2018年6月18日)についても議論されている。
+
+== 主な賛同人・参加者 ==
+主にマストドンで活動するユーザーについて記載する。敬称略。
+* TOMOKI++(発起人)
+* [https://qiitadon.com/@sakadon sakadon@qiitadon.com] (賛同人)
+* [[ておりあ]] (賛同人)
+* [https://matitodon.com/@westantenna にし] (賛同人)
+* [https://gingadon.com/@emb 刺繍屋] (賛同人)
+* [https://gingadon.com/@soramame そらまめ] (賛同人)
+* [https://vocalodon.net/@sakots サ骨] (デザイン協力)
+* [[Cutls P]] (プログラミング協力)
+* [[ぐすくま]]
+他
+
+== 注釈 ==
+[[category:ウェブサイト]]
+{{DEFAULTSORT:ひさいちしえんのためのますととんけんきゆうかい}}

@@ -1,0 +1,19 @@
+{{Infobox instance
+| Name          = マストドン-富山
+<!--| Image         =  https://pbs.twimg.com/media/C_cUfNXUIAA8NmQ.jpg -->
+| Domain        = https://mastodon-toyama.xyz/
+| Admin         = [https://mastodon-toyama.xyz/@toyama_don_master くれよん]
+| Country       = 日本
+| Start         = 2017年5月8日
+| Kifu          = なし
+| Alias         = 富山ドン
+}}<ruby>富山ドン</ruby>とは、[https://mastodon-toyama.xyz/@toyama_don_master くれよん]氏が運営する[[マストドン]][[インスタンス]]である。
+
+== 概要 ==
+富山県に関する話題を主としたインスタンス。2017年11月現在、閲覧不可となっている。
+
+== 関連項目 ==
+* [[都道府県のインスタンス一覧]]
+
+{{DEFAULTSORT:とやま}}
+[[Category:消滅したインスタンス]]

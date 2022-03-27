@@ -1,0 +1,26 @@
+{{Infobox instance
+| Name          = 和歌山丼
+| Image         = [[ファイル:和歌山丼.png|300px]]
+| Domain        = <nowiki>https://mastodon.wakayama.jp</nowiki>
+| Admin         = ひーす
+| Country       = 日本
+| Start         = 2017年5月15日
+| End = 不明<ref>管理者の呟きによれば2019年3月24日以前</ref><ref>https://twitter.com/8beater/status/1109819433361391617 (フォロワーのみ閲覧可能)</ref>
+| Kifu          = なし
+| Alias         = なし
+}}和歌山丼は、かつて存在した和歌山県のご当地インスタンス。
+
+== 概要 ==
+和歌山県を盛り上げるという名目のもと、和歌山県に関連するユーザーに向け立ち上げられた。
+
+== ルール ==
+R18コンテンツは投稿不可である。
+
+== 関連項目 ==
+* [[都道府県のインスタンス一覧]]
+
+==脚注==
+<references />
+
+{{DEFAULTSORT:わかやま}}
+[[category:関西広域連合]]

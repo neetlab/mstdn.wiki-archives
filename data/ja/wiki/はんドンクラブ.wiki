@@ -1,0 +1,21 @@
+{{Infobox instance
+| Name          = はんドンクラブ / handon.club
+| Domain        = https://handon.club/
+| Admin         = [https://handon.club/@highemerly はん]
+| Country       = 日本
+| Start         = 2017年4月15日<ref>https://handon.club/@highemerly/1</ref>
+| Kifu          = https://fantia.jp/handon
+}}'''はんドンクラブ'''は、オープンソースのソーシャルネットワークMastodonの[[インスタンス]]。
+
+== 概要 ==
+完全招待制で運用されている。
+
+マスコットキャラクターとしてドン美ちゃんが就いている。
+
+
+==脚注==
+<references />
+
+
+{{DEFAULTSORT:はんドンクラブ}}
+[[category:日本のインスタンス]]

@@ -1,0 +1,20 @@
+{{Infobox company
+| Name  = 株式会社KADOKAWA
+| Image = [[file:kadokawa_logo.svg|120px]]
+| URL   = https://www.kadokawa.co.jp
+| CEO   = 松原眞樹
+}}'''株式会社KADOKAWA'''（カドカワ、英: KADOKAWA CORPORATION）は、日本の様々な事業を手掛ける出版社。多数のマストドンインスタンスを運営していたが、2019年11月現在すべて終了している。
+
+==Mastodonインスタンス==
+;運営
+*[[S&II Mastodon]] 
+:内閣府によるイベント・サイエンス＆イノベーション・インテグレーションに際してKADOKAWAにより運用が行われていた。2019年11月現在消滅状態。
+*[[KADOKAWA丼]] 
+:2019年4月26日に終了。
+;関係
+*[[friends.nico]] 
+:KADOKAWA子会社ドワンゴのインスタンス。2019年4月末に終了。
+*[[Anisodon]] 
+:KADOKAWAが参加するANiUTaのインスタンス。2019年5月に終了。
+
+[[category:企業]]

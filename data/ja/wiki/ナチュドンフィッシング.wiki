@@ -1,0 +1,25 @@
+{{Infobox instance
+| Name          = ナチュドンフィッシング
+| Image         = [[ファイル:NATUDON FISHING.png|300px]]<br />[[ファイル:NATUDON F2.png|300px]]
+| Domain        = https://natudon-fishing.net/
+| Admin         = ナチュラム
+| Country       = 日本
+| Start         = 2017年5月15日<ref>http://news.naturum.ne.jp/e2916261.html</ref>
+}}'''ナチュドンフィッシング'''は、アウトドアグッズ通販の企業ナチュラムが運営する、オープンソースのソーシャルネットワークMastodonのインスタンスである。
+
+== 概要 ==
+ナチュラムが運営するアウトドア専門のマストドンインスタンス。 
+
+「釣果自慢や交流。自由で濃密な釣りコミュニティ」をコンセプトとしており、釣り好きのユーザーに向けたインスタンスとなっている。
+
+また、運営のナチュラムはアウトドアの好きなユーザーに向けた[[ナチュドン アウトドア]]というインスタンスも運営している。
+
+==脚注==
+<references />
+
+== 関連項目 ==
+*[[ナチュドン アウトドア]]
+
+{{DEFAULTSORT:natudonfishing}}
+[[category:日本のインスタンス]]
+[[Category:企業が運用しているインスタンス]]

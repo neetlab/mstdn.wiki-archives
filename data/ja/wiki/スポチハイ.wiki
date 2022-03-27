@@ -1,0 +1,23 @@
+{{Infobox software
+| Name                = <nowiki>#ｽﾎﾟﾁﾊｲ</nowiki>
+<!-- | Image               = [[ファイル:Amaroq.jpg|120px|Amaroq]] -->
+| Developer           = [[mamemomonga]] (まめも)
+| SourceCode          = https://github.com/mamemomonga/spochihai
+| Platform            = ウェブ
+| ProgrammingLanguage = JavaScript
+<!-- | Launch              = 2017年3月17日 -->
+<!-- | Kifu                = [https://paypal.me/floofdog PayPal] -->
+| License             = [[MITライセンス]]
+| Web                 = https://spochihai.mamemo.online
+}}'''#ｽﾎﾟﾁﾊｲ'''は、Spotifyで聴いている曲を表明するためのハッシュタグ。#nowplayingなどの類似のハッシュタグを、Spotifyに特化したもの。
+
+また、Spotifyと連携して、このハッシュタグを付加したトゥートまたはツイートを[[Mastodon]]または[[Twitter]]に投稿できるウェブアプリケーション。
+
+==外部リンク==
+* [https://spochihai.mamemo.online #ｽﾎﾟﾁﾊｲ]
+* [https://www.spotify.com Spotify]
+
+{{DEFAULTSORT:spotify}}
+[[category:ハッシュタグ]]
+[[category:ウェブサイト]]
+[[category:MITライセンス]]

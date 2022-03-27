@@ -1,0 +1,21 @@
+__NOTOC__
+{{Bandeau d’accueil}}
+
+== Qu’est-ce que Mastodon ==
+[[Mastodon]] est un logiciel libre permettant de se connecter à un réseau social décentralisé, appelé le [[Fediverse]]. Sur Mastodon, vous pouvez discuter avec des gens et échanger des informations avec eux, comme sur n’importe quel autre service du genre.
+* [[Mastodon]]
+* [[Découvrir Mastodon]]
+
+== Bien débuter avec Mastodon ==
+Vous aimeriez bien apprendre à utiliser [[Mastodon]] mais vous ne savez pas par où commencer ? Pas de panique, il vous suffit de suivre le mode d’emploi !
+* [[Découvrir Mastodon]]
+* [[Guide d’utilisation]]
+
+== Autres ressources officielles ==
+* [https://joinmastodon.org/ Site officiel]
+* [https://discourse.joinmastodon.org/ Forum de discussion du projet]
+* [https://github.com/tootsuite/mastodon Forge logicielle du projet]
+
+[[en:Main Page]]
+[[pl:Strona główna]]
+[[ja:メインページ]]

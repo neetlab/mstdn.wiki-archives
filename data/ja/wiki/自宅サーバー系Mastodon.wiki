@@ -1,0 +1,28 @@
+{{Infobox instance
+| Name          = 自宅サーバー系Mastodon
+| Domain        = https://mastdn.lovesaemi.daemon.asia/
+| Admin         = [https://mastdn.lovesaemi.daemon.asia/@lovesaemi あんあん@管理人]
+| Country       = 日本
+}}'''自宅サーバー系Mastodon'''は、オープンソースのソーシャルネットワークMastodonの[[インスタンス]]。
+
+== 概要 ==
+'''自宅サーバー系Mastodon'''とは、[https://mastdn.lovesaemi.daemon.asia/@lovesaemi あんあん@管理人]氏によって公開されているオープンソースのソーシャルネットワークMastodonのインスタンスである<ref>https://mastdn.lovesaemi.daemon.asia/about</ref>。 
+
+インスタンス名の通り、自宅サーバーで運用されているのが特徴。
+<blockquote>
+底辺エンジニアが自宅サーバーにMastodonを入れてみました。お気軽にアカウント作って楽しんでねー
+</blockquote>
+
+2018年7月9日時点で、アクセスできなくなっている。
+
+== ルール ==
+2018年1月11日時点では以下の一文のみが公開されている<ref>https://mastdn.lovesaemi.daemon.asia/about/more</ref>．
+<blockquote>
+日本法的にNGなものはご遠慮ねがいます。
+</blockquote>
+
+== 出典 ==
+<references />
+
+{{DEFAULTSORT:したくさあはあけい}}
+[[カテゴリ:消滅したインスタンス]]

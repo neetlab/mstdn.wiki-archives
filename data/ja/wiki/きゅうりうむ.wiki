@@ -1,0 +1,16 @@
+{{Infobox person
+| Name     = きゅうりうむ
+<!-- | Image    = [[ファイル:Nullkal.jpg|120px|Nullkal]] -->
+<!-- | Color    = #319D32 -->
+| Country  = 日本
+| Instance = [[mstdn.maud.io]]
+| Link     = https://github.com/cucmberium
+<!-- | Else     = [[mstdn.jp]]管理人 -->
+}}'''きゅうりうむ'''または'''cucmberium'''は、プログラマー。
+
+==プロダクト==
+* [[Flantter]]
+* [[Mastodonおすすめユーザー検索]]
+
+{{DEFAULTSORT:きゆうりうむ}}
+[[category:人物]]

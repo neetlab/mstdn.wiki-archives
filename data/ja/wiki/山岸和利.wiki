@@ -1,0 +1,20 @@
+{{Infobox person
+| Name     = {{Ruby|山岸和利|やまざきかずとし}}
+| Image    = [[ファイル:Ykzts.png|120px]]
+<!-- | Color    = #319D32 -->
+| Country  = 日本
+| Instance = [https://ykzts.technology/@ykzts ykzts.technology]<br />[https://mastodon.social/@ykzts mastodon.social]
+| Link     = https://ykzts.com/
+| Else     = Mastodonコミッター
+}}{{Ruby|'''山岸和利'''|やまざきかずとし}}または'''ykzts'''とは、[[Mastodon]]コミッター。
+
+==インスタンス==
+
+*[https://ykzts.technology ykzts.technology]
+
+==ウェブサイト==
+
+*[[Sayonara]]
+
+{{DEFAULTSORT:やまさきかすとし}}
+[[Category:人物]]

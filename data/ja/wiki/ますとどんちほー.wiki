@@ -1,0 +1,58 @@
+{{混同|friends.nico}}
+{{Infobox instance
+| Name          = ますとどんちほー
+| Image = [[ファイル:Kemono-friends.png|300px]]
+| Domain        = https://mstdn.kemono-friends.info<br>https://m.kemo.one<br><s><nowiki>https://令和.tel</nowiki></s>
+| Admin         = [https://mstdn.kemono-friends.info/@m maa123]<br>[https://mstdn.kemono-friends.info/@admin Admin]
+| Moderator = [https://mstdn.kemono-friends.info/@ck ねこ]
+| Country       = 日本 (サーバーは CloudFlare)
+| Start         = 2017年4月15日
+| Kifu = https://mstdn.kemono-friends.info/about/more<span></span>を参照
+| SourceCode = [https://github.com/maa123/mastodon GitHub]
+| Alias         = けもフレ鯖、ちほー
+| Link = [https://library.kemono-friends.info/ ますとどんちほー図書館]
+}}'''ますとどんちほー'''とは、メディアミックス作品「けものフレンズ」ファンのためのオープンソースのソーシャルネットワーク [[Mastodon]] の[[インスタンス]]である。
+
+== 概要 ==
+主に「けものフレンズ」の話題が中心だが、話題は幅広い。「けものフレンズ」と直接関連性のないものを含む独自の文化が存在する。
+
+管理者が偶然所有･契約していたドメインとVPS(CloudFlare)を再利用し<ref>https://mstdn.kemono-friends.info/@m/9914</ref>、普段は jQuery+PHP を利用しているため<ref>https://mstdn.kemono-friends.info/@m/10791</ref>、開設の際に Ruby を触れたのも初めてである<ref>https://mstdn.kemono-friends.info/@m/10713</ref>と語る。
+
+UIが緑色を基調としたものに改変されており、また、「[[トゥート]]」が「がおー」、「[[お気に入り]]」が「すごーい」、ブーストが「たーのしー」など、各名称がけものフレンズの用語に改変されている。
+
+開設から間もなく、ますとどんちほーの事がわかる[http://library.kemono-friends.info/%E3%83%A1%E3%82%A4%E3%83%B3%E3%83%9A%E3%83%BC%E3%82%B8 としょかん（Wiki）]も設立。
+
+フレンズによって得意なことが違うから、運営者とユーザーが助け合って成長中である。
+
+たーのしー。
+
+2018年12月20日に<span>https://m.kemo.one</span>、2019年4月12日に令和.telからもアクセス可能になった。
+
+2020年1月4日から令和.telからはアクセスできなくなった。
+
+== インスタンス説明 ==
+{{Blockquote|
+; mstdn.kemono-friends.info とは？
+
+: よぉこそぉ～、ますとどんちほーへ～！
+: 問題のあるトゥート見つけたらどんどん通報してください…
+: 特にグローバルはそういうものが流れやすくて追いきれていないので…
+}}
+
+{{Blockquote|
+: 日本の法律の範囲内でご利用ください。
+: どんなインスタンスかはドメイン見てください...
+: いつ落ちても知りません
+:[https://kemono-friends.info/chat/ ここは多分落ちない]
+: 重くなり始めたら新規登録閉じるかもしれません。
+}}
+
+== 出典 ==
+<references/>
+
+== 外部リンク ==
+* [http://library.kemono-friends.info/%E3%83%A1%E3%82%A4%E3%83%B3%E3%83%9A%E3%83%BC%E3%82%B8 ますとどんちほー図書館]
+* [http://kemono-friends.jp/ けものフレンズプロジェクト｜公式サイト]
+
+{{DEFAULTSORT:kemono-friends.info}}
+[[category: 日本のインスタンス]]

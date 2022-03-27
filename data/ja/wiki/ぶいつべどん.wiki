@@ -1,0 +1,22 @@
+{{Infobox instance
+| Name          = [[ぶいつべどん]]
+| Image         = [[ファイル:ぶいつべどん_fluffy.png|200px|ぶいつべどん]]
+| Domain        = https://mstdn.vtube.media/
+| Admin         = [https://twitter.com/kii_ringo きい]
+| Country       = 日本
+| Start         = 2018年4月18日<ref>[https://twitter.com/kii_ringo/status/986394035433758721 きい氏によるTwitterでのツイート]</ref>
+| Link = [https://vtube,media ぶいつべ]
+}}'''ぶいつべどん'''とは、オープンソースのソーシャルネットワークMastodonのインスタンスである。 
+
+== 概要 ==
+2018年4月18日に開設された、'''バーチャルライバー'''（キャラクターになりきって動画配信を行う者のこと）や{{Jawp|バーチャルユーチューバー}}のファン向けのインスタンス。
+
+[https://kreaate.com/#service 株式会社Kreaate]により、バーチャルライバーに関する情報を取り扱うニュースサイト「[https://vtube,media ぶいつべ]」と同時に公開された。
+
+2019年3月16日時点で接続できなくなっている。
+
+== 出典 ==
+<references />
+
+[[Category:企業が運用しているインスタンス]]
+[[Category:消滅したインスタンス]]

@@ -1,0 +1,295 @@
+'''インスタンスの一覧を提供するウェブサイト'''は、Mastodonなどの[[インスタンス]]を一つのメディアに一覧としてまとめたものである。
+
+マストドン日本語ウィキに記事があるインスタンスの一覧は「[[:カテゴリ:インスタンス]]」を参照のこと。
+
+==概要==
+Mastodonをはじめ分散型SNSは多様な「インスタンス（サーバー）」が存在し、それぞれが様々な特色やテーマを持っている。そうしたインスタンスを調べやすくしたり、一覧性を高めるべく、有志により多くの「一覧」が公開されている。
+
+更新方法は、APIなどを利用し自動で更新されるものもあれば、手動で更新されているものも存在する。
+
+==インスタンスの一覧を提供するウェブサイトの比較==
+空欄は不明または調査中。
+
+{| class="wikitable sortable" style="width:99%;"
+!稼働
+!URL
+!名称
+!並び順 (太字はデフォルト)
+!収録しているインスタンスの言語
+!インスタンスの登録方法
+!ライセンス
+!インスタンスのプレビュー
+!特徴
+|-
+|
+|[https://coron.tech/mastodon/instance/ coron.tech/mastodon/instance]
+|[[Mastodon(マストドン)のインスタンス一覧 (coron)|Mastodon(マストドン)のインスタンス一覧]]
+|
+|日本
+|ウェブの登録フォームをもとに作者が更新
+|CC BY-NC-SA
+|なし
+|2017年12月20日に更新が途絶える。
+|-
+|
+|distsn.org
+|[[分散SNSフォーラム]]
+|'''流速'''
+|世界
+|[[Peers API]]による自動収集
+|[[AGPL]]
+|[[mstpubapi]]のタイムラインビューアを利用。ローカルタイムラインのプレビューはページネーション可、画像を展開する。
+|多様な[[分散SNS]]に対応。2020年2月に閉鎖され、後継は[[Fediverse Observer]]。
+|-
+|
+|[https://fediverse.network/ fediverse.network]
+|[[Fediverse Network]]
+|'''不明'''、新着
+|世界
+|自動収集
+|[[GNU Affero General Public License|AGPL]]
+|ローカルタイムラインのプレビューはページネーション不可、画像を展開する。
+|多様な[[分散SNS]]に対応。死活管理。2020年1月頃より不調。
+|-
+|✓
+|[https://fediverse.observer fediverse.observer]
+|[[Fediverse Observer (Poduptime)|Fediverse Observer]]
+|'''稼働率'''、多数
+|世界
+|自動収集
+|[[AGPL]]
+|なし
+|多様な[[分散SNS]]に対応。インスタンスの物理的な位置による地図。
+|-
+|
+|fediverse-observer.tk
+|[[Fediverse Observer (墓場人夜)|Fediverse Observer]]
+|'''流速'''
+|世界
+|[[Peers API]]による自動収集
+|[[AGPL]]
+|[[mstpubapi]]のタイムラインビューアを利用。ローカルタイムラインのプレビューはページネーション可、画像を展開する。
+|多様な[[分散SNS]]に対応。2020年3月頃に閉鎖。
+|-
+|✓
+|[https://fediverse.party/en/portal/servers fediverse.party/en/portal/servers]
+|[[Fediverse.Party]]
+|'''分野'''
+|世界
+|作者にマージリクエストまたはメンションを送る
+|[[AGPL]]
+|なし
+|多様な[[分散SNS]]に対応。
+|-
+|✓
+|[https://fediverse.to/ fediverse.to]
+|[[To the Fediverse!]]
+|'''新着'''、登録ユーザー数、言語、分野
+|世界
+|不定期
+|[[GNU General Public License]]
+|なし
+|インスタンスのサムネイル画像を表示。インスタンスのキーワード検索が可能。
+|-
+|
+|h3zjp.sub.jp/mstdn
+|[[List of instances of Mastodon in Japan]]
+|
+|
+|
+|
+|
+|2017年11月24日に公開を終了
+|-
+|
+|instances.octodon.social
+|[[Mastodon Instances (octodon.social)|Mastodon Instances]]
+|
+|世界
+|ウェブの登録フォーム
+|[[プロプライエタリ]]
+|なし
+|2018年3月に公開を終了。モデレーションの強さで分類。
+|-
+|✓
+|[https://instances.social/ instances.social]
+|[[Mastodon Instances]]
+|'''ランダム'''、他多数
+|世界
+|ウェブの登録フォームにより自動登録。インスタンスの連絡先メールアドレスに確認のメールが送られる。
+|[[AGPL]]
+|なし
+|インスタンスの一覧を提供する複数のウェブサイトがinstances.socialのAPIを使用している
+|-
+|
+|instances.tacostea.net
+|[[Instances List]]
+|'''ドメイン名'''、他多数
+|世界
+|作者にメール、作者のマストドンアカウントにメッセージを送る、GitHubにプルリクエスト
+|ソースコードは公開されているが、ライセンスは明記されていない
+|なし
+|新バージョン追従バトル等。2019年頃に公開を終了。
+|-
+|✓
+|[https://ja.mstdn.wiki/ ja.mstdn.wiki]
+|[[マストドン日本語ウィキ]]
+|'''ホスト名またはインスタンスの名称'''<ref>ウィキの項目名をホスト名とするかインスタンスの名称とするか統一されていない。[[トーク:Preteengirls.biz]]も参照。</ref>
+|国別のカテゴリ
+|誰でも編集可能
+|CC BY-NC-SA
+|なし
+|
+|-
+|✓
+|[https://joinmastodon.org/ joinmastodon.org]
+|[[Joinmastodon.org]]
+|'''週間アクティブユーザー数が800に近い'''
+|世界。言語別の表示も可能。
+|作者にメール
+|[[GNU Affero General Public License]]
+|なし
+|マストドン公式ウェブサイト
+|-
+|✓
+|[https://jointhefedi.com/ jointhefedi.com]
+|[[Join the Fediverse (M. K. Fain)|Join the Fediverse]]
+|
+|世界。
+|
+|
+|なし
+|
+|-
+|✓
+|[https://joinfediverse.wiki/ joinfediverse.wiki]
+|[[Join the Fediverse (Wiki)|Join the Fediverse]]
+|地区別リストは地名のアルファベット順。分野別リストはホスト名のアルファベット順。
+|世界。
+|誰でも編集可能
+|
+|なし
+|
+|-
+|
+|k52.org/mastodon
+|[[日本のマストドンインスタンスの一覧 (ウェブサイト)|日本のマストドンインスタンスの一覧]]
+|'''ユーザー数'''、新着
+|日本
+|instances.socialに追従
+|[[プロプライエタリ]]
+|インスタンスの名称、説明文、管理者の[[アイコン]]と[[表示名]]と[[プロフィール]]、ローカルタイムライン。ローカルタイムラインのプレビューはページネーション不可、画像を展開しない。
+|ユーザー数が20人以上のインスタンスに限定。
+2021年9月29日閉鎖
+|-
+|
+|mastodon-instance.com
+|[[Mastodon Instance List]]
+|'''新着'''、ユーザー数、トゥート数、接続数
+|日本と世界を切り替えできる
+|作者にメール
+|[[プロプライエタリ]]
+|インスタンスの名称、説明文、ローカルタイムライン。ローカルタイムラインのプレビューは画像を展開しない。
+|2018年2月に公開を終了
+|-
+|
+|[https://mastportal.info/ mastportal.info]
+|[[マストポータル]]
+|'''新着'''、ユーザー数、トゥート数、流速
+|世界 (事実上、日本のみ)
+|ウェブの登録フォームにより自動登録。instances.social＆ムトーに追従。マストドンまたはPleromaのアカウントでログイン。
+|[[プロプライエタリ]]
+|インスタンスの名称、カスタム絵文字、ローカルタイムライン。ローカルタイムラインのプレビューはページネーション不可、画像を展開しない、カスタム絵文字を展開する。
+|2021年8月より無期限のメンテナンス。
+|-
+|✓
+|[https://miy.pw/css/1.php miy.pw/css/1.php]
+|[[InstanceTicker]]
+|ドメイン名
+|世界
+|手動
+|[[MITライセンス]]と記載（事実上は[[プロプライエタリ]]）
+|なし
+|[[InstanceTicker]] でティッカーが表示されるインスタンスのリスト
+|-
+|
+|[https://msearch.fediverse.media/ msearch.fediverse.media]
+|[[マストドン検索ポータル]]
+|'''ユーザー数'''
+|日本
+|作者にメール、作者のマストドンアカウントにメッセージを送る
+|[[プロプライエタリ]]
+|インスタンスの説明文、ローカルタイムライン。ローカルタイムラインのプレビューは画像を展開しない。
+|2018年3月24日に更新が途絶える。
+|-
+|
+|mstdn.imado.jp
+|[[Mastodon検索サイト]]
+|'''ユーザー数'''
+|世界
+|ウェブの登録フォーム。作者による承認が必要。
+|[[プロプライエタリ]]
+|ローカルタイムラインのプレビューはページネーション不可、画像を展開しない。
+|キーワード検索。2021年12月時点で接続できない。
+|-
+|
+|portaldon.info
+|[[Portaldon]]
+|'''ドメイン名'''、ユーザー数
+|世界
+|instances.socialに追従
+|[[プロプライエタリ]]
+|インスタンスの名称、説明文、ローカルタイムライン。ローカルタイムラインのプレビューは画像を展開する。
+|2018年3月頃に公開を終了
+|-
+|
+|[https://qiita.com/cv_k/items/8ecafea3ce7dd720cec6 qiita.com/cv_k/items/8ecafea3ce7dd720cec6]
+|[[Mastodon(マストドン)のインスタンス一覧 (coron)|日本のマストドン インスタンス一覧]]
+|'''分野別'''
+|日本
+|[[Mastodon(マストドン)のインスタンス一覧 (coron)|Mastodon(マストドン)のインスタンス一覧]]の登録フォーム、Qiitaの編集リクエスト
+|
+|なし
+|[[Mastodon(マストドン)のインスタンス一覧 (coron)|Mastodon(マストドン)のインスタンス一覧]]の抜粋。2018年2月5日に更新が途絶える。
+|-
+|
+|qiita.com/noraworld/items/ea853c6897326feda51f
+|[[日本Mastodonインスタンス一覧]]
+|'''登録が古い順'''
+|日本
+|Qiitaの編集リクエスト
+|
+|なし
+|2018年1月1日に更新が途絶える。
+|-
+|
+|shimaguni.symphonic-net.com/mstdn
+|[[マストドンインスタンスリンク集＠日本サーバー]]
+|
+|日本
+|作者にメール
+|CC BY-NC
+|なし
+|2017年4月29日に更新が途絶える
+|-
+|✓
+|[https://the-federation.info the-federation.info]
+|[[The Federation]]
+|'''月間アクティブユーザー数'''、他多数
+|世界
+|自動収集。APIで登録。
+|[[GNU Affero General Public License]]
+|なし
+|多様な[[分散SNS]]に対応
+|}
+
+==脚注==
+<references />
+
+==関連項目==
+
+*[[:カテゴリ:インスタンスの一覧を提供するウェブサイト]]
+*[[:カテゴリ:インスタンス]]
+
+{{DEFAULTSORT:いんすたんすいちらん}}
+[[カテゴリ:インスタンスの一覧を提供するウェブサイト|*]]

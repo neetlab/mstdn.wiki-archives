@@ -1,0 +1,42 @@
+'''レコメンデーション・フェアネス'''とは、ユーザーディスカバリーメソッドがユーザーの脱中央集権に貢献する度合い<ref>[https://gitlab.com/hakabahitoyo/creed-of-fair-user-generated-content-platforms/-/blob/master/README.md フェアなユーザージェネレイテッドコンテントプラットフォームについての信条]</ref>。ここで、ユーザーディスカバリーメソッドとは、未知のユーザーを発見する手段の総称である。ユーザーの脱中央集権とは、無名のユーザーでも投稿を見てもらえる機会が十分にあることである。ユーザーの脱中央集権の対義語は「セレブのインターネット」であり、少数のユーザーが多数のフォロワーを獲得している状況を指す。
+
+[[Mastodon|マストドン]]の[[インスタンスの一覧を提供するウェブサイト|インスタンス一覧]]と[[ユーザーレコメンデーション]]のレコメンデーション・フェアネスを評価した研究<ref>[https://web.archive.org/web/20180105170641/https://hakabahitoyo.wordpress.com/ 脱中央集権のためのデザイン: セレブのためのインターネットを99 %の手に取り戻す (Wayback Machine)]</ref><ref>[https://www.itmedia.co.jp/news/articles/1712/25/news107.html セレブのためのインターネットと生存のインターネット：マストドンつまみ食い日記]</ref>が知られている。この他にも、同様のアイディアはさまざまな形で表出している。
+
+* [[joinmastodon.org]]のインスタンス一覧は、開設当初は登録が古い順に配列されていたが、2017年11月<ref>https://github.com/tootsuite/joinmastodon/commit/79ddeb204cd1dbea717654ea73177d4c8f5298b5</ref>からランダムに配列されるようになった<ref>その後も何度か仕様が変更されている。詳しくは当該項目を参照。</ref>。
+* [[Search Mastodon tools]]は、開設当初は登録が古い順に配列されていたが、2018年6月<ref>https://github.com/DavidLibeau/search-mastodon-tools/pull/4</ref>からランダムに配列されるようになった。
+* [[日本Mastodonインスタンス一覧]]に対する無名のクレーマーによる抗議は、登録が古い順の配列がアンフェアであることを主張していたと考えられている。
+* 海外の[[followfriday]]ハッシュタグでは、フォロワー数が100未満のユーザーを優先して紹介する運動が行われている。
+* TikTokの仕様は「たとえ無名の人が作ったコンテンツでも、価値さえあれば、ちゃんと人目に触れるような、多くの人に届くような仕組み<ref>[https://toricago.hatenablog.com/entry/2019/01/02/080000 誰も気付いていないTikTokの本当のイノベーションを語る]</ref>」であるという分析が行われている。
+
+==用語について==
+
+2017年12月25日の文書<ref>前掲。</ref>では、この概念は「累進的」「逆進的」と表現されていた。''Fair'' という語が使われたのは、[[joinmastodon.org]]のインスタンス一覧に対して、''It is not fair nor user friendly that the table of instances is now fixed ordered.''<ref>https://github.com/tootsuite/joinmastodon/pull/45#issuecomment-335163543</ref>と批判したことがきっかけである。
+
+==レコメンデーション・フェアネスのアンチパターン<ref>[https://gitlab.com/hakabahitoyo/creed-of-fair-user-generated-content-platforms/-/blob/master/README.md フェアなユーザージェネレイテッドコンテントプラットフォームについての信条] (前掲) より著者自身が引用</ref>==
+
+ユーザーディスカバリーメソッドがフェアであるかどうかを定性的に評価するには、以下のアンチパターンが作用しているかどうかを調べればよい: 大御所効果、ポジティブフィードバック、パワーユーザー効果、シュリンクラップ効果。これらのアンチパターンが作用していればいるほど、そのユーザーディスカバリーメソッドはアンフェア (フェアの逆) である。
+
+* 大御所効果とは、過去に有名であったユーザーが、いつまでも推挙され続けることである。
+* ポジティブフィードバックとは、あるユーザーがユーザーディスカバリーメソッドによって推挙されると、それ自体が原因となって、そのユーザーがますます推挙されることである。
+* パワーユーザー効果とは、頻繁に情報を発信しているユーザーが、ユーザーディスカバリーメソッドに推挙されることである。
+* シュリンクラップエフェクトとは、ユーザーディスカバリーメソッドが、例えばアバター画像やスクリーンネームのようなユーザーの属性のみを表示し、実際のコンテンツを表示しないことである。
+
+顕著な例として、フォロワー数が多い順に配列されたユーザーレコメンデーションは、大御所効果とポジティブフィードバックとシュリンクラップエフェクトを有するため、他の多くの方式よりもアンフェアである。登録ユーザー数が多い順に配列されたインスタンス一覧も、同様の理由で、きわめてアンフェアである。
+
+==フォロワー数といいね数の非表示==
+
+関連する取り組みとして、フォロワー数といいね数の表示を取りやめることが、複数のSNSで検討または実施されている。
+
+* [[Twitter]]の創業者らは、フォロワー数<ref>[https://www.recode.net/2018/11/8/18075998/ev-williams-twitter-follower-count-health-popularity Twitter co-founder Ev Williams says in retrospect that showing how many followers you have wasn’t ‘healthy’]</ref>といいね数<ref>[http://www.itmedia.co.jp/news/articles/1810/30/news084.html Twitter、「『いいね』廃止」報道にコメント　「健全化に向け再考中」]</ref>の表示を後悔していると発言した。
+* [[Facebook]]とInstagramは、いいね数を非表示にするテストを実施した<ref>[https://www.itmedia.co.jp/news/articles/1907/19/news059.html Instagram、「いいね！」数非表示テストを日本でも開始]</ref><ref>[https://jp.techcrunch.com/2021/06/05/2021-05-26-facebook-and-instagram-will-now-allow-users-to-hide-like-counts-on-posts/ フェイスブックとInstagramで「いいね！」の数を非表示可能に、徐々に展開中]</ref>。
+* witches.live<ref>https://witches.live</ref>の[[ユーザープロフィールページ]]では、フォロワー数が常に「⛧666⛧」と表示される。API経由では本来のフォロワー数を送出している。
+* [[Pleroma]]には「とうこうのとうけいをかくす (れい: おきにいりのかず)」と「ユーザーのとうけいをかくす (れい: フォロワーのかず)」という設定項目があり、一部のインスタンスではデフォルトで有効になっている。
+
+==関連項目==
+* [[Recommendation Fairness Warrior]]
+
+==脚注==
+<references />
+
+{{DEFAULTSORT:れこめんでえしよんふえあねす}}
+[[category:ユーザーレコメンデーション]]

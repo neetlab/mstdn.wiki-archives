@@ -1,0 +1,23 @@
+{{Infobox word
+|Name = {{Ruby|新規だ囲え|しんきだかこえ}}
+|Hinshi = 動詞の命令形
+|Hatsu = [[friends.nico]]
+}}'''新規だ囲え'''とは、friends.nicoをはじめとした、mastodonの日本語コミュニティで使用されているスラングである。
+
+== 概要 ==
+新規 (マストドンを使い始めたばかりのユーザー) を「囲え」という呼びかけで、[[friends.nico]]では'''しんかこ'''などと略される。
+
+初出はfriends.nicoで、一人のユーザーが始めたものだった<ref>https://friends.nico/@alt468/1370924</ref>が、次第に他のユーザーも使用するようになり、friends.nicoを代表するスラングの一つとなった。
+
+次いで[[mstdn.osaka]]において使用されるようになり、また[[mstdn.jp]]などでも用いられるようになっていった。
+
+「囲う」というのが具体的にどのような行為なのかは諸説ある。
+
+== 関連項目 ==
+* [[friends.nico]]
+
+== 出典 ==
+<references />
+
+[[category: 象語]]
+{{DEFAULTSORT:しんきたかこえ}}

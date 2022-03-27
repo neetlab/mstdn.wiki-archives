@@ -1,0 +1,27 @@
+{{Infobox software
+| Name                = ぶろるっく for Mastodon
+<!-- | Image               = [[ファイル:Amaroq.jpg|120px|Amaroq]] -->
+| Developer           = [[おさ]]
+<!-- | SourceCode          = -->
+| Platform            = ウェブ
+<!-- | ProgrammingLanguage = Objective-C -->
+<!-- | Launch              = 2017年3月17日 -->
+| Kifu                = https://osa-p.net
+| License             = [[プロプライエタリ]]
+| Web                 = https://mastodon.blolook.osa-p.net
+<!-- | Download            = [https://itunes.apple.com/us/app/amaroq-for-mastodon/id1214116200 AppStore] -->
+}}'''ぶろるっく for Mastodon'''は、[[オープンソース]]の[[分散SNS]]である[[Mastodon]]において、何人に[[ブロック]]されているかを調べることができるウェブアプリケーション。
+
+== 概要 ==
+[[おさ]]氏により開発されたウェブアプリケーション。同氏が制作した[[Twitter]]向けウェブアプリケーション「ぶろるっく」のMastodon版である。
+
+このサービスでMastodonのアカウント認証を行うと、ブロックユーザーリストが収集され、代わりにユーザーは同サービスに登録しているユーザーのうち何人にブロックされているかを調べることができる。
+
+ブロックユーザーに関する情報は基本的に公開されないとされているが、数の多いインスタンス等といった情報は公開の予定があるとしている。
+
+== 関連項目 ==
+* [[ブロック]]
+
+[[category:ウェブサイト]]
+[[Category:プロプライエタリ]]
+{{DEFAULTSORT:ふろるつくformastodon}}

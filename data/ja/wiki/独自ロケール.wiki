@@ -1,0 +1,14 @@
+独自ロケールとは、Mastodon各所の翻訳をインスタンス独自の用語に変更することである。
+
+==導入しているインスタンス==
+*[[Imastodon.net]] - ユーザ設定の表示言語を「日本語(im@s)」に切り替えることで、Mastodon各所の翻訳が「そこはかとなくアイマスっぽいような気がする言葉」に変更される<ref>http://faq.imastodon.net/unique-feature/imas-lang/</ref>。
+*[[Mstdn.osaka]] - 日本語ロケールの一部が大阪弁に置き換えられている。
+*[[ダイハードテイルズネット]] - Mastodon各所の名称が『ニンジャスレイヤー』の用語に置き換えられている。
+*[[kemono-friends.info]] - 各名称が「けものフレンズ」の用語に置き換えられている。
+*[[aigisudon.net]] - 用語が「アイギス」のものに置き換わっている。
+
+==脚注==
+<references />
+
+[[category:インスタンスの独自機能]]
+{{DEFAULTSORT:とくしろけーる}}

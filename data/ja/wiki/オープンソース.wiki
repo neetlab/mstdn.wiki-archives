@@ -1,0 +1,22 @@
+'''オープンソース'''とは、ソフトウェアのソースコードが公開されていること。これに加えて、Open Source Initiativeによるオープンソースの定義<ref>[https://opensource.org/osd-annotated The Open Source Definition (Annotated)]</ref>では、単にソースコードが公開されているだけでなく、ソフトウェアが「オープン」であること、例えば反差別や技術的中立などが盛り込まれている。オープンソースの定義に合致すると認められているライセンスは多数あり、具体的な内容はさまざまである。
+
+類義語に[[フリーソフトウェア]]、対義語に[[プロプライエタリ]]がある。
+
+== マストドンとの関係 ==
+
+マストドンに関連するオープンソースソフトウェアは[[:カテゴリ:オープンソース]]を参照。カテゴリが作成されていないものは以下の通り。
+
+* [[Subway Tooter]]と[[iMast]]はApache License 2.0で提供されている。
+* [[Get Together]]は2条項BSDライセンスで提供されている。
+* [[GooglePlus Theme for Mastodon]]はCC BY-NC-SA ([[Creative Commons]] Attribution-NonCommercial-ShareAlike) で提供されている。
+* [[Liberapay]]はCC0で提供されている。
+
+なお、[[TheDesk]]は当初厳格な独自ライセンス (TheDesk LICENSE) で提供されていたが、徐々に緩和されていき、現行バージョンは[[GNU General Public License]]で提供されている。
+
+== 脚注 ==
+<references />
+
+== 関連項目 ==
+* [[GNU Affero General Public License]]
+
+[[category:オープンソース|*]]

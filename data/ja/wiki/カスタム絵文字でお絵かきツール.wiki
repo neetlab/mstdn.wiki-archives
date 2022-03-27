@@ -1,0 +1,26 @@
+{{Infobox software
+| Name = {{Ruby|カスタム絵文字でお絵かきツール|かすたむえもじでおえかきつーる}}
+| Image = [[ファイル:Emoji oekaki.png|300px]]
+| Developer = [[mamemomonga]]
+| SourceCode          = https://github.com/mamemomonga/mastodon-custom-emoji-oekaki
+| Platform = ウェブ
+| ProgrammingLanguage = JavaScript
+| Launch = 2017年10月26日
+| License             = [[MITライセンス]]
+| Web = https://mamemomonga.github.io/mastodon-custom-emoji-oekaki/
+}}'''カスタム絵文字でお絵描きツール'''は、[[mamemomonga]]氏により開発されたMastodon向けのウェブアプリケーション。
+
+== 概要 ==
+複数の[[カスタム絵文字]]をアスキーアートのように組み合わせたトゥートを作成するにあたり、カスタム絵文字の配置をグラフィカルに行うことができるウェブアプリケーション。
+
+例えば絵を描くように配置するときや、[[mstdn.jp]]の[[長いきつね]]のように長く繋げられる絵文字を配置するなどの用途に用いられる。
+
+特にmstdn.jpや[[kirishima.cloud]]など、カスタム絵文字の多いインスタンスにおいて有効である。
+
+==関連項目==
+* [[長いきつね]]
+* [[絵文字の周囲の空白を除く修正]]
+
+[[category:ウェブサイト]]
+[[category:MITライセンス]]
+{{DEFAULTSORT:かすたむえもしておえかきつーる}}

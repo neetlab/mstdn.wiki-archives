@@ -1,0 +1,46 @@
+{{Otheruses|[[Mastodon|マストドン]]本体に搭載されているユーザーレコメンデーション|ユーザーレコメンデーション自体の説明|ユーザーレコメンデーション}}
+{{infobox feature
+| Name      = フォローレコメンデーション
+| Version   = 2.4.3
+| Endpoint  = GET /api/v1/suggestions
+| Available = 全てのインスタンス
+| Link      = [https://github.com/tootsuite/mastodon/releases/tag/v2.4.3 実装されたリリース]
+}}'''フォローレコメンデーション'''は、2018年7月3日に[[マストドン公式リポジトリ]]にマージされ、バージョン2.4.3<ref>https://github.com/tootsuite/mastodon/releases/tag/v2.4.3</ref>で利用可能になった。ただし、バージョン2.4.3で提供されたのはAPIのみであり、UIは実装されていない。[[Subway Tooter]]と[[TheDesk]]は、この機能のUIを先行して実装していた。[[フォローレコメンデーションチェッカー]]を使用すればWeb上でログインして閲覧できる。
+
+[[マストドン公式リポジトリ]]の2018年10月23日<ref>[https://github.com/tootsuite/mastodon/pull/9010 Show suggested follows on search screen in mobile layout #9010]</ref>以降のコード、および、バージョン2.6.0以降のリリースでは、ウェブUIをスマートフォンのブラウザで見た場合に、フォローレコメンデーションが表示されるようになった。これは、検索画面を開いてから、検索が完了するまでの間に表示される。
+
+フォローレコメンデーションのアルゴリズムは、'''potential friendship'''と呼ばれるカウンターを利用する。あるユーザーが別のユーザーにエンゲージすると、potential friendshipが増加する。ここでエンゲージとは、[[リプライ]]、[[お気に入り]]、[[ブースト]]である。そして、potential friendshipが多い順にレコメンドされる。
+
+フォローレコメンデーションのAPIのエンドポイントは /api/v1/suggestions である。
+
+==対応するクライアント==
+* [[Subway Tooter]] (バージョン2.6.2<ref>https://github.com/tateisu/SubwayTooter/releases/tag/v2.6.2</ref>から)
+* [[TheDesk]] (Mio (15.8.0)<ref>{{toot|kirishima.cloud|Cutls|100329288077735687}}</ref>から)
+* [[G+Don]]
+
+==専用のビューア==
+* [[フォローレコメンデーションチェッカー]]
+* [[Mastodon Follow Suggestion]]
+
+==関連する機能==
+日本語圏のマストドンで「おすすめユーザー」と言うと、この機能を指すのか[[プロフィールで紹介する]]を指すのか曖昧である。[[:カテゴリ:マストドン本体のユーザーレコメンデーション]]も参照。
+
+==他の分散SNSとの関係==
+[[Pleroma]]は /api/v1/suggestions を実装している<ref>[https://git.pleroma.social/pleroma/pleroma/merge_requests/254 !254 Feature / Suggestions API with third party recommendation engine]</ref>。デフォルトでは空の配列を返すが、設定により、サードパーティーのレコメンデーションエンジンを使用できる。サードパーティーのレコメンデーションエンジンは、[[マストドンユーザーマッチング]]のほか、同じウェブサイトの新着順リストを用いる方法<ref>[https://docs-develop.pleroma.social/howto_user_recomendation.html How to activate user recommendation (Who to follow panel)]</ref>がアナウンスされている。
+
+[[Gab]]のウェブUIのWho To Followパネルはpotential friendshipを表示している。ブラウザのウィンドウの幅が十分に広く、なおかつpotential friendshipが空でない場合に限り、Who To Followパネルが表示される。
+
+==批判==
+この機能を実装したプルリクエスト<ref>[https://github.com/tootsuite/mastodon/pull/7918 Re-add follow recommendations API #7918]</ref>には、多くの批判的なコメントが書き込まれた。これを受けて、[[Gargron]]は、この機能の実装をAPIのみにとどめ、UIの実装を遅らせる対応を取った。記事執筆時点では、スマートフォン用のウェブUIに限りUIが実装されているが、PC用のウェブUIが速やかに実装されるかどうかは予断を許さない状況である。
+
+==外部リンク==
+* [https://github.com/tootsuite/mastodon/pull/7918 Re-add follow recommendations API #7918]
+* [https://github.com/tootsuite/mastodon/pull/9010 Show suggested follows on search screen in mobile layout #9010]
+* [https://hakabahitoyo.wordpress.com/2018/07/03/gargrons-official-user-recommendation/ ユーザーレコメンデーションがマストドン本体に導入された: フェアネスの評価は「現状維持」]
+
+==脚注==
+<references />
+
+{{DEFAULTSORT:ふおろおりこめんでえしよん}}
+[[category:マストドン本体のユーザーレコメンデーション]]
+[[category:議論と対立]]

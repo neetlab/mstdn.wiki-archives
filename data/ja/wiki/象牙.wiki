@@ -1,0 +1,20 @@
+{{Infobox word
+| Name          = {{Ruby|象牙|ぞうげ}}
+| Hinshi        = 名詞
+| Hatsu         = [[Mastodon.cloud]]
+}}{{Ruby|'''象牙'''|ぞうげ}}とは、通常ゾウの長大に発達した切歯（門歯）のことであるが(参考：[https://ja.wikipedia.org/wiki/象牙 wikipedia])、Mastodonの日本語インスタンス内では全く別の意味で扱われる。当記事では後者について紹介する。
+
+== 概要 ==
+[[ファイル:Zouge.png|200px|thumb|right|<ref>https://mstdn.club/@KyosukeFujiwara/23624</ref>]]
+Mastodonにおける{{Ruby|'''象牙'''|ぞうげ}}は、面白いと感じていることを指すスラング。一般的なネットスラングの「草」や「草原」に置き換えることができる。初出は[[Mastodon.cloud]]インスタンスとされる。
+
+他にも「大草原」を指す「'''大象牙'''」、「草」を指す「'''牙'''」、「草生える」を指す「'''牙生える'''」、「ｗ」を指す「'''[[J]]'''」などが存在する。
+
+英訳としては「LOL」と置き換えた「'''[[JOJ]]'''」が挙げられる。
+
+== 出典 ==
+
+<references/>
+
+{{DEFAULTSORT:そうけ}}
+[[category:象語]]

@@ -1,0 +1,2016 @@
+==Instance Descriptions (and Caveat)==
+If you're a coder, you can generate your own list like this using the tool [https://github.com/upsided/DescribedInstanceList DescribedInstanceList at GitHub].
+
+This is a spidered list of the top 100 instances with descriptions. They are ranked by the performance score given at https://instances.mastodon.xyz/list. This list is probably not recent. These instances may not allow open registration, may not have a lot of users, and *may contain offensive content*.
+
+===[https://mastodon.bigdinosaur.org/about/more mastodon.bigdinosaur.org]===
+
+====[http://www.unmung.com/mastoview?url=mastodon.bigdinosaur.org&view=local (Preview This Instance)]====
+
+====Description====
+
+This is a Mastodon instance, hosted by BigDinosaur.org. Mastodon is a distributed social thing. All are welcome!
+
+====Contact====
+
+Admin: @lee@mastodon.bigdinosaur.org
+
+Email: [mailto:lee@bigdinosaur.org lee@bigdinosaur.org]
+
+----
+
+===[https://social.targaryen.house/about/more social.targaryen.house]===
+
+====[http://www.unmung.com/mastoview?url=social.targaryen.house&view=local (Preview This Instance)]====
+
+====Description====
+
+social.targaryen.house is one of several mastodon instances in the fediverse. It aims to be an alternative choice, and it will federate with other instances. Fire and Blood!
+
+====Contact====
+
+Admin: @wonderfall@social.targaryen.house
+
+Email: [mailto:wonderfall@targaryen.house wonderfall@targaryen.house]
+
+----
+
+===[https://social.otya.me/about/more social.otya.me]===
+
+====[http://www.unmung.com/mastoview?url=social.otya.me&view=local (Preview This Instance)]====
+
+====Description====
+
+Fukuda Takuroおよび一部の承認されたメンバーのための、通称「どどんが丼」というMastodon(Twitterのような)鯖です。承認された人は大抵おっかないことはしないと思うので、書き込み規制は特に設けておりません。でも場合によっては理由明示の上BANします。悪しからず。よっぽどのことがない限り落とすつもりはございません。
+
+In English version&further; information, pls click "About this instance".
+
+====Contact====
+
+Admin: @f@social.otya.me
+
+Email: [mailto:tea_hugutaku (あっと) yahoo.co.jp tea_hugutaku (あっと) yahoo.co.jp]
+
+----
+
+===[https://mastodon.expert/about/more mastodon.expert]===
+
+====[http://www.unmung.com/mastoview?url=mastodon.expert&view=local (Preview This Instance)]====
+
+====Description====
+
+General, fast, stable and open instance.
+
+Federate with everyone
+
+Dedicated to the tech experts, but everyone is welcome!
+
+Registrations are open, but they may suspended/closed at any time if performance is compromised.
+
+====Contact====
+
+Admin: Not Available
+
+Email: [mailto:contact@mastodon.expert contact@mastodon.expert]
+
+----
+
+===[https://mammut.space/about/more mammut.space]===
+
+====[http://www.unmung.com/mastoview?url=mammut.space&view=local (Preview This Instance)]====
+
+====Description====
+
+mammut.space
+
+====Contact====
+
+Admin: @lest@mammut.space
+
+Email: [mailto:lest@mammut.space lest@mammut.space]
+
+----
+
+===[https://mastodon.mpy.ovh/about/more mastodon.mpy.ovh]===
+
+====[http://www.unmung.com/mastoview?url=mastodon.mpy.ovh&view=local (Preview This Instance)]====
+
+====Description====
+
+Single user instance, running mastodon v1.1.2
+
+====Contact====
+
+Admin: Not Available
+
+Email: [mailto:admin.mastodon@mpy.ovh admin.mastodon@mpy.ovh]
+
+----
+
+===[https://mstdn.hakai-macaron.com/about/more mstdn.hakai-macaron.com]===
+
+====[http://www.unmung.com/mastoview?url=mstdn.hakai-macaron.com&view=local (Preview This Instance)]====
+
+====Description====
+
+大学のメールアドレスで登録できる学生用Mastodon
+
+登録できるドメインは
+
+このインスタンスについてを参照
+
+ドメインが怪しくてすみません
+
+====Contact====
+
+Admin: @macaron@mstdn.hakai-macaron.com
+
+Email: Not Available
+
+----
+
+===[https://aleph.land/about/more aleph.land]===
+
+====[http://www.unmung.com/mastoview?url=aleph.land&view=local (Preview This Instance)]====
+
+====Description====
+
+aleph.land
+
+====Contact====
+
+Admin: @Madeorsk@aleph.land
+
+Email: [mailto:madeorsk@protonmail.com madeorsk@protonmail.com]
+
+----
+
+===[https://x0r.be/about/more x0r.be]===
+
+====[http://www.unmung.com/mastoview?url=x0r.be&view=local (Preview This Instance)]====
+
+====Description====
+
+Exclusive or something
+
+====Contact====
+
+Admin: @szbalint@x0r.be
+
+Email: Not Available
+
+----
+
+===[https://mastodon.blue/about/more mastodon.blue]===
+
+====[http://www.unmung.com/mastoview?url=mastodon.blue&view=local (Preview This Instance)]====
+
+====Description====
+
+This instance is hosted on a dedicated server, in France.
+
+Check complete live monitoring here!
+
+====Contact====
+
+Admin: @Nyroldiin@mastodon.blue
+
+Email: [mailto:support@mastodon.blue support@mastodon.blue]
+
+----
+
+===[https://interfesse.net/about/more interfesse.net]===
+
+====[http://www.unmung.com/mastoview?url=interfesse.net&view=local (Preview This Instance)]====
+
+====Description====
+
+Name says it all (or not !)
+
+====Contact====
+
+Admin: @herve@interfesse.net
+
+Email: [mailto:herve@interfesse.net herve@interfesse.net]
+
+----
+
+===[https://m4570.xyz/about/more m4570.xyz]===
+
+====[http://www.unmung.com/mastoview?url=m4570.xyz&view=local (Preview This Instance)]====
+
+====Description====
+
+m4570.xyz is an open Mastodon instance, m4570 is for masto(-don) in 1337 5p34k.It will federate with other instances.Everyone is welcome to this public and open instance.Before sign up please read:Terms of service / Terms of use / Legal Terms or whatever complicated law vocabulary used to designate this.Read also About this Mastodon instance.
+
+====Contact====
+
+Admin: @Oxynux@m4570.xyz
+
+Email: [mailto:oxynux@m4570.xyz oxynux@m4570.xyz]
+
+----
+
+===[https://social.infranix.eu/about/more social.infranix.eu]===
+
+====[http://www.unmung.com/mastoview?url=social.infranix.eu&view=local (Preview This Instance)]====
+
+====Description====
+
+Instance Mastodon gratuite et ouverte à tous le monde
+
+====Contact====
+
+Admin: Not Available
+
+Email: [mailto:core@infranix.eu core@infranix.eu]
+
+----
+
+===[https://ecodigital.social/about/more ecodigital.social]===
+
+====[http://www.unmung.com/mastoview?url=ecodigital.social&view=local (Preview This Instance)]====
+
+====Description====
+
+Mastodon da Ecologia Digital.
+
+"Tal como o meio-ambiente, o domínio público (ou comum) precisa ser 'inventado' antes de ser salvo." - James Boyle
+
+====Contact====
+
+Admin: @miguel@ecodigital.social
+
+Email: [mailto:hi@ecodigital.social hi@ecodigital.social]
+
+----
+
+===[https://mastodon.sandwich.net/about/more mastodon.sandwich.net]===
+
+====[http://www.unmung.com/mastoview?url=mastodon.sandwich.net&view=local (Preview This Instance)]====
+
+====Description====
+
+This is Sandwich's public Mastodon instance. Welcome! Moderation is at our discretion - please see below.
+
+We recommend that you read the #MastodonSandwich hashtag and @sungo's toot about Mastodon's risks. Feel free to chat with us about risk, privacy, security, and other questions.
+
+We support free and controversial speech, but also wish to maintain a pleasant environment. We forbid trolling, harassment, bigotry, and spam. Please use the Content Warning feature for NSFW or traumatic topics. When handling problems, we try to consider all of the circumstances, and to be reasonable and understanding.
+
+We will not sell your data, and will make every reasonable attempt to combat coerced disclosure of your data or our logs.
+
+====Contact====
+
+Admin: @jrenken@mastodon.sandwich.net
+
+Email: [mailto:support@sandwich.net support@sandwich.net]
+
+----
+
+===[https://soc.mtb.wtf/about/more soc.mtb.wtf]===
+
+====[http://www.unmung.com/mastoview?url=soc.mtb.wtf&view=local (Preview This Instance)]====
+
+====Description====
+
+Welcome to soc.mtb.wtf. I made this for myself, but signups will stay open as long as I can manage.
+
+Origin of the name: mtb is my initials, so I bought mtb.wtf a while ago; soc stands for social or SoCal or socialism or whatever you want it to stand for.
+
+This instance has no specific purpose right now. If most of the users want one, we can discuss it.
+
+If anything, this instance cares about privacy. I modified the terms to get rid of potentially worrisome ad-related parts. If you see anything else you don't like, I can change it again.
+
+====Contact====
+
+Admin: @bentley@soc.mtb.wtf
+
+Email: [mailto:matthew@bentley.link matthew@bentley.link]
+
+----
+
+===[https://mastodon.zaclys.com/about/more mastodon.zaclys.com]===
+
+====[http://www.unmung.com/mastoview?url=mastodon.zaclys.com&view=local (Preview This Instance)]====
+
+====Description====
+
+Mastodon by la mère zaclys association française
+
+====Contact====
+
+Admin: Not Available
+
+Email: Not Available
+
+----
+
+===[https://fo0bar.org/about/more fo0bar.org]===
+
+====[http://www.unmung.com/mastoview?url=fo0bar.org&view=local (Preview This Instance)]====
+
+====Description====
+
+fo0bar.org
+
+====Contact====
+
+Admin: @fo0bar@fo0bar.org
+
+Email: [mailto:fo0bar@fo0bar.org fo0bar@fo0bar.org]
+
+----
+
+===[https://dirus.io/about/more dirus.io]===
+
+====[http://www.unmung.com/mastoview?url=dirus.io&view=local (Preview This Instance)]====
+
+====Description====
+
+dirus.io
+
+====Contact====
+
+Admin: Not Available
+
+Email: Not Available
+
+----
+
+===[https://mastodon.host/about/more mastodon.host]===
+
+====[http://www.unmung.com/mastoview?url=mastodon.host&view=local (Preview This Instance)]====
+
+====Description====
+
+General, fast, stable and open instance.
+
+Federate with everyone.
+
+One of the most complete Federated timeline thanks to @federationbot
+
+lightly moderated in general, common sense applied. That said, read the rules below :)
+
+ What sets mastodon.host appart ?
+
+As a general instance, we are not centered on a specific theme, or a specific language. Everyone is welcome as long as they follow the few rules we have.
+
+We have a very good view of the federation ( our federated timeline gives you a more broad view of the Mastodon network than a 'normal' instance, there's a lot to read in a lot of languages ).
+
+Although we are a medium+ sized instance, we'd like to keep the feeling that you are at home and safe here.
+
+Never hesitate to contact the admin team if you have any questions !
+
+Please read the FAQ below or at https://mastodon.host/about/more to get started.
+
+What are the instance rules ?
+
+No illegal stuff, harassment, discrimination, xenophobia, threats or any behavior that is not appropriate to a friend will be tolerated to our users. This is a safe place for everyone, respect your fellow users or silence/block if you don't want to see someone. We moderate on our users report
+
+Erotic/Porn/Gore/Etc..  talks/pictures/videos.. must be  behind a CW. If you would not open that picture/video in front of your boss/wife/husband/kids => CW ( Content Warning ).
+
+Anything that is illegal in Europe/USA shall not be posted on this server, Lolicons for example are illegal.
+
+Globally common sense applied,
+
+ don't do illegal stuff, don't discriminate, don't be a racist, etc...
+
+Notify to an administrator or report if you have a doubt. Do not engage, if you don't want to see someone's contributions, you can block/silence that person and report to us, we'll deal with it.We try to post in english so everyone understands, but that rule is not enforced at all ;)
+
+Most important have fun and be nice to each other !
+
+Oh and nazis, racists  are banned on sight too, of course.
+
+What is this instance privacy policy ?
+
+We will never share your data with anyone, except if a valid legal request is received (Hopefully it will not happen).
+
+Who are the admins ? Shoutouts section.
+
+This instance is hosted by @gled
+
+====Contact====
+
+Admin: @gled@mastodon.host
+
+Email: [mailto:gled@remote-shell.net gled@remote-shell.net]
+
+----
+
+===[https://socialcs.xyz/about/more socialcs.xyz]===
+
+====[http://www.unmung.com/mastoview?url=socialcs.xyz&view=local (Preview This Instance)]====
+
+====Description====
+
+Instance ouverte à tous et à tous les sujets.
+
+Everyone is welcome.
+
+====Contact====
+
+Admin: Not Available
+
+Email: [mailto:socialcs@outlook.fr socialcs@outlook.fr]
+
+----
+
+===[https://dartsdon.jp/about/more dartsdon.jp]===
+
+====[http://www.unmung.com/mastoview?url=dartsdon.jp&view=local (Preview This Instance)]====
+
+====Description====
+
+ハードもソフトも日本のすべてのダーツプレイヤー、ダーツファンのためのMastodon=Dartsdonです。
+
+ダーツ関係者が管理をしているので、安心してご参加頂けます。
+
+ダーツ関係以外の方やダーツ関係でも管理人が怪しくて信用ならんと言う方は、他の有名サイト(ドワンゴさんやPixivさん運営）で登録される事をお勧めします。
+
+Dartsdonのアカウントはこちらで登録できます
+
+※登録確認メールが届かない場合は、迷惑メールに分類されている可能性があります
+
+定常的な運営ができるかどうか未定ですので、最初はmastodonのお試しとしてご利用ください。
+
+ご利用の状況に応じて、今後サーバーリソース増強などの検討をいたします。
+
+当面は貧弱な体制での運用となるので、色々とご不便をおかけするかもしれませんが、ご了承の上ご利用ください。
+
+====Contact====
+
+Admin: @toshi_terada@dartsdon.jp
+
+Email: Not Available
+
+----
+
+===[https://sleeklounge.com/about/more sleeklounge.com]===
+
+====[http://www.unmung.com/mastoview?url=sleeklounge.com&view=local (Preview This Instance)]====
+
+====Description====
+
+A community for individuals and groups to share their knowledge, thoughts and experiences with the world.
+
+====Contact====
+
+Admin: Not Available
+
+Email: Not Available
+
+----
+
+===[https://social.konosuke.jp/about/more social.konosuke.jp]===
+
+====[http://www.unmung.com/mastoview?url=social.konosuke.jp&view=local (Preview This Instance)]====
+
+====Description====
+
+social.konosuke.jp
+
+====Contact====
+
+Admin: @konosuke@social.konosuke.jp
+
+Email: [mailto:konosuke.furuhata@gmail.com konosuke.furuhata@gmail.com]
+
+----
+
+===[https://scifi.fyi/about/more scifi.fyi]===
+
+====[http://www.unmung.com/mastoview?url=scifi.fyi&view=local (Preview This Instance)]====
+
+====Description====
+
+ Scifi.Fyi is a general-purpose mastodon instance that seeks to foster a happy, inclusive community. All are welcome.
+
+We will be hosting a monthly scifi book club starting in May!
+
+====Contact====
+
+Admin: @cwm@scifi.fyi
+
+Email: [mailto:cwm@posteo.net cwm@posteo.net]
+
+----
+
+===[https://funfunmstdn.tokyo/about/more funfunmstdn.tokyo]===
+
+====[http://www.unmung.com/mastoview?url=funfunmstdn.tokyo&view=local (Preview This Instance)]====
+
+====Description====
+
+このサイトはまだ用途が決まっていないため、ユーザー登録を受け付けていません。
+
+リモートフォローは大歓迎ですので、よろしくお願いします。
+
+https://funfunmstdn.tokyo/@toshi_terada
+
+====Contact====
+
+Admin: @toshi_terada@funfunmstdn.tokyo
+
+Email: Not Available
+
+----
+
+===[https://mastodon.at/about/more mastodon.at]===
+
+====[http://www.unmung.com/mastoview?url=mastodon.at&view=local (Preview This Instance)]====
+
+====Description====
+
+mastodon.at is open to all users and federates with most instances.
+
+🇩🇪 🇦🇹 🇨🇭 mastodon.at ist offen für alle User und ist mit vielen anderen Instanzen verbunden.
+
+====Contact====
+
+Admin: @pfigel@mastodon.at
+
+Email: [mailto:patrick@figel.email patrick@figel.email]
+
+----
+
+===[https://ltu.social/about/more ltu.social]===
+
+====[http://www.unmung.com/mastoview?url=ltu.social&view=local (Preview This Instance)]====
+
+====Description====
+
+Mastodon instance intended for Lithuania 🇱🇹, but everyone is welcome! Have any questions/suggestions? hello@ltu.social 📩
+
+====Contact====
+
+Admin: @vaidotas@ltu.social
+
+Email: [mailto:hello@ltu.social hello@ltu.social]
+
+----
+
+===[https://m.loovto.net/about/more m.loovto.net]===
+
+====[http://www.unmung.com/mastoview?url=m.loovto.net&view=local (Preview This Instance)]====
+
+====Description====
+
+m.loovto.net
+
+====Contact====
+
+Admin: @LoovtO@m.loovto.net
+
+Email: [mailto:seb@loovto.net seb@loovto.net]
+
+----
+
+===[https://tali.t0k.org/about/more tali.t0k.org]===
+
+====[http://www.unmung.com/mastoview?url=tali.t0k.org&view=local (Preview This Instance)]====
+
+====Description====
+
+tali.t0k.org
+
+====Contact====
+
+Admin: Not Available
+
+Email: Not Available
+
+----
+
+===[https://social.lou.lt/about/more social.lou.lt]===
+
+====[http://www.unmung.com/mastoview?url=social.lou.lt&view=local (Preview This Instance)]====
+
+====Description====
+
+Mostly French  instance - Read full description for rules.
+
+====Contact====
+
+Admin: @DrEmixam@social.lou.lt
+
+Email: [mailto:maxime+mastodon@melinon.fr maxime+mastodon@melinon.fr]
+
+----
+
+===[https://mastodon.scuttle.org/about/more mastodon.scuttle.org]===
+
+====[http://www.unmung.com/mastoview?url=mastodon.scuttle.org&view=local (Preview This Instance)]====
+
+====Description====
+
+mastodon.scuttle.org
+
+====Contact====
+
+Admin: @scronide@mastodon.scuttle.org
+
+Email: Not Available
+
+----
+
+===[https://catdon.jp/about/more catdon.jp]===
+
+====[http://www.unmung.com/mastoview?url=catdon.jp&view=local (Preview This Instance)]====
+
+====Description====
+
+このインスタンスについて
+
+ねこ専門のインスタンスです。
+
+あなたのお気に入りのねこを紹介し合いませんか?
+
+ねこアカウントも大歓迎です。
+
+登録パスワードは暗号化されており、運営者であってもその内容を解析することはできません。
+
+サーバ上のデータは厳重に管理するよう、努めています。
+
+運用ステータスはこちら
+
+====Contact====
+
+Admin: @catdon_jp@catdon.jp
+
+Email: [mailto:info@mail.catdon.jp info@mail.catdon.jp]
+
+----
+
+===[https://mdn.hinaloe.net/about/more mdn.hinaloe.net]===
+
+====[http://www.unmung.com/mastoview?url=mdn.hinaloe.net&view=local (Preview This Instance)]====
+
+====Description====
+
+Hinaloe (@hnle0) の実験的インスタンス。日本国法内でおねがいします。詳しくは、このインスタンスについてをご覧ください。
+
+====Contact====
+
+Admin: @hina@mdn.hinaloe.net
+
+Email: [mailto:mdn-info@hinaloe.net mdn-info@hinaloe.net]
+
+----
+
+===[https://bookwitty.social/about/more bookwitty.social]===
+
+====[http://www.unmung.com/mastoview?url=bookwitty.social&view=local (Preview This Instance)]====
+
+====Description====
+
+Welcome to Bookwitty.social, a social network dedicated to discovering books.
+
+Registrations are open to all book lovers!
+
+This Mastodon instance is managed by Bookwitty.
+
+====Contact====
+
+Admin: @Bookwitty@bookwitty.social
+
+Email: [mailto:contact@bookwitty.social contact@bookwitty.social]
+
+----
+
+===[https://mastodon.org.uk/about/more mastodon.org.uk]===
+
+====[http://www.unmung.com/mastoview?url=mastodon.org.uk&view=local (Preview This Instance)]====
+
+====Description====
+
+Statistics
+
+How does it work? When you create an account on Mastodon, you create an account on the website you currently are visiting. For example, here you are on mastodon.org.uk. That is your instance.
+
+You will notice after log in two different timelines, the Local and the Federated.
+
+The local timeline is all the public toots of all our local users ( the one who registered on mastodon.org.uk and use it to access the Mastodon federation ).
+
+The federated timeline adds the public toots of all the users that our local users are following in other servers/
+
+Need to know users 
+
+@xvilo Is the maintainer of this instance.
+
+@STATUS Gives you information about this instance.
+
+@userscount Gives us detailed info about users and toots.
+
+Bots on this instance 
+
+@STATUS Gives us an automated heads up when there is a new Mastodon Version available.
+
+@userscount Gives us detailed info about users and toots. Source on Github
+
+@bigben Toots the time. Source on Github. Maintained by @followthesam
+
+	Bots are welcome here but please not that bots will be silenced when posting too much (e.g. flooding local timeline). If you have a bot, please contact me (@xvilo). I can add it to the list. 
+
+	Bots will be banned if they post inappropriate content or if I (@xvilo) get many complaints about it. 
+
+====Contact====
+
+Admin: @xvilo@mastodon.org.uk
+
+Email: [mailto:sem@tropical.email sem@tropical.email]
+
+----
+
+===[https://s.meo.ws/about/more s.meo.ws]===
+
+====[http://www.unmung.com/mastoview?url=s.meo.ws&view=local (Preview This Instance)]====
+
+====Description====
+
+s.meo.ws is an experimental Mastodon cluster managed by FuslVZ.
+
+Policies:
+
+Any content/site/service/action illegal in Austria, England, Ukraine or United States
+
+DMCA takedown requests are checked and content is removed if we think it violates the policies
+
+Spamming and mass user following is strictly forbidden and will result in removal of your account
+
+Pornographic content is allowed - Pornographic content picturing minors (under 18) is obviously not allowed, this includes soft pornography and nudity as well
+
+SLA, uptime, service info and support:
+
+We run the systems based on a best-effort policy. We do not offer SLA or uptime guarantee.
+
+Although we try our best, we can not guarantee that this service can be provided forever.
+
+Support (if any at all) is also based on a best-effort policy - Please contact @fusl@s.meo.ws if you have any questions or support inquiries.
+
+This basically means that no SLA is included so if you would like to sign up, do it at your own risk.
+
+====Contact====
+
+Admin: @fusl@s.meo.ws
+
+Email: [mailto:fusl@meo.ws fusl@meo.ws]
+
+----
+
+===[https://masto.io/about/more masto.io]===
+
+====[http://www.unmung.com/mastoview?url=masto.io&view=local (Preview This Instance)]====
+
+====Description====
+
+Small alternative Mastodon instance with a short name. Registrations are open, but they may suspended/closed at any time if performance is compromised.
+
+====Contact====
+
+Admin: @sena@masto.io
+
+Email: [mailto:sena@smux.net sena@smux.net]
+
+----
+
+===[https://mastodon.top/about/more mastodon.top]===
+
+====[http://www.unmung.com/mastoview?url=mastodon.top&view=local (Preview This Instance)]====
+
+====Description====
+
+Français :
+
+Mastodon.top est une instance mastodon hébergée en France par VirtuBox. Notre instance est mise à jour à chaque nouvelle release de mastodon. Visitez notre page à propos pour en savoir plus sur les règles de l'instance et notre politique de modération.
+
+English : 
+
+Mastodon.top is an mastodon instance hosted in France by VirtuBox. Our instance is updated with each new release of mastodon. Visit our about page to learn more about the rules of the instance and our moderation policy.
+
+====Contact====
+
+Admin: @virtubox@mastodon.top
+
+Email: [mailto:contact@virtubox.net contact@virtubox.net]
+
+----
+
+===[https://mastodon.burnworks.com/about/more mastodon.burnworks.com]===
+
+====[http://www.unmung.com/mastoview?url=mastodon.burnworks.com&view=local (Preview This Instance)]====
+
+====Description====
+
+@burnworks 専用インスタンス
+
+====Contact====
+
+Admin: @burnworks@mastodon.burnworks.com
+
+Email: [mailto:yoshiki.kato@gmail.com yoshiki.kato@gmail.com]
+
+----
+
+===[https://wellness.so/about/more wellness.so]===
+
+====[http://www.unmung.com/mastoview?url=wellness.so&view=local (Preview This Instance)]====
+
+====Description====
+
+wellness.so
+
+====Contact====
+
+Admin: @ellery@wellness.so
+
+Email: Not Available
+
+----
+
+===[https://mstdn.omaera.org/about/more mstdn.omaera.org]===
+
+====[http://www.unmung.com/mastoview?url=mstdn.omaera.org&view=local (Preview This Instance)]====
+
+====Description====
+
+Personal Mastodon instance. If you want to join Mastodon please use one of the many public Mastodon instances: https://instances.mastodon.xyz/
+
+日本語
+
+独自インスタンスです。
+
+エロゲーの問題を扱う公開インスタンスのオススメ： https://august-don.site/
+
+====Contact====
+
+Admin: @z411@mstdn.omaera.org
+
+Email: [mailto:z411@omaera.org z411@omaera.org]
+
+----
+
+===[https://geeks.one/about/more geeks.one]===
+
+====[http://www.unmung.com/mastoview?url=geeks.one&view=local (Preview This Instance)]====
+
+====Description====
+
+Mastodon instance certified "Human" & "Geek", mainly french, but any language is allowed.
+
+All subjects can be approached, does intelligence not bind things together? ☯
+
+====Contact====
+
+Admin: @Solinvictus@geeks.one
+
+Email: [mailto:contact@geeks.one contact@geeks.one]
+
+----
+
+===[https://dtp-mstdn.jp/about/more dtp-mstdn.jp]===
+
+====[http://www.unmung.com/mastoview?url=dtp-mstdn.jp&view=local (Preview This Instance)]====
+
+====Description====
+
+DTP・デザイン・印刷関係者のためのMastodonインスタンスです。
+
+お問い合わせ先
+
+本サイトから → @noellabo
+
+Twitterから → @noellabo
+
+====Contact====
+
+Admin: @noellabo@dtp-mstdn.jp
+
+Email: [mailto:noel.yoshiba@gmail.com noel.yoshiba@gmail.com]
+
+----
+
+===[https://anticapitalist.party/about/more anticapitalist.party]===
+
+====[http://www.unmung.com/mastoview?url=anticapitalist.party&view=local (Preview This Instance)]====
+
+====Description====
+
+Anticapitalist Mastodon instance. Party means fun, not political party. But we're still political.
+
+This instance follows stable updates (currently v1.3.2), it's not getting dev updates from the master branch.
+
+Registrations are invite-only on this instance. You must be recommended by a user to get in. How to invite a friend to anticapitalist.party ? Or : Joining anticapitalist.party without an invite
+
+====Contact====
+
+Admin: @corzntin@anticapitalist.party
+
+Email: [mailto:self@corzntin.fr self@corzntin.fr]
+
+----
+
+===[https://mstdn.io/about/more mstdn.io]===
+
+====[http://www.unmung.com/mastoview?url=mstdn.io&view=local (Preview This Instance)]====
+
+====Description====
+
+Fast and up-to-date instance, welcoming everyone around the world. Come join us!
+
+Up since 04/04/2017.
+
+====Contact====
+
+Admin: @angristan@mstdn.io
+
+Email: [mailto:angristan@protonmail.com angristan@protonmail.com]
+
+----
+
+===[https://mastodon.uno/about/more mastodon.uno]===
+
+====[http://www.unmung.com/mastoview?url=mastodon.uno&view=local (Preview This Instance)]====
+
+====Description====
+
+Hey baby, wanna see my federated timeline?
+
+Probabilmente la prima istanza italiana di Mastodon. Comportatevi bene.
+
+====Contact====
+
+Admin: @filippodb@mastodon.uno
+
+Email: [mailto:info@mastodon.uno info@mastodon.uno]
+
+----
+
+===[https://schuppentier.org/about/more schuppentier.org]===
+
+====[http://www.unmung.com/mastoview?url=schuppentier.org&view=local (Preview This Instance)]====
+
+====Description====
+
+schuppentier.org
+
+====Contact====
+
+Admin: @derintendant@schuppentier.org
+
+Email: [mailto:hallo@schuppentier.org hallo@schuppentier.org]
+
+----
+
+===[https://masto.pt/about/more masto.pt]===
+
+====[http://www.unmung.com/mastoview?url=masto.pt&view=local (Preview This Instance)]====
+
+====Description====
+
+Masto.pt é uma instância do universo Mastodon para pessoas que falam português.
+
+O universo Mastodon é único pois não é centralizado e não existe uma grande empresa que o controla. O Masto.pt pretende ajudar a encontrar e criar uma comunidade para utilizadores portugueses.
+
+Não existem grandes regras para participar. O serviço é gratuito e se usarem o bom senso não terão qualquer problema.
+
+Lembramos que isto é um projecto feito da boa vontade e não existem garantias de funcionamento. O bom disso é que podes participar, sugerir ou ajudar a melhorar este espaço.
+
+====Contact====
+
+Admin: @hugo@masto.pt
+
+Email: [mailto:info@masto.pt info@masto.pt]
+
+----
+
+===[https://mstdn.t11i.jp/about/more mstdn.t11i.jp]===
+
+====[http://www.unmung.com/mastoview?url=mstdn.t11i.jp&view=local (Preview This Instance)]====
+
+====Description====
+
+mstdn.t11i.jp
+
+====Contact====
+
+Admin: @taikoyaP@mstdn.t11i.jp
+
+Email: Not Available
+
+----
+
+===[https://miaou.drycat.fr/about/more miaou.drycat.fr]===
+
+====[http://www.unmung.com/mastoview?url=miaou.drycat.fr&view=local (Preview This Instance)]====
+
+====Description====
+
+Miaou est une instance Mastodonte, géré et hébergé en France. Elle fait partie de l'intiative CHATONS 
+
+Si vous rencontrer un problème lors de votre inscription, contactez moi sur admin@drycat.fr  
+
+If you encounter problem to register or other, contact me at admin@drycat.fr 
+
+Les comptes publicitaires, corporate sont interdit ! Ainsi que les comptes faisant l'apologie du nazisme ou du terrorisme.
+
+Advertising and corporate accounts are forbidden! As well as accounts defending Nazism or terrorism.
+
+  
+
+Use NSFW tag or content Warning for porn image or hard image (type of image censor by facebook in fact) 
+
+Utilisez le tag NSFW ou CW pour les images pornographique ou non recommandé pour des personnes censible (en sommes les images que censure facebook) 
+
+====Contact====
+
+Admin: @Dryusdan@miaou.drycat.fr
+
+Email: [mailto:admin@drycat.fr admin@drycat.fr]
+
+----
+
+===[https://mastodon.direct/about/more mastodon.direct]===
+
+====[http://www.unmung.com/mastoview?url=mastodon.direct&view=local (Preview This Instance)]====
+
+====Description====
+
+Mastodon.direct is an open Mastodon instance welcoming people to discuss a broad range of topics. We strive to provide a high quality instance with reliability, speed, and a responsive moderation team.
+
+====Contact====
+
+Admin: @djchen@mastodon.direct
+
+Email: [mailto:hello@mastodon.direct hello@mastodon.direct]
+
+----
+
+===[https://niu.moe/about/more niu.moe]===
+
+====[http://www.unmung.com/mastoview?url=niu.moe&view=local (Preview This Instance)]====
+
+====Description====
+
+Welcome here Ｏ(≧▽≦)Ｏ!
+
+====Contact====
+
+Admin: @Technowix@niu.moe
+
+Email: [mailto:What is... business ? What is... business ?]
+
+----
+
+===[https://md.ggtea.org/about/more md.ggtea.org]===
+
+====[http://www.unmung.com/mastoview?url=md.ggtea.org&view=local (Preview This Instance)]====
+
+====Description====
+
+ggtea.orgの人のほぼ個人用インスタンスです
+
+サービスの継続性その他は管理人が管理出来る範囲で処理されます
+
+禁止事項など
+
+警察や、裁判所からの手紙、内容証明郵便が来るような行為
+
+管理人の許可しないBotの運用
+
+自動化された大量フォロー、大量ポストなどのサーバに負荷がかかる行為
+
+注意事項など
+
+基本的に人の活動に対応するアカウントを想定しています。
+
+宣伝ほかについては迷惑になりそうな場合何らかの対処をする可能性はあります。
+
+無人っぽいアカウントも消す可能性があります。
+
+サーバのメンテナンスについては随時行なう可能性があります。できるだけ起こらないようにしますがメンテナンスの結果データが消える可能性は当然あります。
+
+負荷増大の結果家鯖で処理出来無くなった場合サービスを止めるなどをする可能性はあります。
+
+家鯖の回線の不調、家鯖の不調、家鯖の構成変更ほかによりサービスの可用性に問題が発生する可能性があります。
+
+サーバ内の比較的古い過去の画像などのデータに関しては消していく可能性が高いです。
+
+その他想定外の事象に対しては常識的に考えられる方向にベストエフォートで対応されます。
+
+====Contact====
+
+Admin: @Clworld@md.ggtea.org
+
+Email: [mailto:clworld@ggtea.org clworld@ggtea.org]
+
+----
+
+===[https://mastodon.llamasweet.tech/about/more mastodon.llamasweet.tech]===
+
+====[http://www.unmung.com/mastoview?url=mastodon.llamasweet.tech&view=local (Preview This Instance)]====
+
+====Description====
+
+Mastodon about tech, dev and SysAdmin
+
+Hosted by Ikoula
+
+====Contact====
+
+Admin: @genesixx@mastodon.llamasweet.tech
+
+Email: [mailto:genesixxbf3@gmail.com genesixxbf3@gmail.com]
+
+----
+
+===[https://mstdn.archi/about/more mstdn.archi]===
+
+====[http://www.unmung.com/mastoview?url=mstdn.archi&view=local (Preview This Instance)]====
+
+====Description====
+
+Architects Social Network as a Mastodon instance
+
+====Contact====
+
+Admin: @colorfield@mstdn.archi
+
+Email: [mailto:christophe@colorfield.eu christophe@colorfield.eu]
+
+----
+
+===[https://masto.themimitoof.fr/about/more masto.themimitoof.fr]===
+
+====[http://www.unmung.com/mastoview?url=masto.themimitoof.fr&view=local (Preview This Instance)]====
+
+====Description====
+
+Masto.themimitoof.fr is an instance by themimitoof.fr. Join us on this great community!
+
+Masto.themimitoof.fr est une instance par themimitoof.fr. Rejoignez-nous sur cette belle communauté !
+
+====Contact====
+
+Admin: @themimitoof@masto.themimitoof.fr
+
+Email: [mailto:contact+mastodon@mvieira.fr contact+mastodon@mvieira.fr]
+
+----
+
+===[https://hex.bz/about/more hex.bz]===
+
+====[http://www.unmung.com/mastoview?url=hex.bz&view=local (Preview This Instance)]====
+
+====Description====
+
+hex.bz
+
+====Contact====
+
+Admin: Not Available
+
+Email: [mailto:syfaro@foxpaw.in syfaro@foxpaw.in]
+
+----
+
+===[https://lovethe.wang/about/more lovethe.wang]===
+
+====[http://www.unmung.com/mastoview?url=lovethe.wang&view=local (Preview This Instance)]====
+
+====Description====
+
+Do you love the wang?
+
+We're pretty lewd here, be warned.
+
+====Contact====
+
+Admin: @kaylee@lovethe.wang
+
+Email: [mailto:kaylee@lovethe.wang kaylee@lovethe.wang]
+
+----
+
+===[https://mastodon.opportunis.me/about/more mastodon.opportunis.me]===
+
+====[http://www.unmung.com/mastoview?url=mastodon.opportunis.me&view=local (Preview This Instance)]====
+
+====Description====
+
+Une instance ouverte à tou.te.s, qui se veut un minimum inclusive :
+
+serveur réservé aux personnes parlant français ou anglais, par souci de facilité de modération.
+
+Sexisme, racisme, homophobie et toutes formes d'exclusion des minorités sont à proscrire pour le bien être de tou.te.s.
+
+Respectez la vie privée des personnes.
+
+Utilisez les tags et autres CW que vous jugez adaptés, en particulier pour le contenu NotSafeForWork (NSFW).
+
+Essayez d'être prévénant.e.s et inclusif.ve.s.
+
+Si l'un de vos propos est perçu comme excluant et que quelqu'un vous en informe, écoutez. Nous sortirons tou.te.s grandi.e.s d'un tel dialogue.
+
+Sachez que nous préférerons toujours notre liberté d'être ensemble à votre liberté d'exclure.
+
+J'ai décidé de ne pas modérer l'extérieur de l'instance (bloquer des instances et/ou utilisatrices/eurs d'autres instances), sauf exceptions qui seront signalées ici et annoncées publiquements si des cas graves se présentent. J'estime qu'il est à chacun.e de choisir ce qu'iel veut lire de l'extérieur.
+
+Merci au POOP, dont je ne cesse de m'inspirer de leur code de conduite.
+
+====Contact====
+
+Admin: @Courgette@mastodon.opportunis.me
+
+Email: [mailto:courgette@unicorntelecom.eu courgette@unicorntelecom.eu]
+
+----
+
+===[https://mastodon.m0t0k1ch1.com/about/more mastodon.m0t0k1ch1.com]===
+
+====[http://www.unmung.com/mastoview?url=mastodon.m0t0k1ch1.com&view=local (Preview This Instance)]====
+
+====Description====
+
+m0t0k1ch1@mastodon.m0t0k1ch1.com お 1 人様ドンです。
+
+====Contact====
+
+Admin: @m0t0k1ch1@mastodon.m0t0k1ch1.com
+
+Email: [mailto:m0t0k1ch1.310@gmail.com m0t0k1ch1.310@gmail.com]
+
+----
+
+===[https://hostux.social/about/more hostux.social]===
+
+====[http://www.unmung.com/mastoview?url=hostux.social&view=local (Preview This Instance)]====
+
+====Description====
+
+hostux.social
+
+====Contact====
+
+Admin: Not Available
+
+Email: [mailto:contact@hostux.social contact@hostux.social]
+
+----
+
+===[https://from.komic.eu/about/more from.komic.eu]===
+
+====[http://www.unmung.com/mastoview?url=from.komic.eu&view=local (Preview This Instance)]====
+
+====Description====
+
+from.komic.eu
+
+====Contact====
+
+Admin: @shitpost@from.komic.eu
+
+Email: [mailto:contact@komic.eu contact@komic.eu]
+
+----
+
+===[https://m.massy.city/about/more m.massy.city]===
+
+====[http://www.unmung.com/mastoview?url=m.massy.city&view=local (Preview This Instance)]====
+
+====Description====
+
+Une instance Mastodon dédiée aux habitants de Massy (91) en France, tenue à jour et fournie par StrangeBlackHole SAS une entreprise Massicoise. Hébergée en France, l'un de ses objectif premier est la transparence mais aussi de fournir un outil de réseautage local et des services associés. La modération est collaborative, n’hésitez surtout pas à rapporter tout contenu problématique !
+
+Cette instance n'a aucun lien avec la municipalité et ne dépend d'aucun parti politique ou courant de pensée. Elle sera ce que vous en ferez.
+
+====Contact====
+
+Admin: @fabrice@m.massy.city
+
+Email: [mailto:contact@massy.city contact@massy.city]
+
+----
+
+===[https://i.write.codethat.sucks/about/more i.write.codethat.sucks]===
+
+====[http://www.unmung.com/mastoview?url=i.write.codethat.sucks&view=local (Preview This Instance)]====
+
+====Description====
+
+I write code that sucks, if you do too this is the place for you!
+
+====Contact====
+
+Admin: @kaylee@i.write.codethat.sucks
+
+Email: [mailto:kaylee@codethat.sucks kaylee@codethat.sucks]
+
+----
+
+===[https://minidon.bacardi55.org/about/more minidon.bacardi55.org]===
+
+====[http://www.unmung.com/mastoview?url=minidon.bacardi55.org&view=local (Preview This Instance)]====
+
+====Description====
+
+Mastodon instance of Bacardi55
+
+Because keeping our data to ourself matters!
+
+====Contact====
+
+Admin: @bacardi55@minidon.bacardi55.org
+
+Email: [mailto:bac@rdi55.pl bac@rdi55.pl]
+
+----
+
+===[https://m.sl-network.fr/about/more m.sl-network.fr]===
+
+====[http://www.unmung.com/mastoview?url=m.sl-network.fr&view=local (Preview This Instance)]====
+
+====Description====
+
+Instance Mastodon SL-Network
+
+Inscriptions libres, rejoignez-nous !
+
+====Contact====
+
+Admin: @myckeul@m.sl-network.fr
+
+Email: [mailto:myckeul@sl-network.fr myckeul@sl-network.fr]
+
+----
+
+===[https://myfreckle.com/about/more myfreckle.com]===
+
+====[http://www.unmung.com/mastoview?url=myfreckle.com&view=local (Preview This Instance)]====
+
+====Description====
+
+myfreckle.com
+
+====Contact====
+
+Admin: Not Available
+
+Email: [mailto:freckle@myfreckle.com freckle@myfreckle.com]
+
+----
+
+===[https://mastodon.tetaneutral.net/about/more mastodon.tetaneutral.net]===
+
+====[http://www.unmung.com/mastoview?url=mastodon.tetaneutral.net&view=local (Preview This Instance)]====
+
+====Description====
+
+Ce serveur héberge une instance de Mastodon, réseau social de micro-blogging libre et décentralisé. Vous pouvez vous inscrire ici pour partager avec les autres membres, ainsi qu'avec les membres des autres instances. Bienvenue.
+
+Si le serveur n'accepte plus les nouveaux utilisateurs, essayez sur mstdn.fr.
+
+====Contact====
+
+Admin: @tetaneutral_net@mastodon.tetaneutral.net
+
+Email: [mailto:mastodon-contact@tetaneutral.net mastodon-contact@tetaneutral.net]
+
+----
+
+===[https://social.atoh.me/about/more social.atoh.me]===
+
+====[http://www.unmung.com/mastoview?url=social.atoh.me&view=local (Preview This Instance)]====
+
+====Description====
+
+Instance Mastondon  dédiée à la maison connectée / Mastodon instance for the smarthome.
+
+====Contact====
+
+Admin: @Hotfirenet@social.atoh.me
+
+Email: [mailto:social@atoh.me social@atoh.me]
+
+----
+
+===[https://eunivers.social/about/more eunivers.social]===
+
+====[http://www.unmung.com/mastoview?url=eunivers.social&view=local (Preview This Instance)]====
+
+====Description====
+
+Bonjour à tous, vous êtes sur l'instance Mastodon de l'association eunivers. Nous sommes un groupe de passionnés du monde de l’électronique, des jeux vidéo, du esport et de bien d'autres passions.
+
+Site : eunivers.net
+
+Si vous avez un problème pour vous inscrire, contactez l'administrateur par mail.
+
+Cette instance est mise à jour régulièrement sur les Release
+
+====Contact====
+
+Admin: @Mandar@eunivers.social
+
+Email: [mailto:webmaster@eunivers.net webmaster@eunivers.net]
+
+----
+
+===[https://brrrt.eu/about/more brrrt.eu]===
+
+====[http://www.unmung.com/mastoview?url=brrrt.eu&view=local (Preview This Instance)]====
+
+====Description====
+
+Vous êtes les bienvenus si on a déjà bu un verre ensemble !
+
+This site is for my friends. You're welcome if you know me in some way, for instance if we had a drink one day.
+
+====Contact====
+
+Admin: @hipparkhos@brrrt.eu
+
+Email: [mailto:hipparkhos@gmail.com hipparkhos@gmail.com]
+
+----
+
+===[https://hash.my/about/more hash.my]===
+
+====[http://www.unmung.com/mastoview?url=hash.my&view=local (Preview This Instance)]====
+
+====Description====
+
+Mastodon instance for Malaysian 🇲🇾 
+
+Registration is open for a limited time only.
+
+====Contact====
+
+Admin: Not Available
+
+Email: [mailto:hello@hash.my hello@hash.my]
+
+----
+
+===[https://pouets.ovh/about/more pouets.ovh]===
+
+====[http://www.unmung.com/mastoview?url=pouets.ovh&view=local (Preview This Instance)]====
+
+====Description====
+
+pouets.ovh est une petite instance hébergée sur un serveur virtuel ovh.
+
+Mise à jour régulière
+
+Support ipv6
+
+Https A+
+
+====Contact====
+
+Admin: @noName@pouets.ovh
+
+Email: [mailto:mastodonin@gmail.com mastodonin@gmail.com]
+
+----
+
+===[https://mastodon.hexaly.se/about/more mastodon.hexaly.se]===
+
+====[http://www.unmung.com/mastoview?url=mastodon.hexaly.se&view=local (Preview This Instance)]====
+
+====Description====
+
+mastodon.hexaly.se
+
+====Contact====
+
+Admin: @Hexalyse@mastodon.hexaly.se
+
+Email: Not Available
+
+----
+
+===[https://oc.todon.fr/about/more oc.todon.fr]===
+
+====[http://www.unmung.com/mastoview?url=oc.todon.fr&view=local (Preview This Instance)]====
+
+====Description====
+
+oc.todon.fr est une instance Mastodon francophone et avec une modération active. oc.todon.fr is an actively-moderated French-speaking Mastodon instance. oc.todon.frは、積極的にモデレートされたフランス語圏のMastodonインスタンスです。
+
+====Contact====
+
+Admin: @val@oc.todon.fr
+
+Email: [mailto:progval+octodon@progval.net progval+octodon@progval.net]
+
+----
+
+===[https://mammouth.cafe/about/more mammouth.cafe]===
+
+====[http://www.unmung.com/mastoview?url=mammouth.cafe&view=local (Preview This Instance)]====
+
+====Description====
+
+Have fun. Be respectful. No drama.
+
+PLEASE DON'T HACK THE GIBSON.
+
+      .----.-.     _____________________________________
+
+     /    ( o \   /   Welcome! Bienvenue! Willkommen!   \
+
+    '|  __ ` ||  /\  Benvenuta e benvenuto! Bainvegni!  /
+
+     |||  ||| -'   -------------------------------------
+
+(In the spirit of tilde.club...)
+
+English: Mammouth Café is a Swiss Mastodon instance running on a French server and open to the world. We particularly welcome artists and illustrators, journalists and writers, librarians and archivists, scientists and engineers, teachers, as well as all curious minds.
+
+Registrations will be limited to 640 users (‘640 users ought to be enough for anybody.’ — Bill Gates).
+
+Français: Mammouth Café est une instance suisse de Mastodon tournant sur un serveur français et ouverte au monde. Nous accueillons particulièrement volontiers les artistes, les illustratrices et illustrateurs, les journalistes, les auteures et auteurs, les bibliothécaires et les archivistes, les scientifiques, les ingénieures et les ingénieurs, les enseignantes et enseignants, ainsi que tous les esprits curieux.
+
+Les inscriptions à cette instance seront limitées à 640 utilisateurs («640 utilisateurs devraient suffire à quiconque.» — Bill Gates). 
+
+Italiano: Mammouth Café è un'istanza svizzera di Mastodon installata su un server francese e aperta al mondo. Particolarmente benvenute e benvenuti sono artiste e artisti, illustratrici e illustratori, giornaliste e giornalisti, autori, bibliotecarie e bibliotecari, archivisti, scienziate e scienziati, ingegnere e ingegneri, insegnanti, così come tutte le menti curiose.
+
+Le iscrizioni su questa istanza saranno limitate a 640 utenti (“640 utenti dovrebbero bastare a chiunque.” — Bill Gates).
+
+With ❤ from Atelier Mammouth.
+
+====Contact====
+
+Admin: @skk@mammouth.cafe
+
+Email: [mailto:skk@mammouth.cafe skk@mammouth.cafe]
+
+----
+
+===[https://kuhatweet.kallelaine.com/about/more kuhatweet.kallelaine.com]===
+
+====[http://www.unmung.com/mastoview?url=kuhatweet.kallelaine.com&view=local (Preview This Instance)]====
+
+====Description====
+
+kuhatweet.kallelaine.com
+
+====Contact====
+
+Admin: @pahakalle@kuhatweet.kallelaine.com
+
+Email: Not Available
+
+----
+
+===[https://mamout.xyz/about/more mamout.xyz]===
+
+====[http://www.unmung.com/mastoview?url=mamout.xyz&view=local (Preview This Instance)]====
+
+====Description====
+
+Bienvenue dans ce réseau social fédéré. Les inscriptions sont ouvertes et libres.
+
+====Contact====
+
+Admin: @JMousqueton@mamout.xyz
+
+Email: [mailto:admin@mamout.xyz admin@mamout.xyz]
+
+----
+
+===[https://don.tacostea.net/about/more don.tacostea.net]===
+
+====[http://www.unmung.com/mastoview?url=don.tacostea.net&view=local (Preview This Instance)]====
+
+====Description====
+
+せっかくなのでDBふっ飛ばしてみました☆
+
+だいたい0x20代までの若いエンジニア(業種不問)やエンジニアになってしまいそうな人たちを募集しています。
+
+====Contact====
+
+Admin: @tacostea@don.tacostea.net
+
+Email: [mailto:tacos@tacostea.net tacos@tacostea.net]
+
+----
+
+===[https://mastodon.network/about/more mastodon.network]===
+
+====[http://www.unmung.com/mastoview?url=mastodon.network&view=local (Preview This Instance)]====
+
+====Description====
+
+A social network open to all users.
+
+====Contact====
+
+Admin: Not Available
+
+Email: [mailto:hello@mastodon.network hello@mastodon.network]
+
+----
+
+===[https://corrigan.moe/about/more corrigan.moe]===
+
+====[http://www.unmung.com/mastoview?url=corrigan.moe&view=local (Preview This Instance)]====
+
+====Description====
+
+A personal Mastodon instance.
+
+====Contact====
+
+Admin: @michael@corrigan.moe
+
+Email: [mailto:admin@corrigan.moe admin@corrigan.moe]
+
+----
+
+===[https://mastodon.survival-machines.fr/about/more mastodon.survival-machines.fr]===
+
+====[http://www.unmung.com/mastoview?url=mastodon.survival-machines.fr&view=local (Preview This Instance)]====
+
+====Description====
+
+mastodon.survival-machines.fr
+
+====Contact====
+
+Admin: @Slaynash@mastodon.survival-machines.fr
+
+Email: [mailto:hugoflores@hotmail.fr hugoflores@hotmail.fr]
+
+----
+
+===[https://masto.fdlibre.eu/about/more masto.fdlibre.eu]===
+
+====[http://www.unmung.com/mastoview?url=masto.fdlibre.eu&view=local (Preview This Instance)]====
+
+====Description====
+
+L'instance personnelle de fdlibre.eu
+
+====Contact====
+
+Admin: @Sangfroid@masto.fdlibre.eu
+
+Email: [mailto:admin@fdlibre.eu admin@fdlibre.eu]
+
+----
+
+===[https://metal.odon.space/about/more metal.odon.space]===
+
+====[http://www.unmung.com/mastoview?url=metal.odon.space&view=local (Preview This Instance)]====
+
+====Description====
+
+Yet another instance, with a very cool name.
+
+Also accessible on http://metaldgap4xw5hlo.onion
+
+====Contact====
+
+Admin: Not Available
+
+Email: [mailto:admin@odon.space admin@odon.space]
+
+----
+
+===[https://aka.my/about/more aka.my]===
+
+====[http://www.unmung.com/mastoview?url=aka.my&view=local (Preview This Instance)]====
+
+====Description====
+
+aka.my
+
+====Contact====
+
+Admin: @s@aka.my
+
+Email: [mailto:me@aka.my me@aka.my]
+
+----
+
+===[https://lgbt.io/about/more lgbt.io]===
+
+====[http://www.unmung.com/mastoview?url=lgbt.io&view=local (Preview This Instance)]====
+
+====Description====
+
+By signing up, you agree to abide by the Terms and the Rules for this instance as follows:-
+
+Do not discriminate, harrass and/or insult members based on their religion, race, sex, political beliefs, or whether they are gay or straight.
+
+Do not bully and/or pick on other members.
+
+Do not flame other members.
+
+Do not advertise. As of now, you are not permitted to make money using lgbt.io.
+
+Do not publicly expose your real identity unless you're using "Direct" privacy and you're communicating with someone you can trust.
+
+Do not post screenshots or history of toot conversations publicly without all participants' consent.
+
+Do not post copyrighted, piracy, warez and leaked content.
+
+Do not spam.
+
+All NSFW/sexual content must be accompanied by NSFW (not safe for work) and/or CW (content warning) option when writing a toot.
+
+..more rules will be added when needed.
+
+Note: Make sure to report any toots that violate the rules. A staff member will evaluate the reported toots and take appropriate actions against the them.
+
+Happy tooting! :)
+
+====Contact====
+
+Admin: @self@lgbt.io
+
+Email: [mailto:admin@lgbt.io admin@lgbt.io]
+
+----
+
+===[https://mastodon.pl/about/more mastodon.pl]===
+
+====[http://www.unmung.com/mastoview?url=mastodon.pl&view=local (Preview This Instance)]====
+
+====Description====
+
+mastodon.pl
+
+====Contact====
+
+Admin: Not Available
+
+Email: Not Available
+
+----
+
+===[https://mastodon.elmit.com/about/more mastodon.elmit.com]===
+
+====[http://www.unmung.com/mastoview?url=mastodon.elmit.com&view=local (Preview This Instance)]====
+
+====Description====
+
+The Twitter Killer
+
+Welcome
+
+Here some resources to understand Mastodon:
+
+Welcome to Mastodon by @Gargron
+
+Bye, Twitter. All the cool kids are migrating to Mastodon by Mashable
+
+Rules
+
+No illegal content. The server is hosted in France : racism, apology for terrorism, bullying, defamation, violations privacy rights and child pornograhy are illegal under French law.
+
+No oppressive content (sexism, homophobia, etc).
+
+No parody account.
+
+No bot (for the moment).
+
+Any graphical content have to contain a Content Warning.
+
+No explicit sexual content in the public timeline without content warning (you can configure your toot privacy on "public but do not display on public timeline").
+
+Mobile applications
+
+Android : Tusky
+
+iOS : Amaroq for Mastodon
+
+Full list
+
+Support Mastodon
+
+The code source can be found here : Github
+
+You can help the developer of Mastodon on Patreon
+
+Support this instance mastodon.elmit.com
+
+====Contact====
+
+Admin: @Elmit@mastodon.elmit.com
+
+Email: [mailto:ronald+mastodon@elmit.com ronald+mastodon@elmit.com]
+
+----
+
+===[https://tenforward.social/about/more tenforward.social]===
+
+====[http://www.unmung.com/mastoview?url=tenforward.social&view=local (Preview This Instance)]====
+
+====Description====
+
+Welcome to Ten Forward, a Star Trek themed Mastodon instance!
+
+For more information on what Ten Forward is in the Star Trek universe, please read this page on Memory-Alpha.
+
+The instance is not restricted to Star Trek role-play or characters. More general purpose use is welcome.
+
+====Contact====
+
+Admin: @guinan@tenforward.social
+
+Email: [mailto:guinan@tenforward.social guinan@tenforward.social]
+
+----
+
+===[https://social.starmade.de/about/more social.starmade.de]===
+
+====[http://www.unmung.com/mastoview?url=social.starmade.de&view=local (Preview This Instance)]====
+
+====Description====
+
+Just another Mastodon host
+
+====Contact====
+
+Admin: @ahava@social.starmade.de
+
+Email: [mailto:ahava@meincraft.eu ahava@meincraft.eu]
+
+----
+
+===[https://misanthropy.space/about/more misanthropy.space]===
+
+====[http://www.unmung.com/mastoview?url=misanthropy.space&view=local (Preview This Instance)]====
+
+====Description====
+
+misanthropy.space
+
+====Contact====
+
+Admin: Not Available
+
+Email: Not Available
+
+----
+
+===[https://wizfox.jp/about/more wizfox.jp]===
+
+====[http://www.unmung.com/mastoview?url=wizfox.jp&view=local (Preview This Instance)]====
+
+====Description====
+
+wizfox.jpはWizFoxが個人で運営するMastodonインスタンスです。
+
+ジャンルなどの決まりもなく、どなたでも登録可能、好きな形で利用できます。
+
+ただし、当然ですが法律および公序良俗に反する行為は処罰の対象となります。
+
+====Contact====
+
+Admin: @WizFox@wizfox.jp
+
+Email: [mailto:social@wizfox.org social@wizfox.org]
+
+----
+
+===[https://social.svallee.fr/about/more social.svallee.fr]===
+
+====[http://www.unmung.com/mastoview?url=social.svallee.fr&view=local (Preview This Instance)]====
+
+====Description====
+
+Aucune modération de contenu, ni filtre d'enregistrement ne sera appliqué. Si vous n'aimez pas un contenu, vous devez désactiver ou bloquer l'utilisateur qui l'a posté vous-même. 
+
+No content moderation, nor registration filter will be applied. If you dislike a content, you have to mute or block the user that posted it yourself.
+
+====Contact====
+
+Admin: Not Available
+
+Email: [mailto:mastodon@svallee.fr mastodon@svallee.fr]
+
+----
+
+===[https://mstdn.chogawa-bunko.com/about/more mstdn.chogawa-bunko.com]===
+
+====[http://www.unmung.com/mastoview?url=mstdn.chogawa-bunko.com&view=local (Preview This Instance)]====
+
+====Description====
+
+千代川祐希／ちょがわ文庫の個人インスタンスです。
+
+This is the personal instance of Yuki Chiyokawa / Chogawa Bunko.
+
+====Contact====
+
+Admin: Not Available
+
+Email: [mailto:yuki@chogawa-bunko.com yuki@chogawa-bunko.com]
+
+----
+
+===[https://soc.ialis.me/about/more soc.ialis.me]===
+
+====[http://www.unmung.com/mastoview?url=soc.ialis.me&view=local (Preview This Instance)]====
+
+====Description====
+
+A
+
+generalist
+
+Mastodon instance hosted in
+
+France
+
+====Contact====
+
+Admin: @admin@soc.ialis.me
+
+Email: [mailto:soc@ialis.me soc@ialis.me]
+
+----
+
+===[https://mastodon.zombocloud.com/about/more mastodon.zombocloud.com]===
+
+====[http://www.unmung.com/mastoview?url=mastodon.zombocloud.com&view=local (Preview This Instance)]====
+
+====Description====
+
+staticsafe's Mastodon instance.
+
+Welcome to Zombocom.
+
+====Contact====
+
+Admin: @staticsafe@mastodon.zombocloud.com
+
+Email: [mailto:mastodon@sadiqsaif.com mastodon@sadiqsaif.com]
+
+----
+
+===[https://mastodon.roflcopter.fr/about/more mastodon.roflcopter.fr]===
+
+====[http://www.unmung.com/mastoview?url=mastodon.roflcopter.fr&view=local (Preview This Instance)]====
+
+====Description====
+
+This instance is managed by roflcopter.fr team.Proud member of CHATONS.
+
+You can help us by donating some 
+
+Bitcoin
+
+or by using Paypay !
+
+====Contact====
+
+Admin: Not Available
+
+Email: [mailto:admin@roflcopter.fr admin@roflcopter.fr]
+
+----
+
+===[https://mastodon.land/about/more mastodon.land]===
+
+====[http://www.unmung.com/mastoview?url=mastodon.land&view=local (Preview This Instance)]====
+
+====Description====
+
+Free Mastodon instance open to all users.
+
+Create an account here give you an opportunity to interact with mastodon users across all other instances.
+
+====Contact====
+
+Admin: @Yann@mastodon.land
+
+Email: [mailto:contact@rock-hosting.com contact@rock-hosting.com]
+
+----
+
+===[https://im-in.space/about/more im-in.space]===
+
+====[http://www.unmung.com/mastoview?url=im-in.space&view=local (Preview This Instance)]====
+
+====Description====
+
+Space. Space? '''I'm in space!'''
+
+This instance is using the [https://userstyles.org/styles/140852/mastodon-flat-dark-and-colourful Flat, Dark and Colourful!] (Blue and Orange) stylesheet by [https://aleph.land/@dia @dia@aleph.land].
+
+Please follow [https://im-in.space/@status @status] to get updates and news!
+
+[http://tertonda.deviantart.com/art/Space-Core-268796291 Space Core image by TertonDA]
+
+====Contact====
+
+Admin: @kdy@im-in.space
+
+Email: [mailto:kdy@im-in.space kdy@im-in.space]
+
+----

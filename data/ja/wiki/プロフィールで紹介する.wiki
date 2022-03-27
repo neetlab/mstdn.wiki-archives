@@ -1,0 +1,26 @@
+'''プロフィールで紹介する'''または'''Public profile endorsements'''は、[[Mastodon|マストドン]]の機能。
+
+==操作方法==
+あらかじめ対象となるユーザーを[[フォロー]]しておく。そのユーザーを開き、メニューの'''プロフィールで紹介する'''を選択する。
+
+==動作==
+自分の[[ユーザープロフィールページ]]に'''○○によるおすすめ:'''という文言が表示され、その下に、選択されたユーザーが表示される。ここで○○は自分の[[表示名]]である。ここに表示されるユーザーは最大で4件までであり、4件を超えて登録した場合は、ランダムに4件が選ばれる。
+
+この機能はウェブUIに限定されており、Public profile endorsementsを送出するAPIは実装されていない。
+
+==関連する機能==
+日本語圏のマストドンで「おすすめユーザー」と言うと、この機能を指すのか[[フォローレコメンデーション (マストドンの機能)|フォローレコメンデーション]]を指すのか曖昧である。 
+
+==批判==
+[[マストドン公式リポジトリ]]の、この機能のプルリクエストには、「Endorsementはある種の崇拝またはおべっかである<ref>https://github.com/tootsuite/mastodon/pull/8146#issuecomment-411702072</ref>」という批判が書き込まれた。このコメントには多くのthumbs downリアクションが付けられ、険悪なムードになった。
+
+==外部リンク==
+* [https://github.com/tootsuite/mastodon/pull/8146 Public profile endorsements (accounts picked by profile owner) #8146]
+* [https://github.com/tootsuite/mastodon/releases/tag/v2.5.0 v2.5.0]
+
+==脚注==
+<references />
+
+{{DEFAULTSORT:ふろふいいるでしようかいする}}
+[[category:マストドン本体のユーザーレコメンデーション]]
+[[category:議論と対立]]

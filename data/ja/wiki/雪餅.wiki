@@ -1,0 +1,33 @@
+{{Infobox person
+| Name     = {{ruby|'''雪餅'''|ゆきもち}}
+| Image    = [[ファイル:Yukimochi.png|120px]]
+<!-- | Color    = #319D32 -->
+| Country  = 日本
+| Instance = [https://toot.yukimochi.jp toot.yukimochi.jp] ほか
+| Link     = [https://lab.yukimochi.jp YUKIMOCHI Laboratory]<br />[https://www.patreon.com/yukimochi Patreon]
+<!-- | Else     = [[mstdn.jp]]管理人 -->
+}}{{ruby|'''雪餅'''|ゆきもち}}は、インスタンス運営者、プログラマー。
+
+==マストドンインスタンス==
+運営している[[Mastodon|マストドン]]のインスタンス
+
+* https://toot.yukimochi.jp
+* https://innocent.yukimochi.io
+* [https://august-don.site 八月鯖]
+
+==他の分散SNSのインスタンス==
+* https://tube.yukimochi.jp ([[PeerTube]])
+
+==ウェブサイト==
+* [[Mastodon Timeline Peeping Tool]]
+* [https://relay.toot.yukimochi.jp/ YUKIMOCHI Toot Relay Service] ([[pub-relay]]のインスタンス)
+
+==ボット==
+作成した[[Bot|ボット]]
+
+* [https://toot.yukimochi.jp/@Akane 南 あかね]
+* [https://toot.yukimochi.jp/@Reika 西木野 怜香]
+* [https://toot.yukimochi.jp/@Ayano 千堂 綾乃]
+
+{{DEFAULTSORT:ゆきもち}}
+[[category:人物]]

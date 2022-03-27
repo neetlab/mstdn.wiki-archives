@@ -1,0 +1,22 @@
+{{infobox instance
+|Name = '''ヒゲメガネ丼'''
+|Domain = https://hige.alterna-cloud.com
+|Country = 日本
+|Admin = [https://hige.alterna-cloud.com/@amanoyu アマノユウ]
+|Start = 2017年5月2日
+|Kifu = なし
+|Alias = なし
+}}'''ヒゲメガネ丼'''は、オープンソースのソーシャルネットワークMastodonの[[インスタンス]]。
+
+== 概要 ==
+2017年5月2日、[[Aqua Graphic]]管理人のアマノユウ氏によって立ち上げられた、インフラエンジニア、マストドンインスタンス構築・運用、ガジェット好き、Apple好き、お酒好き、楽器をやっている、写真やカメラに目がないユーザーに向けたインスタンス。
+
+インスタンス名の由来は、アマノユウ氏がヒゲメガネなことから。
+
+2017年12月1日に資金難のためAqua Graphicは停止し、このインスタンスのみに絞っての運用となった。
+
+== 関連項目 ==
+* [[Aqua Graphic]]
+
+{{DEFAULTSORT:higealternacloudcom}}
+[[Category:日本のインスタンス]]

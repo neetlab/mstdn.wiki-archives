@@ -1,0 +1,34 @@
+'''日本語ポーランドボール板'''は、ポーランドボールが好きな人たちが雑談したり企画したりするための、オープンソースのソーシャルネットワークMastodonの[[インスタンス]]。
+{{Infobox instance
+| Name          = 日本語ポーランドボール板
+| Domain        = https://lordinateur.tech/
+| Admin         = {{account|instance=lordinateur.tech|user=@polandball_ja|link=true}}
+| Country       = なし
+| Start         = 2017年7月28日
+| Kifu          = なし
+| Alias         = なし
+}}
+== 概要 ==
+
+日本語版ポーランドボール板の関連サイトの一つである。
+
+ポーランドボール板はコミックを投稿したりする掲示板であるが、雑談をするための場所がなく、主にTwitterで雑談していた。
+
+しかしTwitterだといつアカウント停止にされるのか分からないので際どい話題をするために作ってみたのがこのインスタンスである。
+
+現在停止中である。マストドンが安定してきたら復活する予定。
+
+== 独自機能 ==
+*Redditと連携できる。
+*L<span style="text-transform: uppercase; font-size: 70%; margin-left: -0.36em; vertical-align: 0.3em; line-height: 0; margin-right: -0.15em">a</span>T<span style="text-transform: uppercase; margin-left: -0.1667em; vertical-align: -0.5ex; line-height: 0; margin-right: -0.125em">e</span>X<noinclude>記法による数式が表示できる。
+*Markdownが使用できる。
+*ABC記法による楽譜の表示や演奏ができる。
+*複数のカラーテーマが使用できる。
+
+== ルール ==
+ポーランドボール板のルールに従ってね。
+
+{{DEFAULTSORT:ほーらんとほーるはん}}
+[[category: 日本のインスタンス]]
+[[category:独自機能が実装されたインスタンス]]
+[[category:消滅したインスタンス]]

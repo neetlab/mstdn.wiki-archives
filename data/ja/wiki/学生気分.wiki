@@ -1,0 +1,24 @@
+{{Infobox word
+|Name = {{Ruby|学生気分|がくせいきぶん}}
+|Hinshi = 名詞
+|Hatsu = 不明
+}}'''学生気分'''とは、フライドポテトのことを指すスラング。
+
+==由来==
+おーぷん2ちゃんねるのユーザーが上司との飲み会でフライドポテトを注文したところ「いつまで学生気分なんだよ」とキレられた<ref>http://hayabusa.open2ch.net/test/read.cgi/news4vip/1495554936/</ref>ことから。
+
+==派生したスラング==
+* '''似非学生気分'''<ref>https://comm.cx/@ikuradon/99160475778859675</ref>または'''ジェネリック学生気分'''<ref>https://mstdn.nere9.help/@rk_asylum/99160478144581866</ref>とは、ハッシュポテト。
+
+==関連するインスタンス==
+* [[mstdn.maud.io]]
+* [[mstdn.nere9.help]]インスタンスの[https://mstdn.nere9.help/@admin Adminアカウント]では、マックフライポテトのクーポン情報が間違えて流された<ref>https://mstdn.nere9.help/@mizukmb/100005123425248900</ref>のを発端として定期的にクーポン情報が流されている<ref>https://mstdn.nere9.help/@pikepikeid/100004880482016103</ref>。
+
+==関連項目==
+* [[飯テロ]]
+
+==脚注==
+<references />
+
+[[category: 象語]]
+{{DEFAULTSORT:かくせいきふん}}

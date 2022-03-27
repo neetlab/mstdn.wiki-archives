@@ -1,0 +1,56 @@
+{{Infobox instance
+ | Nom = glitch.social
+ | Domaine = https://glitch.social/
+ | Admin = [https://glitch.social/@bea Beatrix Bitrot]
+ | Pays = Canada
+ | Création = 9 avril 2017<ref>[https://glitch.social/@bea Beatrix Bitrot], [https://glitch.social/@bea/99309699998066499 pouet], sur ''[[glitch.social]]'', 7 janvier 2018 à 18h22, (consulté le 7 janvier 2018)</ref>
+}}
+'''glitch.social''' est une instance [[Mastodon]] anglophone créée en 2017.
+
+Au 7 janvier 2018, glitch.social comprenait 390 utilisateur·rice·s<ref name="about/more">[https://glitch.social/about/more « À propos »], sur ''[[glitch.social]]'', 2017 (consulté le 7 janvier 2018)</ref>.
+
+== Particularités ==
+glitch.social est utilisée comme plateforme de test pour de potentielles futures fonctionnalités de [[Mastodon]]. Par conséquent, il lui arrive d’être instable et de ne pas fédérer correctement avec les autres instances<ref name="about/more" />.
+
+== Politique de modération ==
+Si glitch.social est une instance généraliste, elle se veut pour autant être autant que possible un endroit sûr. Par conséquent, la politique de modération y est plutôt stricte.
+
+=== Règles ===
+Les règles de glitch.social, telles qu’elles figurent sur [https://glitch.social/about/moresa page d’information détaillée], demandent aux utilisateur·rice·s de respecter la loi canadienne et interdisent le harcèlement, l’utilisation d’insultes oppressives, la publication de nudité ou de contenus pornographiques sur le fil public et la mise en service de robots. Elles incitent également les utilisateur·rice·s à la gentillesse.
+
+=== Instances bloquées et silencées ===
+Au 7 janvier 2018, les instances bloquées ou silencées sont les suivantes :
+* baraag.net
+* community.highlandarrow.com
+* ediot.social
+* freezepeach.xyz
+* gorf.club
+* gs.smuglo.li
+* mastodon.fun
+* npf.mlpol.net
+* noagendasocial.com
+* pleroma.soykaf.com
+* rainbowdash.net
+* sealion.club
+* shitposter.club
+* social.au2pb.net
+* social.heldscal.la
+* sunshinegardens.org
+* unsafe.space
+* woofer.alfter.us
+* pawoo.net (silencée)
+* presidentielle.tech (silencée)
+Cette liste est consultable sur [https://glitch.social/about/more la page d’information détaillée].
+
+== Galerie ==
+<gallery mode="slideshow">
+Image:Page d’accueil de glitch.social.png|alt=La page d’accueil, au texte clair sur un fond sombre. La mascotte de Mastodon est au centre de la page, à côté d’un texte indiquant que les inscriptions sont fermées et invitant à trouver une autre instance.|La page d’accueil de l’instance
+Image:Page d’information de glitch.social.png|alt=La page d’information détaillée, au texte clair sur un fond sombre. On peut voir, dans un bandeau en haut de la page, le nombre d’utilisateur·rice·s de l’instance, le nombre de statuts publiés sur cette dernière, le nombre d’instances auxquelles elle est connectée ainsi que les informations de contact de l’administratrice. En-dessous, on peut lire les règles de l’instance.|La page d’information détaillée de l’instance
+</gallery>
+
+
+== Références ==
+<references />
+
+[[Catégorie:Instances]]
+[[ja:Glitch.social]]

@@ -1,0 +1,20 @@
+{{Infobox word
+| Name          = <ruby>雲隠れ</ruby>
+| Hinshi        = 名詞 動詞 
+| Hatsu         = [[Mastodon.cloud]]
+}}
+[[雲隠れ]]とは、主に[[Mastodon.cloud]]内で利用されているスラングである。
+
+== 概要 ==
+<ruby>雲隠れ<rt>くもがくれ</rt></ruby>は、[[mstdn.jp]]の雰囲気に辟易したユーザーが[[Mastodon.cloud]]に活動を移すことをいう。
+
+[[mstdn.jp]]には特に多くの[[Twitter]]民がいるため、まだ羽の生えたこれから[[雲民]]になるユーザー達は[[クラウド女学院]]の女学生によって羽を毟られ輪廻転象する事となる。
+
+== 使用例 ==
+*象遁、雲隠れの術！
+
+==関連項目==
+* [[不穏]]
+
+{{DEFAULTSORT:くもかくれ}}
+[[category:象語]]

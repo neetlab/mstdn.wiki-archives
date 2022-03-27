@@ -1,0 +1,38 @@
+{{Infobox word
+|Name = トゥートゥー
+|Hinshi = 擬音語
+|Hatsu = 不明
+}}'''トゥートゥー'''とは、ゲームシリーズ「{{Jawp|ポケットモンスター}}」に登場するキャラクター「'''ネイティオ'''」の鳴き声を指すインターネットミームであり、また、[[分散SNS]]である[[Mastodon]]の日本語圏[[インスタンス]]におけるスラングである。
+
+== 概要 ==
+「ポケットモンスター」に登場するキャラクター「ネイティオ」の見た目や鳴き声が特徴的なことから、その鳴き声がスラングとして定着したもの<ref>[http://dic.nicovideo.jp/id/330253 トゥートゥー - ニコニコ大百科]</ref><ref>[https://www49.atwiki.jp/aniwotawiki/pages/9940.html ネイティオ - アニヲタWiki(仮)]</ref><ref>[https://dic.pixiv.net/a/%E3%83%88%E3%82%A5%E3%83%BC%E3%83%88%E3%82%A5%E3%83%BC トゥートゥー - ピクシブ百科事典]</ref><ref>[https://www24.atwiki.jp/xatu-neithio ネイティオこっち見んな@Wiki]</ref><ref>[http://knowyourmeme.com/memes/two-two Two Two - Know Your Meme]</ref>で、インターネット上で度々使用されてきた<ref>[https://game11.5ch.net/test/read.cgi/poke/1163239848/ ネイティオこっち見んな - 5ちゃんねる]</ref><ref>[https://nico.ms/sm968273 ネイティオは大変なトゥートゥー - ニコニコ動画]</ref>。同様の語句を含む事から、別のスラングである「トゥートゥートゥマシェリー」と併せて使用されることもある。
+
+[[日本におけるマストドンブーム]]の発生した2017年4月以降では、投稿を表す単語である「[[トゥート]]」が'''トゥート'''ゥーに似ていることや、「ネイティオ」というほぼ「トゥートゥー」としか書き込まないアカウント<ref>https://mstdn.jp/@twotwo</ref><ref>https://pawoo.net/@twotwo</ref><ref>https://friends.nico/@twotwo</ref>が存在することなどから、Mastodon上でも多くのユーザーにより書き込まれている。
+
+前述のアカウントからトゥートされる「トゥートゥー」にはバリエーションがあり、'''ﾄｩﾄｩﾄｩﾄｩﾄｩﾄｩ'''という笑いを意味するものや、
+<blockquote>
+トゥートゥー<br />
+ゥゥ<br />
+｜　＼<br />
+ト　　ト<br />
+ゥ　　　ゥ<br />
+｜　　　　＼<br />
+</blockquote>
+などのアスキーアートのようなものなど多岐にわたる。また'''ﾄｩﾄｩ'''で描写された時報トゥート<ref>https://mstdn.jp/@twotwo/100016927750350087</ref>も手動で行われている。さらに'''(<●>△<●>)'''というネイティオの顔文字<ref>https://mstdn.jp/@twotwo/98897</ref>や、様々なアスキーアートも存在する<ref>[https://www24.atwiki.jp/xatu-neithio/pages/16.html ネイティオ基本AA - ネイティオこっちみんな@Wiki]</ref>。
+
+「ネイティオ」と同様に、鳴き声や特定の単語のみをトゥートするアカウントもいくつか登場している<ref>[https://mstdn.jp/@Gastrodon トリトドン - mstdn.jp]</ref><ref>[https://pawoo.net/@powwow パウワウ - Pawoo]</ref><ref>[https://friends.nico/@quagsire ヌオー - friends.nico]</ref>。
+
+また、[[friends.nico]]のユーザー有志により、文字をトゥートゥーとしてモールス信号に変換するジェネレーター<ref>[https://kachikachi.net/xatu/ ネイティオ語翻訳機]</ref>も公開されている。
+
+ポケットモンスターをテーマとしているインスタンスの[[ポケマス]]では、独自機能である定型文の一つとして「トゥートゥー」を利用できる。
+
+== 関連項目 ==
+* [[象語]]
+* [[ポだよ]]
+* [[初めまして。宇宙を知りましょう]]
+
+== 出典 ==
+<references />
+
+{{DEFAULTSORT:とううとうう}}
+[[Category:象語]]

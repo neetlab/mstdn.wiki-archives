@@ -1,0 +1,66 @@
+{{Infobox word
+|Name = {{Ruby|AdventCalender|アドベントカレンダー}}
+|Hinshi = 名詞
+|Hatsu = 19世紀初頭
+}}アドベントカレンダーとは、12月、クリスマスの25日までの期間に日数を数えるために使用されるカレンダーである。近年IT業界ではこれに倣って何らかのテーマを持ったカレンダーにコラムを寄稿するというイベントが流行しており、マストドンをテーマとするアドベントカレンダーも多く企画されている。
+
+本稿では、そうしたマストドンをテーマとするアドベントカレンダーを紹介する。
+
+==2017年==
+===Adventar===
+
+* [https://adventar.org/calendars/2178 Mastodon Advent Calendar 2017]
+* [https://adventar.org/calendars/2265 Mastodon 2 Advent Calendar 2017]
+* [https://adventar.org/calendars/2228 mstdn.jp Advent Calendar 2017]
+* [https://adventar.org/calendars/2256 <s>Pawoo Advent Calendar 2017</s>]
+* [https://adventar.org/calendars/2220 nico.friends Advent Calendar 2017]
+* [https://adventar.org/calendars/2225 knzk.me Advent Calendar 2017]
+* [https://adventar.org/calendars/2466 ますとどんちほーりれーマンガ Advent Calendar 2017]
+
+===Qiita===
+
+* [https://qiita.com/advent-calendar/2017/mastodon Mastodon Advent Calendar 2017]
+
+===関連記事===
+
+* [http://www.itmedia.co.jp/news/articles/1710/31/news051.html マストドンつまみ食い日記：12月はマストドンの記事をたくさん読めるぞ - ITmedia NEWS]
+* [http://www.itmedia.co.jp/news/articles/1711/30/news095.html マストドンつまみ食い日記：マストドン関連アドベントカレンダー、さらに追加 - ITmedia NEWS]
+
+==2018年==
+===Adventar===
+* [https://adventar.org/calendars/2892 mstdn.maud .io Advent Calendar 2018] ([[mstdn.maud.io]])
+* [https://adventar.org/calendars/2894 分散SNS Advent Calendar 2018] ([[分散SNS]])
+* [https://adventar.org/calendars/2978 ジョンべべベント・カレンダー Advent Calendar 2018] ([[imastodon.net]], [[imastodon.org]], [https://imastodon.blue imastodon.blue])
+* [https://adventar.org/calendars/3016 いちくら Advent Calendar 2018] ([[ichiji.social]])
+* [https://adventar.org/calendars/3024 インターネット蟹工船 Advent Calendar 2018] ([[mstdn.nere9.help]])
+* [https://adventar.org/calendars/3032 Except imas Advent Calendar 2018] ([[imastodon.net]], [[imastodon.org]], [https://imastodon.blue imastodon.blue])
+* [https://adventar.org/calendars/3046 アイドルマスター Advent Calendar 2018] ([[imastodon.net]]など)
+* [https://adventar.org/calendars/3074 がく鯖交換日記 Advent Calendar 2018]
+* [https://adventar.org/calendars/3075 あるさば交換日記 Advent Calendar 2018]
+* [https://adventar.org/calendars/3089 Mastodon Advent Calendar 2018] ([[Mastodon]])
+* [https://adventar.org/calendars/3231 nico.friends Advent Calendar 2018] ([[friends.nico]])
+* [https://adventar.org/calendars/3300 Misskey Advent Calendar 2018] ([[Misskey]])
+* [https://adventar.org/calendars/3399 ブームを過ぎた今こそ言えることがあります Advent Calendar 2018]
+* [https://adventar.org/calendars/3406 Misskey論 Advent Calendar 2018] ([[Misskey]])
+* [https://adventar.org/calendars/3503 アスタルテゆるゆるアドベントカレンダー Advent Calendar 2018] ([[kirishima.cloud]])
+* [https://adventar.org/calendars/3763 mstdn.beer Advent Calendar 2018] ([https://mstdn.beer mstdn.beer])
+
+===Qiita===
+* [https://qiita.com/advent-calendar/2018/mastodon Mastodon Advent Calendar 2018]
+
+==2019年4月から5月==
+* [https://gw-advent.9wick.com/calendars/16 Mastodon Golden Week Calendar]
+
+==2019年==
+===Adventar===
+* [https://adventar.org/calendars/4408 分散SNS Advent Calendar 2019] ([[分散SNS]])
+* [https://adventar.org/calendars/3903 Fedibird Advent Calendar 2019] ([[fedibird.com]])
+* [https://adventar.org/calendars/3888 ごちそうフォト Advent Calendar 2019] ([[ごちそうフォト]])
+* [https://adventar.org/calendars/3986 Qiitadon Advent Calendar 2019] ([[Qiitadon]])
+* [https://adventar.org/calendars/3971 アスタルテ　アドベントカレンダー Advent Calendar 2019] ([[kirishima.cloud]])
+
+==関連項目==
+* [[マストドンつまみ食い日記]]
+
+[[category:ウェブサイト]]
+{{DEFAULTSORT:あとへんとかれんたあ}}

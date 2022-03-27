@@ -1,0 +1,32 @@
+{{Infobox software
+| Name                = 素朴ディジタル画像インフラストラクチャー
+<!-- | Image               = [[ファイル:Amaroq.jpg|120px|Amaroq]] -->
+| Developer           = [[墓場人夜]]
+| Platform            = ウェブ
+| ProgrammingLanguage = Bash
+<!-- | Launch              = 2017年3月17日 -->
+<!-- | Kifu                = [https://paypal.me/floofdog PayPal] -->
+| License             = [[GNU Affero General Public License]]
+| Web                 = <nowiki>https://mdii.sakura.ne.jp</nowiki>
+}}'''素朴ディジタル画像インフラストラクチャー'''または'''Minimal Digital Image Infrastructure'''または'''MDII'''とは、ファイルアップローダー。複数の[[分散SNS]]から、画像アップローダーまたは[[オブジェクトストレージ]]として使われている。
+
+BashがCGIとして動作する環境であればデプロイが可能である。そのため、安価なレンタルウェブサーバーで運用することができる。
+
+当初は画像のみを対象としていたが、[[Pleroma]]の[[オブジェクトストレージ]]として使用するため、動画と音声もアップロードできるようになった<ref>https://github.com/hakaba-hitoyo/minimal-digital-image-infrastructure/commit/c0bd241dd27e898ba4ed3da609bf5ad328a98ad3</ref>。
+
+==素朴ディジタル画像インフラストラクチャーを利用しているウェブアプリケーション==
+* [[Pleroma]] ([[オブジェクトストレージ]]として)
+* [[Yayaka19]]
+* [[HVDSGM]]
+* [[ミステリーポスト]]
+* 不買運動ウェブ (閉鎖)
+
+==閉鎖==
+
+[[2020年]]1月11日、MDIIの唯一のデプロイであった<nowiki>https://mdii.sakura.ne.jp</nowiki>が閉鎖された。同年1月12日には、MDIIを[[Pleroma]]の[[オブジェクトストレージ]]として利用するコードが削除された<ref>[https://git.pleroma.social/pleroma/pleroma/merge_requests/2099 Remove MDII uploader (!2099)]</ref>。
+
+==脚注==
+<references />
+
+{{DEFAULTSORT:そほくていしたるかそういんふらすとらくちやあ}}
+[[category:運用が放棄されたウェブサイト]]

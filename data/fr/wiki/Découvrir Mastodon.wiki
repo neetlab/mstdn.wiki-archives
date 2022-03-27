@@ -1,0 +1,107 @@
+{{Mode d’emploi}}
+Vous-avez entendu parler de Mastodon mais ne savez pas trop ce que c’est ? Vous aimeriez l’utiliser et rejoindre vos ami·e·s sur ce réseau social mais ne savez pas comment vous y prendre ? Pas de panique ! Ce petit guide vous apprendra tout ce qu’il faut savoir pour apprivoiser Mastodon tout en douceur.
+
+== Qu’est-ce que Mastodon ? ==
+[[Mastodon]] est un logiciel accessible via un navigateur web et qui permet de se connecter à un réseau social décentralisé appelé le [[Fediverse]].
+
+De par ses fonctions et son interface, Mastodon est assez similaire au célèbre réseau social Twitter et plus particulière à l’interface Tweetdeck. On poste des messages courts, s’abonne à des comptes, des comptes s’abonnent au nôtre, on peut envoyer des messages directs, marquer des statuts comme favoris, etc.
+
+La grosse différence entre Twitter et Mastodon est que le premier est un service appartenant à une entreprise et des actionnaires tandis que le second est un logiciel libre que n’importe qui peut auditer, dupliquer et modifier. Personne ne peut installer le programme qui fait fonctionner Twitter chez soi, en revanche n’importe qui avec les connaissances techniques nécessaires peut installer Mastodon sur un serveur pour ensuite permettre à des gens d’y accéder. C’est ce qui fait toute sa particularité. Par conséquent, il existe plein de serveurs différents, appelés « instances », permettant de rejoindre le Fediverse.
+
+Si vous avez un peu de mal à comprendre, pensez à Mastodon un peu de la même façon que vous pensez aux courriels. De la même manière qu’il existe des adresses électroniques en gmail.com, laposte.net ou outlook.com, il existe des comptes Mastodon en [[mastodon.social]], [[framapiaf.org]] ou encore [[witches.town]].
+
+== Choisir son instance ==
+Contrairement à d’autres réseaux sociaux, le Fediverse est donc organisé en communautés de taille variable que l’on appelle des « instances ». Quand l’on souhaite se créer un compte sur Mastodon, il faut donc commencer par déterminer l’instance que l’on souhaite rejoindre.
+
+Il existe des centaines d’instances Mastodon. Heureusement, est disponible une [https://instances.mastodon.xyz/ liste des instances], fort complète, qui en plus de proposer une courte description ainsi qu’un lien vers chacune d’entre elles, pourra vous aider dans votre choix en vous proposant de répondre à quelques courtes questions sur vos préférences.
+
+Le choix d’une instance étant quelque chose d’assez personnel, il n’existe pas de méthode pour trouver la « bonne » communauté. Toutefois, plusieurs critères sont à prendre en compte lorsque l’on cherche à rejoindre une nouvelle instance. Avant de vous inscrire, nous vous conseillons de vous poser les questions suivantes :
+* Faîtes-vous confiance aux personnes gérant cette instance ?
+* Que pensez-vous de ses règles en général et de sa politique de modération en particulier ?
+* La communauté abritée par cette instance vous convient-elle ?
+
+Vous n’arrivez malgré tout pas à choisir ? Si vous ne parvenez vraiment pas à trouver une instance qui vous convienne, nous vous invitons à tester [[mastodon.xyz]] ou [[framapiaf.org]]. Ces deux instances francophones ne sont pas destinées à accueillir une communauté particulière et peuvent donc faire office de point d’entrée dans l’univers de Mastodon.
+
+== Créer son compte ==
+Dans la suite de cet article, nous avons choisi d’utiliser [[mastodon.xyz]] comme instance de démonstration. Néanmoins, les informations données dans ce guide sont, à priori, valable pour l’ensemble des instances Mastodon.
+
+Commencez par vous rendre en https://mastodon.xyz. Dans le formulaire qui s’affiche, indiquez l’identifiant que vous souhaitez utiliser, une adresse électronique valable ainsi qu’un mot de passe qui servira à protéger votre compte. Cliquez ensuite sur « Rejoindre le réseau ». Si tout se passe bien, vous devriez être informé·e qu’un courriel de confirmation a bien été envoyé à l’adresse fournie. Si ce n’est pas le cas, c’est probablement parce que l’identifiant que vous avez sélectionné est déjà utilisé, ou bien que vous avez fait une erreur en renseignant votre mot de passe. Suivez alors les instructions affichées à l’écran afin de résoudre votre problème.
+
+Ouvrez ensuite votre boite électronique. Vous devriez y avoir reçu un nouveau message vous invitant à confirmer votre inscription sur mastodon.xyz. Cliquez simplement sur le lien fourni dans le courriel pour confirmer votre inscription et être redirigé vers la page de connexion de l’instance. Il ne vous reste plus qu’à vous connecter en utilisant l’identifiant et le mot de passe que vous avez rentré dans le formulaire un peu plus tôt.
+
+Ça y est, vous êtes connecté·e ? Toutes mes félicitations ! Vous êtes désormais vous aussi un·e mastonaute !
+
+== À la découverte de l’interface ==
+[[Fichier:Interface principale de Mastodon.png|thumb|alt=L’interface principale de Mastodon. Elle est composée de quatre colonnes. La première contient des contrôles et un champ de composition. La seconde et la troisième, respectivement intitulées « Accueil » et « Notifications », sont vides. La quatrième, intitulée « Pour commencer » contient un menu.|L’interface principale de Mastodon]]
+Vous devriez maintenant être sur l’interface principale de Mastodon. Celle-ci affiche par défaut quatre colonnes :
+* la première sert à choisir ce que vous désirez afficher dans la quatrième colonne, à rechercher du contenu et à composer vos messages ;
+* la deuxième affiche par défaut votre « Accueil » dans lequel vous pouvez voir vos propres posts ainsi que ceux des comptes auxquels vous êtes abonné·e·s ;
+* la troisième affiche par défaut vos notifications, c’est-à-dire, les messages dans lesquels vous êtes mentionné·e ainsi que les annonces qui vous sont envoyées quand quelqu’un boost ou marque comme favori l’un de vos billets
+* la quatrième affiche un contenu variant en fonction de vos choix et du contexte, pour l’instant le menu « Pour commencer » devrait y apparaître.
+
+Nous allons maintenant examiner ensemble et une par une ces quatre colonnes.
+
+=== Première colonne ===
+[[Fichier:Menu principal.png|frameless|border|center|alt=Une bande bleue foncée sur laquelle cinq icônes bleues clair sont alignées : une astérisque, un groupe de personnes, un globe terrestre, un engrenage et une flèche pointant vers la droite.|Le menu de la première colonne]]
+
+Tout en haut de la première colonne se trouve un menu composé d’icônes vous permettant d’effectuer rapidement diverses actions :
+* l’astérisque vous permet d’afficher le menu « Pour commencer » dans la quatrième colonne ;
+* le groupe vous permet d’y afficher votre fil public local ;
+* le globe vous permet d’y afficher votre fil public global ;
+* l’engrenage ouvre le menu des préférences ;
+* la flèche permet de vous déconnecter.
+Si vous ne comprenez pas encore ce que « fil public » veut dire, ne vous inquiétez pas, c’est parfaitement normal. Nous reviendrons dessus en détail quand nous parlerons de la quatrième colonne.
+
+[[Fichier:Champ de recherche.png|frameless|border|center|alt=Une bande bleu foncé sur laquelle figurent, en bleu clair, « Rechercher » à gauche et une icône de loupe à droite.|Le champ de recherche de la première colonne]]
+
+Juste en dessous du menu, figure un petit champ de recherche. Vous pouvez l’utiliser pour chercher des messages, des mots-clefs ou des utilisateur·rice·s.
+
+[[Fichier:Boîte de composition.png|frameless|border|center|alt=Un champ d’écriture blanc. Au-dessus on peut voir l’image de profil et le nom de l’utilisateur. En dessous, on peut voir une icône en forme d’appareil photo, une icône en forme de globe terrestre, une icône « CW » et un gros bouton bleu sur lequel est marqué « POUET ! ».|La boite de composition]]
+
+Enfin, en bas de de la première colonne se trouve un des éléments centraux de l’interface de Mastodon : la boite de composition de message. Son fonctionnement étant relativement intuitif, nous ne nous arrêterons pas outre mesure sur son utilisation. Intéressons-nous plutôt aux trois boutons placés juste en-dessous.
+
+Le premier, en forme d’appareil photo, sert à insérer un contenu multimédia (image ou vidéo) dans votre message. Si vous jugez que les média ainsi insérés pourraient choquer certaines personnes, il vous est offert la possibilité de le signaler en cliquant sur l’icône en forme d’œil qui apparaîtra une fois que vous les aurez téléversés.
+
+[[Fichier:Paramètres de visibilité.png|thumb|alt=Le menu déroulant permettant de sélectionner le niveau de visibilité d’un message. On peut y lire, dans l’ordre, « Public », « Non-listé », « Privé » et « Direct ».|Les différents niveaux de visibilité]]
+Le deuxième, en forme de globe, vous permet d’ajuster la visibilité de votre message. En effet, sur Mastodon les messages peuvent avoir quatre niveaux de visibilité différents :
+* Public : le message pourra être vu par tou·te·s, connecté·e·s ou non et sera affiché dans les fils publics.
+* Non-listé : le message pourra être vu par tou·te·s, connecté·e·s ou non mais ne sera pas affiché dans les fils publics, seul·e·s les comptes mentionnés, vos abonné·e·s et les personnes accédant à votre profil pourront les voir.
+* Privé : le message ne pourra être vu que par vos abonné·e·s.
+* Direct : le message ne pourra être vu que par vous et les personnes qui y sont mentionné·e·s.
+Par défaut, un message est public.
+
+Enfin, le troisième, vous permet de masquer le texte de votre message derrière un avertissement. Cliquer sur ce bouton ouvrira un second champ dans lequel vous pourrez rédiger une mise en garde à l’attention de vos lecteur·rice·s. Cette fonction vous permet de masquer un texte potentiellement choquant, des révélations sur l’intrigue d’une œuvre de fiction, ou encore la chute d’une blague. Vous êtes vivement encouragé·e à l’utiliser si le contenu de votre billet est susceptible de déclencher une crise d’angoisse chez une personne victime de traumatisme.
+
+=== Deuxième et troisième colonnes ===
+Comme indiqué précédemment, la deuxième colonne affiche les messages postés par les comptes auxquels vous êtes abonné·e ainsi que vos propres messages. La troisième colonne, quant à elle, affiche vos notifications. Par défaut, vous en recevez une à chaque fois que vous êtes mentionné·e dans un billet, que quelqu’un republie un de vos messages sur son propre compte (on parle de « booster » un message) ou lorsque quelqu’un marque un de vos messages comme favori. Dans ces deux colonnes, vous noterez qu’il existe un bouton en haut à droite vous permettant d’accéder à un menu vous offrant diverses fonctions avancées.
+
+=== Quatrième colonne ===
+La quatrième colonne est sans doute la plus importante de toutes. Contrairement aux autres, son contenu est variable. Vous pouvez y afficher votre fil public local, c’est-à-dire l’ensemble des messages publics postés sur votre instance, ainsi que votre fil public global, c’est-à-dire l’ensemble des messages publics postés sur votre instance ou par un compte distant suivi par un autre membre de votre instance. Cliquer sur le texte d’un message affiche la conversation dont il est extrait dans cette colonne. De la même manière, cliquer sur l’avatar ou le pseudonyme d’un·e utilisateur·rice y ouvrira son profil.
+
+== Remplir son profil ==
+Maintenant que vous êtes familiarisé·e avec l’interface, il est temps pour vous de remplir votre profil ! C’est en effet une étape indispensable si vous souhaitez que les autres mastonautes puissent vous reconnaître facilement quand il·elle·s verront vos messages.
+
+Pour ça, il va vous falloir commencer par accéder au menu des réglages. Cliquez sur l’icône en forme d’engrenage, tout en haut de la première colonne. Vous serez alors redirigé·e vers le menu de réglage des préférences. Sélectionnez ensuite « Modifier le profil » dans le menu à droite de la page pour accéder à l’interface d’édition de profil.
+
+Sur cette nouvelle page, il vous est offert la possibilité de choisir un pseudonyme, de remplir une courte biographie de 160 caractères au maximum, de choisir votre avatar ainsi qu’une image d’en-tête qui sera affiché en haut de votre profil et de rendre votre compte privé. Nous vous conseillons, d’au moins choisir un nom et un avatar, afin que les autres utilisateur·rice·s puissent aisément vous identifier, ainsi que de remplir votre biographie.
+
+Vous êtes libre d’utiliser l’image que vous désirez comme avatar, y compris une image animée. De la même manière, votre pseudonyme et votre biographie ne sont limité·e·s que par le nombre de caractères et votre imagination. La plupart des personnes aiment y indiquer leurs pronoms, leurs centres d’intérêt, leur adresse électronique et éventuellement leur site web, mais cette décision vous appartient entièrement. Faites-vous plaisir !
+
+Quand vous vous sentez satisfait·e des changements effectués, cliquez sur « Enregistrer les modifications » pour les sauvegarder.
+
+== Poster son premier message ==
+[[Fichier:Premier pouet.png|thumb|alt=La boite de composition de Mastodon, dans laquelle on peut lire « Bonjour mastodon.xyz ! Comment allez-vous ? ».|Exemple de premier pouet]]
+Le moment tant attendu est enfin arrivé. Il est temps pour vous de poster votre premier message !
+
+Si ce n’est pas déjà fait, retournez sur l’interface principale en cliquant sur « Retour vers Mastodon », en haut du menu de gauche.
+
+Pour écrire votre message c’est bien simple : rédigez ce que vous avez à dire dans la boite de composition de la première colonne. Si vous en avez envie, n’hésitez pas à ajouter à utiliser des émojis ; cliquez sur le bouton en forme de visage qui rit pour ouvrir une liste contenant tous ceux disponibles. Comme indiqué précédemment, vous pouvez également ajouter des photos ou des vidéos en cliquant sur l’icône en forme d’appareil photo.
+
+Une fois terminé, cliquer simplement sur « Pouet ! » pour envoyer votre message sur le Fediverse.
+
+== Pour aller plus loin ==
+Si vous avez suivi ce petit guide jusqu’ici, bravo et toutes nos félicitations, vous êtes désormais un·e utilisateur·rice accompli·e de Mastodon !
+
+Cet article touche à sa fin. Vous devriez maintenant connaître tout ce qu’il y a savoir pour bien débuter. Si vous désirez toutefois en apprendre plus sur les options avancées de Mastodon, nous vous invitons à consulter le [[guide d’utilisation]]. Par ailleurs, n’hésitez pas à consulter les pouets liés au mot-clef '''<nowiki>#</nowiki>MastoEntraide''' ainsi qu’à demander de l’aide directement sur le Fediverse.
+
+[[Catégorie:Mode d’emploi]]

@@ -1,0 +1,104 @@
+This is a collection of resources on accessibility issues that may come up while using Mastodon.
+
+Suggestions for new Mastodon features can be made by opening a new issue [https://github.com/tootsuite/mastodon/issues here]. Use the search first to see if something similar has already been discussed.
+
+==Image descriptions==
+Image descriptions for screenreader users are part of Mastodon since version 2.0. See [https://anna.flourishing.stream/2017/11/03/accessible-media/ this guide] for how to use them.
+
+Not all mobile clients have implemented them. You can tell the maintainer of your client that this feature is important to you. (For example by tooting at them or opening an issue on Github or wherever they keep their code.)
+
+==Contrast, colours, columns==
+
+Need wider columns? A less busy layout? Dark text on light background? Better contrast? There are a few options.
+
+===Unpin some columns===
+If the number of columns is distracting you, you can remove some of them. Only "Getting Started" and the one where you write your toots can't be removed. To do that, click the settings icon on top of a column. At the bottom it says "Unpin". Click that.
+
+To get a column back, open it via Getting Started or via the symbols over the search bar. Open the settings again and click "Pin".
+
+===Instance themes===
+Some instances use their own custom themes. Check [[UI previews]] for some screenshots.
+
+Instances can have more than one theme. Check in your settings (in Preferences scroll down to Site theme), and if you don't have a choice there, ask your admin if they'd be willing to add a theme that works for you. [https://github.com/skiant/mastodon-light-theme Mastodon Light] might be an option if you need dark text on light background.
+
+===Alternative Web-Clients and Browser Extensions===
+
+A web client is a website that lets you use Mastodon with a different design. A browser extension is installed to your browser and also lets you interact with Mastodon in a different way. You give them access to your existing Mastodon account, no need to make a new one.
+
+====Halcyon====
+Halcyon is a web client that makes Mastodon look like Twitter.
+
+That means:
+
+*One wide column
+*Black text on white background.
+
+It works for all instances, you simply grant it access to your account.
+
+[https://notabug.org/halcyon-suite/halcyon/wiki/Instances List of Halcyon installations that you can use] (on Github)
+
+====Pinafore====
+Pinafore is an alternative web client for Mastodon. It is more lightweight and has the goal to work well even on old phones. You can use it with any instance, simply give it access to your account.
+
+*one column
+*default colour scheme has dark text on light background (you can choose a different one)
+*multi-account
+*said to be slightly more screen reader friendly
+
+http://pinafore.social/ | [https://nolanlawson.com/2018/04/09/introducing-pinafore-for-mastodon/ Introductory blog post] | [https://github.com/nolanlawson/pinafore Pinafore on Github]
+
+==== Brutaldon ====
+A minimalist web client.
+
+* one column
+* dark text on white background
+* said to be more screen reader friendly
+
+https://brutaldon.online | [https://github.com/jfmcbrayer/brutaldon Brutaldon on Github]
+
+====Kurotodon====
+
+A Mastodon client that is a Chrome/Chromium extension. Multi-account.
+
+Configurable bits:
+
+*Colours
+*The columns that are shown (you have to open them all individually, then they stay there)
+*Position, width and height of the columns
+
+[https://chrome.google.com/webstore/detail/kurotodon/fandjchmgmejjcjcedgeoileeibjndbb?hl=en On the Chrome Store] | [https://github.com/oken1/kurotodon Kurotodon on Github]
+
+===Use a custom style===
+You can use a browser plugin like [https://add0n.com/stylus.html Stylus] to make Mastodon look different.
+
+There are already many styles that have been made available for everyone to use.
+
+*[https://userstyles.org/styles/browse?search_terms=mastodon All Mastodon styles on userstyles.org]
+*[https://userstyles.org/styles/140789/mastodon-white Mastodon White], a popular dark-on-light style.
+*[https://userstyles.org/styles/158971/mastodon-single-column-simple Mastodon Single Column (Simple)], reduces all the columns to just one.
+
+How to use them:
+
+#Install [https://add0n.com/stylus.html Stylus]
+#Look for a style that suits your needs on https://userstyles.org
+#Does the description say that the style applies to your instance?
+##Yes? Ignore this step, and ignore step 5.
+##No? Look for an "Advanced Options" button. Some styles have a box to enter your instance there. If yes, do that. If no, don't worry, step 5 will tell you what to do.
+#Click "Install Style".
+#If you already added your instance in step 3, that's it. Skip the next steps.
+##If you didn't, click on the Stylus icon somewhere to the right of your browser's search bar and then on "Manage". (Or if there is no icon [this is in Firefox, Chrome is probably somewhat similar] click on the burger menu, click on "Add-ons", click on "Extensions", find Stylus, click on its "Preferences", scroll to the bottom and click "Manage Styles".)
+##Click on the name of the style that you just installed.
+##Scroll to "Applies to", and click "Add" (next to the last URL box, on the right side).
+##Enter the address of your instance. Click "Save" (in the column on the left). NOW you're done.
+
+Combining different styles may sometimes make things look weird, but a lot of the time it works, especially if one changes only colours and one only column widths or similar. Just try it and remove any that don't work.
+
+==Too many notifications==
+Click the settings icon in your notification column. There you can choose which types of notification you want to get, or not.
+
+You can toggle sound, desktop notifications and even the notification appearing in the column at all seperately for new followers, favourites, mentions and boosts.
+
+==Too much movement==
+Go to settings and scroll down until you find "Reduce motion in animations". Check that and save.
+
+It will replace the animations of favs, the privacy setting menu and the search box with ones that tend not to induce motion sickness. [https://github.com/tootsuite/mastodon/pull/5393 More details on Github].

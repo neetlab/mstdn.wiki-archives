@@ -1,0 +1,20 @@
+{{Infobox instance
+| Name          = キャブどん
+| Domain        = https://mstdn.superspeed-fall.com/
+| Admin         = [https://mstdn.superspeed-fall.com/@unsuitan うんすい ほえほえ]
+| Country       = 日本
+| Start         = 2017年4月20日
+| Kifu          = なし
+| Alias         = なし
+}}'''キャブどん'''は、オープンソースのソーシャルネットワークMastodonの[[インスタンス]]。
+
+== 概要 ==
+旧車と珍車を愛するユーザーのためのインスタンス。
+
+話題自体は自由で、車やバイクに限らず何を喋ってもOKとなっている。
+
+==ローカルルール==
+旧車と珍車をテーマにしたインスタンスであるが、話題は限定されていない。プライバシーポリシーは「管理者がメールアドレスとかそういうのを見るのは、警察とか捜査機関からの要請がきたときです。」と表現されている。
+
+{{DEFAULTSORT:superspeed}}
+[[category:日本のインスタンス]]

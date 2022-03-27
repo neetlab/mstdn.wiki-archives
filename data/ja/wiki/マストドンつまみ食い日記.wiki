@@ -1,0 +1,29 @@
+{{Infobox website
+| Name = {{Ruby|マストドンつまみ食い日記|マストドンつまみぐいにっき}}
+<!--| Image = -->
+| URL = http://www.itmedia.co.jp/news/series/5983/
+| Admin = アイティメディア株式会社
+| Country = 日本
+| Start = 2017年4月15日
+}}
+
+'''[http://www.itmedia.co.jp/news/series/5983/ マストドンつまみ食い日記]'''とは、Mastodonに関するITmedia NEWSの連載である。
+
+== 概要 ==
+ITmedia NEWSにおける連載の一つ。内容はMastodon全般に関する時事的な情報で、2017年4月15日の連載開始から2018年4月19日までの約1年間、ほぼ毎日記事が更新されていた。以降は不定期更新となっており、更新の間隔が広くなっている。
+
+主に松尾広也氏（[https://mstdn.jp/@mazzo @mazzo]）が執筆しているが、岡田有花氏や、村上万純氏、太田智美氏らも記事を書いている。
+
+ITmedia NEWSでは2017年4月13日に岡田有花氏が記事「[http://www.itmedia.co.jp/news/articles/1704/13/news131.html ポストTwitter？　急速に流行中「マストドン」とは]」を掲載したのを皮切りに、マストドンに関する様々な速報記事を掲載していた。そして、同月15日に開始したのがこのマストドンつまみ食い日記である。
+
+2017年7月5日には書籍化もしており、Kindle版、プリント・オン・デマンド版などが出ている<ref>[http://www.itmedia.co.jp/news/articles/1707/05/news056.html 「マストドンつまみ食い日記」が本になりました]</ref>。
+
+==関連項目==
+* [[日本におけるマストドンブーム]]
+
+== 出典 ==
+<references />
+
+[[category:ニュースサイト]]
+[[category:書籍]]
+{{DEFAULTSORT:つまみくいにつき}}

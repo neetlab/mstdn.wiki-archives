@@ -1,0 +1,4 @@
+
+The '''[https://dashboards.mnm.social/ Mastodon Network Monitoring Project]''' is a statistic graphing website created by [https://mastodon.eliotberriot.com/@eliotberriot @eliotberriot@mastodon.eliotberriot.com]. It displays instances on a global map, along with other gathered data, in real time. Some other stats collected are: instance, status, and user counts, and hashtag trends.
+
+[[File:NetworkMonitoringProject_screenshot.png|200px|thumb|left|Screenshot of Mastodon Network Monitoring Project]]

@@ -1,0 +1,13 @@
+'''株式会社ユーザーローカル'''は、東京都港区の企業。[[Mastodonランキング]]と[[マストドンリアルタイム検索]]の運営で知られる。
+
+==エピソード==
+2017年12月27日<ref>[http://www.itmedia.co.jp/news/articles/1712/27/news089.html 「バーチャルYouTuber」のランキングサイト　再生数や推定月収など公開]</ref>、バーチャルYouTuberランキング<ref>[https://virtual-youtuber.userlocal.jp/ バーチャルYouTuberランキング]</ref>を公開。マストドンと直接の関係はないが、デザインはMastodonランキングを踏襲している。
+
+==脚注==
+<references/>
+
+==外部リンク==
+* [http://www.userlocal.jp/ 株式会社ユーザーローカル]
+
+[[category:企業]]
+{{DEFAULTSORT:ゆうさあろおかる}}

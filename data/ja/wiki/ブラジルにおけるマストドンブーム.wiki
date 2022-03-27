@@ -1,0 +1,28 @@
+'''ブラジルにおけるマストドンブーム'''とは、[[2018年]]4月30日頃から、ブラジル<ref>https://mstdn.io/@angristan/99956200366420106</ref>のマストドンユーザーが急増した現象。
+
+新しいユーザーたちはポルトガル語のトゥートが多い。また、[[Tusky]]を使うことが多い。
+
+特に以下のインスタンスでユーザーが急増した。
+
+* [https://kpop.social kpop.social]
+* [https://lazy8.social lazy8.social]
+* [[social.tchncs.de]]
+* [https://masto.pt masto.pt]
+* [[mstdn.io]]
+* [https://soc.ialis.me soc.ialis.me]
+* [https://mastodon.uy mastodon.uy]
+* [https://weirder.earth weirder.earth]
+
+このうちlazy8.socialはサーバーがダウンした。
+
+==原因==
+以下のような原因が考えられている。
+
+* もともとTwitterで活動していたElloのファンが別のプラットフォームを探していたところにマストドンが紹介された<ref>https://mastodon.pirateparty.be/@vanecx/99966804212695757</ref>。
+* sprousefavs<ref>https://twitter.com/sprousefavs</ref>が[[Twitter]]でマストドンと[[Tusky]]を紹介した。なお、当該のツイートは削除されている。
+
+==脚注==
+<references />
+
+{{DEFAULTSORT:ふらしるにおけるますととんふうむ}}
+[[category:マストドンブーム]]

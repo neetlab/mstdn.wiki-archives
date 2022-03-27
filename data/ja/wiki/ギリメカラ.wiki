@@ -1,0 +1,28 @@
+{{Infobox software
+| Name                = {{Ruby|ギリメカラ|ぎりめから}}
+| Image               = [[File:Girimekra.jpg|300px]]
+| Developer           = Sho Kusano (rosylilly)
+| SourceCode          = https://github.com/rosylilly/girimekra
+| Platform            = ウェブ
+| ProgrammingLanguage = Ruby
+| Launch              = 2017年8月18日
+| License             = ソースコードは公開されているが、ライセンスは明記されていない
+| Web                 = https://girimekra.herokuapp.com/
+}}
+'''ギリメカラ'''は、[[トゥート]]をすべて削除するためのウェブアプリケーション。
+
+== 概要 ==
+過去のトゥートを全て削除することができるウェブアプリケーション。開発者は、[[friends.nico]]プロデューサーのSho Kusano（rosylilly）氏。
+
+過去の投稿を全て消したいが多すぎて削除できない時や、アカウントの削除ができないインスタンス(マストドンのバージョンが1.4.2よりも古いか、アカウントの削除を停止しているインスタンスの場合)において有効である。
+
+2019年3月時点で、アクセスできなくなっている。
+
+==外部リンク==
+* [https://girimekra.herokuapp.com/ ギリメカラ]
+* https://github.com/rosylilly/girimekra
+
+{{DEFAULTSORT:きりめから}}
+[[Category:ウェブサイト]]
+[[category:運用が放棄されたウェブサイト]]
+[[Category:ライセンスなし]]

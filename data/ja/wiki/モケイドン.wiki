@@ -1,0 +1,23 @@
+{{infobox instance
+|Name = モケイドン
+|Domain = https://plasticmodels.tokyo
+|Country = 日本
+|Admin = [https://mstdn.jp/@tumujin つむじん]
+|Start = 2017年6月3日
+|Kifu = [http://amzn.asia/4rWqLRt Amazon]
+|Alias = 
+}}'''モケイドン'''は、オープンソースのソーシャルネットワークMastodonの[[インスタンス]]。
+
+== 概要 ==
+模型やフィギュア、ガンプラやおもちゃなどの話題がテーマのインスタンス。
+
+== ルール ==
+<blockquote>
+* 法律は守ってください。犯罪に加担していそうだったり、日本法に抵触するようなトゥートは禁止です。最悪警察や裁判所の要請に応じてログを開示することになります。
+* エログロなどの理由で18禁になりそうな文章には[[Content Warning]]を、画像には[[NSFW]]タグを付けてください。たとえ付けていても日本法に抵触するような画像はダメです。
+* 連投や、フォロ爆などの過度に迷惑がかかる投稿は禁止です。スパムにしか見えないような宣伝もやめてください。
+* みんな仲良く。
+</blockquote>
+
+{{DEFAULTSORT:mokeidon}}
+[[Category:日本のインスタンス]]

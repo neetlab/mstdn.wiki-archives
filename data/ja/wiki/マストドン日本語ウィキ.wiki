@@ -1,0 +1,47 @@
+{{Infobox website
+| Name = マストドン日本語ウィキ
+| Image = [[file:Mstdnwiki-logo.png|120px]]
+| URL = https://ja.mstdn.wiki
+| Admin = [https://mastodon.social/@neet Neetshin]
+| Country = 日本
+| Start = 2017年4月14日<ref name="start">https://ja.mstdn.wiki/index.php?title=%E3%83%A1%E3%82%A4%E3%83%B3%E3%83%9A%E3%83%BC%E3%82%B8&oldid=1</ref>
+}}
+'''マストドン日本語ウィキ'''は[[新都心]]（[[利用者:neetshin|Neetshin]]）氏が運営する、[[オープンソース]]の[[分散SNS]]「[[Mastodon]]」に関する情報をまとめているMediaWikiによるインターネット百科事典である。コピーレフトなライセンスのもと、サイトにアクセス可能な誰もが無料で自由に編集に参加できる。日本語のほか、数カ国の言語でも展開されている。
+
+== 概要 ==
+2017年4月14日、新都心氏により立ち上げられた<ref name="start" />、MediaWikiによるインターネット百科事典である。
+
+長らくレンタルサーバーのエックスサーバーを利用して構築されていたが、2018年7月28日のメンテナンス以降、VPSに移転して運用されている。
+
+Mastodonの技術やソフトウェア、インスタンス、スラング、人物など、Mastodonに関する様々な記事が、複数の編集者により、{{LOCALYEAR}}年{{LOCALMONTHABBREV}}{{LOCALDAY}}日現在{{NUMBEROFARTICLES}}ページ立てられている。設立時には、新都心氏が所属していた[[Mastodon.cloud]]で宣伝を行った<ref>https://mastodon.cloud/@neet/704716</ref>ため、同インスタンスに関するスラング等の記事が多く立てられた。
+
+当初は'''mstdn.wiki'''というドメイン下で公開されていたが、2017年4月27日、英語版である'''en.mstdn.wiki'''の公開<ref>https://mastodon.cloud/users/neet/updates/452376</ref>に伴い現在の'''ja.mstdn.wiki'''に変更された。
+
+その後、ポルトガル語版である'''pl.mstdn.wiki'''、フランス語版である'''fr.mstdn.wiki'''も公開されている。
+
+== 歴史 ==
+;2017年
+
+* 4月14日、マストドン日本語ウィキが公開される<ref name="start" />。
+
+* 4月17日、ITmedia NEWSの[[マストドンつまみ食い日記]]に取り上げられる<ref>[http://www.itmedia.co.jp/news/articles/1704/17/news092.html マストドンつまみ食い日記： Pawooに「エッチなコンテンツ」の警告文が入り、.cloudにフランス国旗が揚がる - ITmedia NEWS]</ref>
+
+* 4月27日、マストドン日本語ウィキのURLが変更され、英語版が公開される。
+
+* 6月18日、Mastodonプロジェクトマネージャーの一人である[[maloki]]氏に認知され<ref>https://mastodon.social/@maloki/9743269</ref>、当時行われていた「MastoWiki」との統合が行われたことから、Mastodonプロジェクト公認のWikiとなった<ref>https://mastodon.social/@Mastodon/10833910</ref>。
+
+;2018年
+
+* 7月28日、長期メンテナンスのために約20時間アクセスができなくなる。
+
+* 7月29日、メンテナンスが終わり、VPSへの移転が完了する。
+
+;2021年
+
+* 6月24日、[[セキュリティ証明書]]が期限切れとなる。
+
+== 出典 ==
+<references />
+
+{{DEFAULTSORT:ますととんにほんこういき}}
+[[Category:ウェブサイト]]

@@ -1,0 +1,19 @@
+{{infobox instance
+|Name = '''スタジオ・マストドン
+|Image = [[file:studiomstdn.png|300px]]
+|Domain = https://mstdn.studio
+|Country = 日本
+|Admin = [https://mstdn.studio/@gipani ジュパ二]
+|Start = 2017年4月23日
+|Kifu = なし
+|Alias = なし
+}}'''スタジオ・マストドン'''は、オープンソースのソーシャルネットワークMastodonの[[インスタンス]]。
+
+== 概要 ==
+2017年4月23日にジェパニ氏によって立てられた、漫画やアニメ、ゲームなどの登場人物やキャラクターに扮する「コスプレ」をメインテーマとしたインスタンス。主にコスプレイヤーやカメラマン、コスプレに関連するコンテンツなどの趣味の話題、またそれらに興味があるユーザーが対象。ただし、話題は自由としている。
+
+== 関連項目 ==
+* [[cosp.me]]
+
+{{DEFAULTSORT:studio}}
+[[Category:日本のインスタンス]]

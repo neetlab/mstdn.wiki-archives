@@ -1,0 +1,19 @@
+{{Infobox instance
+| Name          = 音屋丼
+| Image         = [[ファイル:Otoya.png|300px]]
+| Domain        = https://otoya.space/
+| Admin         = [https://otoya.space/@hayabusa hayabusa]
+| Country       = 日本
+| Start         = 2017/04/14
+| Kifu = ・[https://www.conoha.jp/conohacard/ ConoHaカード]<br />・[http://amzn.asia/80MugFO Amazon]<br />・Bitcoin
+| Alias         = なし
+}}'''音屋丼'''は、オープンソースのソーシャルネットワークMastodonの[[インスタンス]]。
+
+== 概要 ==
+音楽に関係のあるユーザーに向け立てられた。
+
+==ローカルルール==
+JASRACなどの音楽管理団体と契約していないため、問題の発生しうる音楽の歌詞・耳コピ・演奏等を投稿しないよう呼びかけている。
+
+{{DEFAULTSORT:otoya}}
+[[category:日本のインスタンス]]

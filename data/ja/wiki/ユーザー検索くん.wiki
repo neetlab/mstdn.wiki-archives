@@ -1,0 +1,22 @@
+{{Infobox software
+| Name = {{Ruby|ユーザー検索くん|ユーザーけんさくくん}}
+<!--| Image = -->
+| Developer = WebAppUtil [https://webapputil.com/]
+| Platform = ウェブ
+| Launch = 2017年5月26日
+| Web = https://webapputil.com/md_usersearch_ja/
+}}[https://webapputil.com/md_usersearch_ja/ ユーザー検索くん] は、マストドンのユーザーを検索するウェブアプリケーション。[[ユーザー名]]と[[表示名]]を検索できる<ref>[[プロフィール]]を検索することはできない。</ref>。検索対象となるインスタンスは[[friends.nico]]、[[mstdn.jp]]、[[Pawoo]]の3インスタンスに限られる。検索結果にはフォロー／フォロワー比が表示される。
+
+2018年4月頃からアクセスできなくなっている。
+
+==脚注==
+<references />
+
+==関連項目==
+* [[片思い確認くん]]
+* [[Mastory]]
+* [[マストドンユーザーマッチング]] ユーザー検索くんの代替サービスとしてユーザー検索を提供している
+
+{{DEFAULTSORT:ゆうさあけんさくくん}}
+[[category:ウェブサイト]]
+[[category:運用が放棄されたウェブサイト]]

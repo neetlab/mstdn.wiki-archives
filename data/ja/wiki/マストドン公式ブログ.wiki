@@ -1,0 +1,20 @@
+{{Infobox website
+| Name    = マストドン公式ブログ
+<!-- | Image   = [[ファイル:Joinmastodonorg.jpg|300px]] -->
+| URL     = https://medium.com/tootsuite (廃止)<br>https://blog.joinmastodon.org
+<!-- | Admin   = [[Eugen Rochko]] -->
+<!-- | Country = ドイツ連邦 -->
+| Start   = 2017年3月3日<ref>https://medium.com/tootsuite/learning-from-twitters-mistakes-c272d67bba76</ref>
+}}
+'''マストドン公式ブログ'''または'''Official Mastodon Blog'''または'''Mastodon Blog'''は、[[Mastodon|マストドン]]の開発者らによるブログ。執筆者は[[Eugen Rochko]]とTremaine Friskeである。
+
+当初は https://medium.com/tootsuite に置かれていたが、https://blog.joinmastodon.org に移転した。
+
+==外部リンク==
+* https://blog.joinmastodon.org
+
+==脚注==
+<references />
+
+[[category:マストドン公式ウェブサイト]]
+{{DEFAULTSORT:ますととんこうしきふろく}}

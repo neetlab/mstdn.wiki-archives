@@ -1,0 +1,22 @@
+{{Infobox software
+| Name                = 俳句検出bot
+<!-- | Image               = [[ファイル:Amaroq.jpg|120px|Amaroq]] -->
+| Developer           = [[ておりあ]]
+| SourceCode          = https://github.com/theoria24/FindHaiku4Mstdn
+| Platform            = マストドンのbot
+| ProgrammingLanguage = Ruby
+| Launch              = 2018年1月29日
+<!-- | Kifu                = [https://paypal.me/floofdog PayPal] -->
+| License             = MITライセンス
+| Web                 = https://social.timespiral.co.jp/@find575
+}}'''俳句検出bot'''は、マストドンの[[bot]]。このbotをアカウントをフォローすると自動的にフォローが返され、そのフォローが返されたユーザーから俳句が含まれているトゥートを検出すると、それを指摘する[[リプライ]]を送信する。ここでの俳句とは、音節数が5, 7, 5またはそれに近い日本語の文字列である。過去には[[theboss.tech]]と[[Botdon]]に置かれていたが、いずれもインスタンスが閉鎖されたため、https://social.timespiral.co.jp/@find575 に移転した。
+
+また、同作者によるもので、音節数が5、7、5、7、7の短歌の文字列が含まれるトゥートを検知する'''短歌検出bot'''も作られたが、[[theboss.tech]]の閉鎖とともに廃止されている。
+
+==外部リンク==
+* [https://social.timespiral.co.jp/@find575 俳句検出bot（3代目）]
+* [https://mstdn.f72u.net/@find575 @find575@mstdn.f72u.net] - 第三者によるデプロイ
+
+[[category:bot]]
+[[category:MITライセンス]]
+{{DEFAULTSORT:はいくけんしゆつbot}}

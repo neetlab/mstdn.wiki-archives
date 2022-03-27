@@ -1,0 +1,23 @@
+{{Infobox instance
+| Name          = {{Ruby|マストドンin小諸|マストドンインコモロ}}
+| Domain        = <s>https://don.komoro.net/</s>
+| Admin         = [https://don.komoro.net/@alpha alpha]
+| Country       = 日本
+| Start         = 5月1日（再構築日時）
+| End = 不明
+| Kifu          = なし
+| Alias         = なし
+}}'''マストドンin小諸'''は、[[オープンソース]]のソーシャルネットワークMastodonの[[インスタンス]]。
+
+== 概要 ==
+長野県小諸市の話題を中心としたインスタンス。
+
+5月1日にインスタンスは再構築されている。
+
+2017年10月現在、消滅状態。
+
+== 関連項目 ==
+* [[都道府県のインスタンス一覧]]
+
+{{DEFAULTSORT:こもろ}}
+[[Category:消滅したインスタンス]]

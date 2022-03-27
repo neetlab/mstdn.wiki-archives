@@ -1,0 +1,29 @@
+{{Infobox software
+| Name                = {{Ruby|星プテラノ for Mastodon|ホシプテラノ フォー マストドン}}
+| Image               = [[ファイル:hsptrn.jpg|120px|星プテラノ]]
+| Developer           = [https://mstdn.jp/@pgo ぷご]
+| SourceCode          = [https://github.com/pgostation/StarPterano-iOS5 GitHub（iOS版）]<br />[https://github.com/pgostation/StarPteranoMac GitHub（macOS版）]
+| Platform            = iOS、macOS
+| ProgrammingLanguage = Swift
+| Launch              = 2018年10月15日
+| License             = [[MITライセンス]]
+| Web                 = [https://hyperzebra-51c01.firebaseapp.com/starpterano/ iOS版]<br />[https://hyperzebra-51c01.firebaseapp.com/starpteranomac/index.html macOS版]
+| Download            = [https://itunes.apple.com/jp/app/id1436972796 AppStore]<br />[https://hyperzebra-51c01.firebaseapp.com/starpteranomac/index.html mac版ウェブサイト]
+}}'''星プテラノ'''は、[[Mastodon]]の、iOS及びmacOS向け[[クライアント]]である。
+
+==概要==
+[https://mstdn.jp/@pgo ぷご]により2018年10月15日にAppStoreでiOS版がリリースされ、2019年2月よりmacOS版がリリースされた<ref>https://mstdn.jp/@pgo/101842442050528399</ref>。
+
+タイムラインを全面に表示したインターフェースが特徴で、トゥートや通知、タイムラインの切り替えや設定といった機能のボタンは隅に配置されている。
+
+また、マルチログインや、タイムラインを閲覧しながらのトゥート、ライト・ダークテーマの切り替え、[[ローカルタイムライン]]と[[ホーム]]の統合表示、フォントやアイコンのサイズ変更などといった機能も備えている。
+
+頻繁にアップデートが行われ、積極的に最新バージョンの機能に対応するクライアントの一つである。
+
+==出典==
+<references />
+
+{{DEFAULTSORT:ほしふてらの}}
+[[category:iOS用クライアント]]
+[[Category:デスクトップクライアント]]
+[[category:MITライセンス]]

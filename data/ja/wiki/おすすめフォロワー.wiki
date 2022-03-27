@@ -1,0 +1,29 @@
+{{Infobox software
+| Name                = おすすめフォロワー
+<!-- | Image               = [[ファイル:Amaroq.jpg|120px|Amaroq]] -->
+| Developer           = [[おさ]]
+<!-- | SourceCode          = [https://github.com/ReticentJohn/Amaroq GitHub] -->
+| Platform            = ウェブ
+<!-- | ProgrammingLanguage = Objective-C -->
+| Launch              = 2018年3月27日<ref>https://mstdn.nere9.help/users/osapon/statuses/99753682267622826</ref>
+| Kifu                = https://fantia.jp/osapon
+| License             = [[プロプライエタリ]]
+| Web                 = https://followlink.osa-p.net/recommend.html
+<!-- | Download            = [https://itunes.apple.com/us/app/amaroq-for-mastodon/id1214116200 AppStore] -->
+}}'''おすすめフォロワー'''は、指定されたユーザーに対して、他のユーザーを推奨するウェブアプリケーション。推奨の基準は、フォローのフォロー、すなわち、指定されたユーザーがフォローしているユーザーが多くフォローしているユーザーである。
+
+任意の[[Mastodon|マストドン]]インスタンスで使用できる。
+
+==関連項目==
+* [[マストドンユーザーマッチング]]
+* [[Mastodonおすすめユーザー検索]]
+* [[フォローレコメンデーションチェッカー]]
+: [[フォローレコメンデーション (マストドンの機能)]]を使用している。
+
+==脚注==
+<references />
+
+{{DEFAULTSORT:おすすめふおろわあ}}
+[[category:ウェブサイト]]
+[[category:ユーザーレコメンデーション]]
+[[Category:プロプライエタリ]]

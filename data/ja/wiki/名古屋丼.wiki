@@ -1,0 +1,18 @@
+{{Infobox instance
+| Name          = 名古屋丼
+| Domain        = https://nagoyadon.jp/
+| Admin         = [https://nagoyadon.jp/@kumasun kumasun]
+| Country       = 日本
+| Start         = 2017/6/10
+| Kifu          = 不明
+| Alias         = なし
+}}'''名古屋丼'''はオープンソースのソーシャルネットワークMastodonで立ち上げられた[[インスタンス]]。
+
+== 概要 ==
+技術系同人サークル「[https://www.oresys.nagoya/ オレシス・ラボ]」の運営する、愛知県名古屋市にゆかりのあるユーザーに向けたいわゆる地域密着インスタンスの一つ。
+
+== 関連項目 ==
+* [[都道府県のインスタンス一覧]]
+
+{{DEFAULTSORT:なこや}}
+[[category:日本のインスタンス]]

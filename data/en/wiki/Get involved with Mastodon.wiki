@@ -1,0 +1,78 @@
+'''How to get involved with [[Mastodon]], the project?''' How to contribute? Who are the nodes / people of contact? What could I do to help?<br>
+<br>
+Temporary home for this effort was [https://docs.google.com/document/d/1u-VoYemLXplvzEqnKOzMGikyIwTj9hLLYCO4fH44T9I/edit a Google doc (content now available and improved here, thus view only)] started by [https://mastodon.social/@maloki maloki].
+
+There also was a first [[Proto-#MastoWiki]] located at https://wiki.nofftopia.com/ (must still be imported).
+
+
+== Contributors ==
+
+Add your mastodon handle here if you’ve contributed to this list: 
+
+* [https://mastodon.social/@maloki @maloki@mastodon.social]
+* [https://soc.ialis.me/@wxl @wxl@soc.ialis.me]
+* [https://awoo.space/@indi @indi@awoo.space]
+* [https://mastodon.social/@ibull @ibull@mastodon.social]
+* [https://mastodon.social/@citizenk @citizenk@mastodon.social]
+* [https://mastodon.social/@shalf @shalf@mastodon.social]
+* [https://social.wxcafe.net/@donnerdrummel @donnerdrummel@social.wxcafe.net]
+
+
+
+== List of ways to get involved ==
+
+
+* Github 
+** where you can contribute code/comments/reviews https://github.com/tootsuite/mastodon
+** Documentation - https://github.com/tootsuite/documentation
+** Artwork - https://github.com/tootsuite/mastodon/tree/master/app/assets/images
+** Translations - https://github.com/tootsuite/mastodon/tree/master/config/locales & https://github.com/tootsuite/mastodon/tree/master/app/assets/javascripts/components/locales
+** Bug Management - https://github.com/tootsuite/mastodon/issues
+** Testing
+** Development - https://github.com/tootsuite/mastodon
+** For GitHub, see https://github.com/tootsuite/mastodon/blob/master/CONTRIBUTING.md
+
+* Outreach - talking about Mastodon
+** Other social media, facebook, twitter, tumblr, instagram etc.
+** Blog
+
+* Community Knowledge Production and Incorporation (mediating information internal to mastodon, in ways that demonstrate how mastodon can be used)
+** Trending toot archive / Recommended toot conversations (e.g., #mastodev #introduction #faq etc)
+** Wiki project
+** Archivable virtual conferencing on topics related to Mastodon infrastructure (social/programmatic)
+** Welcome Wagon: Keeping a lookout for new users in Local/Federated timeline. They tend to be easy to spot. “Hello World” “What do I do here” “what am I doing here” etc.
+** Introduction to Mastodon for non-tech people: quite a lot of good material has been published ca. Easter 2017 (I’ve collected some links in French: https://mastodon.mammouth.ch/fr/bibliographie/debutants and English: https://mastodon.mammouth.ch/en/bibliographie/debutants - feel free to use). These are good references, as they were written by people also discovering Mastodon
+** A family of #s that aggregate conversations for people learning to code for the first time (e.g., #practicecoding, but working in tandem with a Wiki page or IM backchannel, perhaps)
+
+* Support
+** Users
+*** #needhelp
+*** Picking an instance - https://instances.mastodon.xyz/ (LIST) http://www.unmung.com/mastoview (PREVIEW)  (We are currently building a public landing page which will be done soon™, which is intended to help people find instances, among other stuff.)
+** Admins 
+*** #AdminNeedHelp
+*** Matrix Chat - https://matrix.cybre.space
+*** Mailing list - https://lists.ffdn.org/wws/subscribe/mastodon-admin
+*** Tutorials (in French there’s an excellent tutorial here: https://angristan.fr/installer-instance-mastodon-debian-8/)
+*** Best practices for running an instance (“should I have a terms/description text?” / “should I/how can I upgrade my instance?” / “how to prepare for the unplanned?” (backups how-tos, etc.)
+
+* Translations
+** We don’t have a home for this yet, but we can list different types of translations in the meanwhile. 
+*** 500c toots by Gargron or other “important” accounts)
+*** blog posts (gargron’s medium posts etc)
+*** Change log 
+*** Mail-list (we have one soon) 
+
+* Focus Groups
+** Probably could have a better name than this, but a lot of the needs we see bubbled-up from users are very ad-hoc (e.g. "I'm a PoC and I'm having this bad experience", "I'm colorblind, could you fix these UI elements") and I'm wondering if there is a way we could formalize the process of getting input from folks who might otherwise be overlooked or have to rely on boosts to get their concerns heard. This could also help build a base of folks for (good, diverse) UX testing of new ideas, and possibly end up as good community outreach too. 
+** Could this be facilitated with a #? Or should users be able to contribute anonymously in some fashion? 
+
+* Wiki
+** Goals:
+*** Each area should have a wiki area presenting information.
+*** Each instance could contribute to a wiki project with a page characterizing itself with information about its history and/or ethos, directions to development leadership, FAQ, support/donation links, etc
+*** Particular topics or meta discursive moments related to development, user appropriation, etc (e.g., forks, bots for particular purposes, temporary server instances for particular events) could also warrant their own page to document a history or living history of that particular thing. This could also mediate information dissemination in a way that doesn’t rely on assumed community leaders to arbitrate ‘relevant’ topics for discussion
+** Where we are:
+*** #MastoWiki is the hashtag on Mastodon to follow the conversation
+*** Early efforts for prototyping this project after Maloki’s first call started on this DokuWiki, thanks to @Admin@social.nofftopia.com. We are now migrating this content to…
+*** The new home in English for our wiki efforts: https://en.mstdn.wiki (hosted thanks to NeetShin aka @neet@mastodon.cloud)
+*** We started talking with NeetShin (who hosts mstdn.wiki too, a Japanese effort) about  linking several languages and hope e.g. fr.mstdn.wiki will be deployed soon. Say hello via email and create an account on en.mstdn.wiki to contribute and make it happen faster please (in particular, if you are a veteran Mediaki admin knowing perfectly how to handle deployments and links between several languages in the same entity, à la Wikipedia. We need help :))

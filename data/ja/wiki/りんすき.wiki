@@ -1,0 +1,22 @@
+{{Infobox person
+| Name     = りんすき
+| Image    = [[ファイル:Rinsuki.png|120px]]
+<!-- | Color    = #319D32 -->
+| Country  = 日本
+| Instance = [https://mstdn.rinsuki.net/@rinsuki mstdn.rinsuki.net]<br />[https://mstdn.maud.io/@rinsuki mstdn.maud.io]
+| Link     = https://rinsuki.net 
+<!-- | Else     = [[mstdn.jp]]管理人 -->
+}}'''りんすき'''または'''rinsuki'''は、プログラマー。
+
+==Mastodonインスタンス==
+* [https://mstdn.rinsuki.net mstdn.rinsuki.net]
+
+==プロダクト==
+* [[iMast]]
+* [[Quesdon]]
+
+==外部リンク==
+* https://rinsuki.net
+
+{{DEFAULTSORT:りんすき}}
+[[category:人物]]

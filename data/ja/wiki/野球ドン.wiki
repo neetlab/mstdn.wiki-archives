@@ -1,0 +1,15 @@
+{{Infobox instance
+| Name          = {{Ruby|野球|やきゅう}}ドン
+| Domain        = https://yakyudon.net/
+| Admin         = [https://dtp-mstdn.jp/@noellabo のえる]
+| Country       = 日本
+| Start         = 2017年4月24日
+| Kifu          = 不明
+| Alias         = 不明
+}}'''野球ドン'''は、オープンソースのソーシャルネットワークMastodonの[[インスタンス]]。
+
+== 概要 ==
+野球ファン、野球選手のユーザーに向け立てられたインスタンス。
+
+{{DEFAULTSORT:yakyudon}}
+[[category:日本のインスタンス]]

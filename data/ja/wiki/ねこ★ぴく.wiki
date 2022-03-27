@@ -1,0 +1,30 @@
+{{unreachable|year=2017|month=12}}
+{{Infobox instance
+| Name          = ねこ★ぴく
+| Domain        = https://neko.pics/
+| Admin         = 不明
+| Country       = 日本
+| Start         = 不明
+| Kifu          = なし
+| Alias         = なし
+}}'''ねこ★ぴく'''は、オープンソースのソーシャルネットワークMastodonの[[インスタンス]]。
+
+== 概要 ==
+猫に関する話題がテーマのインスタンスで、猫の写真の投稿がメイン。
+
+2017年12月現在、消滅状態にある。
+
+== ルール ==
+<blockquote>
+*基本は猫が好きな人が集まるインスタンスです。猫が嫌いな人は参加をお控えください。
+*喧嘩はやめましょう。
+*Botの使用は特に制限はしません。
+*かわいい猫の写真や動画をどんどんアップしてください。 
+</blockquote>
+
+== 関連項目 ==
+* [[Catdon]]
+* [[Catgram]]
+* [[Mao.daizhige.org]]
+{{DEFAULTSORT:neko}}
+[[category:消滅したインスタンス]]

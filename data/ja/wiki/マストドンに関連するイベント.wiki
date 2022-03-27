@@ -1,0 +1,24 @@
+==2017年==
+
+* 2017年4月28日 マストドン会議<ref>https://lab-kadokawa24.peatix.com/</ref>
+* 2017年5月17日 マストドン会議2<ref>https://lab-kadokawa25.peatix.com/</ref>
+* 2017年6月7-9日 Interop Tokyoでマストドンブリーフィング<ref>https://www.interop.jp/2017/mastodon/</ref>開催
+* 2017年6月10日 マストドン会議3<ref>https://lab-kadokawa26.peatix.com/</ref>
+* 2017年6月12日 マストドン会議4<ref>https://osaka-mastodon.peatix.com/</ref>
+* 2017年7月1日 第1回[[分散SNSフォーラム]]
+* 2017年7月10日 「マストドン 次世代ソーシャルメディアのすべて」出版記念セミナー<ref>http://gs.dhw.ac.jp/event/170710/</ref>
+* 2017年8月19日 Mastodon Developers Kaigi #0<ref>https://mastodonkaigi.connpass.com/event/61651/</ref>
+
+==2018年==
+
+* 2018年6月16日 Petit Mastodon Constructive Meetup<ref>https://connpass.com/event/84743/</ref>
+* 2018年11月3日 Mastodon Meetup at Tokyo<ref>https://www.mmt18.info/</ref>
+
+==2019年==
+
+* 2019年9月7-8日 ActivityPub Conference Prague 2019<ref>https://redaktor.me/apconf/</ref>
+
+==脚注==
+<references />
+
+[[category:マストドンに関連するイベント|*]]

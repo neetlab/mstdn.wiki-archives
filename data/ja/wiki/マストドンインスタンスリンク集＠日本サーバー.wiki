@@ -1,0 +1,15 @@
+{{Infobox software
+| Name = {{Ruby|マストドンインスタンスリンク集＠日本サーバー|ますとどんいんすたんすりんくしゅうあっとにほんさーばー}}
+<!--| Image = -->
+| Developer = [https://mstdn.club/@kazukazuo0122 おかず◎]
+| Platform = ウェブ
+| Launch = 不明
+| Web = http://shimaguni.symphonic-net.com/mstdn/
+}}[http://shimaguni.symphonic-net.com/mstdn/ マストドンインスタンスリンク集＠日本サーバー] は、マストドンのインスタンスの一覧を提供するウェブサイト。インスタンスの追加申請の方法として作者のメールアドレスが記載されているものの、2017年4月29日に更新が途絶えている。
+
+==関連項目==
+* [[Mastodon(マストドン)のインスタンス一覧 (coron)]] 作者が手動で収集しているインスタンス一覧
+
+[[category: インスタンスの一覧を提供するウェブサイト]]
+[[category:運用が放棄されたウェブサイト]]
+{{DEFAULTSORT:いんすたんすりんくしゆうあつとにほんさあはあ}}

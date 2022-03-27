@@ -1,0 +1,18 @@
+{{Infobox software
+| Name                = ぼっと
+| Image               = [[ファイル:Kemono-friends-bot.png|120px]]
+| Developer           = さばんちゃん
+<!-- | SourceCode          = [https://github.com/ReticentJohn/Amaroq GitHub] -->
+| Platform            = [[Bot]]
+<!-- | ProgrammingLanguage = Objective-C -->
+| Launch              = 2018年9月
+<!-- | Kifu                = [https://paypal.me/floofdog PayPal] -->
+| License             = [[プロプライエタリ]]
+| Web                 = https://mstdn.kemono-friends.info/@bot
+}}本項で記述する'''ぼっと'''は、[[ますとどんちほー]]で運用されている[[bot|ボット]]。画像が[[NSFW]]である確率を表示する機能を持つ。
+
+==外部リンク==
+* https://mstdn.kemono-friends.info/@bot
+
+{{DEFAULTSORT:ぼつと}}
+[[category:bot]]

@@ -1,0 +1,19 @@
+{{Infobox instance
+| Name          = グンマストドン
+| Image         = [[ファイル:Gunmastodon.png|300px|グンマストドン]]
+| Domain        = https://gunmastodon.com
+| Admin         = [https://gunmastodon.com/@lisboa リスボア✅]
+| Country       = 日本
+| Start         = 2017年4月18日
+| Kifu          = 
+| Alias         = 
+}}グンマストドンは、オープンソースのソーシャルネットワークMastodonで立てられた[[インスタンス]]。
+
+== 概要 ==
+群馬県出身の管理人が運営する、群馬県にゆかりのあるユーザーが対象の、いわゆる地域特化インスタンスの一つ。
+
+== 関連項目 ==
+* [[都道府県のインスタンス一覧]]
+
+{{DEFAULTSORT:くんますととん}}
+[[category:日本のインスタンス]]

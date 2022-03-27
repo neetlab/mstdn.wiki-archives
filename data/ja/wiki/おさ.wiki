@@ -1,0 +1,27 @@
+{{Infobox person
+| Name     = おさ
+| Image    = [[file:osapon.png|120px|おさ]]
+<!-- | Color    = #319D32 -->
+| Country  = 日本
+| Instance = [[mstdn.nere9.help]]
+| Link     = [https://mstdn.nere9.help/@osapon @osapon@mstdn.nere9.help]<br />https://osa-p.net
+<!-- | Else     = [[mstdn.jp]]管理人 -->
+}}'''おさ'''は、[[Mastodon|マストドン]]に関連する複数のウェブアプリケーションで知られる人物。
+
+==ウェブサイト==
+* [[フォローリンク]]
+* [[フォローバックアップ]]
+* [[マストドン検索 by google]]
+* [[ぶろるっく for Mastodon]]
+* [[おすすめフォロワー]]
+* [[notestock]]
+* [[ブーストウォッチ]]
+
+==ウェブクライアント==
+* [[Halcyon]]のフォーク
+
+==マストドン日本語ウィキの執筆者として==
+* [[利用者:おさ]]
+
+{{DEFAULTSORT:おさ}}
+[[category: 人物]]

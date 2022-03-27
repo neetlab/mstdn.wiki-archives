@@ -1,0 +1,18 @@
+{{Infobox software
+| Name                = トゥート数カウントくん
+| Developer           = ぎしこ
+| Platform            = Web
+| Launch              = 不明
+| License             = [[プロプライエタリ]]
+| Web                 = http://gishiko.net/mstdn/count.html
+}}'''トゥート数カウントくん'''は、マストドンのユーザーの1日のトゥート数をトゥートするウェブアプリケーション。開発者はぎしこ。
+
+認証すると、JST（日本標準時）0時に自動的にトゥートが投稿される。認証できるのは、[[mastodon|マストドン]]の[[インスタンス]]のうち、[[mstdn.jp]]と[[Pawoo|pawoo.net]]のみとなっている。
+
+==関連項目==
+*[[toot-counter]]
+*[[ドン廃あらーと]]
+
+{{DEFAULTSORT:とううとすうかうんとくん}}
+[[category:ウェブサイト]]
+[[category:プロプライエタリ]]

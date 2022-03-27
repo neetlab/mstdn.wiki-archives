@@ -1,0 +1,34 @@
+{{infobox feature
+| Name      = 連合タイムライン
+| Image     = [[ファイル:スクリーンショット 2017-04-16 11.48.27.png|300px|連合タイムライン]]
+| Version   = 1.0
+| Endpoint  = /api/v1/timelines/public
+| Available = 全てのインスタンス
+| Link      = [https://github.com/tootsuite/mastodon/releases/tag/v1.0 実装されたリリース]
+}}'''<ruby>連合<rt>れんごう</rt></ruby>タイムライン'''('''略称：FTL''')とは、[[Mastodon]]において使われている用語で、3つの[[タイムライン]]の1つである。
+
+== 概要 ==
+<ruby>連合<rt>れんごう</rt></ruby>タイムライン(英:Federated Timeline)は、Mastodonにおける3つのタイムラインの1つであり、基本的に最も多くの[[トゥート]]が流れるタイムラインである。
+
+連合(Federated)の名前の由来はMastodonのベースである[[GNU social]]から来ているとされており、日本語翻訳もそれに倣って制定された<ref>[https://github.com/pinfort/mastodon/issues/5 Federated timeline の和訳について · Issue #5 · pinfort_mastodon]</ref>。そのため、安定版1.1.2のリリースまでに「'''連邦タイムライン'''」と表示されていた期間があった。
+
+== 仕様 ==
+連合タイムラインには自分の所属[[インスタンス]]に関わりのある[[インスタンス]]のユーザーのトゥートが表示される。具体的には自分の所属している[[インスタンス]]のユーザー、そのユーザーが[[フォロー]]している他の[[インスタンス]]のユーザー、及びその[[トゥート]]への返信か[[ブースト]]をした相手ユーザーによるトゥートが表示される<ref>http://www.dream-seed.com/weblog/note/mastodon-my-instance</ref>。また、インスタンスに接続されているユーザーのトゥートではなくても、ブーストがされた場合はタイムラインに流れる。上記の仕様から、すべてのマストドンユーザーのトゥートが表示されるわけではないので注意が必要である。
+
+<!-- しかし、[[インスタンス]]間を跨いで通信を行うため問題が多く、[[トゥート]]が別の[[インスタンス]]の連合タイムラインに表示されるとその後に削除しても連合タイムラインには残る仕様などが問題視されている。 -->
+また、正規表現により表示トゥートにフィルターを掛けることが可能である。
+
+==他の分散SNSとの関係==
+[[Pleroma]]では'''The Whole Known Network'''と表記される。しばしばTWKN<ref>[https://git.pleroma.social/pleroma/pleroma-fe/merge_requests/190 cooler name for twkn, but needs translations... orz]</ref>と略される。
+
+== 出典 ==
+<references/>
+
+== 関連項目 ==
+* [[Mastodon]]
+* [[インスタンス]]
+* [[連合]]
+* [[リモートフォロー]]
+
+{{DEFAULTSORT:れんこうたいむらいん}}
+[[category: タイムライン]]

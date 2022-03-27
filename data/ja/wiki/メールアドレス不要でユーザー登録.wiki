@@ -1,0 +1,33 @@
+'''メールアドレス不要でユーザー登録'''とは、メールアドレスが到達可能であることを確認せずにユーザー登録を許可するよう、マストドンのインスタンスを改造することである。
+
+== 概要 ==
+マストドンでユーザー登録を行うには、登録フォームにメールアドレスを入力し、そのメールアドレスに届いたメールの確認リンクを開く必要がある。しかし、本項の改造を行ったインスタンスでは、メールに記載された確認リンクを開くことなく、新しいアカウントを使用することができる。そのため、実際に到達可能なメールアドレスではなく、メールアドレスのように見える任意の文字列 (alice@example.com など) を入力して、アカウントを作成することができる。
+
+==実装の方法==
+[[2.distsn.org]]では、データベースを操作して、メールアドレスが確認済みであることを示すフラグを立てていた<ref>[https://hakabahitoyo.wordpress.com/2017/09/30/mastodon-without-mail/ メールアドレス不要のマストドンインスタンスを作った]</ref>。[[theboss.tech]]ではDeviseの設定を書き換える方法を取ってた<ref>[https://theboss.github.io/blog/2018/01/09/mastodon-allow-unconfirmed-email/ Mastodon のメールアドレス確認を無効にする方法 (インスタンス管理者向け)]</ref>。
+
+==採用しているインスタンス==
+* [[mastodon.onion]] (現在は消滅)
+* [[2.distsn.org]] (現在は消滅)
+* [[kurage.cc]]
+* [[theboss.tech]] (現在は消滅)
+
+==公式リポジトリの動向==
+[[マストドン公式リポジトリ]]では、メールアドレス不要でユーザー登録ができるようにすることを目指すイシュー<ref>https://github.com/tootsuite/mastodon/issues/3484</ref>が作られたが、クローズされている。マストドン2.3.0<ref>https://github.com/tootsuite/mastodon/releases/tag/v2.3.0</ref>ではLDAPによるログイン<ref>https://github.com/tootsuite/mastodon/pull/6556</ref>が導入されたため、別途LDAPサーバーを用意することで、メールアドレス不要でユーザー登録が可能になる可能性がある。
+
+==他の分散SNSとの関係==
+[[GNU social]]はメールアドレスの到達性を確認していない。ただし、https://gnusocial.no など少数のインスタンスは、メールアドレスの到達性を確認する。
+
+[[Pleroma]]はメールアドレスの到達性を確認するかどうかインスタンスごとに設定できる。デフォルトでは、メールアドレスの到達性を確認しない。
+
+[[Misskey]]はユーザー登録の際にメールアドレスを要求しない。
+
+==外部リンク==
+* [https://github.com/tootsuite/mastodon/issues/3484 Account creation without e-mail address (like on jabber instances) #3484]
+* [http://www.itmedia.co.jp/news/articles/1801/13/news037.html 「メール確認なし」マストドンが増える？]
+
+==脚注==
+<references />
+
+[[category:インスタンスの独自機能]]
+{{DEFAULTSORT:めえるあとれすふようてゆうさあとうろく}}

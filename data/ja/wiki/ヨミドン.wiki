@@ -1,0 +1,20 @@
+{{Infobox instance
+| Name          = ヨミドン
+| Domain        = https://yomidon.okinawa/
+| Admin         = [https://yomidon.okinawa/@ogaworks ogaworks]
+| Country       = 日本
+| Start         = 2017年4月21日
+| End = 不明
+| Kifu          = なし
+| Alias         = なし
+}}ヨミドンは、オープンソースのソーシャルネットワーク[[Mastodon]]における、沖縄県読谷村のご当地インスタンス。
+
+== 概要 ==
+沖縄県読谷村に関わりのある人や、読谷村が好きな人に向け立てられた。
+
+2018年3月現在、アクセスができない状態となっている。
+
+== 関連項目 ==
+* [[都道府県のインスタンス一覧]]
+
+{{DEFAULTSORT:よみとん}}

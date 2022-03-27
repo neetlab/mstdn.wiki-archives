@@ -1,0 +1,37 @@
+{{Infobox word
+| Name = {{Ruby|オブジェクトストレージ|Object storage}}
+}}
+'''オブジェクトストレージ'''(英:'''Object storage''')とは、主にオンラインストレージ用途として使われるストレージのアーキテクチャである。拡張性に優れているなどの特長がある。ここではMastodonにおけるオブジェクトストレージを記載する。オブジェクトストレージについては[[jawp:オブジェクトストレージ|Wikipediaの記事]]を参照。
+
+== 概要 ==
+マストドンは分散SNSという仕様上、大量のメディアを扱う。そのため、メディアファイルがストレージを圧迫してしまうことが多い。よってある程度規模のあるインスタンスでは拡張性に優れるオブジェクトストレージがメディアの保存先として使用されることがある。
+
+マストドンのメディアはデフォルトではホストしているサーバー本体に保存されるが、<code>.env.production</code>において設定をすることでオブジェクトストレージを利用できる。
+
+<code>S3_ENABLED</code>や<code>AWS_ACCESS_KEY_ID</code>というパラメータからもわかるとおり、MastodonにおけるオブジェクトストレージはAmazon Web Service(AWS)のS3(Simple Storage Service)の利用を想定している。しかし、S3のAPIが実質的なスタンダードとなっている<ref>http://www.atmarkit.co.jp/ait/articles/1210/29/news090.html</ref>ため、S3と互換性のあるオブジェクトストレージが多く存在する。
+
+他にオブジェクトストレージとホスティングサーバーの間に[[CDN]]を通すことでより読み込み速度が上がる。
+
+== 主なオブジェクトストレージを提供するサービス ==
+Mastodonをホスティングするにあたって主に使われているサービスを挙げる。
+* [https://aws.amazon.com/jp/s3/ Amazon S3]
+: [https://aws.amazon.com/ Amazon Web Services]のサービスの一つ。[https://ja.wikipedia.org/wiki/Amazon_Simple_Storage_Service Wikipediaの記事]も参照のこと。
+* [https://cloud.sakura.ad.jp/specification/object-storage/ さくらのクラウド]
+: 現在新規受付を停止している<ref>2018年8月5日現在</ref>。
+* [https://www.conoha.jp/function/objectstorage/ ConoHa]
+* [https://wasabi.com Wasabi]
+
+==他の分散SNSとの関係==
+[[Pleroma]]はオブジェクトストレージとしてAmazon S3と[[素朴ディジタル画像インフラストラクチャー]]を使用できる。
+
+[[Misskey]]はオブジェクトストレージとしてAmazon S3を使用できる。なお、設定項目の名称はminioとなっている。Minio<ref>https://www.minio.io</ref>は、Amazon S3と互換性のある、オープンソースなオブジェクトストレージである。
+
+== 関連項目 ==
+* [[TheDesk]]
+: 配信にS3を使用している。
+
+== 注釈 ==
+<references />
+
+{{DEFAULTSORT:おふしえくとすとれえし}}
+[[category:ソフトウェア]]

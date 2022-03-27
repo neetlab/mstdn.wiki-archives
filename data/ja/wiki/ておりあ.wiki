@@ -1,0 +1,22 @@
+{{Infobox person
+| Name     = ておりあ
+| Image    = [[ファイル:Theoria.png|120px]]
+<!-- | Color    = #319D32 -->
+| Country  = 日本
+| Instance = [[Wugtodon]]
+| Link     = http://theoria24.github.io
+<!-- | Else     = [[mstdn.jp]]管理人 -->
+}}'''ておりあ'''は、インスタンス運営者、ウェブサイト開発者、ボット開発者。
+
+==インスタンス==
+* [[Wugtodon]]
+
+==ウェブサイト==
+* [[TootCloud]]
+
+==Bot==
+* [[俳句検出bot]]
+* [[AnonyMasto]]
+
+[[category:人物]]
+{{DEFAULTSORT:ておりあ}}

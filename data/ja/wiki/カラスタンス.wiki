@@ -1,0 +1,22 @@
+{{Infobox instance
+| Name          = カラスタンス
+| Image         = [[ファイル:カラスタンス.png|300px|カラスタンス]]
+| Domain        = https://mdn.crows.tokyo/
+| Admin         = [https://mdn.crows.tokyo/@toshiaki tosh1ak1]
+| Country       = 日本
+| Start         = 2017年4月19日
+| Kifu          = [http://amzn.asia/ipA6T13 Amazon]
+| Alias         = なし
+}}'''カラスタンス'''は、オープンソースのソーシャルネットワークMastodonの[[インスタンス]]。
+
+== 概要 ==
+カラスやその他の鳥が好きなユーザーや航空関係のユーザーに向け立てられたインスタンス。
+
+==障害==
+[[2018年]]8月20日<ref>https://crows.tokyo/%e3%83%9e%e3%82%b9%e3%83%88%e3%83%89%e3%83%b3%e3%83%87%e3%83%bc%e3%82%bf%e3%81%8c%e5%90%b9%e3%81%8d%e9%a3%9b%e3%81%b3%e3%81%be%e3%81%97%e3%81%9f%e3%80%82/</ref>、データベースのデータを喪失した。
+
+==脚注==
+<references />
+
+{{DEFAULTSORT:crows}}
+[[category:日本のインスタンス]]

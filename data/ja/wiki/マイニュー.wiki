@@ -1,0 +1,17 @@
+{{Infobox website
+| Name = マイニュー
+<!--| Image = -->
+| URL = https://mainew.kagua.biz/
+| Admin = 吉田喜彦
+| Country = 日本
+| Start = 2017年4月26日
+}}
+[https://mainew.kagua.biz/ マイニュー] は、マストドンに関連するニュースを提供しているウェブサイト。2017年5月22日に更新が途絶えている。
+
+==関連項目==
+* [[マストドンつまみ食い日記]]
+* [[マストドン速報]]
+
+[[category:ニュースサイト]]
+[[category:運用が放棄されたウェブサイト]]
+{{DEFAULTSORT:まいにゆう}}

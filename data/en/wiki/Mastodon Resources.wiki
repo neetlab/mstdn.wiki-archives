@@ -1,0 +1,21 @@
+This page lists web resources that help users learn about and use Mastodon. For developer tools, see [[Mastodon Tools]].
+
+== Instances ==
+* [https://instances.mastodon.xyz/list Mastodon instances (instances.mastodon.xyz)], one of the bigger lists because it's linked from the Mastodon software and GitHub. The site randomly shows high scoring instances, has an detail page with instance description and has an full list view with most stats. The score is based on the uptime, https score, Mozilla Observatory and IPv6.
+* [http://mastodon-instance.com/en/?order=1&country=0 Mastodon Instance List (mastondon-instance.com)], a list of Mastodon instances with genre, country, stats, description and embedded toot previews.
+* [http://www.unmung.com/mastoview Mastoview (unmung.com/mastoview)], an instance timeline preview tool.
+* [http://upsided.github.io/DescribedInstances.html Upside's instance picker], scrapped about info from instances.mastodon.xyz data.
+
+== Statistics ==
+* [https://mnm.social Mastodon Network Monitoring (MNM) (mnm.social)], publicly available and easily browsable metrics about Mastodon. More details at [[Mastodon Network Monitoring Project]].
+* [https://dashboards.mnm.social Mastodon Network Monitoring Dashboard (dashboard.mnm.social)], dashboard with all the historic data from MNM with country, https, releases and filters.
+* [https://metadon.jemu.name/ Mastodon Data (metadon.jemu.name)], instances.mastodon.xyz data in different lists and graphs.
+* [https://radar.amberstone.digital/ Radar by Amberstone (radar.amberstone.digital)], lists and graphs of the fediverse (Mastodon and GNU social). Automated with scraping and spidering.
+* [http://sp3r4z.fr/mastodon/ Statistics and evolutions of Mastodon instances (sp3r4z.fr/mastodon)], some historic data and country locations for instances.
+
+== Utilities ==
+* [https://www.mastofeed.com/ Mastofeed (mastofeed.com)], embed a toot feed into your blog
+
+== Guides ==
+* [https://github.com/tootsuite/documentation/blob/master/Using-Mastodon/User-guide.md User Guide] on GitHub
+[[ja:ツール]]

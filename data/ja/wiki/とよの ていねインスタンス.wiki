@@ -1,0 +1,21 @@
+{{Infobox instance
+| Name          = とよの ていねインスタンス
+| Image          = [[ファイル:Toyonoteinei.png|300px]]
+| Domain        = https://mstdn.web0000.jp/
+| Admin         = [http://utweb.jp/toyono/ とよのていねい]
+| Country       = 日本
+| Start         = 2017年4月
+| Kifu          = なし
+| Alias         = なし
+}}'''とよのていねインスタンス'''はオープンソースのソーシャルネットワークMastodonのインスタンス。
+
+== 概要 ==
+豊能郡での暮らしや育児をテーマにしている[http://utweb.jp/toyono/ とよのていねい]により、豊能地方をテーマに試験運用として立てられたインスタンス。
+
+2017年7月11日をもって、その試験運用を終了した。
+
+== 関連項目 ==
+* [[都道府県のインスタンス一覧]]
+
+{{DEFAULTSORT:toyono}}
+[[Category:消滅したインスタンス]]

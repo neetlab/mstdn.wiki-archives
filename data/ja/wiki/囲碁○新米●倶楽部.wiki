@@ -1,0 +1,16 @@
+{{Infobox instance
+| Name          = 囲碁○新米●倶楽部
+| Image         = [[ファイル:囲碁○新米●倶楽部.png|300px]]
+| Domain        = https://go-newbie.club/
+| Admin         = [http://go-w.jp/ 株式会社きっずファイブ]<br />[https://go-newbie.club/@igokyoto 正光順二]
+| Country       = 日本
+| Start         = 2017年4月26日
+| Kifu          = 不明
+| Alias         = 不明
+}}'''囲碁○新米●倶楽部'''は、オープンソースのソーシャルネットワーキング・サービスMastodonの[[インスタンス]]。
+
+== 概要 ==
+株式会社きっずファイブにより、囲碁の情報交換の場として立てられたインスタンス。
+
+{{DEFAULTSORT:gonewbie}}
+[[category:日本のインスタンス]]

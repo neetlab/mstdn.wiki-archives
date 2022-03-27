@@ -1,0 +1,28 @@
+{{混同|ぱおーん (bot)}}
+{{Infobox software
+| Name = ぱおーん🐘
+| Image = [[file:paopao_ss.jpg|200px]]
+| Developer = [https://mstdn.ropo.jp/@ropotama ropo]
+| SourceCode = 
+| Platform = Windows（64bit）
+<!--| ProgrammingLanguage = -->
+| Launch = 2017年4月20日
+<!--| Kifu = -->
+| License = [[プロプライエタリ]]
+| Web = [https://gist.github.com/ropo/b7b95f3e6d9b49bb3f8c8c1cd5151088 GitHubGist]
+| Download = http://arc.ropo.jp/Paopao.zip
+}}'''ぱおーん🐘'''または'''paopao'''とは、[[オープンソース]]の[[分散SNS]]、[[Mastodon]]のWindows用デスクトップクライアント。
+
+== 概要 ==
+かつてのtoot.mast-dn.me、現mstdn.ropo.jpの管理者である{{Account|user=ropotama|instance=mstdn.ropo.jp}}氏により、2017年4月20日より開発されている64bitのWindows向けデスクトップクライアント。
+
+短文投稿サイトの[[Twitter]]向けに黎明期の2007年ごろより開発されていたデスクトップクライアント「'''Twit'''」に類似した、小型のタブUIが特徴。当初は「1日開発のネタ」としておりトゥートの投稿とタイムラインの閲覧機能のみが利用できた。その後、多くのアップデートを経てマルチアカウントや[[ハッシュタグ]]の[[検索]]など多数の機能を実装している。マルチアカウントはインスタンス毎に行え、各インスタンスのタイムラインをそれぞれ独立したタブに表示できるほか、総合というタブでは複数インスタンスのタイムラインを同時に閲覧することが可能である。
+
+2018年6月30日現在、2段階認証に対応しておらず、初回ログイン認証する場合は同機能を一度解除してから行う必要がある。
+
+== 関連項目 ==
+* [[naumanni]] - 複数インスタンスの統合タイムラインを実装している。
+
+{{DEFAULTSORT:はおおん}}
+[[Category:デスクトップクライアント]]
+[[Category:プロプライエタリ]]

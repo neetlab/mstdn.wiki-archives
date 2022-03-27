@@ -1,0 +1,27 @@
+{{infobox instance
+|Name = {{Ruby|艦|かん}}ます - {{Ruby|艦|かん}}これ{{Ruby|用|よう}}マストドン
+|Image = [[ファイル:kancolle-yokosuka.png|300px]]
+|Domain = https://kancolle-yokosuka.xyz
+|Country = 日本
+|Admin = [https://kancolle-yokosuka.xyz/@admin @admin]
+|Start = 2017年5月2日
+|End = 2017年12月25日
+|Kifu = なし
+|Alias = なし
+}}'''{{Ruby|艦|かん}}マストドン'''は、オープンソースのソーシャルネットワークMastodonの[[インスタンス]]。
+
+== 概要 ==
+2017年5月2日に立ち上げられた、{{Jawp|角川ゲームス}}が開発し{{Jawp|DMM.com}}が配信しているブラウザゲーム「'''{{Jawp|艦隊これくしょん -艦これ-}}'''」をテーマとしたインスタンス。
+
+2017年12月11日、現状以上のユーザー拡大を大きく望めないこと、そして資金不足を理由に、同月25日を目処にサービス終了が発表された<ref>https://kancolle-yokosuka.xyz/@admin/7300</ref>。2017年12月26日、ランディングページは残っているが、サーバー内部は動作していない状態である。
+
+==関連項目==
+* [[recode.macro.tokyo]] 2018年4月16日に[[セキュリティ証明書]]が期限切れ。
+* [[kancolle.social]]
+
+== 出典 ==
+<references />
+
+{{DEFAULTSORT:kancolleyokosuka}}
+[[Category:日本のインスタンス]]
+[[category:艦隊これくしょんに関するインスタンス]]

@@ -1,0 +1,22 @@
+{{infobox instance
+|Name = はまどん(浜松マストドン)
+|Domain = https://hamamyu.jp
+|Country = 日本
+|Admin = [https://twitter.com/yagi3mee やぎ]
+|Start = 2017年5月12日
+|Kifu = なし
+|Alias = なし
+}}'''はまどん'''は、オープンソースのソーシャルネットワークMastodonの[[インスタンス]]。
+
+== 概要 ==
+2017年5月12日、やぎ氏によって立てられた、静岡県浜松市がテーマの地域インスタンス。
+
+2017年12月現在、消滅状態。
+
+== 関連項目 ==
+* [[mstdn.shizuoka.jp]]
+* [[都道府県のインスタンス一覧]]
+
+{{DEFAULTSORT:hamamyu}}
+[[Category:日本のインスタンス|しずおかはままつ]]
+[[category:消滅したインスタンス]]

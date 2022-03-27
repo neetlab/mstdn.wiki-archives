@@ -1,0 +1,20 @@
+{{Infobox person
+| Name     = ぐすくま
+| Image    = [[ファイル:Shiroma.png|120px]]
+<!-- | Color    = #319D32 -->
+| Country  = 日本
+| Instance = [[abyss.fun]] ほか
+| Link     = https://abyss.fun/@guskma
+| Else     = [[abyss.fun]] 運営者
+}}'''ぐすくま'''または'''城間'''または'''shiroma'''は、インスタンス運営者、プログラマー。
+
+==インスタンス==
+* [[abyss.fun]]
+
+==ウェブサイト==
+* [[Tooterminal]]
+* [https://click.abyss.fun/ んなぁーボタン]
+* [[鯖缶工場]] - [[Discord]]のチャンネル
+
+{{DEFAULTSORT:くすくま}}
+[[category:人物]]

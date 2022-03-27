@@ -1,0 +1,44 @@
+{{Infobox company
+| Name  = 合同会社きぼうソフト
+| Image = [[ファイル:Kibousoft.png|300px|合同会社きぼうソフト]]
+| URL   = http://kibousoft.co.jp/
+| CEO   = [https://annotunzdy.github.io あんのたん]
+}}'''合同会社きぼうソフト'''は、神奈川県横浜市の企業。マストドンに関連する複数の事業で知られる。代表者は'''あんのたん'''<ref>[https://annotunzdy.github.io/ ANNotunzdY’s Profile]</ref>。[[2019年]]7月に[[合同会社分散型ソーシャルネットワーク機構]]を設立<ref>[https://mstdn.jp/@kibousoft/102450998495777677 新会社設立並びに事業譲渡に関するお知らせ]</ref>し、[[mstdn.jp]]と[[mastodon.cloud]]を譲渡した<ref>他のマストドン関連事業の扱いについては、明らかにされていない。</ref>。2019年12月5日に破産した<ref>[https://n-seikei.jp/2019/12/post-63586.html （同）きぼうソフト（横浜）／破産手続き開始決定 | 倒産情報-JC-NET（ジェイシーネット）]</ref><ref>[http://gazette365.com/2019/12/0153-2 合同会社きぼうソフト | 破産法人公告資料]</ref>。
+
+==マストドンインスタンス==
+きぼうソフトが運用しているマストドンの[[インスタンス]]。
+* [[Kibousoft Now]] (2019年7月1日に終了)
+* [[pachi.house|パチトドン]] (2018年1月4日に終了)
+* [[Botdon]] (2019年4月28日に終了)
+* [[swift.language.jp|Swiftドン]] (2018年9月30日に終了)
+* [[mstdn.jp]] ([[2018年]]10月1日に[[nullkal]]より移管された。[[2019年]]7月26日に[[合同会社分散型ソーシャルネットワーク機構]]に譲渡。)
+* [[mastodon.cloud]] (移転に際して多くの支援を行っていたが2018年12月に個人運営者から移管された。[[2019年]]7月26日に[[合同会社分散型ソーシャルネットワーク機構]]に譲渡。)
+
+==Pleromaインスタンス==
+きぼうソフトが運用する[[Pleroma]]のインスタンス。
+
+* plero.ma - ホスト名も同じ。2019年5月に動作しなくなり<ref>https://mstdn.jp/@kibousoft/102172099387319168</ref>、復旧の見通しは立っていない<ref>https://wug.fun/users/theoria/statuses/102212197447025002</ref>。2019年9月時点で、[[合同会社分散型ソーシャルネットワーク機構]]に譲渡されて'''いない'''<ref>https://mstdn.jp/@dsno/102847618587996341</ref>ことが確認された。
+
+==ウェブサイト==
+きぼうソフトが運用するマストドンに関するウェブサイト。
+* [[マストドン速報]] - 2019年2月28日を最後に更新が停止し、2019年7月時点では閲覧できない状態である。
+* Mashare - マストドン用の[[ソーシャルボタン]]。<nowiki>https://masha.re</nowiki> で提供されていた。2019年9月頃からアクセスできなくなっている。
+* pawoo.jp - ホスト名も同じ。[[Pawoo]]、[[mstdn.jp]]、[[Kibousoft Now]]、[[マストドン日本語ウィキ]]へのリンクが置かれていた。2019年7月1日時点ではアクセスできなくなっている。
+
+==スポンサー==
+* マストドン公式スポンサー<ref>https://joinmastodon.org/</ref>
+* [[マストポータル]]スポンサー
+
+==iOSアプリ==
+* 直接の開発者ではないが、'''KnzkApp'''を支援しており、開発環境の提供<ref>https://knzkapp.nzws.me/</ref>、App Storeへの出品<ref>https://itunes.apple.com/jp/app/knzkapp/id1296825434</ref>などを行っている。なお、KnzkAppのAndroid版は2019年2月23日、iOS版は同年3月23日に更新が途絶えており、ソースコードは同年5月頃から更新が低調である。
+
+==脚注==
+<references />
+
+==外部リンク==
+
+* [http://kibousoft.co.jp/ 合同会社きぼうソフト]
+* [https://mstdn.jp/@kibousoft kibousoft@mstdn.jp]
+
+[[category:企業]]
+{{DEFAULTSORT:きほうそふと}}

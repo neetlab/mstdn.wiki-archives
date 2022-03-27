@@ -1,0 +1,22 @@
+{{ruby|バッキンガム充電|ばっきんがむじゅうでん}}とは、[[Mastodon.cloud]]で使用されていたネットスラングである。2017年5月31日に誕生した。
+
+{{Infobox word
+| Name          = <ruby>バッキンガム充電<rt>ばっきんがむじゅうでん</rt></ruby>
+| Hinshi        = 名詞 動詞
+| Hatsu         = [[Mastodon.cloud]]
+}}
+
+== 概要 ==
+ある一人のユーザーのタイプミスから生まれた<ref>https://mastodon.cloud/@aosaka/11684877</ref>象語である。
+
+意味は「充電」。「バッ充」と略して使われることもあった。
+
+== 出典 ==
+<references/>
+
+== 関連項目 ==
+* [[Mastodon.cloud]]
+* [[Mostodon.cloud]]
+
+{{DEFAULTSORT:はつきんかむしゆうてん}}
+[[category:象語]]

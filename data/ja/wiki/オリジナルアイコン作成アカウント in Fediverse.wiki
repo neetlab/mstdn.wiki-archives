@@ -1,0 +1,36 @@
+==概要==
+オリジナルアイコンの作成をお願いできる、Fediverse内のクリエイター紹介ページです。
+===オリジナルアイコンとは===
+
+*著作権等、利用にトラブルや問題のない「自分専用アイコン」です
+*作成依頼にあたっては、報酬が発生すると考えましょう　※要望に関するやり取り／イラスト作成そのものなど、クリエイターに手間とお金が必ずかかるためです
+
+===報酬について===
+クリエイターの提示する相場金額をもとに、DM等でご自身でやりとりしてください。
+==クリエイター一覧==
+{| class="wikitable"
+|-
+!アカウント名!!アカウントURL!!相場金額
+（任意）
+!サンプル
+!支払方法
+（任意）
+!備考
+|-
+|押尾（例）||https://gorone.xyz/@56info<nowiki/>||5000円||https://nightly.fedibird.com/@squid999/105641352721579131<nowiki/>||Kyash||押尾はいらすとや加工しかできないため(二次加工NG)、作成をお受けできません。これは例になります。
+|-
+|にする
+|https://misskey.haibala.com/@nisuru
+|300円
+|https://www.pixiv.net/artworks/85180225
+|Kyash or
+Amazon
+|要相談
+|-
+|やまこ
+|https://fedibird.com/@yamako
+|2000円〜
+|https://www.pixiv.net/users/12219198, https://sketch.pixiv.net/@yamako_love_cat
+|Amazon
+|DMにてご相談ください
+|}

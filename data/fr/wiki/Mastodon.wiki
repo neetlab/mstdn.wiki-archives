@@ -1,0 +1,9 @@
+'''Mastodon''' est un logiciel libre de micro-blogage en réseau créé en 2016 et permettant de se connecter au [[Fediverse]], un gestionnaire de réseau social décentralisé. Contrairement aux plate-formes commerciales populaires de micro-blogage, le Fediverse n’est pas un système centralisé mais une fédération de serveurs (appelés « instances ») communiquant entre eux par le biais du protocole [[OStatus]]. N’importe qui ayant les moyens et le temps nécessaire peut donc installer sa propre instance Mastodon et communiquer avec le reste du réseau.
+
+Sur Mastodon, les messages postés par les utlisateur·rice·s, communément appelés « pouets », peuvent contenir jusqu’à cinq cents caractères par défaut. Ils peuvent également inclure des images ou des vidéos et sont susceptibles d’êtres publiés sous différents niveaux de confidentialité.
+
+Les utilisateur·rice·s de Mastodon sont couramment appelé·e·s les « mastonautes ».
+
+[[en:Mastodon]]
+[[pl:Mastodon]]
+[[ja:Mastodon]]

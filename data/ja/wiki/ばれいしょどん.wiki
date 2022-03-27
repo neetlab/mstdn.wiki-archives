@@ -1,0 +1,15 @@
+'''ばれいしょどん'''とは、[[ActivityPub]]の[[分散SNS]]、[[Mastodon]]のサーバーの一つである。{{Infobox instance
+| Name          = ばれいしょどん
+| Image         = [[ファイル:Bareisyo-ml.png|400px|ばれいしょどん]]
+| Domain        = https://bareisyo.ml
+| Admin         = [https://bareisyo.ml/@team_bareisyo Team Bareisyo]
+| Country       = 日本
+| Start         = 2021年1月3日
+|End=2021年2月28日}}
+
+==概要==
+独自機能などに関する実験を行うことを目的として、[https://bareisyo.ml/@4nomiya 四宮るる]が開設したサーバーである。
+
+開設当初は四宮個人で管理を行っていたが、現在は[[まちカdon]]の管理者である[https://machikadon.online/@Minemu483K みねむ]とともに、Team Bareisyoとして運営を行っている。
+
+2021年2月28日 23:00 (JST) に閉鎖となり、410 Gone の閉鎖アナウンスページとなっている。

@@ -1,0 +1,19 @@
+{{Infobox instance
+| Name          = シャドバドン
+| Image         = [[ファイル:Mastodon_logo.png|120px|Mastodon]]
+| Domain        = https://shadowverdon.info/
+| Admin         = [https://shadowverdon.info/@tami3 火倉たみ]
+| Start         = 2018年5月23日
+| Kifu          = [https://scrapbox.io/shadowverdon/%E3%82%B5%E3%83%BC%E3%83%90%E3%83%BC%E7%B6%AD%E6%8C%81%E8%B2%BB%E6%94%AF%E6%8F%B4%E3%81%AB%E3%81%A4%E3%81%84%E3%81%A6 サーバー維持費支援について]
+| Link = [https://scrapbox.io/shadowverdon/ シャドバドンまとめ]
+}}
+'''シャドバドン'''は、オープンソースのソーシャルネットワークMastodonの[[インスタンス]]。
+
+== 概要 ==
+Cygamesより配信されている対戦型デジタルトレーディングカードゲーム「[https://shadowverse.jp/ Shadowverse]」のインスタンスである。
+
+==ローカルルール==
+ローカルタイムラインで会話をしているので、シャドウバースに関係ないトゥートは公開属性にしないこと。
+
+[[Category:日本のインスタンス]]
+[[Category:ゲームに関するインスタンス]]

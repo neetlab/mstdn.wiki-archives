@@ -1,0 +1,81 @@
+{{Infobox word
+|Name = {{Ruby|分散SNS|ぶんさんえすえぬえす}}
+|Hinshi = 名詞
+|Hatsu = 不明
+}}'''分散SNS'''（英:'''Distributed social network'''）とは、異なるソーシャル・ネットワークに分権化・分散化された[[ソーシャル・ネットワーキング・サービス]]である。
+
+複数のソーシャルウェブサイト（サーバー）で「[[連合]]」が構成されているのが特徴で、ユーザーはそのいずれかのウェブサイトからいずれかのウェブサイトのユーザーと通信することができる。
+
+== 概要 ==
+ソーシャル・ネットワーキング・サービスとは、Web上で社会的ネットワーク（ソーシャルネットワーク）を構築可能にするサービスのことである。
+
+代表例としてmixiや[[Twitter]]、[[Facebook]]などといったサービスが挙げられるが、その多くはサーバーや運営元が一元化、中央集権となっている。
+
+そうしたサービスの運​営を一元でなく、分権化させたものが分散SNSである。
+
+分散SNSが広まったのは中央集権型のmixiやGREE、Facebookが登場した2004年以降であるが、それ以前にも分散掲示板という形で「Winny 2」や「新月」「RinGOch」など{{Jawp|Peer to Peer}}を利用したソフトウェアは数多く開発されていた。
+
+現在多くの分散SNSにおいて主流なのは、多くのソフトウェアに組み込むことのでき、共通の規格で通信を可能にするオープンなプロトコルを利用したものである。
+
+この流れは2007年、'''OpenMicroBlogging'''（後の[[Ostatus]]）がLaconica（後の[[GNU social]]）により実装されたのが始まりであり、以降[[diaspora*]]、[[Mastodon]]など非常に多くの分散SNSが登場している。
+
+== 分散SNSの一覧 ==
+{| class="wikitable"
+! 名前 !! リリース年 !! プロトコル !! 備考
+|-
+| Winny 2 || 2003年 || P2P || P2Pを利用した分散型BBSを実装したP2Pファイル共有ソフト。
+|-
+| 新月 || 2003年 || P2P || 2018年3月現在でも開発が継続している。
+|-
+| [[GNU social]] || 2007年 || Ostatus || Ostatusを開発したプロジェクト。
+|-
+| Sone || 2010年 || P2P || Freenet上に存在するSNS。
+|-
+| [[Friendica]] || 2010年 || Ostatus、DFRN、Diaspora ||
+|-
+| diaspora* || 2010年 || Diaspora、Salmon || Facebookライクな分散SNS。2014年3月時点で100万アカウントを越している。
+|-
+| [[Misskey]] || 2014年 || [[ActivityPub]] || ActivityPubへの対応は2018年に行われた。
+|-
+| Hubzilla || 2015年 || ActivityPub、Diaspora、OStatus、Zot ||
+|-
+| ZeroMe || 2016年 || P2P || ZeroNet上に存在するSNS。
+|-
+| p3k || 2016年 || Webmention || 「peek」と読む。
+|-
+| [[Mastodon]] || 2016年 || ActivityPub、Ostatus || 2017年12月に100万アカウントを超した。
+|-
+| [[postActiv]] || 2016年 || Ostatus || GNU socialからの派生。
+|-
+| Sosialhome || 2016年 || Diaspora ||
+|-
+| Aardwolf || 2017年 || ActivityPub ||
+|-
+| [[Pleroma]] || 2017年 || ActivityPub || 非常に軽量。
+|-
+| GangGo || 2017年 || Diaspora ||
+|-
+| [[PixelFed]] || 2018年 || ActivityPub || 画像共有型のSNS。
+|-
+| [[Write Freely]] || 2018年 || ActivityPub || [[write.as]]のオープンソース版。
+|-
+| Osada || 2018年 || ActivityPub、Zot6 || Hubzillaからのフォーク。
+|-
+| Zap || 2018年 || Zot6 || Hubzillaからのフォーク。
+|-
+| RinGOch || 不明 || P2P ||
+|}
+
+== 関連項目 ==
+* [[ソーシャル・ネットワーキング・サービス]]
+* [[ActivityPub]]
+* [[Mastodon]]
+* [[GNU social]]
+* [[Pleroma]]
+* [[:w:en:Comparison of software and protocols for distributed social networking|Comparison of software and protocols for distributed social networking（Wikipedia英語版）]]
+
+==外部リンク==
+* [https://speakerdeck.com/masatoshi/fen-san-snsfalseli-shi-woza-nisiyaberu 分散SNSの歴史を雑にしゃべる]
+
+[[Category:分散SNS|*]]
+{{DEFAULTSORT:ふんさんえすえぬえす}}
