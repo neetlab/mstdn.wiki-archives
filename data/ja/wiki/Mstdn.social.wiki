@@ -1,0 +1,21 @@
+{{小文字}}
+{{混同|mastodon.social}}
+{{Infobox instance
+| Name = mstdn.social
+| Domain = https://mstdn.social/
+| Admin = [https://mstdn.social/@suzutan すずか]
+| Country = 日本
+| Start = 2017年4月16日
+| End = 2017年9月30日
+| SourceCode = [https://github.com/suzutan/mastodon GitHub]
+| Alias = social鯖
+}}'''mstdn.social'''は、[[オープンソース]]の[[分散SNS]]、[[Mastodon]]の[[インスタンス]]。
+
+== 概要 ==
+2017年4月16日、すずか氏によって立ち上げられたインスタンス。
+
+基本的に話題は自由。800人以上のユーザー数を誇っていた。
+
+2017年9月13日、同月末をもってのクローズが発表された。
+
+{{DEFAULTSORT:mstdn.social}}

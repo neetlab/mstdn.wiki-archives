@@ -1,0 +1,14 @@
+{{Infobox instance
+| Name          = Mastodon on Kazuki
+| Image         = [[ファイル:Kazukixyz.png|300px]]
+| Domain        = <s><nowiki>https://mstdon.kazuki.xyz/</nowiki></s>
+| Admin         = Winding
+| Country       = 日本
+| Start         = 不明
+| Kifu          = 不明
+| Alias         = 不明
+}}'''Mastodon on Kazuki'''とは、オープンソースのソーシャルネットワーク[[Mastodon]]のインスタンス。2017年8月頃にはメンテナンス中と表示され利用ができない状態となっていたが、2017年10月現在は完全に消滅状態となっている。
+
+{{DEFAULTSORT:onkazuki}}
+[[category:日本のインスタンス]]
+[[Category:消滅したインスタンス]]

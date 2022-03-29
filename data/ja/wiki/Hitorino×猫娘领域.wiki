@@ -1,0 +1,40 @@
+{{infobox instance
+|Name = {{Ruby|'''hitorino×猫娘领域'''|hitorino×マオニャンリンユー}}
+|Image = [[ファイル:Hitorino×猫娘领域.svg|300px]]
+|Domain = https://m.hitorino.moe
+|Country = 中国
+|Admin = [https://m.hitorino.moe/@Zyapexus Zyapexus]
+|Start = 要検証
+|Kifu = なし
+|Alias = 不明
+}}{{Ruby|'''hitorino×猫娘领域'''|hitorino×マオニャンリンユー}}は、オープンソースのソーシャルネットワークMastodonの[[インスタンス]]。
+
+== 概要 ==
+2018年に、中国語圏内向けに立てられたインスタンスで、管理人は[https://m.hitorino.moe/@Zyapexus Zyapexus]氏。
+
+hitorinoは2014年末に中国の性同一性障害界の中で設立され、社会交流、芸術創作に力を注ぎ、「平等、国際交流、プライバシー保護」を理念としたオリジナルプロジェクトである。言わば性同一性障害のための交流の場である。<ref>[https://www.zhihu.com/question/268349597 如何评价跨性别社区 hitorino？]</ref>
+
+なお、このインスタンスには別途[https://hitorino.moe ホームページ]があり、ページ上にマストドンとBBSへの入り口などが設けられている。
+
+==ローカルルール==
+登録ユーザー数が10,000人に達したらユーザー登録を中止することが宣言されている。記事執筆時点でのユーザー数は623人であり、しばらくはユーザー登録が可能な状態が続きそうである。
+
+中国の政治的に敏感な話題を避けることを求めている。
+
+以下のスローガンを掲げている。
+
+<blockquote>
+* 人人平等，性别平等，种族平等，群体平等。
+* 拒绝任何形式的网络暴力。
+</blockquote>
+
+記事執筆者による日本語訳は以下。
+
+* 人は平等である。性別は平等である。人種は平等である。集団は平等である。
+* あらゆる形式のインターネット暴力を拒否する。
+
+== 出典 ==
+<references/>
+
+{{DEFAULTSORT:C}}
+[[Category:中国のインスタンス|H]]

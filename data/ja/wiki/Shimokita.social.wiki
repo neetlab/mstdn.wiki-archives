@@ -1,0 +1,19 @@
+{{小文字}}
+{{Infobox instance
+| Name          = shimokita.social
+| Domain        = https://shimokita.social/
+| Admin         = 不明
+| Country       = 日本
+| Start         = 不明
+| Kifu          = なし
+| Alias         = なし
+}}'''shimokita.social'''は、日本のインスタンス。
+
+== 概要 ==
+下北沢が好きな人に向け立てられた。2018年6月現在、アクセス不可状態となっている。
+
+== 関連項目 ==
+* [[都道府県のインスタンス一覧]]
+
+{{DEFAULTSORT:しもきたさわ}}
+[[Category:消滅したインスタンス]]

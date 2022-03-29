@@ -1,0 +1,30 @@
+{{小文字}}
+{{Infobox instance
+| Name = {{ruby|'''tegedon'''|てげどん}}
+| Image = [[ファイル:Tegedon.png|300px]]
+| Domain = https://tegedon.net
+| Admin = [http://www.mbc.co.jp/ MBC南日本放送]、<br />[https://www.synapse.jp/ シナプス](共同運営)
+| Country = 日本
+| Start = 2017年6月1日
+}}
+'''tegedon(てげどん)'''は、MBC南日本放送とシナプスが共同運営している、オープンソースのソーシャルネットワークMastodonの[[インスタンス]]である。
+
+== 概要 ==
+テレビ局の運営するインスタンスとしては[[TUNER]]に次いで2番目のインスタンスとして、2017年6月1日に立ち上げられた<ref>[http://www.itmedia.co.jp/news/spv/1706/01/news088.html "テレビ局もマストドン　鹿児島を発信するインスタンス「てげどん」がスタート - ITmedia NEWS" 10月10日閲覧]</ref>。
+
+鹿児島県について発信し合うのが主で、いわゆる地域インスタンスの一つである。
+
+独自機能として、インスタンス内で注目されているトゥートをランキング形式で表示する'''[https://tegedon.net/about/more/#ranking 人気トゥート]'''という機能がある。
+
+== 関連項目 ==
+* [[都道府県のインスタンス一覧]]
+* [[Saigodon]]
+* [[TUNER]]
+
+== 出典 ==
+<references />
+
+{{DEFAULTSORT:かごしま}}
+[[Category:日本のインスタンス]]
+[[Category:企業が運用しているインスタンス]]
+[[Category:独自機能が実装されたインスタンス]]

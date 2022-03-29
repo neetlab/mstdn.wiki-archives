@@ -1,0 +1,18 @@
+{{Infobox instance
+| Name          = 東東京マストドン / east tokyo
+| Domain        = https://east.mstdn.tokyo/
+| Admin         = [https://east.mstdn.tokyo/@fukagawatokyo 井村 和人]
+| Country       = 日本
+| Start         = 2017年5月15日
+| Kifu          = なし
+| Alias         = なし
+}}'''東東京マストドン / east tokyo'''は、オープンソースのソーシャルネットワークMastodonの[[インスタンス]]。
+
+== 概要 ==
+東京東部地域（江東区・墨田区・中央区・台東区・葛飾区・江戸川区など）の話題が中心のインスタンスである。
+
+== 関連項目 ==
+* [[都道府県のインスタンス一覧]]
+
+{{DEFAULTSORT:ひがしとうきょう}}
+[[category:日本のインスタンス]]

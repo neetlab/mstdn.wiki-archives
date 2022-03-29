@@ -1,0 +1,22 @@
+{{Infobox person
+| Name          = Emelie Bergman
+| Image         = [[ファイル:Emelie-2017-12.jpeg|300px|Emelie]]
+| Color         = #1A289E
+| Font          = #fff
+| Instance      = [[Mastodon.social]]
+| Link          = https://mastodon.social/@emelie
+| Else          = Mastodon コミュニティーマネージャー<br />ゲームアーティスト
+}}'''Emelie Bergman'''とは、[[Mastodon]]のコミュニティーマネージャー及びゲームアーティスト。
+
+== 概要 ==
+2017年9月20日よりMastodonのコミュニティーマネージャーに就任したスウェーデン人の女性<ref>[http://www.itmedia.co.jp/news/articles/1709/20/news125.html スウェーデン在住のゲームアーティスト]</ref>。MastodonではMastodonプロジェクトの公式[[Mastodon]][[アカウント]]である{{account|user=Mastodon|instance=mastodon.social|link=true}}と、公式[[Twitter]][[アカウント]]の[https://twitter.com/MastodonProject @MastodonProject]で情報を発信している。
+
+== 関連項目 ==
+* [[Eugen Rochko]]
+* [[maloki]]
+
+== 出典 ==
+<references/>
+
+{{DEFAULTSORT:emelie}}
+[[category: 人物]]

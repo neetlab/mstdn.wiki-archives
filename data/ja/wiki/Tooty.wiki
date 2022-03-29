@@ -1,0 +1,15 @@
+{{Infobox software
+| Name                = {{Ruby|Tooty|トゥーティー}}
+| Developer           = [https://nicolas.perriault.net/ Nicolas Perriault]
+| SourceCode          = https://github.com/n1k0/tooty
+| Platform            = ウェブ
+| ProgrammingLanguage = Elm
+| Launch              = 2017年3月17日
+| Kifu                = https://paypal.me/floofdog
+| License             = MITライセンス
+| Web                 = https://n1k0.github.io/tooty
+}}'''Tooty'''は、[[Mastodon|マストドン]]のウェブクライアント。サーバーサイドを持たず、クライアントサイドのみで構成されているため、GitHub Pagesなどの静的なウェブサイトに設置することができる。
+
+[[category:ウェブクライアント]]
+[[Category:MITライセンス]]
+{{DEFAULTSORT:tooty}}

@@ -1,0 +1,28 @@
+{{Infobox instance
+| Name          = {{Ruby|'''Mastodon for Monappy'''|マストドン フォー モナッピー}}
+| Image         = [[ファイル:Mastodon-for-monappy.png|300px|Mastodon for Monappy]]
+| Domain        = https://mstdn.monappy.jp
+| Admin         = [https://mstdn.monappy.jp/@monappy もなっぴー]
+| Country       = 日本
+| Start         = 2017年5月29日
+| Kifu          = https://monappy.jp/u/monappy (Monappyへの寄付)
+| SourceCode = [https://github.com/Monappy/mastodon GitHub]
+| Alias         = もなっぴドン
+}}'''Mastodon for Monappy'''とは、オープンソースのソーシャルネットワークMastodonで立ち上げられた[[インスタンス]]。'''「もなっぴドン」'''とも。
+
+== 概要 ==
+仮想通貨[https://ja.wikipedia.org/wiki/Monacoin Monacoin](モナコイン)に対応するオンラインウォレットサービス<ref>https://monappy.jp/pages/about</ref>である[https://monappy.jp Monappy]が2017年5月29日<ref>https://mstdn.monappy.jp/@monappy/1</ref>に開設した同サービスユーザー専用のインスタンス。
+
+[[Qiitadon]]と同様に、通常のメールアドレスでの[[アカウント]]作成が出来ない代わりに、「もなっぴー」の[[アカウント]]での[[連携ログイン]]が可能になっており、プロフィールにはもなっぴーのプロフィールページへのリンクが掲載される。
+
+2018年11月17日現在、アクセスできない状態となっている。2018年9月にMonappyのMonacoinが不正出金された影響でMonappyのサービスが一時停止しているが、関連は不明。
+
+== 出典 ==
+<references />
+
+== 関連項目 ==
+* [[Qiitadon]]
+* [[連携ログイン]]
+
+[[Category:日本のインスタンス]]
+[[Category:独自機能が実装されたインスタンス]]

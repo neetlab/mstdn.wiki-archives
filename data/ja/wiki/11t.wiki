@@ -1,0 +1,19 @@
+{{Infobox software
+| Name                = {{Ruby|11t|イレブンティー}}
+| Image = [[file:logo-11t.jpg|120px|11t]]
+| Developer           = [https://mastodon.social/@jeroensmeets jeroen smeets]
+| SourceCode          = [https://github.com/jeroensmeets/mastodon-app GitHub]
+| Platform            = Android
+| ProgrammingLanguage = Fusetools(JavaScript)
+| Launch              = [[2017年]]4月9日
+| License             = [[MITライセンス]]
+| Download            = [https://apt.izzysoft.de/fdroid/index/apk/com.jeroensmeets.mastodon F-Droid]<br />[https://play.google.com/store/apps/details?id=com.jeroensmeets.mastodon Google Play]
+}}
+{{Ruby|'''11t'''|イレブンティー}}は、Android向けの[[Mastodon]]用[[クライアント]]である。
+
+比較的初期から存在するが、ストリーミングやマルチアカウントに非対応であることなどから話題にのぼることは少ない。
+
+GitHubによるとiOSも準備中である。オランダ人(言語より判断)とみられるJeroen Smeets氏が開発している。
+[[category:Android用クライアント]]
+[[category:MITライセンス]]
+{{DEFAULTSORT:11t}}

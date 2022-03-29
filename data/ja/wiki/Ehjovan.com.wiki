@@ -1,0 +1,24 @@
+{{小文字}}
+{{Infobox instance
+| Name          = United Nations of Jovan
+| Image         = [[ファイル:Digital_beggar_idea.png|120px|Mastodon]]
+| Domain        = https://ehjovan.com
+| Admin         = [https://ehjovan.com/@jovan jovan]
+<!-- | Moderator     = モデレーター, モデレーター, モデレーター -->
+<!-- | Country       = 国 -->
+| Start         = 2019年5月29日
+| Kifu          = Venmo: Ehjovan
+<!-- | SourceCode    = https://github.com/tootsuite/mastodon -->
+<!-- | Alias         = 愛称, 愛称, 愛称 -->
+}}'''ehjovan.com'''または'''United Nations of Jovan'''とは、英語圏の[[Mastodon|マストドン]]インスタンス。2017年5月29日に開設され、開設直後から[[Pawoo]]や[[best-friends.chat]]に匹敵する投稿数を獲得した<ref>画像参照。画像は2019年6月1日時点での直近24時間の投稿数。なお、[[mstdn.jp]]は投稿数の取得に失敗したため、順位に含まれていない。</ref>。記事執筆時点 (2019年6月1日) にはユーザー登録を締め切っている。
+
+[[file:Ehjovan-activity.png|none|240px]]
+
+==外部リンク==
+* [https://www.reddit.com/r/OutOfTheLoop/comments/b2cjn4/whats_going_on_with_venmo_ehjovan_and_why_am_i/ What's going on with "venmo: ehjovan" and why am I seeing it all over Twitter?]
+
+==脚注==
+<references />
+
+{{DEFAULTSORT:enjovancom}}
+[[category:インスタンス]]

@@ -1,0 +1,22 @@
+{{unreachable|year=2017|month=10}}
+{{Infobox instance
+| Name          = Mastodon-Okayama
+| Domain        = https://mstdn.okayama.jp/
+| Admin         = 不明
+| Country       = 日本
+| Start         = 不明
+| Kifu          = なし
+| Alias         = なし
+}}
+'''Mastodon-Okayama'''は、オープンソースのソーシャルネットワークMastodonで立てられた[[インスタンス]]。
+
+== 概要 ==
+岡山県にゆかりのあるユーザーを対象に開かれたインスタンス。
+
+2017年10月現在閲覧不可となっている。
+
+== 関連項目 ==
+* [[都道府県のインスタンス一覧]]
+
+{{DEFAULTSORT:おかやま}}
+[[Category:消滅したインスタンス]]

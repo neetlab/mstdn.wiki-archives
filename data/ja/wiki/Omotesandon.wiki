@@ -1,0 +1,18 @@
+{{unreachable|year=2017|month=8}}
+{{Infobox instance
+| Name          = Omotesandon
+| Domain        = https://omotesandon.com/
+| Admin         = 不明
+| Country       = 日本
+| Start         = 不明
+| End = 不明
+}}Omotesandonは、オープンソースのソーシャルネットワーク[[Mastodon]]のインスタンス。
+
+== 概要 ==
+東京都の表参道周辺に特化したマストドンインスタンス。2017年8月現在、アクセスができない状態となっている。
+
+== 関連項目 ==
+* [[都道府県のインスタンス一覧]]
+
+{{DEFAULTSORT:おもてさんどう}}
+[[カテゴリ: 消滅したインスタンス]]

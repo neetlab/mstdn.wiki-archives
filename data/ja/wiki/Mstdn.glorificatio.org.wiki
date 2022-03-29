@@ -1,0 +1,41 @@
+{{DISPLAYTITLE:マストドン丼部}}
+{{Infobox instance
+| Name          = マストドン丼部
+| <!-- Image         = [[ファイル:Mastodon_logo.png|120px|Mastodon]] -->
+| Domain        = https://mstdn.glorificatio.org
+| Admin         = {{Account|instance=mstdn.glorificatio.org|user=glorificatio|link=T}}
+| <!-- Moderator     = モデレーター, モデレーター, モデレーター -->
+| Country       = 日本
+| Start         = 2017年4月20日<ref>{{toot|mstdn.glorificatio.org|glorificatio|1}}</ref>
+| Kifu          = https://enty.jp/sCF5WVGviEnm
+| <!-- SourceCode    = https://github.com/tootsuite/mastodon -->
+| <!-- Alias         = 愛称, 愛称, 愛称 -->
+}}'''マストドン丼部'''は、[[オープンソース]]の[[分散SNS]]、[[Mastodon]]の[[インスタンス]]。
+
+== 概要 ==
+<blockquote>
+ヌルいけど パソコン大好き、テック系インスタンス。Hello Worldからどこまでも。 プログラマも、プログラマになりたい人も、ハッカーも、ハッカーになりたい人も、そんなあなたのインスタンス。 話題はなんでもOK。
+</blockquote>
+
+2017年4月20日から、ソウタロウ氏個人によりConoHaVPS上で管理運営されているインスタンス。
+
+インスタンスのカスタマイズは特に無いが、最新バージョンへのアップデートは即座では無いものの継続的に行われており、2018年7月20日現在のユーザー数は167人となっている。
+
+インスタンスの説明文には、以下のキーワードが掲げられている。
+<blockquote>
+* プログラミング
+* セキュリティ
+* Linux
+* ラズベリーパイ
+* 関数型言語
+* マストドンインスタンスづくり
+* インフラエンジニア
+* 工程管理
+* 品質管理
+* 愚痴
+</blockquote>
+
+== 出典 ==
+<references />
+
+[[Category:日本のインスタンス]]

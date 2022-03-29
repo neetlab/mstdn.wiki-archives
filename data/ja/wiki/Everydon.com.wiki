@@ -1,0 +1,19 @@
+{{Infobox instance
+| Name = Everydon
+| Domain = https://everydon.com
+| Admin = [https://everydon.com/@tarky 荒木泰介]
+| Country = 日本国
+| Start = 2017年4月20日
+}}'''{{Ruby|Everydon|エブリドン}}'''は、[[オープンソース]]の[[ソーシャル・ネットワーキング・サービス]][[Mastodon]]の[[インスタンス]]。
+
+== 概要 ==
+2017年4月20日<ref>https://everydon.com/@tarky/1</ref>、荒木泰介氏によって立ち上げられたインスタンス。
+
+[[Facebook]]のような「実名制インスタンス」を謳っており、「みんな（Everyone）が実名でつながれば面白い」という理念がインスタンス名の由来であるという<ref>http://webfood.info/mastodon-real-name-everydon/</ref>。
+
+そのため表示名を実名にすることが義務付けられており、登録してから1週間以内に表示名が実名にならない場合、アカウントの停止が行われるという。
+
+== 出典 ==
+<references />
+
+[[Category:日本のインスタンス]]

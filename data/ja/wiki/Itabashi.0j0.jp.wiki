@@ -1,0 +1,51 @@
+{{DISPLAYTITLE:板橋丼(Itabashi-don)}}
+{{Infobox instance
+| Name = 板橋丼(Itabashi-don)
+| Image = [[file:itabashi logo.svg|120px]]
+| Domain = https://itabashi.0j0.jp
+| Admin = [[ProgrammerGenboo]]<br />[https://itabashi.0j0.jp/@ReSinnRinn 白樺民]
+| Country = 日本国
+| Start = 2018年3月16日
+<!-- | Kifu = [https://paymo.life/shops/83e14b819b/syhopuseticket paymo] -->
+| Kifu = [https://www.pixiv.net/fanbox/creator/17631972 pixivFANBOX]
+| SourceCode = [https://github.com/Itabashi-don/mastodon GitHub]
+| Alias = 板橋丼
+}}'''itabashi.0j0.jp'''は、[[オープンソース]]の[[分散SNS]]、[[Mastodon]]の[[インスタンス]]。
+
+== 概要 ==
+2018年3月16日<ref>https://itabashi.0j0.jp/@ProgrammerGenboo/99692333157788469</ref>に立ち上げられたインスタンスで、東京都板橋区がテーマのいわゆる地域インスタンスの一つ。同区に関わりがあったり興味があるユーザーに向けられている。頻繁に改造やアップデートが行われるため、サーバーが不安定であると説明がされている。
+
+2018年8月1日、板橋丼の公式レポジトリに[https://github.com/Itabashi-don/mastodon/wiki Wikiページ]が開設された<ref>https://itabashi.0j0.jp/@Info/100473951772028995</ref>。
+
+== 独自実装機能 ==
+=== 限定公開機能 ===
+自分がフォロー中のユーザーにのみトゥートを公開することが出来る、独自の公開範囲。
+
+=== 引用ブースト機能 ===
+[[Twitter]]のように、自分や他人のトゥートを引用してトゥートすることが出来る。
+
+=== タグTL拡張 ===
+未収載でタグを付与してトゥートしても、タグ検索でヒットするようになる。
+
+=== キー割り当て拡張 ===
+既存のキー割り当てを拡張しており、[Ctrl]+[Shift]+[Enter]で、未収載の公開範囲でトゥートできるよう変更されている<ref>https://github.com/Itabashi-don/mastodon/wiki/%5BExtends%5D%20KeyBinding</ref>。
+
+== その他の変更 ==
+投稿可能な文字数が5000文字まで拡張されている。
+
+ユーザーネームに設定可能な文字数が、50文字まで拡張されている。
+
+プロフィールの説明欄に入力可能な文字数が、500文字まで拡張されている。
+
+各種通知音が独自のものに変更されている。
+
+[[ProgrammerGenboo]]氏開発のMastodonテーマ[[GooglePlus Theme for Mastodon]]が導入されている。
+
+== 出典 ==
+<references />
+
+== 関連項目 ==
+* [[都道府県のインスタンス一覧]]
+
+[[Category:日本のインスタンス]]
+[[Category:独自機能が実装されたインスタンス]]

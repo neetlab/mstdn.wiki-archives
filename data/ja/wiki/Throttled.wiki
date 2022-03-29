@@ -1,0 +1,19 @@
+{{Infobox word
+|Name = Throttled
+|Hinshi = 過去形・過去分詞
+}}'''Throttled'''または'''リクエストの制限に達しました'''は、Mastodonにおけるエラーメッセージの一つ。
+
+== 概要 ==
+
+Mastodonの英語のインスタンスにおいて、APIの制限を超えたときに表示される短いエラーメッセージ。このときのHTTPステータスコードは '''429''' である。
+
+2018年1月10日リリースの Mastodon 2.1.3 より前の初期設定では[[ログイン]]時のAPI制限がとても厳しく、ログインに 5分で 5回失敗すると “Throttled” になってしまっていたが、5分で 25回に緩和された<ref>[https://github.com/tootsuite/mastodon/commit/921b78190912b3cd74cea62fc3e773c56e8f609e Increase rate limit on protected paths (#6229) · tootsuite/mastodon@921b781]</ref>。
+
+当初は日本語のインスタンスでも英語でこれが表示されていたが、2017年5月29日リリースの Mastodon 1.4.1 から国際化されて日本語では「'''リクエストの制限に達しました'''」となっている<ref>[https://github.com/tootsuite/mastodon/commit/db92eec876efc2d5b450b0c9c70d78091762fc4b Localize 'throttled' (#2755) · tootsuite/mastodon@db92eec]</ref>。
+
+ちなみに、HTTPステータスコードの 429 は '''Too Many Requests''' で、ユーザーが時間内に大量のリクエストを送信したことをあらわす<ref>[https://developer.mozilla.org/ja/docs/Web/HTTP/Status HTTP レスポンスステータスコード - HTTP | MDN]</ref>。
+
+== 脚注 ==
+<references />
+
+[[Category:マストドンの機能]]

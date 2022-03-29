@@ -1,0 +1,24 @@
+{{小文字}}
+{{infobox instance
+|Name = {{Ruby|'''マストドンAA板'''|マストドンエーエーバン}}
+|Domain = https://msdnaart.net
+|Country = 日本
+|Admin = [https://msdnaart.net/@pratula_admin 脱臼するぷらとぅら]
+|Start = 2017年4月20日
+|Kifu = [https://enty.jp/wn3TsGzi9l0A Enty]
+|Alias = 
+}}'''マストドンAA板'''は、オープンソースのソーシャルネットワークMastodonの[[インスタンス]]。
+
+== 概要 ==
+インスタンス名の通り、AA（アスキーアート）や[[絵文字]]で遊ぶ、といったテーマで立てられたインスタンス。
+
+数回のサーバーリセットを繰り返している。
+
+== ルール ==
+<blockquote>
+18禁エログロ(AA含む)は禁止です。（でも個人的には「でぃ」とか好きだったりする) 
+
+そのほかプライバシーとか、迷惑行為禁止。 
+</blockquote>
+
+[[Category:日本のインスタンス]]

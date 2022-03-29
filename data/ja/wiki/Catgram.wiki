@@ -1,0 +1,17 @@
+{{infobox instance
+|Name = '''Catgram'''
+|Image = [[ファイル:Catgram.png|300px]]
+|Domain = https://catgram.jp
+|Country = 日本
+|Admin = [https://catgram.jp/@catstar catstar]、[https://catgram.jp/@sumire sumire]
+|Start = 2017年6月29日
+}}'''Catgram'''は、オープンソースのソーシャルネットワークMastodonの[[インスタンス]]。
+
+== 概要 ==
+猫の写真や話題に関する投稿がテーマのインスタンス。"Cat"(猫)と"gram"(〜を書いたもの)がインスタンス名の由来。
+
+== 関連項目 ==
+* [[Catdon]]
+* [[Mao.daizhige.org]]
+
+[[Category:日本のインスタンス]]

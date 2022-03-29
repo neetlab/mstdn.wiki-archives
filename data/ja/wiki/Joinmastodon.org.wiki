@@ -1,0 +1,52 @@
+{{Infobox software
+| Name                = joinmastodon.org
+| Image               = [[ファイル:Joinmastodonorg.jpg|300px]]
+| Developer           = [[Eugen Rochko]]
+| SourceCode          = https://source.joinmastodon.org/mastodon/joinmastodon
+| Platform            = ウェブ
+| ProgrammingLanguage = JavaScript
+| Launch              = 2017年5月20日
+| License             = [[GNU Affero General Public License]]
+| Web                 = https://joinmastodon.org
+}}
+'''[https://joinmastodon.org/ joinmastodon.org]'''は、主に新規ユーザーに向けた、マストドンの公式ウェブサイト。
+
+== 概要 ==
+2017年5月20日に公開された公式のランディングページで、2017年9月17日に日本語に対応した。
+
+マストドンの新規ユーザーに向けた説明などが掲載されているウェブページとなっており、「[[インスタンス]]を選ぶ」などの新規ユーザー向けセクションが掲載されている。
+
+マストドンの企業スポンサー枠の中で、2017年9月21日より募集されている月額200ドルの「プラチナスポンサー」は、このウェブページにロゴマークが掲載される。
+
+また、マストドンのインスタンスのトップページに置かれている「もっと詳しく<ref>2個ある「もっと詳しく」のうち、1個はインスタンスの詳細情報ページ、もう1個はjoinmastodon.orgへのリンクである。</ref>」と、詳細情報ページに置かれている「Mastodonとは？」は、このjoinmastodon.orgへのリンクになっている。
+
+==インスタンス一覧==
+
+「アカウントを登録する<ref>過去には「インスタンスを選ぶ」であった。</ref>」セクションには[[Mastodon Instances]]のAPIを使用したインスタンスの一覧表がある。この一覧表の並び順は、当初Mastodon Instancesへの登録が古い順であったが、2017年11月6日よりランダムに並び替えられるようになった<ref>https://github.com/tootsuite/joinmastodon/commit/79ddeb204cd1dbea717654ea73177d4c8f5298b5</ref>。さらに、2018年2月15日には、週間アクティブユーザー数の順に変更された<ref>https://github.com/tootsuite/joinmastodon/commit/4b07e1f004019160115304a06c1046726d899bc9</ref>。2018年12月19日<ref>https://source.joinmastodon.org/mastodon/joinmastodon/merge_requests/26</ref>以降は、週間アクティブユーザー数が150人に近いインスタンスから順に表示される。2019年5月13日<ref>https://source.joinmastodon.org/mastodon/joinmastodon/commit/f6c8f20bc364e672ae67c05ad6dd95e8d42027fe</ref>以降は、週間アクティブユーザー数が800人に近いインスタンスから順に表示される。
+
+===Mastodon Server Covenant===
+
+2019年5月には、インスタンス一覧の仕様が大きく変更された<ref>[https://source.joinmastodon.org/mastodon/joinmastodon/commit/ef7bc6f8610253cf878aa71b38b9ec2507c48535 Redesign server list and add covenant banner]</ref>。インスタンス一覧のもとになるデータは https://api.joinmastodon.org/servers から取得する<ref>[https://source.joinmastodon.org/mastodon/joinmastodon/commit/5583f1390642ec8b7e4226f5ee25e6ddef545b78 Switch over to api.joinmastodon.org]</ref>。インスタンスの登録はメールで行われ<ref>https://joinmastodon.org/covenant</ref>、人手で処理される。インスタンス一覧の配列は、週間アクティブユーザー数が800人に近いインスタンスから順に表示される。 
+
+'''Mastodon Server Covenant<ref>https://joinmastodon.org/covenant</ref><ref>[https://source.joinmastodon.org/mastodon/joinmastodon/commit/f6c8f20bc364e672ae67c05ad6dd95e8d42027fe Add covenant page]</ref>'''という文書が追加され、joinmastodon.orgのインスタンス一覧に掲載されるためには、以下のような厳しい条件が課されるようになった。
+
+* 人種差別、性差別、同性愛差別、性転換差別に対する活発な処罰。
+* 定期的なデータのバックアップ。
+* 緊急時にサーバーをメンテナンスできる人が複数いること。
+* インスタンスを閉鎖する3ヶ月前にはユーザーに告知すること。
+
+ただし、これらの条件に合致しているかどうかは自己申告であり、証明を求められることはない。
+
+2019年7月時点で、登録されているインスタンスは68件、うち[[:category:日本のインスタンス|日本のインスタンス]]は[[Vocalodon]]1件にとどまっている。2021年11月時点では、登録されている日本語圏のインスタンスは[[fedibird.com]]、[[mstdn.jp]]、[[gensokyo.town]]の3件である。
+
+== 出典 ==
+<references />
+
+==外部リンク==
+* https://joinmastodon.org
+* https://source.joinmastodon.org/mastodon/joinmastodon
+
+{{DEFAULTSORT:joinmastodonorg}}
+[[Category:マストドン公式ウェブサイト]]
+[[Category:インスタンスの一覧を提供するウェブサイト]]
+[[Category:ライセンスなし]]

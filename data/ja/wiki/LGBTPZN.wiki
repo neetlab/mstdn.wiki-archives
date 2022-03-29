@@ -1,0 +1,30 @@
+{{Infobox word
+|Name   = LGBTPZN
+|Hinshi = 名詞
+|Hatsu  = 2016年9月26日
+}}'''LGBTPZN'''は、[[日本におけるマストドンブーム|マストドンブーム]]以前の日本語圏の分散SNSユーザーのなかで、有力な勢力であった集団。現在は[[GNU social]]のインスタンスであるLGBTPZN social<ref>https://social.pzn.lgbt</ref>が稼動している。
+
+==分散SNS以前のLGBTPZN==
+
+LGBTPZNはレズビアン、ゲイ、バイセクシャル、トランスジェンダー、ペドフィリア、ズーフィリア、ネクロフィリアのアクロニムである。ただし、LGBTPZNポータル (後述) では、LGBTPZNはアクロニムではなく、多様な性を象徴するシンボルであると解釈している。
+
+LGBTPZNという語は、ポーランドの保守的なキリスト教徒によって、LGBTをおとしめる目的で造語された<ref>LGBTPZNという語がポーランドで発生したことは、日本語圏のLGBTPZN関係者に広く信じられていた。しかし、ポーランドでのLGBTの運動に対抗して、それを揶揄する目的でLGBTPZNという語を造語したのは、ロシアのIPアドレスを持つユーザーであることが、牧村朝子の調べにより判明した。[http://wezz-y.com/archives/53907 LGBTにペドフィリア、ズーフィリア、ネクロフィリアも加えるべき？「やらせろ連帯」ではなく「やってしまわないための連帯」を] も参照。</ref>。日本におけるLGBTPZNは、それとは独立に造語され、小児性愛者を中心に普及した<ref>[http://okimochi-philia.hatenablog.com/entry/2016/12/03/000248 LGBTPZNの現在地]</ref>用語である。
+
+2016年9月26日、日本語圏の[[Twitter]]において、LGBTPZNという用語が大量に言及された。この日をもってLGBTPZN運動が開始された日とみなされている。翌27日にはLGBTPZNポータル<ref>'''lgbtpzn.org'''ドメインに置かれていたが、現在は消滅している。</ref><ref>https://web.archive.org/web/20161203042633/https://lgbtpzn.org/</ref>が開設された。LGBTPZNポータルの開設者は[[墓場人夜]]である<ref>墓場人夜はLGBTPZNの提唱者'''ではない'''。</ref>。
+
+2016年11月23日の砂鉄騒動、2017年4月11日のミュンヒハウゼン騒動を経て、LGBTPZNという用語は広く知られるようになった。その反面、LGBT当事者または運動家に対する中傷のためにLGBTPZNが利用されるなど、当初LGBTPZNを支持した層とは違った思惑でLGBTPZNが広まった。LGBTPZNに対して敵対的な立場で書かれた文書<ref>[http://highday.moo.jp/2017/01/04/post-234/ LGBTとロリコンは同じ性的マイノリティーか？という疑問に対する明快な答えを見つけた ]</ref>がインターネットで人気を博する一方、LGBTPZNを支持する内容の文書<ref>[https://note.mu/gsnm_kei/n/n80a89e898ab8 LGBTPZNという単語を知っているか]</ref>はわずかであった。
+
+==分散SNSにおけるLGBTPZN==
+2017年1月1日、[[墓場人夜]]が[[GNU social|FreezePeach]]にアカウントを作成し、Twitterで移住を呼びかけた。これに応じてFreezePeachを使い始めたLGBTPZN支持者も多く、分散SNSにおける日本語圏のユーザーの参入としては、おそらく初の本格的な事例となった<ref>[http://okimochi-philia.hatenablog.com/entry/2017/06/30/050412 GNU Socialの思い出]</ref>。2017年4月にはCharlie Nimdaが [https://social.pzn.lgbt LGBTPZN social] を開設した。LGBTPZN支持者がFreezePeachとLGBTPZN social (いずれも[[GNU social]]のインスタンス) に集合するなか、同時期に[[日本におけるマストドンブーム]]が発生し、同じ[[OStatus]]を用いる分散SNSの古参として、さまざまな形でマストドンと向き合っていくこととなった。第1回[[分散SNSフォーラム]]はLGBTPZN支持者の参加が多く、さながらLGBTPZNオフ会の様相を呈した。
+
+なお、分散SNSではないが、[[Gab]]に移住したLGBTPZN関係者も多い。
+
+==外部リンク==
+* [https://social.pzn.lgbt LGBTPZN social]
+* [https://www.lgbtpzn.net/ LGBTPZNネットワーク]
+
+==脚注==
+<references />
+
+[[category:象語]]
+{{DEFAULTSORT:lgbtpzn}}

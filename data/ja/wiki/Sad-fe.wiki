@@ -1,0 +1,10 @@
+{{小文字}}{{stub}}
+'''sad-fe'''は、[[Pleroma]]と[[Mastodon|マストドン]]のウェブクライアント。表記揺れに'''SadFE'''または'''Sad Frontend'''がある。
+
+==外部リンク==
+* https://git.pleroma.social/FloatingGhost/sad-fe
+* https://sad.ihatebeinga.live
+
+{{DEFAULTSORT:sadfe}}
+[[category:ウェブクライアント]]
+[[category:MITライセンス]]

@@ -1,0 +1,33 @@
+'''EU著作権指令'''とは、ヨーロッパ連合が制定を準備している、著作権に関する指令。
+
+==名称について==
+この指令が発効すると、EUに加盟している各国は、国内法を整備する必要がある。そのため、法と指令を区別せずに'''ヨーロッパ著作権法'''または'''European Copyright Law'''と呼ばれることもある。'''著作権改革'''または'''copyright reform'''として言及されることもある。正確な名称は'''Directive of the  European Parliament and of the Council on copyright in the Digital Single Market'''である。
+
+==批判==
+この著作権指令は、2018年6月に委員会で可決されたことをきっかけに議論が噴出した。特に問題とされているのは11条と13条である。反対者たちの主張を中心に簡略化して説明すると、11条は、報道機関のコンテンツに対してリンクを張ることも保護の対象となることから、「リンク税」と非難されている。13条は、コンテンツ認識技術などにより、著作権を侵害するコンテンツのアップロードを防止する義務が規定されている。コンテンツ認識技術の導入がウェブサイトにとって過大な負担になること、パロディーが阻害されたり、誤検出などによって表現が萎縮することが批判されている。
+
+2017年7月5日、欧州議会は著作権指令案を否決した<ref>[http://www.itmedia.co.jp/news/articles/1807/05/news140.html 欧州議会、著作権新指令案否決　条項見直し9月に再投票へ]</ref>。修正案が9月に再投票される見通しである。
+
+==マストドンへの影響==
+著作権指令案の第13条の記述を見る限り、「コンテンツ認識技術」は例示されているだけであり、実際に義務付けられるのは、著作権を侵害するコンテンツの利用可能性を妨げるために「適切かつ比例した措置」を取ることである<ref name=hd>[[User:Hakabahitoyo|記事執筆者]]による独自調査。</ref>。マストドン、特に小規模なインスタンスにとっては、「適切かつ比例した措置」のために大規模な措置が必要になるとは考えにくい。著作権を侵害するコンテンツをモデレーターが手動で削除すること、および一般ユーザーが通報を通じて協力することだけでも十分である可能性がある<ref name=hd />。
+
+==他の分散SNSへの影響==
+[[PeerTube]]、[[Funkwhale]]、[[PixelFed]]などは、コンテンツのアップロードが主要な機能であるため、第13条への対応が (マストドンと比較すると) 負担になる可能性がある<ref name=hd />。
+
+==関連項目==
+* [[General Data Protection Regulation]]
+
+==外部リンク==
+* [https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:52016PC0593 Proposal for a DIRECTIVE OF THE EUROPEAN PARLIAMENT AND OF THE COUNCIL on copyright in the Digital Single Market]
+* [https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:52016PC0593 Proposal for a DIRECTIVE OF THE EUROPEAN PARLIAMENT AND OF THE COUNCIL on copyright in the Digital Single Market (PDF)]
+* [https://blog.joinmastodon.org/2018/06/why-we-must-oppose-the-new-copyright-directive/ Why we must oppose the new copyright directive]: [[Gargron]]による[[マストドン公式ブログ]]の記事。
+* [https://gigazine.net/news/20180621-eu-link-charge-copy-right/ ハイパーリンクを貼るだけで著作権料がかかる通称「リンク税」がEUで導入されようとしている]
+* [https://www.kottolaw.com/column/180626.html 『リンク税』の功罪　―EU著作権新指令とハイパーリンクをめぐる誤解]
+* [https://jp.techcrunch.com/2018/07/06/2018-07-05-european-meps-vote-to-reopen-copyright-debate-over-censorship-controversy/ 欧州議会、著作権をめぐる改革案を否決ー議論続行へ]
+* [https://www.huffingtonpost.jp/kazuhiro-taira/eu-20180710_a_23477000/ P・マッカートニー対ネットの父、EU新著作権指令案"否決"の背景]
+
+==脚注==
+<references />
+
+{{DEFAULTSORT: いいゆうちよさくけいしれい}}
+[[category: 出来事]]

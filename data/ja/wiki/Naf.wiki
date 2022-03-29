@@ -1,0 +1,36 @@
+{{Infobox person
+| Name     = {{Ruby|Naf|ナフ}}
+| Image    = [[ファイル:naf.jpg|120px]]
+| Instance = [https://otogamer.me/@Naf 音ゲーマー丼] ほか多数
+| Link     = https://auri.ga/naf/
+| Else     = [[Hostdon]]運営者
+}}'''Naf'''は、プログラマー、インスタンス運営者。
+
+==ソフトウェア==
+* [[Hostdon]]
+* [[ソーシャルボタン|Mastoshare]]
+
+==マストドンのインスタンス==
+* [[otogamer.me|音ゲーマー丼]]
+* [[kawasaki-city.social|川崎丼]] (現在は消滅)
+* あんどろいどん (<nowiki>https://android-user.club</nowiki> で提供されていた。現在は消滅。)
+
+==他の分散SNSのインスタンス==
+* ketsuben.red ([[Pleroma]]、現在は消滅)
+* [https://tube.otogamer.me tube.otogamer.me] ([[PeerTube]])
+* <nowiki>https://diaspora.jp</nowiki> (diaspora*、現在は消滅)
+
+==team Auriga==
+team AurigaはNafとEGGによるプログラミング集団。上記プロダクトの一部はteam Auriga名義である。
+
+==多忙==
+[[2018年]]11月9日<ref>https://mstdn.hostdon.jp/@hostdon/101040302673887437</ref>頃から多忙となっており、Hostdonの対応に遅れが出ることがアナウンスされている。
+
+==外部リンク==
+* [https://auri.ga/ team Auriga]
+
+==脚注==
+<references />
+
+[[category:人物]]
+{{DEFAULTSORT:naf}}

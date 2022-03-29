@@ -1,0 +1,24 @@
+{{Infobox software
+| Name                = Brutaldon
+| Image               = [[ファイル:Brutaldon-512.png|240px]]
+| Developer           = Jason McBrayer
+| SourceCode          = https://git.carcosa.net/jmcbray/brutaldon
+| Platform            = ウェブ
+| ProgrammingLanguage = Python
+| Launch              = 2018年8月9日<ref>https://git.carcosa.net/jmcbray/brutaldon/src/tag/v1.1</ref>
+| Kifu                = [https://ko-fi.com/D1D7QBZC Buy a Coffee for GCU Prosthetic Conscience]
+| License             = [[GNU Affero General Public License]] Version 3
+| Web                 = https://brutaldon.online/
+}}
+
+'''Brutaldon'''は、[[Mastodon|マストドン]]と[[Pleroma]]のウェブクライアント。ブルータリズム<ref>機能主義的で荒々しい外見。</ref>とウェブ1.0を標榜する。JavaScriptをほとんど使わずに作られている。少数の機能はJavaScriptに依存しているものの、それらは設定で無効化することができる。スクリーンリーダーとテキストブラウザでの閲覧に適していると主張されている。
+（2022年1月25日現在 https://brutaldon.online/ にはアクセスできなくなっているようです。）
+
+==Pleromaとの関係==
+[[Pleroma]]では、JavaScriptが無効になっている場合のフォールバックとして、Brutaldonを同梱することが検討された<ref>[https://git.pleroma.social/pleroma/pleroma/issues/627 No Javascript Fall-back FE #627]</ref>が、却下されている。議論の過程で、Brutaldonがユーザーのメールアドレスを要求することが問題として挙げられた<ref>https://git.pleroma.social/pleroma/pleroma/issues/627#note_16449</ref>。記事執筆時点では、Brutaldonはメールアドレスを入力しなくてもログインできるようになっている。
+
+==脚注==
+<references />
+
+[[category:ウェブクライアント]]
+[[category:GNU Affero General Public License]]

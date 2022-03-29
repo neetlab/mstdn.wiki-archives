@@ -1,0 +1,23 @@
+{{Infobox software
+| Name                = Artodon
+<!-- | Image               = [[ファイル:Amaroq.jpg|120px|Amaroq]] -->
+| Developer           = [https://elenq.tech ElenQ Technology]
+| SourceCode          = https://gitlab.com/ElenQ/artodon
+| Platform            = ウェブ
+| ProgrammingLanguage = ClojureScript
+| Launch              = 2017年12月
+<!-- | Kifu                = [https://paypal.me/floofdog PayPal] -->
+| License             = [[GNU Affero General Public License]]
+| Web                 = https://elenq.gitlab.io/artodon
+}}'''Artodon'''は、[[Mastodon|マストドン]]に投稿された画像をグリッド状に表示する画像ビューア。[[連合タイムライン]]を流れるトゥートのうち'''<nowiki>#mastoart</nowiki>'''ハッシュタグのついた投稿を表示する。開設当初は[[mastodon.art]]の連合タイムラインを観測していたが、2018年6月28日<ref>https://gitlab.com/ElenQ/artodon/commit/b1a0220a71afc4c4038b8e2085ab4a1d262cf84d</ref>より、[[mastodon.social]]を観測している。
+
+==関連項目==
+* [[tusktowall]]
+* [[Gallery]]
+
+==脚注==
+<references />
+
+{{DEFAULTSORT:artodon}}
+[[category:ウェブサイト]]
+[[category:GNU Affero General Public License]]

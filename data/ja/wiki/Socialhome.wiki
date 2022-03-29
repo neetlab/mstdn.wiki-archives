@@ -1,0 +1,9 @@
+{{Stub}}
+'''Socialhome'''は、[[ActivityPub]]を用いる[[分散SNS]]の実装。
+
+==外部リンク==
+* https://socialhome.network/
+
+{{DEFAULTSORT:socialhome}}
+[[category:分散SNS]]
+[[category:GNU Affero General Public License]]

@@ -1,0 +1,31 @@
+{{小文字}}
+{{Infobox software
+| Name = {{Ruby|notestock|ノートストック}}
+| Image = [[File:Notestok-logo.svg|200px|Notestock]]
+| Developer = [[おさ]]
+| Launch = 2018年7月14日<ref>https://mstdn.nere9.help/@osapon/100371333158361040</ref>
+| SourceCode = [[プロプライエタリ]]
+| Web = https://notestock.osa-p.net/
+}}{{Ruby|'''notestock'''|ノートストック}}とは、[[Mastodon]]をはじめとする[[ActivityPub]]に対応した[[分散SNS]]のユーザーの投稿を記録できるサービス。
+
+== 概要 ==
+[[おさ]]氏により開発されているウェブアプリケーション。
+
+ログインフォームからアカウントのIDを入力すると、アカウントの実在性を確認の上で、特定のメッセージを送信するように指示される。
+
+メッセージは<code>@stocker@notestock.osa-p.net</code>というnotestockのActivityPubアカウントへのリプライとなっており、送信することで同アカウントからフォローされ、投稿の記録が開始される。
+
+投稿は日付別に一覧表示され、[[検索]]も可能である。
+
+ActivityPubでリモートフォローが可能であれば登録が可能であり、Mastodonのほか、[[Pleroma]]や[[Misskey]]、[[microblog.pub]]などのActivityPubプロトコルを擁した分散SNSで利用が可能である。
+
+== 関連項目 ==
+* [[Tootlog]]
+* [[Logdon]]
+* [[Tootgetter]]
+
+== 出典 ==
+<references />
+
+[[Category:ウェブサイト]]
+[[Category:プロプライエタリ]]

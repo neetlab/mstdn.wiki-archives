@@ -1,0 +1,28 @@
+{{stub}}
+{{小文字}}
+
+{{infobox instance
+|Name = '''mstdn.jp on The Edge'''
+|Domain = https://edge.mstdn.jp
+|Country = 日本
+|Admin = [https://edge.mstdn.jp/@nullkal nullkal]
+|Start = 2017年7月25日
+|End = 不明
+|Kifu = なし
+|Alias = edge鯖
+}}'''edge.mstdn.jp'''は、オープンソースのソーシャルネットワークMastodonの[[インスタンス]]。
+== 概要 ==
+[[mstdn.jp]]の管理者である[[Nullkal]]氏が、新機能をテストするために立てたサブインスタンス。
+
+そのためNullkal氏は、安定動作の保証はなく予告なしにリセットされる場合もあるとしていた。
+
+2018年7月2日現在、消滅状態となっている。
+
+== 関連項目 ==
+* [[mstdn.jp]]
+* [[マ]]
+
+== 脚注 ==
+<references />
+
+[[Category:日本のインスタンス]]

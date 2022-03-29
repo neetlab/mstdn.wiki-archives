@@ -1,0 +1,35 @@
+{{Infobox person
+| Name = Valentin Ouvrard
+| Image = [[ファイル:Valentin Ouvrard.png|300px]]
+| Color = #1A9EF9
+| Instance = [[Mastodon.cloud]]
+| Link = https://mastodon.cloud/@TheAdmin<br />https://mastodon.cloud/@ValentinOuvrard
+| Else = [[Mastodon.cloud]]元管理人
+}}
+'''Valentin Ouvrard'''または'''TheAdmin'''とは、[[Mastodon.cloud]]の元運営者及び管理人である。同インスタンス内での愛称は主に「学院長」<ref>[http://www.itmedia.co.jp/news/articles/1704/17/news092.html 管理人であるValentin Ouvrardさんを「学院長」と呼ぶ慣習ができていた。]</ref>。
+
+== 概要 ==
+元来、TheAdminは単に[[Valentin Ouvrard]]氏のユーザー名であったが、その意味を理解しない英語圏以外のユーザーが増えるにつれ、単に「TheAdmin」あるいは「Admin」とも呼ばれるようになっている。
+
+氏はクラウドファウンディング<ref>https://www.patreon.com/ValentinOuvrard</ref>を通して[[Mastodon]][[インスタンス]]の[[Mastodon.cloud]]を開発。後日[[Mastodon.social]]がユーザー数の増加につき新規登録締め切り、多くののユーザーが流れ込み[[Valentin Ouvrard]]氏はサーバー増強等の対応を取った。
+
+== Mastodon.cloudにおける日本人ユーザーへの対応 ==
+先述の理由で日本人ユーザーも大きく増加し、日本語が多く[[トゥート]]されるようになってしまった[[ローカルタイムライン]]に対して一部のユーザーが不満の声を上げたことに対し、Valentin Ouvrard氏は「日本人をブロックすることはしない」<ref>[http://www.itmedia.co.jp/news/articles/1704/17/news092.html Ouvrardさんは16日朝、「日本人をブロックすることはしない」とトゥート]</ref>と一蹴、それに歓喜の声を上げた日本人ユーザーの間でユーザー名の前または後にフランス共和国の国旗の絵文字を追加する風潮が流行した。<ref>[http://www.itmedia.co.jp/news/articles/1704/17/news092.html ITmedia「フランス国旗も喜んでくれていたようだ」]</ref>。
+
+== Mastodon.cloudの移管 ==
+2017年後半からMastodon.cloudは不安定な状態が続くようになった。一方でValentin Ouvrard氏はインスタンスの管理に割けるリソースが減少したため、Mastodon.cloudはサーバーダウンなどを繰り返したり、あろうことか@TheAdminのアカウントにアクセスできなくなるなどの障害が発生してしまった。
+
+そのため、2018年4月21日頃、Knzk.me管理者の[https://knzk.me/@imbsky bsky]氏により移管が提案された。協議の末同年5月17日に移管が正式決定、不安定となったサーバーの修復などが行われた。そのため、2018年6月現在Mastodon.cloudはValentin Ouvrard氏の手を離れている。また、@TheAdminアカウントは復旧したものの、移管による混乱を避ける為トゥートは全削除されている。
+
+''[[Mastodon.cloud#サーバー障害とサーバー移転]]の項目も参照。''
+
+== 出典 ==
+<references/>
+
+== 外部リンク ==
+*https://www.patreon.com/ValentinOuvrard
+*https://mastodon.cloud/@TheAdmin
+*https://mastodon.cloud/@ValentinOuvrard
+*https://twitter.com/Valentin_NC
+
+[[category:人物]]

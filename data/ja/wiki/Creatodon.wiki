@@ -1,0 +1,38 @@
+{{Infobox instance
+| Name          = Creatodon
+| Domain        = https://gamelinks007.net
+| Admin         = [[SH|S.H.]]
+| Country       = 日本
+| Start         = 2017年5月2日
+| Kifu          = [https://www.amazon.co.jp/Amazon%E3%82%AE%E3%83%95%E3%83%88%E5%88%B8-E%E3%83%A1%E3%83%BC%E3%83%AB%E3%82%BF%E3%82%A4%E3%83%97/dp/BT00DHI8G4 Amazonギフト券] [https://www.amazon.co.jp/registry/wishlist/1VKJGUPOSNKND/ref=cm_sw_r_cp_ep_ws_WxBsAbQYWRT9V 欲しいものリスト]
+| Alias         = なし
+}}
+'''Creatodon'''は、オープンソースのソーシャルネットワークMastodonの[[インスタンス]]。
+
+==概要==
+基本的には、創作物全般(絵、小説、ゲームなど)を話すインスタンス。
+
+一次、二次の区別なく創作に関する話をすることを目的としている。
+
+基本的に日本の法令に違反するような[[トゥート]](犯罪予告など)や付きまとい等は禁止。
+
+当初は'''一次創作全般インスタンス'''という名称だったが、2017年10月27日に二次創作も一次創作も扱えるようにと'''創作全般インスタンス'''に改名、その数日後<!-- 日にちはわかり次第 -->に現インスタンス名である'''Creatodon'''に改名した。
+
+[https://creatodon-folio.herokuapp.com/ CreatodonFolio]という、インスタンス住民が画像を投稿できるウェブポータルサイトも公開されている。
+
+==独自機能==
+「お気に入り」ボタンが「尊い」へと変更されており、尊み溢れるTLとなっている(ブラウザ版限定)。
+
+また、Google Cloud Vision API を使用し、アダルト画像やグロテスク画像には自動的にNSFW処理が行われるようになっている。
+
+==関連項目==
+
+*[[FoodsChecker for Mastodon]]
+*[[Ichiji.social]]
+*[[銀河丼]]
+*[[Pawoo]]
+*[[Mastodon.ART]]
+*[[いわみどん]]
+
+[[category:日本のインスタンス]]
+[[Category:独自機能が実装されたインスタンス]]

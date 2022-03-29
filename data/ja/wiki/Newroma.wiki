@@ -1,0 +1,32 @@
+'''Newroma'''は、[[2022]]年1月に発生した[[Pleroma]]のフォーク。
+
+==名称について==
+
+'''Newroma'''は仮の名称であり、1ヶ月ほどの時間をかけて正式な名称を決定するものとされた。その後、名称の決定の前に、Pleromaの開発体制が改善したことから、フォーク側では名称を決定せず、徐々にPleromaに合流することになった<ref>[https://codeberg.org/newroma-dev/newroma/issues/16 Name for the fork #16]</ref>。
+
+==独立の経緯==
+
+Alex Gleasonという人物がPleromaの[[リポジトリ]]のメンテナー権限を取得したことと、問題の多いものを含む多数のマージリクエストをマージしたことから、複数の開発者が反発し、Pleromaのフォークとして分離・独立することとなった。
+
+特に問題視されたのは、Pleromaのモデレーターの仕様を大幅に変更するマージリクエスト<ref>[https://git.pleroma.social/pleroma/pleroma/-/merge_requests/3480 AdminAPI: let moderators actually do things]</ref>である。そのなかでも、モデレーターが他のユーザーの[[ダイレクトメッセージ]]を見ることができるという仕様が議論となった。
+
+また、Alex Gleasonは暴言が多く、トランスジェンダーを差別する投稿をしていたことから、メンテナーとして適格でないとされた<ref>[https://hacktivis.me/articles/Update%20on%20Pleroma%20Maintainance Update on Pleroma Maintainance]</ref>。
+
+==事態の鎮静化==
+
+Alex GleasonがPleromaのリポジトリのメンテナー権限を剝奪され、また、再発防止のためのガイドラインが整備されたことから、事態は沈静化した<ref>前掲 [https://codeberg.org/newroma-dev/newroma/issues/16 Name for the fork #16]</ref>。今後 (記事執筆時点は2022年2月末) は、徐々にPleroma本体に合流していくものとみられる。
+
+==関連項目==
+
+* [[Pleroma]]
+
+==外部リンク==
+
+* https://codeberg.org/newroma-dev/newroma
+
+==脚注==
+<references />
+
+{{DEFAULTSORT:newroma}}
+[[category:分散SNS]]
+[[category:出来事]]

@@ -1,0 +1,37 @@
+{{Infobox instance
+| Name          = {{Ruby|'''Amemiya.work'''|Amemiya.work}}
+| Image         = [[ファイル:Mastodon_logo.png|120px|Mastodon]]
+| Domain        = https://amemiya.work
+| Admin         = TaiseiMiyahara
+| Country       = Japan
+| Start         = 2018年9月1日
+| Kifu          = [http://www.amazon.co.jp/registry/wishlist/2MLW8UOFRNDL1/ref=cm_sw_r_tw_ws_x_VBRSzbRXJ3WF6 欲しい物リスト]
+| Alias         = 雨宮, 雨宮製作所, AMW
+}}
+'''Amemiya.work'''は、オープンソースのソーシャルネットワークMastodonの[[インスタンス]]。
+
+==概要==
+
+[[中仙ドン]]の後継として作られたインスタンスとされる<ref>中仙ドンが地域インスタンスであるのに対して、Amemiya.workは趣味系インスタンスであるので、厳密には語弊がある。</ref>、鉄道趣味系インスタンス。
+
+「リアル・オンライン問わず、鉄道会社（とくに現業職員）に著しい迷惑をかけるような行為」が固く禁止されている。
+
+
+なお、雨宮製作所とは、[https://ja.wikipedia.org/wiki/%E9%9B%A8%E5%AE%AE%E8%A3%BD%E4%BD%9C%E6%89%80 明治末から昭和初期にかけて実在した鉄道車両メーカー]で、主に地方路線向けの小型車両を製造していた。
+
+==運営方針==
+
+基本、往年（2000年代頃）の個人サイトに付属していたような、BBSやChatと同じような感じのゆるーい運営をしてまいります。
+
+色々粗はあります。当然です。個人ですから。
+あなたのプライバシーが商用利用されることはありません。個人ですから。
+
+==関連項目==
+
+*[[中仙ドン]]
+
+==出典==
+<references />
+
+{{DEFAULTSORT:amemiyawork}}
+[[category:日本のインスタンス]]

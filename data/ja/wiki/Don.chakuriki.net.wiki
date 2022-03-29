@@ -1,0 +1,22 @@
+{{小文字}}
+{{infobox instance
+|Name = {{Ruby|chakudon|チャクドン}}
+|Image = [[ファイル:chakudon.png|300px]]
+|Domain = https://don.chakuriki.net
+|Country = 日本
+|Admin = chakuriki（谷口マサト）
+|Start = 2017年4月16日<ref>https://don.chakuriki.net/@dan/10</ref>
+}}{{Ruby|'''chakudon'''|チャクドン}}は、[[オープンソース]]の[[ソーシャル・ネットワーキング・サービス]][[Mastodon]]の[[インスタンス]]。
+
+== 概要 ==
+「バカ日本地図」などで知られる谷口マサト（chakuriki）氏により2017年4月16日に立ち上げられた。
+
+主に地域の話題、ご当地の話題が主なテーマとなっているが、話題とする地域は自由で、汎用型のご当地インスタンスとなっている。
+
+== 関連項目 ==
+* [[都道府県のインスタンス一覧]]
+
+== 出典 ==
+<references />
+
+[[Category:日本のインスタンス]]

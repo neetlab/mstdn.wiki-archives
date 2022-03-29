@@ -1,0 +1,26 @@
+{{Infobox instance
+| Name          = {{Ruby|Aqua Graphic|アクアグラフィック}}
+| Image         = [[ファイル:AquaGraphic.jpg|300px]]
+| Domain        = <s>https://aqua-graphic.blue/</s>
+| Admin         = [https://aqua-graphic.blue/@amanoyu アマノユウ]
+| Country       = 日本
+| Start         = 2017年4月16日
+| End = 2017年12月1日
+| Kifu          = なし
+| Alias         = なし
+}}{{Ruby|'''Aqua Graphic'''|アクアグラフィック}}は、オープンソースのソーシャルネットワークMastodonの[[インスタンス]]。
+
+== 概要 ==
+2017年4月16日、アクアリウムや熱帯魚、水草水槽が好きなユーザーに向け立ち上げられたインスタンス。
+
+しかし、資金難を理由に、2017年12月1日、インスタンスは停止した。
+
+== ルール ==
+公序良俗に反する投稿はおやめください。
+
+== 関連項目 ==
+* [[ヒゲメガネ丼]]
+
+{{DEFAULTSORT:aquagraphic}}
+[[category:日本のインスタンス]]
+[[category:消滅したインスタンス]]

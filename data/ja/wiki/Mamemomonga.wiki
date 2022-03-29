@@ -1,0 +1,14 @@
+{{Infobox person
+| Name     = mamemomonga, まめも
+<!--  | Image    = [[ファイル:Nullkal.jpg|120px|Nullkal]] -->
+<!-- | Color    = #319D32 -->
+| Country  = 日本
+| Instance = [[mstdn.jp]]
+| Link     = https://github.com/mamemomonga
+}}'''mamemomonga'''または'''まめも'''は、マストドンに関連する複数のウェブアプリケーションの作者。
+
+* [[カスタム絵文字でお絵かきツール]]
+* [[スポチハイ]]
+
+{{DEFAULTSORT:mamemomonga}}
+[[category:人物]]

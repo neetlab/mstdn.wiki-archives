@@ -1,0 +1,22 @@
+{{Infobox instance
+| Name = {{Ruby|[[MIKUSPOT]]|ミクスポット}}
+| Image = [[ファイル:MIKUSPOT_logo.png|MIKUSPOT]]
+| Domain = https://mikuspot.net
+| Admin = [https://mikuspot.net/@MIKUSPOT MIKUSPOT✅ 運営]
+| Country = 日本
+| Start = 2017年10月24日
+| Kifu = 不明
+| Alias = なし
+}}'''MIKUSPOT'''とは、オープンソースのソーシャルネットワーク[[Mastodon]]で立ち上げられた[[インスタンス]]である。
+
+== 概要 ==
+[https://mikuspot.net/@Koharu_S 小ハル桜]氏が2017年10月24日に建てた、初音ミクをはじめとするクリプトン・フューチャー・メディアが発売しているボーカロイドのファン向けのインスタンス。
+
+クリプトン・フューチャー・メディアの定める「[http://piapro.jp/license/character_guideline キャラクター利用のガイドライン]」に基づき運営がなされており、利用規約もそれに則っている。
+
+サイトテーマを初音ミクをモチーフとした黒と浅葱色のテーマに変更している。
+
+== 関連項目 ==
+* [[Vocalodon]] - ボーカロイド全般に関するインスタンス。
+
+[[category:日本のインスタンス]]

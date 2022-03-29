@@ -1,0 +1,13 @@
+{{stub}}
+'''G+Don'''は、[[Mastodon|マストドン]]のウェブクライアント。[[Google+]]に似た外見になっている。
+
+==関連項目==
+* [[Cuckoo.Plus]]
+
+==外部リンク==
+* https://gplusdon.net
+* https://github.com/nishlumi/gplusdon
+
+{{DEFAULTSORT:gplusdon}}
+[[category:ウェブクライアント]]
+[[category:MITライセンス]]

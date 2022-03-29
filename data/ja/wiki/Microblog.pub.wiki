@@ -1,0 +1,25 @@
+{{小文字}}
+{{Infobox software
+| Name                = microblog.pub
+| Image               = [[ファイル:microblogpub.png|240px]]
+| Developer           = Thomas Sileo
+| SourceCode          = https://github.com/tsileo/microblog.pub
+| Platform            = Linux（サーバーサイド）
+| ProgrammingLanguage = Python
+| Launch              = 2018年5月21日<ref>https://microblog.pub/note/988179f13c78b3a7</ref>
+| Kifu                = bitcoin（<code><small>14Ho5SHpYfoN38f9EZsUcfaEQqqE6fxLiP</small></code>）
+| License             = [[GNU Affero General Public License]]
+| Web                 = https://microblog.pub/<br />https://a4.io/ (開発者)
+}}'''microblog.pub'''は、[[ActivityPub]]を用いる分散型の[[マイクロブログ]]、[[分散SNS]]。開発者はThomas Sileo氏。ミニマルで、シングルユーザー ([[お一人様インスタンス]]) 専用であることが特徴。[[リモートフォロー]]、[[お気に入り]]や[[ブースト]]機能などの機能を備え、お気に入りのリストは外部に公開される。
+
+==Nikisoft Blog==
+'''Nikisoft Blog'''はmicroblog.pubのフォーク。ブログ風の外見に変更されている。デプロイとソースコードは以下の通り。
+
+* https://blog.nikisoft.one
+* https://notabug.org/nipos/nikisoftblog
+
+==脚注==
+<references />
+
+{{DEFAULTSORT:microblogpub}}
+[[category:分散SNS]]

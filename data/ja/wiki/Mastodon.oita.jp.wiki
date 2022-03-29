@@ -1,0 +1,19 @@
+{{Infobox instance
+| Name          = Mastodon 大分
+| Image         = [[ファイル:Oita.png|300px]]
+| Domain        = https://mastodon.oita.jp/
+| Admin         = [https://mastodon.oita.jp/@isopon isopon]
+| Country       = 日本
+| Start         = 2017年4月21日
+| Kifu          = なし
+| Alias         = なし
+}}'''Mastodon 大分'''とは、オープンソースのソーシャルネットワークMastodonの[[インスタンス]]。管理者はisopon。
+
+== 概要 ==
+大分県にゆかりのあるユーザーに向け立てられたインスタンス。
+
+== 関連項目 ==
+* [[都道府県のインスタンス一覧]]
+
+{{DEFAULTSORT:おおいた}}
+[[category:日本のインスタンス]]

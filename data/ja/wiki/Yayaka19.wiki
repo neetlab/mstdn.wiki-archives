@@ -1,0 +1,35 @@
+{{Infobox software
+| Name                = {{Ruby|Yayaka19|ヤヤカジューク}}
+<!-- | Image               = [[ファイル:Amaroq.jpg|120px|Amaroq]] -->
+| Developer           = Ryo33
+| SourceCode          = https://gitlab.com/ryo33/Yayaka19
+| Platform            = ウェブ
+| ProgrammingLanguage = Elixir/Phoenix
+<!-- | Launch              = 2017年3月17日 -->
+| Kifu                = https://www.pixiv.net/fanbox/creator/26236180
+| License             = [[GNU Affero General Public License]]
+| Web                 = https://yayaka.net
+}}'''Yayaka19'''は、[[分散SNS]]。独自のプロトコルを用いるため、他の分散SNSと[[連合]]を形成することができない。
+
+==名称==
+'''19'''はバージョン番号ではなく、名称の一部である。'''Yayaka'''はアニメ「フリップフラッパーズ」の登場人物に由来する。'''19'''は、フリップフラッパーズのファンアートで、ヤヤカたちが19歳になったという設定のものがあったためである。
+
+==特徴==
+1回のログインで複数のアカウントを作成することができる。これにより、コミュニティーごとに顔を変えたい場合<ref>[https://ryo33.hatenablog.com/entry/2016/10/06/222204 何故いまさら新しいSNSを作ったのか]</ref>に、簡単にアカウントを切り替えることができる。
+
+Yayaka19本体は画像を投稿する機能を持たず、かわりに、外部のウェブサイト (以下、画像アップローダー) に設置された画像をインライン表示する機能を持つ。インライン表示されるのは、あらかじめ信用されている画像アップローダーに限られる。なぜなら、画像アップローダーにユーザーのIPアドレスとブラウザーフィンガープリントが送信され、プライバシーの問題があるためである。標準では[[素朴ディジタル画像インフラストラクチャー]]が信用される。
+
+==関連項目==
+* [[ミステリーポスト]]
+* [[HVDSGM]]
+
+==脚注==
+<references />
+
+==外部リンク==
+* https://yayaka.net
+* https://github.com/ryo33/Yayaka19
+
+{{DEFAULTSORT:yayaka19}}
+[[category:分散SNS]]
+[[category:GNU Affero General Public License]]

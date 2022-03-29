@@ -1,0 +1,43 @@
+{{Infobox software
+| Name                = Who To Follow For Mastodon & Pleroma
+| Image               = 
+| Developer           = [[墓場人夜]]
+| SourceCode          = https://gitlab.com/hakabahitoyo/who-to-follow-for-mastodon
+| Platform            = ウェブ
+| ProgrammingLanguage = C++, JavaScript
+| Launch              = 2021年12月4日
+| Kifu                = https://liberapay.com/hakabahitoyo/
+| License             = [[GNU Affero General Public License]]
+| Web                 = https://whotofollow.tk/
+}}
+'''Who To Follow For Mastodon & Pleroma'''は、[[マストドン]]と[[Pleroma]]のユーザーを一覧にしたウェブサイト。[[discoverable]]が有効であり、フォロワー数が250未満であるユーザーが推挙される。並び順はおおむね新しい順であるが、不正確である。[[ユーザーレコメンデーション]]としてはパーソナライズされていないレコメンデーションに分類される。
+
+収集の対象となるインスタンスは[[Peers API]]で自動的に探索される。
+
+==インスタンス一覧==
+
+副産物として、さまざまな[[分散SNS]]のインスタンス一覧が付属している。ページタイトルは'''Fediverse Instances'''となっている。月間アクティブユーザー数が多い順に配列される。
+
+==Fediverse Observerとの関係==
+
+Who To Follow For Mastodon & Pleromaは[[Fediverse Observer (墓場人夜)|Fediverse Observer]]の後継ウェブサイトである。ユーザー一覧とインスタンス一覧から構成されていること、リストの並び順に[[レコメンデーション・フェアネス]]の考え方が反映されていることなど、複数の共通点がある。ただし、[[Fediverse Observer (墓場人夜)|Fediverse Observer]]のソースコードはすべて失われたため、Who To Follow For Mastodon & Pleromaではすべてを新しく作り直している。
+
+==沿革==
+これ以前の沿革は[[Fediverse Observer (墓場人夜)|Fediverse Observer]]を参照。
+
+2021年12月4日、稼働開始。
+
+2021年12月15日、ユーザー一覧にアバターが表示されるようになった。
+
+2022年1月16日<ref>[https://gitlab.com/hakabahitoyo/who-to-follow-for-mastodon/-/merge_requests/2 #7 Hide locked accounts (!2)]</ref>、ロックされたアカウントを表示しないようになった。ただしAPIには出力される。
+
+2022年2月3日<ref>[https://gitlab.com/hakabahitoyo/who-to-follow-for-mastodon/-/merge_requests/3 Feature/opt in avatars (#12) (!3)]</ref>、ユーザー一覧にアバターを表示するかどうかを最初に選択するようにした。他のウェブサイトから画像をロードし、プライバシーの懸念があるため。
+
+2022年3月13日<ref>[https://gitlab.com/hakabahitoyo/who-to-follow-for-mastodon/-/merge_requests/5 Multi process (!5)]</ref>、ウェブサイトの応答が高速になった。
+
+==脚注==
+<references />
+
+{{DEFAULTSORT: whotofollowformastodonpleroma}}
+[[category:ユーザーレコメンデーション]]
+[[category:GNU Affero General Public License]]

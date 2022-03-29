@@ -1,0 +1,23 @@
+{{混同|oc.todon.fr}}
+{{infobox instance
+|Name = '''Octodon'''
+|Image = [[ファイル:Octodon.jpg|300px]]
+|Domain = https://octodon.social
+|Country = フランス
+|Admin = [https://octodon.social/@CobaltVelvet Alice Voidstar]
+|Start = 2017年4月4日
+|Kifu = [https://www.patreon.com/CobaltVelvet Patreon]
+|Alias = 
+}}'''Octodon'''はオープンソースのソーシャルネットワークMastodonの[[インスタンス]]。
+
+== 概要 ==
+2017年4月4日に立てられたインスタンス。
+
+インスタンス名はデグーの名前で知られる齧歯目オクトドン科に属する哺乳類の生き物に由来する。
+
+==関連項目==
+* [[MaaStodon]]
+* [[Mastodon Instances (octodon.social)]]
+
+{{DEFAULTSORT:octodon}}
+[[Category:フランスのインスタンス]]

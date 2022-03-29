@@ -1,0 +1,17 @@
+{{小文字}}
+{{infobox instance
+|Name = '''Kirby-fans.com'''<!--
+|Image = -->
+|Domain = https://kirby-fans.com
+|Country = 日本
+|Admin = [https://kirby-fans.com/@GEHOx2 げほげほ]
+|Start = 2017年4月24日
+|Kifu = なし
+|Alias = 
+}}'''Kirby-fans.com'''は、オープンソースのソーシャルネットワークMastodonの[[インスタンス]]。
+
+== 概要 ==
+2017年4月24日、げほげほ氏によって立ち上げられたインスタンスで、[[w:HAL研究所|HAL研究所]]によるゲームシリーズ「[[w:星のカービィ|星のカービィ]]」シリーズがテーマ。
+
+[[Category:日本のインスタンス]]
+[[Category:ゲームに関するインスタンス]]

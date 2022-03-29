@@ -1,0 +1,35 @@
+{{Infobox software
+| Name                = Mastodonおすすめユーザー検索
+<!-- Image -->
+| Developer           = [[きゅうりうむ]]
+| SourceCode          = https://github.com/cucmberium/Eryngium
+| Platform            = ウェブ
+| ProgrammingLanguage = Python
+<!-- Launch -->
+<!-- Kifu  -->
+| License             = [[GNU Affero General Public License]]
+| Web                 = <nowiki>https://nocona.cucmber.net/eryngium</nowiki> (リンク切れ)
+}}'''Mastodonおすすめユーザー検索'''は、あるユーザーに対して推奨するユーザー、またはあるユーザーに似ているユーザーを提示するウェブアプリケーション。
+
+== 概要 ==
+[[きゅうりうむ]]氏によって開発されたアプリケーション。
+
+仕組みとしては、Doc2Vecという技術を用いてユーザーの[[フォロー]]の情報からユーザーを推挙するというもの。
+
+対応している[[インスタンス]]は2018年3月25日現在、[[mstdn.jp]]、[[Pawoo]]、[[friends.nico]]、[[mstdn.maud.io]]の4つのみに限定されている。
+
+2019年9月25日時点で、アクセスできなくなっている。
+
+==関連項目==
+* [[Flantter]]
+* [[マストドンユーザーマッチング]]
+* [[おすすめフォロワー]]
+
+==外部リンク==
+* [http://cucmberium.hatenablog.com/entry/2018/03/25/203828 Mastodon向けにおすすめユーザーを表示するやつを作った]
+* [http://www.itmedia.co.jp/news/articles/1803/25/news031.html マストドンのおすすめユーザー検索]
+
+[[category:ウェブサイト]]
+[[category:ユーザーレコメンデーション]]
+[[category:GNU Affero General Public License]]
+[[category:運用が放棄されたウェブサイト]]

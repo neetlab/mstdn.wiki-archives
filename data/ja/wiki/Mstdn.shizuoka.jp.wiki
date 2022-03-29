@@ -1,0 +1,16 @@
+{{infobox instance
+|Name = '''mstdn.shizuoka.jp'''
+|Domain = https://mstdn.shizuoka.jp
+|Country = 日本
+|Admin = [https://mstdn.shizuoka.jp/@watanabekentadayo わたなべけんた]
+|Start = 2017年5月22日
+| End = 不明
+|Kifu = なし
+|Alias = なし
+}}'''mstdn.shizuoka.jp'''は、オープンソースのソーシャルネットワークMastodonの[[インスタンス]]。
+
+== 概要 ==
+2017年5月22日、わたなべけんた氏によって立ち上げられた、静岡県がテーマの地域インスタンス。
+
+== 関連項目 ==
+* [[都道府県のインスタンス一覧]]

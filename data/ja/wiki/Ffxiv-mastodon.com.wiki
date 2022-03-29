@@ -1,0 +1,14 @@
+{{小文字}}
+{{infobox instance
+|Name = FF14-Mastodon
+|Domain = https://ffxiv-mastodon.com
+|Admin = [https://ffxiv-mastodon.com/@mosa mosa]
+|Country = 日本
+|Start = 2017年4月20日
+}}'''FF14-Mastodon'''は、オープンソースのソーシャルネットワークMastodonの[[インスタンス]]。
+
+== 概要 ==
+ロールプレイングゲーム「ファイナルファンタジー14」のユーザーに向け立てられたインスタンス。
+
+[[Category:日本のインスタンス]]
+[[Category:ゲームに関するインスタンス]]

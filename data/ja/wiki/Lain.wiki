@@ -1,0 +1,35 @@
+{{小文字}}
+{{Infobox person
+| Name     = {{Ruby|lain|レイン}}
+| Image    = [[ファイル:Lain.png|120px|pleroma.soykaf.com/users/lain内のアバター]]
+| Country  = ドイツ
+| Instance = [https://pleroma.soykaf.com/users/lain pleroma.soykaf.com]<br />[https://social.heldscal.la/lambadalambda social.heldscal.la]
+| Link     = [https://pleroma.soykaf.com/users/lain @lain@pleroma.soykaf.com]<br />[https://blog.soykaf.com/ lainblog]<br />[https://lainradio.club lainradio]
+| Else     = [[Pleroma]]の作者
+}}'''lain'''または'''lambadalambda'''は、[[分散SNS]]の[[Pleroma]]の作者、インターネットラジオ配信者。
+
+==Pleromaインスタンス==
+* [https://pleroma.soykaf.com pleroma.soykaf.com]
+* [https://pi.soykaf.com/ pi.soykaf.com]
+
+==エピソード==
+
+名前の由来は、アニメserial experiments lainによる。
+
+[[GNUsocial Axis]]の中心人物の一人として目されており、アノニマス・ジャパンの文書<ref>[https://www.anonymous-japan.org/%E3%82%A2%E3%83%8E%E3%83%8B%E3%83%9E%E3%82%B9%E3%81%AE%E8%A6%8B%E8%A7%A3-ep-5%EF%BC%9A-%E3%83%9E%E3%82%B9%E3%83%88%E3%83%89%E3%83%B3%E3%81%A8gnu%E3%82%BD%E3%83%BC%E3%82%B7%E3%83%A3%E3%83%AB%E3%80%81 アノニマスの見解 Ep.5： マストドンとGNUソーシャル、衝撃な事実！]</ref>で言及されている。
+
+マストドンの[[マストドン公式レポジトリ|公式レポジトリ]]でも活動している。[[GNU social]]または[[Pleroma]]との接続に関するエラー報告が主な内容である。中には「どうせ[[Gargron]]はこの種の要望はブロックするだろ<ref>https://github.com/tootsuite/mastodon/issues/4915#issuecomment-351704022</ref>」や「マージするかクローズするかどっちかにしてくれ<ref>https://github.com/tootsuite/mastodon/pull/5697#issuecomment-348118212</ref>」などの[[不穏]]なコメントもある。
+
+趣味は女装。
+
+ドイツ人だが日本に住んだ事があり日本語も話せる。彼女を連れて広島を訪れたことがあり、「日本のコンドームはきつい<ref>https://pleroma.soykaf.com/notice/4920749</ref>」との名言を残した。
+
+==脚注==
+<references />
+
+==外部リンク==
+* [https://blog.soykaf.com Lainblog]
+* [https://robek.world/futurology/an-admin-what-if-there-was-twitter-without-nazis/ An Admin: What if there was Twitter without Nazis?]
+
+[[category:人物]]
+{{DEFAULTSORT:lain}}

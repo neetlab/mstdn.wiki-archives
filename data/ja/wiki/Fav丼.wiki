@@ -1,0 +1,21 @@
+{{Infobox software
+| Name = Fav丼
+<!--| Image = -->
+| Developer = [https://trickle.ink/@foloinfo foloinfo]
+| SourceCode = [https://github.com/byusnco/favdon GitHub]
+| Platform = Web
+| ProgrammingLanguage = Ruby
+| Launch = 2017年5月12日
+| License = [[GNU General Public License]] 3.0
+| Web = https://favdon.herokuapp.com
+}}'''Fav丼'''は、[[オープンソース]]の[[分散SNS]]、[[Mastodon]]のユーザーの[[トゥート]]を取得しランキングとして表示するウェブアプリケーション。
+
+== 概要 ==
+Mastodon[[インスタンス]]の[[trickle.link]]やウェブアプリケーションの[https://drip.link drip.link]を運営するfoloinfo氏により2017年5月から公開されているウェブアプリケーションで、2018年4月現在は{{Ruby|α|アルファ}}版となっている。
+
+Mastodonのアカウントを連携すると[[お気に入り]]・[[ブースト]]のされている400トゥートを取得、お気に入り・ブーストの多い順にランキング形式で表示することができる。
+
+トップページではサーバー全体のランキングを見ることができるが、期間は限定されておらず、新旧を問わないランキングとなっている。
+
+[[Category:ウェブサイト]]
+[[Category:GNU General Public License]]

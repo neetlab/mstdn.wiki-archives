@@ -1,0 +1,25 @@
+{{Infobox instance
+| Name          = くまもとん
+| Domain        = https://kmmtn.com/
+| Admin         = [https://kmmtn.com/@keisuke111 ケイスケ]
+| Country       = 日本
+| Start         = 2017年4月25日
+| End = 2017年12月19日
+| Kifu          = なし
+| Alias         = なし
+}}'''くまもとん'''は、オープンソースのソーシャルネットワークMastodonの[[インスタンス]]。
+
+== 概要 ==
+熊本にゆかりのあるユーザーに向け立てられたいわゆる地域密着インスタンス。
+
+運営のケイスケ氏は2017年10月末を目処にインスタンスを閉じる旨の発言をしていた<ref>https://kmmtn.com/@keisuke111/185157</ref>。
+
+2017年12月19日、ユーザーが少なかったことなどを理由にクローズとなった<ref>http://pc-kumamoto.jp/?page_id=938</ref>。
+
+== 出典 ==
+<references/>
+
+== 関連項目 ==
+* [[都道府県のインスタンス一覧]]
+
+{{DEFAULTSORT:くまもとん}}

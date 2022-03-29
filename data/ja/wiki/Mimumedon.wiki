@@ -1,0 +1,16 @@
+{{infobox instance
+|Name = {{Ruby|'''Mimumedon'''|ミムメドン}}
+|Image = [[ファイル:Mimumedon.png|300px]]
+|Domain = https://mimumedon.com
+|Country = 日本
+|Admin = [https://gran-matome.com/ ミムメモ速報]
+|Start = 2017年4月20日
+|Kifu = https://fantia.jp/fanclubs/7889
+|Alias = グラブル鯖、ミムメモなど
+}}{{Ruby|'''Mimumedon'''|ミムメドン}}は、オープンソースのソーシャルネットワークMastodonの[[インスタンス]]。
+
+== 概要 ==
+スマートフォン向けソーシャルゲーム「グランブルーファンタジー」のまとめサイトミムメモ速報が運営する、同ゲームの話題を中心としたインスタンス。
+
+[[Category:日本のインスタンス]]
+[[Category:ゲームに関するインスタンス]]

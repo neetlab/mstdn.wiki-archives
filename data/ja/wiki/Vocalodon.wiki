@@ -1,0 +1,36 @@
+{{Infobox instance
+| Name          = Vocalodon
+| Image         = [[ファイル:Vocalodon.jpg|300px]]
+| Domain        = https://vocalodon.net/
+| Admin         = [https://twitter.com/tmkw1 TOMOKI++]
+| Country       = 日本
+| Start         = 2017年4月16日
+| Alias = ボカロ丼
+}}'''Vocalodon''' とは、いわゆるボカロクラスタのユーザーに向けて開かれた[[インスタンス]]である。運営はボカロPであるTOMOKI++氏。
+
+== 概要 ==
+主にボーカロイドPやボーカロイドの絵師、また歌い手や踊り手、またボーカロイドが好きなど、ボーカロイドに関連するユーザーが対象。
+
+2017年6月26日には、作曲中にもMastodonのタイムラインを覗けるというDAWソフトの[http://www.itmedia.co.jp/news/articles/1706/26/news118.html VSTプラグイン]が公開された<ref>http://www.itmedia.co.jp/news/articles/1706/26/news118.html</ref>。
+
+また、インスタンス内でボーカロイドなどに関連する企画が行われていることも多く、例えばインスタンスのユーザーによるボーカロイド曲のコンピレーションCDなどが発売されている。
+
+==ローカルルール==
+18禁コンテンツの投稿を禁止している。
+
+== 出典 ==
+<references/>
+
+== 外部リンク ==
+* [http://info.vocalodon.net/ ボカロ丼info] - Vocalodonの告知サイト
+* [https://twitter.com/VocalodonNet @VocalodonNet ] - Vocalodon公式Twitter
+* [https://twitter.com/vocalodongirl @vocalodongirl] - 丼ガールコンピ公式Twitter
+* [http://wiki.vocalodon.net/doku.php?id=start Vocalodon-Wiki] - VocalodonのWiki
+
+== 関連項目 ==
+* [[Yukari.cloud]] 2018年3月18日閉鎖。
+* [[YukaIAdon]] 2018年1月4日閉鎖。
+* [[yukari.cafe]]
+
+{{DEFAULTSORT:vocalodon}}
+[[category:日本のインスタンス]]

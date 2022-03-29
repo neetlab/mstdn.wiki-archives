@@ -1,0 +1,28 @@
+{{小文字}} {{stub}}
+'''mikutter'''は、歴史的には[[Twitter]]クライアントであったが、Twitterプラグインが同梱されなくなり<ref>[https://mikutter.hatenablog.com/entry/2019/01/02/174709 mikutter 9年目 - mikutter blog]</ref><ref>[https://mikutter.hatenablog.com/entry/2019/12/19/090653 mikutter 4.0の新機能 - mikutter blog]</ref>、[[Mastodon]]プラグインがバンドルされる<ref>[https://mikutter.hatenablog.com/entry/2019/04/21/153944 mikutter 3.9の新機能 - mikutter blog]</ref>ようになった。
+
+mikutterは長らくTwitterクライアントを基本とするソフトウェアであったが、2017年12月25日リリースのバージョン3.6<ref>http://mikutter.hatenablog.com/entry/2017/12/25/012351</ref>からSNSクライアント機能をプラグインによって実装しやすくするための機能<ref>http://mikutter.hatenablog.com/entry/2017/12/07/200000</ref>が備わり、Mastodonクライアントプラグインも有志によって開発されている。また、2019年7月6日リリースのバージョン3.9<ref>https://mikutter.hatenablog.com/entry/2019/07/06/211339</ref>からはWorldonをベースとしたMastodonプラグインがデフォルトでバンドルされるようになったため、mikutterをインストールするだけでMastodonクライアントとして利用することが可能になった。
+
+=== Mastodon関連のプラグイン === 
+
+* [https://github.com/cobodo/mikutter-worldon worldon]
+** [https://mstdn.kanagu.info/@cobodo @cobodo]によって開発されているMastodonクライアントプラグイン
+** [http://mikutter.hatenablog.com/entry/2018/05/01/210949 mikutter バージョン 3.7]で追加されたカスタム絵文字機能に対応
+* [https://github.com/moguno/mikutter-don mikutter丼]
+** [https://social.mikutter.hachune.net/@moguno @moguno]によって開発されているMastodonクライアントプラグイン
+** 本プラグインはmikutter 3.6より前から開発されている
+* [https://github.com/sora0920/mikutodon mikutodon]
+** [https://social.mikutter.hachune.net/@Non Non]によって開発されているMastodonクライアントプラグイン
+
+==関連項目==
+* [[social.mikutter.hachune.net]]
+
+==外部リンク==
+* https://mikutter.hachune.net
+
+==脚注==
+<references />
+
+{{DEFAULTSORT:mikutter}}
+[[category:デスクトップクライアント]]
+[[category:MITライセンス]]

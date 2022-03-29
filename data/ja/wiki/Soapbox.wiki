@@ -1,0 +1,48 @@
+{{Infobox software
+| Name    = Soapbox
+| Image   = [[ファイル:Soapbox.png|240px]]
+| Developer = [https://gleasonator.com/users/alex Alex Gleason]
+| SourceCode = [https://gitlab.com/soapbox-pub/ Gitlab]
+| Platform = [[Pleroma]] の フロントエンド
+| ProgrammingLanguage = JavaScript, SCSS ほか
+| Launch = 2019年7月30日(soapbox Legacy) <br /> 2020年3月27日(soapbox FE) <ref>どちらも Gitlab の履歴を参照。</ref>
+| License = AGPL 3.0
+| Web = https://soapbox.pub/
+}}'''Soapbox''' は [[Pleroma]] のフロントエンドである。
+
+==概要==
+'''Soapbox''' は、[[Gab|Gab Social]]<ref>[[Mastodon]] からのフォークで、やや [[Twitter]] ライクのデザインに改変された特徴がある。</ref> のフォークとして、開設されたサーバー「Spinster」（婚期を逃した独身女性の意）のインスタンスが発端とされている。
+
+「Spinster」は、その名の通り、女性中心のフェミニスト向けのサイトであり、ラディカルフェミニスト作家の M. K.Fain と 彼女のパートナーである開発者の Alex Gleason によって設立されたアメリカのペンシルベニア州の法人 Spinster LLC によって運営されている。<ref>https://spinster.xyz/about</ref>
+
+しかし、「Spinster」を運用するに、 Gab Social の開発思想の動向が左右される<ref>Gab Social は、Mastodon の原型を留めないほどの改変を極めていたり、「Gabとの関連があるのでは？」と誤解を与えてしまうなどの事情があるのは想像に難くない。</ref>ことに考慮してか、彼らの思想に合う [[Pleroma]] へと大規模な移行を決断した経緯があり、この一連の流れが '''Soapbox''' と言っても過言ではない。
+
+この経緯から Mastodon および Gab Social のフロントエンドに基づいている旨がライセンスに記載されている<ref>ライセンスとクレジットの冒頭に「''Soapbox FE is based on Gab Social's frontend which is in turn based on Mastodon's frontend.''」[https://gitlab.com/soapbox-pub/soapbox-fe#license-credits]とある。</ref>。
+
+Soapbox を採用しているインスタンスは当初「Spinster」関連が乱立していたが、近年は関連でないインスタンスも存在する<ref>日本人が建てた実験サーバー（ https://pleroma.ryusei.dev ）も存在する。</ref>。
+
+==沿革==
+
+*2019年7月 -  [[Gab|Gab Social]]の フォーク（現在の「[https://gitlab.com/soapbox-pub/soapbox-legacy Soapbox Legacy]」）として、開設された「Spinster」インスタンスが発端となっている。
+
+*2019年12月 - ソフトウェア名称を「Soapbox」とした。それまではサイト名の「Spinster」をあてがっていた。
+
+*2020年3月 - 「Soapbox」を Gab Social フォークから、Pleroma へ移行することとなり、新たに Pleroma のフロントエンドとして開発が移行された。先述の「-Legacy」 との区別するために「[https://gitlab.com/soapbox-pub/soapbox-fe Soapbox FE]」とも呼ばれているが、現在はこちらを「Soapbox」と称している。
+
+*2020年8月 - 「Soapbox Legacy」の開発が凍結され利用も非推奨とした。完全に「Soapbox FE」に移行された。
+
+==関連リンク==
+
+*[https://soapbox.pub/ soapbox.pub] - 公式サイト。
+*[https://gitlab.com/soapbox-pub/soapbox-fe Soapbox / soapbox-fe · GitLab] - リポジトリ
+*[https://gitlab.com/soapbox-pub/soapbox-legacy Soapbox / Soapbox-Legacy · GitLab] - 旧版（Gab Social フォーク）利用非推奨。
+*[https://spinster.xyz/ Spinster] - 誕生の発端とされるインスタンス。
+*[https://gleasonator.com/ Gleasonator] - 開発者 [https://gleasonator.com/users/alex Alex Gleason] によるインスタンス。
+
+==注釈==
+<references />
+
+
+
+{{DEFAULTSORT:soapbox}}
+[[category:分散SNS]]

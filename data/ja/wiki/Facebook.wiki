@@ -1,0 +1,17 @@
+{{混同|Facebook (インスタンス)}}
+'''Facebook'''は[[ソーシャル・ネットワーキング・サービス]]の一つ。
+
+==マストドンとの関係==
+Facebookが収集した個人情報が不正に利用され、大統領選挙の結果に影響を与えたとされる事件を受けて、Mastodon開発者の[[Gargron]]氏は[[マストドン公式ブログ]]の記事<ref>[https://medium.com/tootsuite/deletefacebook-fafdc4090307 #DeleteFacebook]</ref>でFacebookからマストドンへの移行を勧めている<ref>[http://www.itmedia.co.jp/news/articles/1803/21/news040.html Facebookを退会すべき理由#DeleteFacebook]</ref>。
+
+一方で[[Pleroma]]開発者の[[lain]]氏はブログの記事<ref>[https://blog.soykaf.com/post/privacy-and-tracking-on-the-fediverse/ Privacy and Tracking on the Fediverse]</ref>でGargronの見解を批判しているものの、[[分散SNS]]が[[プロプライエタリ]]なSNSよりもプライバシー保護に有効であるという点は同意している。
+
+==外部リンク==
+* [https://www.facebook.com/ Facebook]
+
+==脚注==
+<references />
+
+[[category:ウェブサイト]]
+[[Category:プロプライエタリ]]
+{{DEFAULTSORT:facebook}}

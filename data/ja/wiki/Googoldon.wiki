@@ -1,0 +1,25 @@
+{{Infobox instance
+| Name = {{Ruby|[[Googoldon]]|グーゴルドン}}
+| Domain = https://googoldon.net
+| Admin = [https://googoldon.net/@koteitan koteitan]
+| Country = 日本
+| Start = 2017年6月8日
+| Kifu = 不明
+| Alias = なし
+}}'''Googoldon'''とは、オープンソースのソーシャルネットワークMastodonの[[インスタンス]]である。
+
+== 概要 ==
+{{Jawp|巨大数}}を主な話題とし、koteitan氏により2017年6月8日に立ち上げられたインスタンス。インスタンス名の由来は、10^100のことを指す[[w:グーゴル|'''グーゴル(Googol)''']]から（[[w:google|グーグル社]]のことではないことを留意）。
+
+「'''$'''」で文字を囲むことでその範囲内の文字を[[w:TeX|T<span style="text-transform:uppercase;margin-left:-0.1667em;vertical-align:-0.5ex;line-height:0;margin-right:-0.125em">e</span>X<noinclude>]]や[[w:LaTeX|L<span style="text-transform: uppercase; font-size: 70%; margin-left: -0.36em; vertical-align: 0.3em; line-height: 0; margin-right: -0.15em">a</span>T<span style="text-transform: uppercase; margin-left: -0.1667em; vertical-align: -0.5ex; line-height: 0; margin-right: -0.125em">e</span>X<noinclude>]]形式で表示でき、入力フォームの下にトゥートをプレビューする機能がある。これは[[Mathtodon]]から移植された機能である。
+
+また、サイトテーマが白を基調としたものに変更されているほか、外部からローカルタイムラインを覗き見ることができる[http://preview.googoldon.net/ プレビューページ]が実装されている<ref>http://preview.googoldon.net/</ref>。
+
+== 関連項目 ==
+* [[Mathtodon]] - 数学全般が主なテーマのインスタンス。
+
+== 脚注 ==
+<references />
+
+[[category:日本のインスタンス]]
+[[category:独自機能が実装されたインスタンス]]

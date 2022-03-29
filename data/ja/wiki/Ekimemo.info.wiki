@@ -1,0 +1,22 @@
+{{小文字}}
+'''EkiToDon'''とは、オープンソースのソーシャルネットワーク[[Mastodon]]の日本語向けインスタンスである。
+
+{{Infobox instance
+| Name = <ruby>EkiToDon<rt>エキトドン</rt></ruby>
+| Domain = https://ekimemo.info
+| Admin = [https://ekimemo.info/@mystia04 みそいぬ]
+| Country = 日本国
+| Start = 2017年4月15日
+| Kifu =
+| Alias = マストドン駅メモ鯖
+}}
+
+== 概要 ==
+スマートフォン向けのゲームアプリ「ステーションメモリーズ!」のファンに向け立てられたインスタンス。
+
+2017年12月25日時点でアクセスできなくなっていたが、2018年4月8日に再スタートした。
+
+以前のデータは残っていないので、再登録が必要となる。
+
+{{DEFAULTSORT:ekimemoinfo}}
+[[category:日本のインスタンス]]

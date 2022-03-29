@@ -1,0 +1,11 @@
+[[File:MIT logo.svg|240px|right|thumb|MITライセンス]]
+
+'''MITライセンス'''は、[[オープンソース]]ライセンスの一つ。ソフトウェアを無償かつ無制限に利用することができる。
+
+{{DEFAULTSORT:mitライセンス}}
+[[category:オープンソースライセンス]]
+[[Category:MITライセンス|*]]
+
+==外部リンク==
+* [https://opensource.org/licenses/mit-license.php The MIT License]
+* [https://ja.osdn.net/projects/opensource/wiki/licenses%2FMIT_license The MIT License 日本語訳]

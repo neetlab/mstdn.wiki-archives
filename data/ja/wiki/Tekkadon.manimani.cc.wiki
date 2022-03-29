@@ -1,0 +1,18 @@
+{{Infobox instance
+| Name          = Tekkadon
+| Domain        = https://tekkadon.manimani.cc/
+| Admin         = [https://tekkadon.manimani.cc/@YoTTaBoozer よぅ]
+| Country       = 日本
+| Start         = 2017年4月25日
+| Kifu          = なし
+| Alias         = なし
+}}'''Tekkadon'''は、オープンソースのソーシャルネットワーク[[Mastodon]]のインスタンス。
+
+== 概要 ==
+三浦半島に関係するユーザーや話題が主のインスタンス。
+
+== 関連項目 ==
+* [[都道府県のインスタンス一覧]]
+
+{{DEFAULTSORT:tekkadonmanimanicc}}
+[[category:日本のインスタンス]]

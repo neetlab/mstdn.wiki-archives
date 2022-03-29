@@ -1,0 +1,47 @@
+{{小文字}}
+{{Infobox instance
+| Name = {{Ruby|[[mikumikudance.cloud]]|みくみくだんす どっと くらうど}}
+| Domain = https://mikumikudance.cloud/
+| Admin = [https://mikumikudance.cloud/@admin @Admin]
+| Country = 日本
+| Start = 2017年4月21日
+| Kifu = https://enty.jp/syumari
+| Alias = MMD丼、みくみく丼、みくみく箪笥
+}}
+'''mikumikudance.cloud'''（みくみくだんす どっと くらうど）は、[[オープンソース]]の[[SNS|ソーシャルネットワークサービス (SNS)]]のひとつ、数多く存在する[[Mastodon]]の日本語向け[[インスタンス]]のうちのひとつである。主に、3DCGソフトウェアの[[:wikipedia:ja:Mikumikudance|MikuMikuDance]]を使用するユーザーの同好の場として作られた。
+
+なお、作成者はMikuMikuDanceユーザーの一人であって、MikuMikuDanceのソフトウェア開発者ではないことに留意。有志が無償で個人的に立ち上げた個人インスタンスである。
+
+==概要==
+フリーソフトMikuMikuDanceの話題を中心としたインスタンス。
+
+2017年4月21日ごろに開設されたものと思われる<ref>https://mikumikudance.cloud/@admin?max_id=278 2017年4月21日付、2017年5月2日閲覧。</ref>。
+
+2017年5月2日現在のユーザー数は231人、接続インスタンスは256個<ref>[https://mikumikudance.cloud/about/more サーバー情報]、2017年5月2日閲覧。</ref>。
+
+サーバー構成の変更のためか、 2017年6月6月<ref>https://mikumikudance.cloud/@penmmd/1</ref> に新規に建て直されたとされる<ref>https://mikumikudance.cloud/@syumari/104103939526200764</ref>。
+
+==雰囲気==
+ほんわかまったり。
+
+==規約==
+
+;最新版は[https://mikumikudance.cloud/about/more サーバー規約]参照。
+
+「ほんわか進行」で常識的な範囲内であれば許容される。より詳しい規約内容については上記規約ページ参照のこと。
+
+===ローカルルール===
+「長文はなるべく投稿前に、投稿ボタンの左横にある <span style="color: #aaa; font-size: 120%;">'''[[Content Warning|CW]]'''</span> のボタンを押して折り畳み投稿しようず！」ということになっている。
+
+==脚注==
+<references />
+
+==外部リンク==
+
+*[http://www.geocities.jp/higuchuu4/index.htm VPVP]
+*[http://www6.atwiki.jp/vpvpwiki/ VPVP wiki]
+*[http://dic.nicovideo.jp/a/mikumikudance ニコニコ大百科：Mikumikudance]
+*[[:wikipedia:ja:Mikumikudance|Wikipedia：Mikumikudance]]
+
+{{DEFAULTSORT:mikumikudance}}
+[[Category:日本のインスタンス]]

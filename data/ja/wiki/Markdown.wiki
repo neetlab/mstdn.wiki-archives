@@ -1,0 +1,27 @@
+'''Markdown'''はHTMLを生成するための軽量マークアップ言語である <ref>https://ja.wikipedia.org/wiki/Markdown</ref>。
+
+== 概要 ==
+リスト、リンクやインラインな画像添付などを特定コードによって実現できるマークアップ言語である。[[GitHub]]等にも採用されている。CommonMark<ref>http://commonmark.org/</ref>がMarkdownの標準として知られているが、多くのウェブサイトが独自の拡張を採用している。
+
+一部インスタンスではこのMarkdownが独自機能として実装されており、Markdownを含むトゥートを投稿・表示することができる。また、[[Misskey]]では、Misskey Flavored Markdownと呼ばれるMakdownに似た文法で文字修飾ができる。
+
+非対応のインスタンスやクライアントではMarkdownは表示されず、プレーンなテキストとなる。一部環境では表示が乱れることがある。
+==導入しているインスタンス==
+*[[日本語ポーランドボール板]] (停止中)
+*[[kirishima.cloud]]
+*[[mstdn.y-zu.org]] ([[kirishima.cloud]]と同機能)
+
+==他の分散SNSとの関係==
+
+[[Misskey]]はMisskey Flavored Markdown (MFM) というMarkdown類似の記法を利用できる<ref>https://joinmisskey.github.io/ja/wiki/usage/mfm</ref>。
+
+[[Pleroma]]は2018年8月31日ごろからMarkdownとHTMLを投稿できるようになった<ref>[https://git.pleroma.social/pleroma/pleroma/merge_requests/309 rich text support (!309)]</ref><ref>[https://git.pleroma.social/pleroma/pleroma-fe/merge_requests/325 initial rich text authoring support (!325)]</ref>ものの、直後にリバートされ<ref>[https://git.pleroma.social/pleroma/pleroma/merge_requests/313 Revert "Merge branch 'feature/rich-text' into 'develop'" (!313)]</ref>、同年10月6日<ref>[https://git.pleroma.social/pleroma/pleroma/merge_requests/314 Rich Text Redo Branch (!314)]</ref>に再実装された。
+
+== 出典 ==
+<references />
+
+== 関連項目 ==
+* [[BBcode]]
+
+[[category:インスタンスの独自機能]]
+{{DEFAULTSORT:markdown}}

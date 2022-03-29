@@ -1,0 +1,10 @@
+{{stub}}
+'''Kibou'''は、[[ActivityPub]]で[[連合]]する[[分散SNS]]の実装の一つ。
+
+==外部リンク==
+* https://git.cybre.club/kibouproject/kibou
+
+{{DEFAULTSORT:kibou}}
+[[category:分散SNS]]
+[[category:ActivityPub]]
+[[category:GNU Affero General Public License]]

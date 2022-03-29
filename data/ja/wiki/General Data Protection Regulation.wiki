@@ -1,0 +1,24 @@
+'''General Data Protection Regulation'''または'''GDPR'''は、個人情報を保護するための、EU (ヨーロッパ連合) による規制。GDPRが2018年5月25日に施行されることを受けて、その前後の時期には、さまざまなウェブサイトで議論や混乱が発生した<ref>[https://jp.techcrunch.com/2018/05/26/2018-05-25-gdpr-tronc-us-media-companies/ GDPRの施行でアメリカのニュースサイト触法懸念でヨーロッパからの読者を敬遠]</ref>。また、日本に立地しているマストドンインスタンスの管理者による、GDPRへの対応を苦慮するトゥートが見られた。
+
+これに対して、「日本に立地するインスタンスで、ヨーロッパのユーザーがほとんどいないのであれば、GDPRの対象にはならないと考えられる<ref>[https://docs.google.com/document/d/1JjVOKHrMn-1EoFLVxq1Gl5yu67-D92tFPq5tm-PHy3M/edit?usp=sharing 日本語圏のマストドン鯖缶向けGDPRのお話。]</ref>」という意見が出されている。また、別の立場から、「違法か合法かではなく邪悪か善良かを考えて行動すべきだ<ref>[https://hakabahitoyo.wordpress.com/2018/05/24/gdpr-panic/ 日本のマストドンインスタンス各位、GDPRにビビりヨーロッパ人を締め出す]</ref>」など、形式的な規制に拘泥しないよう求める意見も出された。
+
+==マストドン本体への影響==
+マストドンのデフォルトの[[プライバシーポリシー]]は、インスタンスがヨーロッパに立地している場合、16歳未満の児童の利用を禁止している。これはGDPRの第8条によるものである<ref>[https://github.com/tootsuite/mastodon/pull/7605 Added the law requirements for the EU/EEA #7605]</ref>と説明されている。
+
+==マストドンインスタンスへの影響==
+* [[Becodon]]は、一時的にヨーロッパからのアクセスを遮断していた。
+* [[Vocalodon]]は、「EUからのアクセスユーザの方は、本名、住所、クレジットカードなどの個人情報を当サービスに登録しないようにお願い致します。」および「当サービスのユーザ情報や書き込み内容は、ユーザ本人による削除および他のマストドンインスタンスへの引っ越しが可能となっております。」という説明を、日本語と英語で掲示している。
+
+==関連項目==
+* [[EU著作権指令]]
+
+==外部リンク==
+* [https://github.com/tootsuite/mastodon/issues/7280 GDPR Compliance? #7280]
+* [http://www.itmedia.co.jp/news/articles/1808/01/news015.html 正しく知れば怖くない GDPRの基本と対策のポイントをIIJが解説]
+
+==脚注==
+<references />
+
+{{DEFAULTSORT:generaldataprotectionregulation}}
+[[category:出来事]]
+[[category:議論と対立]]

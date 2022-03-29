@@ -1,0 +1,30 @@
+{{Infobox software
+| Name                = FediFinder
+| Image               = [[ファイル:FF.logo.small.png|87px|FediFinder]]
+| Developer           = Henry Louis Cadmin<ref>https://noagendasocial.com/@HLC</ref>
+| SourceCode          = 不明
+| Platform            = ウェブ
+| ProgrammingLanguage = 不明
+| Launch              = 2020年9月頃<ref>https://www.fedifinder.com/blog/</ref>
+| Kifu                = 不明
+| License             = [[プロプライエタリ]]
+| Web                 = https://fedifinder.com/
+}}
+
+'''FediFinder'''は、[[Mastodon]]と[[Pleroma]]のユーザーのための、デートサイトまたは[[ユーザーレコメンデーション]]。利用目的をSocialまたはRomanceから選ぶことができ、それぞれユーザーレコメンデーションまたはデートサイトとして使用できる。FediFinderに登録したユーザーのみが推挙される。
+
+2022年1月時点で、利用できる[[インスタンス]]は以下のものに限られる。
+
+* [https://noagendasocial.com noagendasocial.com] ([[Mastodon]])
+* [https://freespeechextremist.com freespeechextremist.com] ([[Pleroma]])
+* [https://itmslaves.com itmslaves.com] (Mastodon)
+* [https://nixnet.social nixnet.social] (Pleroma)
+* [https://podcastindex.social podcastindex.social] (Mastodon)
+* [https://shitposter.club shitposter.club] (Pleroma)
+* [https://spinster.xyz spinster.xyz] (Pleroma, [[Soapbox]])
+
+==脚注==
+<references />
+
+[[category:ユーザーレコメンデーション]]
+{{DEFAULTSORT:fedifinder}}

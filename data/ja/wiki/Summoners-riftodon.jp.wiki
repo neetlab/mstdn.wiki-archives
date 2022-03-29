@@ -1,0 +1,23 @@
+{{小文字}}
+{{Infobox instance
+| Name = LoL JP Mastodon
+| Domain = https://summoners-riftodon.jp
+| Admin = [https://summoners-riftodon.jp/@yota yota]<br />[https://summoners-riftodon.jp/@utakata うたかた]
+| Country = 日本国
+| Start = 2017年4月20日
+| SourceCode = [https://github.com/summoners-riftodon/mastodon GitHub]
+}}'''summoners-riftodon.jp'''は、[[オープンソース]]の[[ソーシャル・ネットワーキング・サービス]][[Mastodon]]の[[インスタンス]]。
+
+== 概要 ==
+2017年4月20日<ref>https://summoners-riftodon.jp/@yota/1</ref>にyota氏とうたかた氏によって立ち上げられた、Riot Games開発のWindows及びmacOS用オンラインゲーム「{{Jawp|League of Legends}}」の話題がテーマのインスタンス。
+
+2018年2月現在バージョンは1.3.2のままだが、カスタム絵文字が利用できるよう独自の実装を加えているなどの特徴がある<ref>https://summoners-riftodon.jp/about/more</ref>。
+
+また、インスタンスのメンバー向けの[[Discord]]も設けられている<ref>https://discord.gg/a9DsQM7</ref>。
+
+== 出典 ==
+<references />
+
+[[Category:日本のインスタンス]]
+[[Category:独自機能が実装されたインスタンス]]
+[[Category:ゲームに関するインスタンス]]

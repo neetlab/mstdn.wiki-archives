@@ -1,0 +1,14 @@
+{{Infobox instance
+| Name          = {{Ruby|'''Mastodon Onsen'''|マストドン オンセン}}
+| Domain        = https://m6n.onsen.tech/
+| Admin         = [https://m6n.onsen.tech/@tmyt tmyt]
+| Country       = 日本
+| Start         = 2017年4月13日
+| Kifu          = BTC:3FaFvRgeM2Kire5njbZAxs4E22448W2b6y<br />ETH:0x4Bf0a8ADdC5B68d13ea565f7ce0bae1f8107f07C<br />LTC:LeRJXt4JqqzReS1xz4Qz8XAgfnGnyEaGUn
+| Alias         = 温泉
+}}{{Ruby|'''Mastodon Onsen'''|マストドン オンセン}}は、オープンソースのソーシャルネットワークMastodonの[[インスタンス]]。
+== 概要 ==
+2017年4月13日にtmyt氏が実験的に立ち上げたインスタンスで、[[Azure]]上で動作している。
+
+{{DEFAULTSORT:onsen}}
+[[category:日本のインスタンス]]

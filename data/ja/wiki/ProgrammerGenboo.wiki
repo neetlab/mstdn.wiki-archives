@@ -1,0 +1,26 @@
+{{Infobox person
+| Name     = ProgrammerGenboo
+| Image    = [[ファイル:Genboo.png|120px]]
+<!-- | Color    = #319D32 -->
+| Country  = 日本
+| Instance = [[itabashi.0j0.jp]]
+| Link     = https://github.com/GenbuHase
+<!-- | Else     = [[mstdn.jp]]管理人 -->
+}}'''ProgrammerGenboo'''または'''Genbu Hase'''または'''板橋の玄ちゃん'''とは、複数の[[Mastodon|マストドン]]関連ソフトウェアで知られるプログラマー、[[インスタンス]]運営者。
+
+==ソフトウェア==
+* [[MastodonRater]]
+* [[Mastodon on Email]]
+* [[GooglePlus Theme for Mastodon]]
+
+==マストドンインスタンス==
+* [[itabashi.0j0.jp]]
+
+==マストドン日本語ウィキ編集者として==
+* [[特別:投稿記録/ProgrammerGenboo|利用者:ProgrammerGenboo]]
+==外部リンク==
+* https://itabashi.0j0.jp/@ProgrammerGenboo
+* https://github.com/GenbuHase
+
+{{DEFAULTSORT:programmergenboo}}
+[[category:人物]]

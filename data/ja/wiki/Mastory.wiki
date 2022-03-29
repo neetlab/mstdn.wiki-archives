@@ -1,0 +1,21 @@
+{{Infobox software
+| Name = Mastory
+<!--| Image = -->
+| Developer = Sylvain Machefert [https://mamot.fr/@symac]
+| Platform = ウェブ
+| Launch = 不明
+| Web = https://mastory.social/
+}}[https://mastory.social/ Mastory] は、マストドンのユーザーを検索するウェブアプリケーション。[[ユーザー名]]、[[表示名]]、[[プロフィール]]を検索する。
+
+検索対象となるユーザーは、作者である @symac@mamot.fr を起点にフォロー／フォロワーを再帰的に探索することで、自動的にデータベースに登録される。
+
+2018年4月頃からアクセスできなくなっている。
+
+==関連項目==
+* [[ユーザー検索くん]]
+* [[マストドンユーザーマッチング]] Mastoryの代替サービスとしてユーザー検索を提供している
+
+{{DEFAULTSORT:mastory}}
+[[category:ウェブサイト]]
+[[category:検索エンジン]]
+[[category:運用が放棄されたウェブサイト]]

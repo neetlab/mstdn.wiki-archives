@@ -1,0 +1,27 @@
+{{Infobox software
+| Name = Mastodon Archive Viewer
+<!-- | Image = -->
+| Developer = [[nzws (ねじわさ)]]
+| SourceCode = [https://github.com/yuzulabo/Mastodon-Archive-Viewer GitHub]
+| Platform = Web
+| ProgrammingLanguage = JavaScript
+| Launch = 2018年3月13日
+<!-- | Kifu = -->
+| License = [[Mozilla Public License]] 2.0
+| Web = https://yuzulabo.github.io/Mastodon-Archive-Viewer/
+}}'''Mastodon Archive Viewer'''は、[[オープンソース]]の[[分散SNS]]である[[Mastodon]]において、[[トゥート]]のアーカイブデータの閲覧を補助するウェブアプリケーション。
+
+== 概要 ==
+バージョン2.3以降のMastodonでは、ActivityPub形式でトゥートのデータをエクスポートすることができる。そのデータの閲覧を補助するツールとして、[[nzws (ねじわさ)]]氏によって開発された。
+
+Mastodonよりエクスポートされたファイルのうち、「actor.json」と「outbox.json」を指定し、LOADすると、プロフィールと、月別のトゥート数のグラフが表示される。
+
+そして、下部にある「すべてのトゥートを見る」を選択すると、過去の全てのトゥート及びブーストが一覧表示される。ブーストされたトゥートは直接表示されるわけではなく、リンクとして表示される。
+
+JavaScriptで動作するため、読み込まれたトゥートなどの情報はサイトに保持されない。
+
+== 関連リンク ==
+* [http://www.itmedia.co.jp/news/articles/1803/20/news089.html マストドンのデータを閲覧する便利ツール「Mastodon-Archive-Viewer」 - ITmedia NEWS]
+
+[[Category:ウェブサイト]]
+[[Category:Mozilla Public License]]

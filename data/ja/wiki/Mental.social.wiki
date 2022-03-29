@@ -1,0 +1,36 @@
+{{小文字}}
+{{infobox instance
+|Name = {{Ruby|mental.social|メンタル.ソーシャル}}
+<!--
+|Image = [[File:ここに画像名|300px]]
+-->
+|Domain = https://mental.social
+|Country = 日本
+|Admin = [https://mental.social/@lune <nowiki>るね*</nowiki>]
+|Start = [[2017年]]4月23日<ref name="Start">[https://mental.social/@lune/1 <nowiki>るね*</nowiki>氏による最初のトゥート - mental.social]</ref>
+|Kifu = [https://www.pixiv.net/fanbox/creator/32455687 pixivFANBOX]<br />Amazonギフト券（送り先:<code>admin@wuvu.net</code>）
+|Alias = メンソ, メンタル鯖
+}}{{Ruby|'''mental.social'''|メンタル.ソーシャル}}は、[[オープンソース]]の[[ソーシャル・ネットワーキング・サービス|SNS]][[Mastodon|マストドン]]の[[インスタンス]]。
+
+== 概要 ==
+[[w:メンタルヘルス|メンタルヘルス]]を[[w:主題|テーマ]]とし、[[2017年]]4月23日、[https://mental.social/@lune <nowiki>るね*</nowiki>氏]によって立ち上げられた<ref name="Start" />。
+
+主に、[[w:精神障害|心の病気]]や、[[w:発達障害|発達障がい]]など、さまざまな「[[w:社会的少数者|マイノリティ]]」の[[ユーザー]]に向けられている。
+疲れたときの避難所や、鍵（非公開）[[アカウント]]の置き場としても利用できる<ref name="more">[https://mental.social/about/more 詳細情報 - mental.social]</ref>。
+
+==ローカルルール==
+記事執筆時点のローカルルールは2018年6月13日に更新されたものである。以下のような独特なローカルルールがある。
+
+* 他の人の病名を決めつける行為は違法であることが注意喚起されている。
+* インスタンスの関係者に攻撃的な行為は禁止されている。
+* 成年向けコンテンツの投稿は禁止されている。
+* 自傷の画像の投稿は禁止されている。
+* インスタンス内のトゥートのテキストやスクリーンショットを、ユーザーの許可なく転載・利用する行為が禁止されている。
+
+また、通報の方法 (「必ず理由を添えて下さい」など) と、通報に際して管理者が取るべき行動 (「通報によるアカウントの停止 (サイレンスではない) は原則行っておりません」など) が詳細に記述されている。
+
+== 出典 ==
+<references />
+
+{{DEFAULTSORT:mentalsocial}}
+[[Category:日本のインスタンス]]

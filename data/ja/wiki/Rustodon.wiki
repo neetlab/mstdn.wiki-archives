@@ -1,0 +1,28 @@
+{{Infobox software
+| Name = {{Ruby|Rustodon|ラストドン}}
+<!--| Image = -->
+| Developer = barzamin
+| SourceCode = [https://github.com/rustodon/rustodon GitHub]
+| Platform = Linux (サーバーサイド)<br />ウェブ (クライアントサイド)<br />iOS、Android、ウェブなど (サードパーティーのクライアント)
+| ProgrammingLanguage = [[w:Rust (プログラミング言語)|Rust]]
+| Launch = 2017年12月20日
+<!--| Kifu = -->
+| License = [[GNU Affero General Public License|AGPL]] 3.0
+<!--| Web = -->
+<!--| Download = -->
+}}'''Rustodon'''または'''ラストドン'''とは、[[オープンソース]]の[[分散SNS]]、ミニブログ。
+
+== 概要 ==
+分散SNSの一つである[[Mastodon]]のRust版を謳う分散SNS。Rustは、Mozillaが支援するオープンソースのシステムプログラミング言語である。
+
+2018年5月現在では、ユーザーの作成とログイン、[[トゥート]]の投稿や連合の生成を可能にするフレームワークのみが実装されているが、フロントエンドやユーザーフォロー、タイムラインなどMastodonにおける多くの機能が未実装である。
+
+== Rustodonのインスタンス ==
+* https://rustodon.glitch.social
+
+== 関連項目 ==
+* [[Mastodon]]
+* [[ActivityPub]]
+
+[[Category:分散SNS]]
+[[Category:GNU Affero General Public License]]

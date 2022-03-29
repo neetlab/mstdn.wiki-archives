@@ -1,0 +1,42 @@
+{{Infobox software
+| Name = PixelFed
+| Image = [[file:pixelfed-icon-color.svg|120px]]
+| Developer = [https://mastodon.social/@dansup dansup]
+| SourceCode = https://github.com/pixelfed/pixelfed
+| Platform = Web
+| ProgrammingLanguage = PHP
+| Launch = 開発中
+| Kifu = [https://patreon.com/dansup Patreon]<br />[https://liberapay.com/pixelfed LiberaPay]
+| License = [[GNU Affero General Public License]] v3.0
+| Web = https://pixelfed.org
+}}'''PixelFed'''は、[[オープンソース]]の[[分散SNS]]。
+
+==概要==
+dansup氏によって開発が進められている分散SNSで、{{Jawp|Instagram}}に類似したインターフェースが特徴。
+
+2018年6月14日現在は開発中の状態で、ユーザーフォロー、インスタンス同士の連合など、分散SNSとしての要素の多くはまだ実装されていない。
+
+==インスタンス==
+
+*[https://pixelfed.social pixelfed.social] - 開発用の公式インスタンス。2018年6月現在、ユーザー登録が解放されていない<ref>https://mastodon.social/@pixelfed/100224009590253121</ref>。
+*[https://pxlfd.me pxlfd.me] - [https://mstdn.fr/@Whaxion Whaxion]氏によるPixelFedインスタンス。登録が解放されている。
+*[https://pixelfed.tokyo/site/about pixelfed.tokyo] - ガジェットサークルのPCGFと[https://www.tamag.org/ TamagoGadget]が共同で運営しているインスタンス。登録が開放されている。
+
+==関連項目==
+
+*[[分散SNS]]
+*[[ActivityPub]]
+
+==外部リンク==
+
+*https://pixelfed.org - 公式ウェブサイト。
+*https://github.com/pixelfed/pixelfed - ソースコード。
+*[https://mastodon.social/@pixelfed @pixelfed@mastodon.social] - PixelFedの公式マストドンアカウント。
+*[https://mastodon.social/@dansup @dansup@mastodon.social] - 開発者のマストドンアカウント。
+
+==脚注==
+<references />
+
+{{DEFAULTSORT:pixelfed}}
+[[category:分散SNS]]
+[[Category:GNU Affero General Public License]]

@@ -1,0 +1,22 @@
+{{Infobox instance
+| Name          = 金沢丼
+| Image         = [[ファイル:金沢丼.png|300px]]
+| Domain        = https://mstdn-kanazawa.jp/
+| Admin         = [https://mstdn-kanazawa.jp/@torii とり]
+| Country       = 日本
+| Start         = 2017年4月20日
+| Kifu          = なし
+| Alias         = 金沢丼
+}}'''金沢丼'''とは、[https://mstdn-kanazawa.jp/@torii とり]氏が運営する[[マストドン]][[インスタンス]]である。
+
+== 概要 ==
+4月20日に[https://mstdn-kanazawa.jp/@torii とり]氏によって開設された石川県金沢市のご当地インスタンス<ref>[https://mstdn-kanazawa.jp/about 金沢丼]</ref>。
+
+== 出典 ==
+<references/>
+
+== 関連項目 ==
+* [[都道府県のインスタンス一覧]]
+
+{{DEFAULTSORT:かなさわとん}}
+[[category:日本のインスタンス]]

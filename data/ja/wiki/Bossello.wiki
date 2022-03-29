@@ -1,0 +1,29 @@
+{{Infobox software
+| Name = {{Ruby|Bossello|ボセロ}}
+<!--| Image = -->
+| Developer = [https://theboss.tech/@ons onsen-ui]
+<!-- | SourceCode = -->
+| Platform = Web
+<!-- | ProgrammingLanguage = -->
+| Launch = 2018年3月17日<ref>https://theboss.tech/@ons/99699485496714</ref>
+<!-- | Kifu = -->
+| License = プロプライエタリ
+| Web = https://bossello.tk
+}}
+'''Bossello'''は、[[オープンソース]]の[[分散SNS]]である[[Mastodon]]、特にそのインスタンスの一つである[[theboss.tech]]において、ボードゲームを行うためのウェブアプリケーション。
+
+== 概要 ==
+2018年3月17日、onsen-ui氏により公開された。
+
+theboss.techにおいて存在する2つのカスタム絵文字を利用し、マストドンのトゥート上でいわゆる「オセロ」もしくは「リバーシ」を行うことができる。
+
+詳細なゲーム内容については{{Jawp|オセロ|Wikipedia}}の記事を参照のこと。
+
+まず「NEW BOARD」を選択すると盤が表示される。石を置くとテキストが出力され、プレイヤーはそれをトゥートする。
+
+次に対戦相手がそのトゥートのURLを入力すると、その盤の内容が再現され、次手を打つことができる。この時入力するURLはtheboss.techのWeb内のURL、「theboss.tech//web/status/〜」というURLであることに注意。
+
+== 出典 ==
+<references />
+{{DEFAULTSORT:bossello}}
+[[category:ウェブサイト]]

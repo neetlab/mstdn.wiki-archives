@@ -1,0 +1,21 @@
+{{Infobox software
+| Name                = {{Ruby|kanzaki|カンザキ}}
+| Image               = [[ファイル:KNZK.png|100px|Knzkのロゴマーク]]
+| Developer           = [[KnzkDev]]
+| SourceCode          = [https://github.com/KnzkDev/kanzaki GitHub]
+| ProgrammingLanguage = {{Jawp|OCaml}}
+| Launch              = 2020年1月1日
+| License             = [[GNU Affero General Public License]]3.0
+}}'''kanzaki'''は、[[ActivityPub]]互換の[[分散SNS]][[サーバー]]を提供するためのフリーソフトウェア。
+
+==概要==
+「KnzkをOCamlで蘇らせるプロジェクト」として、[[マストドン]]サーバー[[Knzk.me]]の運営開発チームであった[[KnzkDev]]メンバーらにより、2020年1月1日に初公開された。
+
+公開時点で開発は初期段階であると思われ、“Knzkの復活”を目的にOCamlで製作されているAGPL3.0のソフトウェアであることなどしか判明していない。
+
+==関連項目==
+*[[分散SNS]]
+*[[Knzk.me]]
+
+[[Category:GNU Affero General Public License]]
+[[Category:分散SNS]]

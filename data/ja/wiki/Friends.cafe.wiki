@@ -1,0 +1,46 @@
+{{小文字}}{{Infobox instance
+| Name          = {{Ruby|'''friends.cafe'''|フレンズカフェ}}
+| Image         = [[ファイル:2019-05-14 top Preview 2.jpg|300px|friends.cafe]]
+| Domain        = https://friends.cafe
+| Admin         = {{account|user=LamazeP|instance=friends.cafe|link=yes}}
+<!--| Moderator     = -->
+| Country       = 日本国
+| Start         = 2019年5月1日
+| Kifu          = 
+| SourceCode    = 
+| Alias         = フレカフェ
+| Link = 
+}}
+{{Ruby|'''friends.cafe'''|フレンズカフェ}}は、[[ActivityPub]]の[[分散SNS]]、[[Mastodon]]のサーバー。
+
+==概要==
+[[friends.nico]]が2019年4月末にサービス終了した後、同インスタンスのいわゆる「ごちうさタイム」と呼ばれる朝の時間帯のタイムラインの流れを汲み、利用していた一部の有志らによって2019年5月1日にクローズド状態で稼働開始された。
+
+当初はβクローズドとしてプレオープンユーザーが登録しているが新規登録の受付は行われていない状態で運用され。インスタンスの説明では、タイムラインやユーザーに関する詮索やインスタンス間のリモート操作は控えるようにとされていた。
+
+公式アカウントにより2019年7月15日の正午をもっての正式オープンが発表された<ref>https://friends.cafe/@friends_cafe/102443227759502197</ref>。
+
+==アカウント登録方法==
+2021年10月3日よりアカウント登録は承認制となっている。<ref>https://friends.cafe/@friends_cafe/107038084694946999</ref>
+
+ただし、スパム防止、アカウント乱獲取得防止のため「意気込みをお聞かせください」の入力欄へ「好きな食べ物」or「一押しのカフェメニュー」を入力する必要がある。
+
+なお、オープン当初は、新規登録は開放されておらず、スパム防止、アカウント乱獲取得防止のため招待制となっていた。（管理者へのメールもしくは登録フォームからの申請により招待コードが発行されることとなっていた。）
+
+同一ユーザーによる複数アカウントの作成は、DM、メールもしくは登録フォームのメッセージ欄へ理由を記載して申請することで管理者の判断により認められる場合がある。
+
+==関連項目==
+
+*[[friends.nico]] - friends.cafeの源流となったインスタンス。2019年4月28日にサービス終了。
+*[[best-friends.chat]] - friends.nicoの後継インスタンスの一つ。
+
+==関連リンク==
+
+*[https://friends-cafe.booth.pm/ Marché friends.cafe] - 運営費を稼ぐためにグッズ販売等を行っている公式ショップ
+*[https://www.youtube.com/channel/UCZj-wUStAyxI4XmZcT0QpCA Youtubeチャンネル Mastodon「friends.cafe」] - 公式Youtubeチャンネル
+*[https://lin.ee/vFr9rka LINE「friends.cafe」] - 公式LINEアカウント
+
+==脚注==
+<references />
+
+[[category:日本のインスタンス]]

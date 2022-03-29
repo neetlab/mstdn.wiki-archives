@@ -1,0 +1,21 @@
+{{Infobox software
+| Name                = simple_ap
+<!-- | Image               = [[ファイル:Amaroq.jpg|120px|Amaroq]] -->
+| Developer           = wakin
+| SourceCode          = https://github.com/wakin-/simple_ap
+| Platform            = 
+| ProgrammingLanguage = Python
+| Launch              = 2018年6月18日<ref>https://biwakodon.com/@wakin/100223912137769244</ref>
+<!-- | Kifu                = [https://paypal.me/floofdog PayPal] -->
+| License             = [[MITライセンス]]
+<!-- | Web                 = [https://github.com/ReticentJohn/Amaroq/blob/master/README.md GitHub Readme] -->
+<!-- | Download            = [https://itunes.apple.com/us/app/amaroq-for-mastodon/id1214116200 AppStore] -->
+}}'''simple_ap'''は、[[RSS]]を受信し、更新情報を[[ActivityPub]]に送出するAPIサーバー。
+
+==脚注==
+<references />
+
+{{DISPLAYTITLE:simple_ap}}
+{{DEFAULTSORT:simpleap}}
+
+[[Category:ウェブサイト]]

@@ -1,0 +1,24 @@
+{{Infobox software
+| Name                = Discourse
+<!-- | Image               = [[ファイル:Amaroq.jpg|120px|Amaroq]] -->
+| Developer           = Civilized Discourse Construction Kit, Inc.
+| SourceCode          = https://github.com/discourse/discourse
+| Platform            = ウェブ, iOS, Android
+| ProgrammingLanguage = Ruby
+<!-- | Launch              = 2017年3月17日 -->
+<!-- | Kifu                = [https://paypal.me/floofdog PayPal] -->
+| License             = [[GNU General Public License]]
+| Web                 = https://www.discourse.org
+| Download            = [https://itunes.apple.com/us/app/discourse-app/id1173672076 iOS] [https://play.google.com/store/apps/details?id=com.discourse Android]
+}}
+'''Discourse'''は、議論に適したデザインの掲示板サイト。
+
+==関連項目==
+* [[Mastodon Meta Discussion Board]]
+* [[Fedeloper forum]]
+* [[Mastodon日本語メタフォーラム]] (消滅)
+* [[Discord]] - 名称も目的も似ているが、直接の関係はない。どちらもマストドン関係者によく利用されている。
+
+{{DEFAULTSORT:discource}}
+[[category:ソフトウェア]]
+[[category:GNU General Public License]]

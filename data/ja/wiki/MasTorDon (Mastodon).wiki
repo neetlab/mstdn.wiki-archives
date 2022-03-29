@@ -1,0 +1,17 @@
+{{stub}}
+{{Infobox instance
+| Name          = MasTorDon
+| Image         = [[ファイル:Mastodon_logo.png|120px|Mastodon]]
+| Domain        = onion v2 https://mastordon43zyheh.onion<br />onion v3 https://ypau2rttuzgzgp2kfcp34qsuin2ppflluxysjqn54trepti7lgaiouad.onion
+| Admin         = [https://mastordon43zyheh.onion/@MasTorDon @MasTorDon]
+| Country       = 不明
+| Start         = 不明
+}}'''MasTorDon'''は、[[マストドン]]のサーバーの一つ。
+
+==概要==
+.onionドメインの通り[[Darknet連合対応インスタンスの一覧|ダークネット連合に対応するサーバー]]の一つで、Torブラウザを用いてアクセスする。自己署名の[[セキュリティ証明書]]を使用している。
+
+==関連項目==
+*[[Darknet連合対応インスタンスの一覧]]
+
+[[category:独自機能が実装されたインスタンス]]

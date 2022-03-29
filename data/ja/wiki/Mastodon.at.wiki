@@ -1,0 +1,17 @@
+{{Infobox instance
+| Name = Mastodon.at
+| Domain = https://mastodon.at
+| Admin = [https://mastodon.at/@pflgel Patrick Figel]
+| Moderator = 不明
+| Country = オーストリア
+| Start = 2017年4月6日
+| Kifu = [https://librapay.com/mastodon.at Librapay]
+}}'''mastodon.at'''は、[[オープンソース]]の[[分散SNS]]、[[Mastodon]]の[[インスタンス]]。
+
+== 概要 ==
+2017年4月6日、Patrick Figel氏によって立ち上げられた。[https://mastodon.at/about/more ルール]を脱しない範囲であれば基本的に話題は自由。
+
+2018年3月現在、2000人以上のユーザー数、50万以上の[[トゥート]]数を誇っている。
+
+[[category:オーストリアのインスタンス]]
+{{小文字}}

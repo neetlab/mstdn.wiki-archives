@@ -1,0 +1,9 @@
+{{stub}}
+'''10friends'''は、小規模コミュニティのためのプラットフォームとして[[PeerTube]]、[[Pleroma]]、[[Funkwhale]]を紹介しているウェブサイト。特に、検閲の有無を自己コントロールできる点を重視している。
+
+==外部リンク==
+* https://10friends.info
+* https://wiki.10friends.info
+
+{{DEFAULTSORT:10friends}}
+[[category:ウェブサイト]]

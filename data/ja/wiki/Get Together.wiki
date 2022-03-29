@@ -1,0 +1,17 @@
+{{Infobox software
+| Name                = Get Together
+| Image               = [[ファイル:Get_together_logo_b_v1.png|240px]]
+| Developer           = [https://mhall119.com Michael Hall]
+| SourceCode          = https://github.com/GetTogetherComm/GetTogether
+| Platform            = ウェブ
+| ProgrammingLanguage = Python
+| Launch              = 2018年7月
+<!-- | Kifu                = [https://paypal.me/floofdog PayPal] -->
+| License             = 2条項[[BSDライセンス]]
+| Web                 = https://gettogether.community/
+}}
+'''Get Together'''は、物理的な集会を管理するためのウェブアプリケーション。複数の[[インスタンス]]が[[連合]]することによりイベントのデータを共有することができる。
+
+{{DEFAULTSORT:gettogether}}
+[[category:分散SNS]]
+[[category:オープンソース]]

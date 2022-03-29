@@ -1,0 +1,19 @@
+{{小文字}}
+{{Infobox instance
+| Name = matchdon（まっちドン）
+| Domain = https://matchdon.com
+| Admin = [https://matchdon.com/@fumichuki ふみちゅき]
+| Country = 日本
+| Start = 2017年4月26日<ref>https://matchdon.com/@fumichuki/1</ref>
+| Alias = 出会い系マストドン
+}}'''matchdon（まっちドン）'''は、[[オープンソース]]の[[分散SNS]]、[[Mastodon]]の[[インスタンス]]。
+
+== 概要 ==
+2017年4月26日、ふみちゅき氏により立ち上げられたマストドンインスタンスで、恋愛についての話題や、婚活の話題などがテーマの“出会い系インスタンス”である。2018年4月現在ユーザー数は1400人となっている。独身のユーザーでも結婚済みのユーザーでも書き込めるとしている。
+
+オフ会の企画なども多く行われているほか、実際にインスタンスのユーザー同士での結婚の例もあるという。
+
+== 出典 ==
+<references />
+
+[[category:消滅したインスタンス]]

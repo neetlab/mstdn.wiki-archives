@@ -1,0 +1,20 @@
+{{Infobox software
+| Name = {{Ruby|Mastodon検索サイト|マストドン検索サイト}}
+<!--| Image = [[Gazou_nonamae.png]]-->
+| Developer = [https://mstdn.jp/@incmplt さいき りん]<br>[https://www.infocircus.jp/ インフォサーカス・インコーポレイテッド]
+| Platform = ウェブ
+| Launch = 2017年4月19日
+| Web = https://mstdn.imado.jp/
+}}[https://mstdn.imado.jp/ マストドン検索サイト] は、マストドンのインスタンスをキーワードで検索することができるウェブアプリケーション。また、分野別のインスタンスのリストも提供している。
+
+インスタンスの追加は、ウェブの登録フォームから行うが、Mastodon検索サイトの作者による承認が必要である。
+
+ローカルタイムラインのプレビューが可能であるが、画像が展開されず、ページネーションも提供されていない。
+
+2021年12月時点で、接続できないようである。
+
+==関連項目==
+* [[Mastodon Instances]] インスタンスを検索する機能を持っている
+
+[[category: インスタンスの一覧を提供するウェブサイト]]
+{{DEFAULTSORT:けんさくさいと}}

@@ -1,0 +1,16 @@
+{{小文字}}
+[[Swiftドン]]は、オープンソースのソーシャルネットワーク[[Mastodon]]の日本の[[インスタンス]]である。
+{{Infobox instance
+| Name          = [[Swiftドン]]
+| Domain        = https://swift.language.jp
+| Admin         = [[合同会社きぼうソフト]]
+| Country       = 日本国
+| Start         = 2017年9月9日
+| End           = 2018年9月30日
+}}
+
+== 概要 ==
+iOSDC 2017に合わせて公開されたインスタンスで、Swift言語関連の話題をメインにしている。運営は[[合同会社きぼうソフト]]。
+
+{{DEFAULTSORT:swiftドン}}
+[[Category:企業が運用しているインスタンス]]

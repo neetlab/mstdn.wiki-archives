@@ -1,0 +1,49 @@
+{{Infobox instance
+| Name          = Hiveway
+| Image         = [[ファイル:Hiveway_full.svg|240px|Hiveway]]
+| Domain        = https://hiveway.net<br />https://etherhive.net
+| Admin         = [https://hiveway.net/@hiveway Hiveway]
+| Country       = ルーマニア
+| Start         = 2018年2月24日<ref>https://hiveway.net/@hiveway/99575671310790827（[http://web.archive.org/web/20180307091639/https://hiveway.net/@hiveway/99575671310790827 ウェブアーカイブ]）</ref>
+| SourceCode    = [https://github.com/hiveway/hiveway GitHub]
+| Alias         = Hiveway, ETHERHIVE
+| Link = [https://www.hiveway.io 公式サイト]
+}}
+'''Hiveway'''は、[[オープンソース]]の[[分散SNS]]、[[Mastodon|マストドン]]のフォーク。および、それを利用した[[インスタンス]]。
+== 概要 ==
+2018年2月頃に公開された。セキュリティ・ソフトウェアの開発者で著名な{{Jawp|ジョン・マカフィー}}氏が関わっている<ref>https://twitter.com/officialmcafee/status/968506137124507648</ref>ことで知られる。当初は'''EtherHive'''という名称だったが、2018年2月27日に現名称へと改称されている<ref>https://twitter.com/EtherHive/status/968529341222187009</ref>。
+
+インスタンスで利用できるのは、外見の変更などが独自実装されたマストドンである。最大の特徴はICOによる資金調達、そしてEthereumブロックチェーンの統合化であり、ユーザーはインスタンスのアカウントで仮想通貨のウォレットを利用することができるようになる予定である。将来的には、仮想通貨による広告、続いて投票による自治、Androidアプリのリリースなどが予定されている。
+
+2018年3月5日に[[マストドンつまみ食い日記]]で取り上げられた<ref name="itmedia">[http://www.itmedia.co.jp/news/articles/1803/05/news056.html ブロックチェーンSNS「hiveway」とマストドンとの関係 - ITmedia NEWS]</ref>ことにより多くの日本人ユーザーがインスタンスに流入。しかし、書き込み頻度の高い数人のユーザーがアカウント停止・[[サイレンス]]を受けた。日本時間の2018年3月6日18時30分頃、その時点でユーザー数1400人を集めていた公式インスタンスhiveway.netのユーザー登録が停止された。同時期に、www.hiveway.ioではトークンの販売が停止された。
+
+その後、hivewayの公式アカウントにより、民間投資機関により開発資金を調達すること、そして、その為にICOによる資金調達を中断し、それまでに得た寄付金は返金されるとの旨が発表された<ref>https://hiveway.net/@hiveway/99636316125459007（[http://web.archive.org/web/20180307091641/https://hiveway.net/@hiveway/99636316125459007 ウェブアーカイブ]）</ref>。更に数時間後、hiveway.netの終了がアナウンスされた<ref>https://hiveway.net/@hiveway/99637137678915164（[http://web.archive.org/web/20180307091640/https://hiveway.net/@hiveway/99637137678915164 ウェブアーカイブ]）</ref>。
+
+その後もしばらくの間、同インスタンスは続いていたが、2018年3月10日0時頃、インスタンスへのアクセスが出来なくなったことが確認された。更にその後、プロジェクトページであるhiveway.io、また公式[[Twitter]]アカウント<ref>https://twitter.com/hivewaynet（[http://web.archive.org/web/20180307092055/https://twitter.com/hivewaynet ウェブアーカイブ]）</ref>の消滅（ただし[https://twitter.com/EtherHive 改名前のTwitterアカウント]は残存）も確認された。
+
+==批判==
+[[File:hivewaycartoon.png|thumb|180px|Hivewayを風刺した漫画<ref>https://hiveway.net/@aswarmofbees/99628028588452623（[http://web.archive.org/web/20180307150102/https://hiveway.net/@aswarmofbees/99628028588452623 ウェブアーカイブ]）</ref>]]
+Hivewayが公開された当初は、マストドンのフォークであることが明記されていなかった<ref>ただし、ホワイトペーパーの ''Technologies'' の節はマストドンに言及している。詳細は後述。</ref>ため、倫理的に問題があると批判された<ref>[https://medium.com/we-distribute/57b7aba3e84f Hiveway.io shamelessly rips off of Mastodon and slaps a blockchain on top, for some reason]</ref><ref name="itmedia" />。また[[GNU Affero General Public License|AGPL]]に違反しているかどうかも議論された。現在は、[[GitHub]]レポジトリのCOPYRIGHT<ref>https://github.com/hiveway/hiveway/commit/d9adcb4905fdb2b184c74bf7d77c1ecc5ed941fb</ref>とREADME<ref>https://github.com/hiveway/hiveway/pull/4</ref>にマストドンとの関係が明記されている。また、Androidアプリについても、[[Tusky]]のフォークであることを示す記述が追加された<ref>https://github.com/hiveway/hiveway-android/issues/2</ref>。いずれにせよ、マストドンとの関係が記載されたのはGitHubのレポジトリのみであり、ウェブサイトおよびインスタンスには明記されていない。
+
+===Hivewayのホワイトペーパーにおけるマストドンへの言及===
+[https://github.com/hiveway/ico/blob/master/hiveway_wp_final.pdf Hivewayのホワイトペーパー] はマストドンに言及している。ただし、マストドンについての記述は、49ページあるホワイトペーパーのうち20ページ目に登場するのみである。ホワイトペーパーの記述では、Hivewayの独自性と、マストドンに対する優位性が強調されている。具体的には、「Hivewayはマストドンのソーシャルネットワークの上に構築されている。」「マストドンのコアは、脱中央集権とブロックチェーン統合、その他のHivewayの機能のために置き換えられた。」(いずれもウィキ執筆者訳) と書かれている。後半部分については、Hivewayとホワイトペーパーが公開された時点では実現していないにもかかわらず、ホワイトペーパーでは過去形で書かれているという問題がある。
+
+==抗議と悪ふざけ==
+ブラウザで表示されている文字列を置換し、'''Hiveway'''を'''Mastodon'''に置き換えるChrome拡張<ref>https://github.com/Angristan/hiveway-fix</ref>が非公式に公開された。Chromeウェブストアでは「Hivewayのライセンス問題を解決する<ref>https://chrome.google.com/webstore/detail/hiveway-fix/fkhimnihclpdpfhgnjbahiokfidiomhb</ref>」と説明されている。
+
+==発生したスラング==
+* '''おhiveway'''は、主に日本ユーザーが使う朝の挨拶。
+
+==関連項目==
+* [[Mastodon for Monappy]] 暗号通貨をテーマとするインスタンス
+* [[mastodon.bitbank.cc|Mastodon by bitbank.cc]] 暗号通貨をテーマとするインスタンス
+* [[Numa]] Ethereumをスマートコントラクトに用いる分散SNS
+
+==脚注==
+<references />
+
+[[category:分散SNS]]
+[[Category:ルーマニアのインスタンス]]
+[[category:GNU Affero General Public License]]
+[[category:議論と対立]]
+{{DEFAULTSORT:hiveway}}

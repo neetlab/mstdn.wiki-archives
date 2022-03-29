@@ -1,0 +1,69 @@
+{{Infobox software
+| Name                = {{Ruby|libsocialnet|リブソーシャルネット}}
+| Developer           = [[墓場人夜]]
+| Platform            = Linux (DebianまたはUbuntu推奨)
+| ProgrammingLanguage = C++
+| Launch              = 2018年9月23日
+| License             = [[GNU Affero General Public License]]
+}}'''libsocialnet'''は、[[GNU social]]、[[Mastodon]]、[[Pleroma]]、[[microblog.pub]]など (正確なリストは後述) の公開情報 (認証せずに取得できる情報) を取得する、C++用のライブラリ。動作環境はDebianまたはUbuntuを推奨している。
+
+==対応する実装==
+
+* [[Dolphin]]
+* [[Friendica]]
+* [[Gab]] - マストドンとほとんど同じだが、libsocialnetでは区別される。
+* [[GNU social]]
+* [[Misskey]] 11
+* [[Kibou]]
+* [[Mastodon]]
+* [[PixelFed]]
+* [[Pleroma]]
+* Misskey 10からフォークして[[めいめい]]がメンテナンスしている実装<ref>https://github.com/mei23/misskey</ref>。Misskey 11とは別の実装として扱われている。めいめいによるフォークではないMisskey 10は非対応である。
+* シングルユーザー - [[microblog.pub]]、[[Write.as]]などの[[お一人様インスタンス]]。
+* [[Socialhome]]
+
+==可能な操作==
+
+ホストの実装 (GNU social, Mastodon, Pleroma, microblog.pubなどの別) を自動判別する機能を持つ。
+
+任意のホストから以下の情報を取得できる。
+
+* [[インスタンス]]の名称、説明文、サムネイル画像のURL
+* [[ローカルタイムライン]]
+* ユーザーの[[表示名]]、[[プロフィール]]、[[アイコン]]画像のURL、タイプ ([[bot|ボット]]と人間の別)
+* ユーザータイムライン
+* ユーザーのフォロー
+
+タイムライン (ローカルタイムラインとユーザータイムライン) はステータスの列である。ステータスは以下の要素を持つ。
+
+* ホスト名
+* ユーザー名
+* タイムスタンプ (ステータスが作成された日時)
+* 内容 (文字列)
+* ユーザーのタイムスタンプ (ユーザーが作成された日時)
+
+==沿革==
+* 2018年9月頃、実用的な水準に達する。対応する実装は[[GNU social]]、[[Mastodon|マストドン]]、[[Pleroma]]、[[Misskey]]であった。
+* 2018年12月17日<ref>https://gitlab.com/distsn/libsocialnet/issues/8</ref>、[[microblog.pub]]に対応した。また、[[お一人様インスタンス]]に限り、[[Write.as]]と[[Write Freely]]に対応した。
+* 2019年5月16日、[[Misskey]]の対応を廃止。
+* 2019年6月上旬、Misskeyの対応を再開。Misskey 11と、[[めいめい]]によるフォーク<ref>https://github.com/mei23/misskey</ref>を区別するようになった。
+* 2019年7月6日、[[Kibou]]に対応。
+* 2019年7月7日、[[Gab]]を[[Mastodon]]から区別するようになった。
+* 2019年10月10日、[[PixelFed]]に対応。
+* 2019年12月7日、[[Dolphin]]に対応。
+* 2020年2月頃、[[Friendica]]に対応。
+* 2020年3月頃、[[Socialhome]]に対応。
+* 2020年3月頃、開発終了。
+
+==関連項目==
+* [[分散SNSフォーラム]]
+* [[マストドンユーザーマッチング]]
+* [[Recommendation Fairness Warrior]]
+* [[Fediverse Observer]]
+
+==脚注==
+<references />
+
+{{DEFAULTSORT:libsocialnet}}
+[[category:ソフトウェア]]
+[[category:GNU Affero General Public License]]

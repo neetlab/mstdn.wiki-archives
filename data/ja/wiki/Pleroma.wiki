@@ -1,0 +1,91 @@
+{{Infobox software
+| Name = {{Ruby|Pleroma|プレロマ}}
+| Image = [[file:Pleroma logo vector nobg nopan.svg|100px]]
+| Developer = [[lain]]
+| SourceCode = [https://git.pleroma.social/pleroma/pleroma GitLab]
+| Platform = Linux互換OS (サーバーサイド)<br />Web（クライアントサイド）
+| ProgrammingLanguage = Elixir
+| License = [[GNU Affero General Public License]]
+| Web = https://pleroma.social/
+}}'''Pleroma'''は[[分散SNS]]の実装の一つ。
+
+==概要==
+[[lain]]により開発されている分散SNS。[[OStatus]]プロトコル<ref>バージョン2.0.0で削除された。</ref>と[[ActivityPub]]プロトコルにより、マストドンを含む他の分散SNSの[[インスタンス]]と[[連合]]を形成することができる。また、[[マストドン]]のAPIとある程度の互換性があるため、マストドン用のクライアント (スマートフォンアプリなど) を使用できる場合がある。
+
+GNU/Linuxで動作する。使用しているプログラミング言語はElixirである。マストドンと比較すると、低コストな計算機資源で動作することを標榜しており、2 GBのRAMでの運用<ref>[https://pleroma.social/blog/2021/01/13/the-big-pleroma-and-fediverse-faq/ The Big Pleroma and Fediverse FAQ Part 1 - Beginner Questions]</ref>が可能である。ライセンスは[[GNU Affero General Public License|AGPL]]である。
+
+開発当初の連合プロトコルは[[OStatus]]のみであったが、2018年3月8日<ref>https://git.pleroma.social/pleroma/pleroma/commit/460062f2b04220ffcd8f20aa842cc95582d1f849</ref>に[[ActivityPub]]に対応した<ref>[https://blog.soykaf.com/post/activity-pub-in-pleroma/ ActivityPub in Pleroma]</ref>。
+
+==バックエンドとフロントエンドの組み合わせ==
+Pleromaはバックエンド (サーバーサイド) とフロントエンド (ウェブUI) が分離されており、それぞれ他の分散SNSと組み合わせることが可能である。[[GNU social]]のバックエンドとPleromaのフロントエンドの組み合わせがGNU/Smug<ref>https://gs.smuglo.li/suikabest2hu.html</ref>とFreezePeach<ref>https://freezepeach.xyz/pleroma.html</ref>で試みられた<ref>2022年1月時点で、どちらもアクセスできなくなっている。</ref>。また [[Gab|Gab social]] ([[Twitter]] ライクな UI に改変した Mastodon のフォーク) のフロントエンドを基にした [[Soapbox]] も存在する。
+
+PleromaのバックエンドとMastodonのフロントエンドの組み合わせも利用できる。この場合には、<nowiki>https://example.com/web</nowiki> のようなURLで Mastodon のフロントエンドを使用できる。ただし、MastodonフロントエンドはDevelopブランチでは廃止されており<ref>[https://git.pleroma.social/pleroma/pleroma/-/merge_requests/3392 Remove MastoFE from Pleroma, fixes #2625 (!3392)]</ref>、次のリリースで利用できなくなる予定である。
+
+==名前の由来==
+'''pleroma'''はギリシャ語で「全能性」を意味する。
+
+==Pleromaのインスタンス一覧を提供するウェブサイト==
+
+[[Fediverse Observer (Poduptime)]] の [https://pleroma.fediverse.observer/list Pleromaインスタンス一覧] は自動的に更新される。
+
+the federationの [https://the-federation.info/pleroma Pleromaインスタンス一覧] は自動的に更新される。
+
+==Pleromaに対応しているクライアント==
+Pleromaは[[Mastodon|マストドン]]のAPIを模倣しているため、マストドン用のクライアントアプリは、Pleromaインスタンスでも利用できる。ただし、APIの挙動の違いから、正常に動作しない場合もある。また、Pleromaはマストドンの[[ストリーミングAPI]]を模倣していないため、Pleromaのストリーミングに対応していないアプリが多い。この場合には、タイムラインの新しい投稿を取得するために、ユーザーが明示的に更新の操作を行う必要がある。
+
+公式ドキュメント<ref>https://docs-develop.pleroma.social/backend/clients/</ref>によれば、Pleromaに対応しているクライアントアプリは以下である。前述のように、このリストに記載されていても、Pleromaのストリーミングに対応していないアプリが多い。
+
+*[[Roma]] for Desktop (デスクトップ)
+*Social (デスクトップ)
+*[[Whalebird]] (デスクトップ)
+*AndStatus (Android)
+*[[Amaroq]] (iOS)
+*[[Fedilab]] (Android)
+*Kyclos (SailfishOS)
+*Husky (Android)
+*Fedi (iOS, Android)
+*[[Tusky]] (Android)
+*Twidere (Android)
+*Indigenous (Android)
+*[[Brutaldon]] (ウェブ)
+*[[Halcyon]] (ウェブ)
+*Pinafone (ウェブ)
+*[[Sengi]] (ウェブ)
+*DashFE (ウェブ)
+*BloatFE (ウェブ)
+
+==Pleromaに対応している関連ソフトウェア==
+
+*[[フォローリンク]]<ref>https://mstdn.nere9.help/users/osapon/statuses/99755919266836138</ref>
+*[[おすすめフォロワー]]<ref>https://mstdn.nere9.help/users/osapon/statuses/99755919266836138</ref>
+*[[カスタム絵文字でお絵かきツール]]<ref>https://git.pleroma.social/pleroma/pleroma/merge_requests/52</ref>
+*[[分散SNSフォーラム]] (廃止。当該項目を参照。)
+*[[マストドンユーザーマッチング]] (廃止。当該項目を参照。)
+*[[ミステリーポスト]] (廃止。当該項目を参照。)
+*[[Mastodon Birthday]]<ref>記事執筆者による独自調査。</ref>
+*[[AnonyMasto]]<ref>記事執筆者による独自調査。</ref> (廃止。当該項目を参照。)
+*[[Who To Follow For Mastodon & Pleroma]]
+
+==マスコットキャラクター==
+Pleromaのマスコットキャラクターとして'''プロレマたん'''または'''pleroma-tan'''が知られている。2019年4月にPleromaのリポジトリに追加され<ref>[https://git.pleroma.social/pleroma/pleroma/merge_requests/913 priv/static/images: Add pleroma-tan !913]</ref>、マストドン風フロントエンドの左下に表示される<ref>[https://git.pleroma.social/pleroma/pleroma/merge_requests/1018 mastodon_api_controller.ex: Add pleroma-tan to initial_state !1018]</ref>ようになった。人間型のものと、狐化されたものが存在する。
+
+[[ファイル:Pleroma-tan.png|x256px]] [[ファイル:Pleroma-fox-tan.png|x256px]]
+
+==関連項目==
+
+* [[Newroma]]
+
+==脚注==
+<references />
+
+==外部リンク==
+
+*[http://www.itmedia.co.jp/news/articles/1711/12/news018.html 新しい連合型SNS「Pleroma」はMastodonを置き換える？]
+*[http://www.itmedia.co.jp/news/articles/1711/15/news124.html Mastodonに続く新たな連合型SNS「Pleroma」作者に聞く 開発の背景、特徴、ロードマップ]
+*[https://masto.news/2017/11/12/pleroma/ マストドンの次に来る？「Pleroma」の日本人ユーザーが増加中]
+*[https://distsn.org/pleroma-instances.html Pleromaインスタンス一覧]
+
+[[category:分散SNS]]
+[[category:ユーザーレコメンデーション]]
+[[category:GNU Affero General Public License]]
+{{DEFAULTSORT:pleroma}}

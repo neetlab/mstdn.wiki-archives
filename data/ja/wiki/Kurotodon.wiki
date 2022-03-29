@@ -1,0 +1,32 @@
+{{Infobox software
+| Name                = {{Ruby|Lurotodon|クロトドン}}
+| Image               = [[ファイル:Kurotodon.jpg|300px|Kurotodon]]
+| Developer           = [https://mstdn.jp/@k_e_n1 Ken1]
+| SourceCode          = [https://github.com/oken1/kurotodon Kurotodon]
+| Platform            = Chrome
+| Launch              = 2017年5月26日<ref>https://mstdn.jp/@k_e_n1/14623834</ref>
+| License             = MITライセンス
+| Download            = [https://chrome.google.com/webstore/detail/kurotodon/fandjchmgmejjcjcedgeoileeibjndbb Chrome ウェブストア]
+}}{{Ruby|'''Kurotodon'''|クロトドン}}は、[[ソーシャル・ネットワーキング・サービス]]である[[Mastodon]]の、オープンソースのGoogleChrome向けクライアントである。
+
+== 概要 ==
+ウェブブラウザ「GoogleChrome」の拡張機能として、[[Twitter]]向けクライアント「KuroTwi」をベースに作られたMastodonクライアントである。
+
+見た目はWebUIに類似しているが、UIにカラムではなくウィンドウを採用している。
+
+また、[[Naumanni]]や[[Tsuru]]同様にマルチインスタンスに対応しており、複数[[インスタンス]]の[[タイムライン]]を自由に並べられるのが特徴。
+
+== 主な機能 ==
+* マルチインスタンスに対応している。
+* カラムをウィンドウとして配置でき、位置や大きさを自由に変更できる。
+* 非ログインインスタンスのタイムラインを覗き見ることができる。
+
+== 関連項目 ==
+* [[Naumanni]]
+* [[Tsuru]]
+
+== 出典 ==
+<references />
+
+[[Category:Chrome用クライアント]]
+[[category:MITライセンス]]

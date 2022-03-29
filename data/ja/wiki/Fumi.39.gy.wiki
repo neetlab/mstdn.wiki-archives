@@ -1,0 +1,27 @@
+{{小文字}}
+{{Infobox instance
+| Name          = {{Ruby|'''fumi.39.gy'''|ふみ}}
+| Image         = [[ファイル:Mastodon_logo.png|120px|Mastodon]]
+| Domain        = https://fumi.39.gy
+| Admin         = [https://fumi.39.gy/@ress Ress]
+| Country       = 日本国
+| Start         = 2019年9月25日（開始日時）
+| Kifu          = [https://fantia.jp/fanclubs/15045 Fantia]
+| Alias         = Fumi, ふみ
+}}
+'''fumi.39.gy'''とは、[[分散SNS]]、[[Mastodon]]の[[インスタンス|サーバー]]の一つである。
+
+==概要==
+書き手、読み手は問わず、小説が好きなユーザーを対象としたインスタンス。
+
+[https://fumi.39.gy/@ress Ress] が[[Syosetu.social]]のサービスを一時停止したため代わりに建てたことからサービスを開始した。
+
+==寄付==
+かくどんの閉鎖に伴いユーザーが増加したため寄付を募っている。
+
+Fantia 以外にも直接アマゾンギフト券でも対応している。
+
+==呼称==
+syosetu.social では正式な呼称は定義されていなかったが、多くのユーザーにより「ふみ」という略称が使用されていたため 「ふみ」が使用されている
+
+[[Category:日本のインスタンス]]

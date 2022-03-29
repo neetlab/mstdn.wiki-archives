@@ -1,0 +1,8 @@
+{{stub}}
+'''FediFollows'''は、フォローを推奨するアカウントを発信しているアカウント。収集は手動である。
+
+==外部リンク==
+* https://mastodon.online/@FediFollows
+
+{{DEFAULTSORT:fedifollows}}
+[[category:ユーザーレコメンデーション]]

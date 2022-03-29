@@ -1,0 +1,18 @@
+{{Infobox instance
+| Name = {{Ruby|'''Eletusk'''|エレタスク}}
+| Image = [[ファイル:Eletusk.png|300px]]
+| Domain = https://eletusk.club
+| Admin = [https://eletusk.club/@Admin_eletusk botの人]
+| Country = 日本
+| Start = 2017年4月17日
+| Kifu =
+| Alias =
+}}{{Ruby|'''Eletusk'''|エレタスク}}は、オープンソースのソーシャルネットワークMastodonの[[インスタンス]]。
+
+== 概要 ==
+オンラインゲーム「ファンタシースターオンライン2（PSO2）」をはじめとする「ファンタシースター」関連の話題を中心としたインスタンス。
+
+インスタンス名は海外版ファンタシースター2に登場する敵「Mastodon」の色違い「Eletusk」に由来する。
+
+[[Category:日本のインスタンス]]
+[[Category:ゲームに関するインスタンス]]

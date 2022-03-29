@@ -1,14 +1,16 @@
 import fs from "fs/promises";
+import fsLegacy from "fs";
 import path from "path";
 import fetch from "node-fetch";
 import { fileURLToPath } from "url";
 
+const sleep = msec => new Promise(resolve => setTimeout(resolve, msec))
 const [, , lang] = process.argv;
 const BASE_URI = `https://${lang}.mstdn.wiki/api.php`;
 
-async function* listAllPages() {
+async function listAllPages() {
   let apcontinue = null;
-
+  let ret = []
   while (true) {
     const query = new URLSearchParams({
       format: "json",
@@ -20,14 +22,17 @@ async function* listAllPages() {
     const res = await fetch(BASE_URI + "?" + query);
     const data = await res.json();
     apcontinue = data.continue?.apcontinue;
+    const add = data.query.allpages.map((page) => page.title)
+    ret = ret.concat(add)
 
     if (apcontinue == null) {
       break;
     }
 
     console.log(`\tfetched ${data.query.allpages.length} pages`);
-    yield data.query.allpages.map((page) => page.title);
+
   }
+  return ret;
 }
 
 const extractWiki = async (page) => {
@@ -42,6 +47,7 @@ const extractWiki = async (page) => {
 
   const res = await fetch(BASE_URI + "?" + query);
   const data = await res.json();
+  await sleep(1000)
   const text = data.parse.wikitext;
 
   await fs.writeFile(
@@ -65,6 +71,7 @@ const extractHtml = async (page) => {
 
   const res = await fetch(BASE_URI + "?" + query);
   const data = await res.json();
+  await sleep(1000)
   const text = data.parse.text;
 
   await fs.writeFile(
@@ -78,12 +85,10 @@ const extractHtml = async (page) => {
 };
 
 (async () => {
-  for await (const pages of listAllPages()) {
-    await Promise.all(
-      pages.map(async (page) => {
-        await extractHtml(page);
-        await extractWiki(page);
-      })
-    );
+  //const allPage = await listAllPages()
+  const pages = JSON.parse(fsLegacy.readFileSync('./output.json').toString())
+  for (const page of pages) {
+    await extractHtml(page);
+    await extractWiki(page);
   }
 })();

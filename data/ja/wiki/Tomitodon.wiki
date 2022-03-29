@@ -1,0 +1,17 @@
+{{infobox instance
+|Name = '''Tomitodon'''
+|Domain = https://tomitodon.huideyeren.info
+|Country = 日本
+|Admin = [https://tomitodon.huideyeren.info/@AmeliaTsao アメリア・ツァオ]
+|Start = 2017年10月14日
+}}'''Tomitodon'''は、オープンソースのソーシャルネットワークMastodonの[[インスタンス]]。
+
+== 概要 ==
+ゲーム会社「トミーウォーカー」の提供する「[[:wikipedia:ja:プレイバイウェブ|プレイバイウェブ]]」のプレイヤーを対象としたインスタンス。
+
+プレイバイウェブの性質上、インスタンスではキャラクターのロールプレイが推奨されている。
+
+== ルール ==
+''[https://tomitodon.huideyeren.info/about/more 詳細情報]を参照''
+
+[[Category:日本のインスタンス]]

@@ -1,0 +1,19 @@
+{{infobox instance
+|Name = {{Ruby|Hearthtodon|ハストドン}}
+|Image = [[ファイル:Hearthtodon.png|300px]]
+|Domain = https://hearthtodon.com
+|Country = 日本
+|Admin = [https://hearthtodon.com/@corosuke_1618 corosuke#1618]、[https://hearthtodon.com/@ahirun ahirun]、[https://hearthtodon.com/@Yanaken Yanaken]
+|Start = 2017年9月12日
+|Kifu = なし
+|Alias = 不明
+}}{{Ruby|'''Hearthtodon'''|ハストドン}} は、オープンソースのソーシャルネットワークMastodonの[[インスタンス]]。
+
+== 概要 ==
+ブリザード・エンターテイメント提供のコレクティブルカードゲーム「{{Ruby|HearthStone|ハースストーン}}」のインスタンスである。
+
+==ローカルルール==
+Hearthtodonとしての規約のほか、Blizzard Entertainment社の規約に従うことを求めている。
+
+[[Category:日本のインスタンス]]
+[[Category:ゲームに関するインスタンス]]

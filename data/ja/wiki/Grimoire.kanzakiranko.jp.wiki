@@ -1,0 +1,23 @@
+'''grimoire.kanzakiranko.jp'''とは、オープンソースのソーシャルネットワーク[[Mastodon]]の日本語向けインスタンスである。
+
+{{Infobox instance
+| Name          = '''Grimoire'''
+| Domain        = https://grimoire.kanzakiranko.jp
+| Admin         = [https://grimoire.kanzakiranko.jp/@meteor @meteor]
+| Country       = 日本国
+| Start         = 2017年4月23日
+| Alias         = 神崎蘭子
+}}
+
+== 概要 ==
+「アイドルマスター」のキャラクター、神崎蘭子に興味がある人を対象にしたインスタンス。
+
+2017年10月現在閲覧不可となっている。
+
+== 関連項目 ==
+* [[imastodon.net]]
+
+{{DEFAULTSORT:grimoirekanzakirankojp}}
+[[Category:日本のインスタンス]]
+[[Category:消滅したインスタンス]]
+[[Category:アイドルマスターシリーズに関するインスタンス]]

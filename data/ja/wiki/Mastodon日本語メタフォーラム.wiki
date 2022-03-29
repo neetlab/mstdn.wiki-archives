@@ -1,0 +1,21 @@
+{{Infobox software
+| Name = {{Ruby|Mastodon日本語メタフォーラム|マストドンにほんごメタフォーラム}}
+| Image = [[File:Discourse_mstdnjp_logo.png|300px]]
+| Developer = [[Nullkal]]
+| Platform = ウェブ
+| Launch = 2017年11月13日
+| Web = https://discourse.mstdn.jp/
+}}[https://discourse.mstdn.jp/ Mastodon日本語メタフォーラム]は、マストドンの開発・運用などに関する話題を日本語で議論するために[[Nullkal]]氏が開設した[[Discourse]]のフォーラム。
+
+[[2018年]]6月11日の投稿<ref>https://discourse.mstdn.jp/t/mastodon/43/35</ref>を最後に更新が停滞している。2018年10月1日、[[nullkal]]から[[合同会社きぼうソフト]]に移管された。2019年3月時点で、利用できなくなっている。
+
+== 関連項目 ==
+* [[Mastodon Meta Discussion Board]] - 同じコンセプトのフォーラムだが、英語でのコミュニケーションが必要
+* [[Fedeloper forum]] - Mastodon日本語メタフォーラムの代替として作られたフォーラム
+* [[鯖缶工場]] - 似たコンセプトの[[Discord]]チャンネル
+
+==脚注==
+<references />
+
+[[category:ウェブサイト]][[category:運用が放棄されたウェブサイト]]
+{{DEFAULTSORT:mastodonにほんこめたふおおらむ}}

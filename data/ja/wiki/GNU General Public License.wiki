@@ -1,0 +1,13 @@
+'''GNU General Public License'''または'''GPL'''は、は[[フリーソフトウェア]]ライセンスおよび[[オープンソース]]ライセンスの一種。概要は以下の通り。
+
+* ソフトウェアの利用者にソースコードを開示しなくてはならない。
+* GPLが適用されたソフトウェアを組み込んだ別のソフトウェアにも、GPLが適用される。
+
+[[GNU Affero General Public License|AGPL]]と似ているが、ウェブアプリケーションの扱いが異なる。AGPLはGPLにウェブアプリケーションについての条項を追加したものである。
+
+==外部リンク==
+* [https://www.gnu.org/licenses/gpl-3.0.html GNU GENERAL PUBLIC LICENSE Version 3, 29 June 2007]
+
+{{DEFAULTSORT: gnugeneralpubliclicense}}
+[[category:GNU General Public License|*]]
+[[category:オープンソースライセンス]]

@@ -1,0 +1,14 @@
+[[Join the Fediverse|Join the Fediverse (曖昧さ回避)]]
+{{stub}}
+
+'''Join the Fediverse'''は、[[Fediverse]]の概念や[[インスタンス]]を紹介しているウェブサイト。作者はM. K. Fain<ref>https://marykatefain.com/</ref>。
+
+==外部リンク==
+
+* https://jointhefedi.com/
+
+==脚注==
+<references />
+
+{{DEFAULTSORT:jointhefediversemkfain}}
+[[category:インスタンスの一覧を提供するウェブサイト]]

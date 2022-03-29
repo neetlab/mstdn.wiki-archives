@@ -1,0 +1,23 @@
+{{stub}}
+{{Infobox software
+| Name                = Friendica
+| Image               = [[ファイル:Friendica_Logo.png|postActiv]]
+| Developer           = Mike Macgirvin
+| SourceCode          = https://github.com/friendica/friendica
+| Platform            = クロスプラットフォーム
+| ProgrammingLanguage = PHP
+| Launch              = 2010年7月(mistparkとして)
+<!-- | Kifu           = -->
+| License             = [[GNU Affero General Public License]] 3.0
+| Web                 = https://friendi.ca
+<!-- | Download       = -->
+}}
+'''Friendica'''は、[[分散SNS]]かつ[[ミニブログ]]である実装。分散SNS「mistpark」の後続プロジェクトでもある。
+
+==外部リンク==
+* https://friendi.ca
+* https://github.com/friendica/friendica
+
+{{DEFAULTSORT:friendica}}
+[[category:分散SNS]]
+[[category: GNU Affero General Public License]]

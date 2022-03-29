@@ -1,0 +1,47 @@
+{{Infobox instance
+| Name          = {{Ruby|'''CounterSocial'''|カウンター ソーシャル}}
+| Image         = [[ファイル:CounterSocial.svg|200px|CounterSocial]]
+| Domain        = https://counter.social
+| Admin         = [https://counter.social/@th3j35t3r JΞSŦΞR ✪ ΔCŦUAL³³º¹] 
+| Country       = アメリカ合衆国
+| Start         = 2017年10月11日<ref>[https://counter.social/@Sean_Spoonts/2 @Sean_Spoonts氏による現存する最古のトゥート]</ref>
+| Kifu          = [https://www.patreon.com/CounterSocial Patreon],<br />BitCoin <code>1AKyvmUCpH2ifGb3BQjZbefRuGR5uZWKga</code>
+| SourceCode    = https://github.com/th3j35t3r/CounterSocial
+| Alias         = CoSoなど
+}}{{Ruby|'''CounterSocial'''|カウンター ソーシャル}}あるいは{{Ruby|Counter.social|カウンター ドット ソーシャル}}とは、[https://counter.social/@th3j35t3r JΞSŦΞR ✪ ΔCŦUAL³³º¹]氏によって開設されたオープンソースのソーシャルネットワーク[[Mastodon]]のインスタンスである。
+
+== 概要 ==
+2017年10月11日に開設された同[[インスタンス]]は、トロール、悪質なbotアカウントに対して厳格な姿勢を取ることをスタンスとしている[[インスタンス]]である。<ref>[https://counter.social/about Aboutページより"take a zero-tolerance stance to hostile nations, bot accounts and trolls who are weaponizing OUR social media platforms"]</ref>
+
+そのため、管理者が悪質なbotやトロールの発生源であると見做した国家<ref>[https://counter.social/faq.html FAQページより"are well known to be origin points of an overwhelming majority of bots and trolls that are used to engage in influence operations against"]</ref>と、それを回避できる可能性があるVPNからのアクセスを遮断している。[https://counter.social/faq.html FAQページ]ではこれに対して詳しく説明されており、ナショナリズムの侵害や、レイシズム、アメリカ合衆国憲法における言論の自由の侵害の疑いに対して明確に否定している。
+
+== 独自機能 ==
+前述のスタンスを満たすため、いくつかの特別な機能を実装している。
+
+=== ブロッキング ===
+前述の通り、CounterSocialは以下の国からのアクセスとVPNを用いたアクセスをブロックしている。
+* ロシア連邦
+* 中華人民共和国
+* イラン・イスラム共和国
+* 朝鮮民主主義人民共和国
+* シリア・アラブ共和国
+* パキスタン・イスラム共和国
+
+=== 鎖国 ===
+CounterSocialは一切の他[[インスタンス]]との[[連合]]を拒否している。この機能が実装される以前からCounterSocialと[[連合]]していたインスタンスに関してはそれ以前の投稿が閲覧できるが、実装以降の投稿は表示されなくなっている。CounterSocialから外部のインスタンスを検索した場合も同様に、機能実装以前の情報が表示される。
+
+=== COSOGUARD ===
+[[ファイル:COSOGUARD button.png|200px|thumb|COSOGUARDは左上のボタンから開始できる]]
+[[ファイル:COSOGUARD modal.png|200px|thumb|機能を実行した際の表示]]
+COSOGUARDは、CounterSocialが保有している悪質なユーザーのemailアドレスを保管したデータベースを用いてユーザーが不適切ではないかを検知するシステム。2018年3月に実装され、プロフィールページのアイコンをクリックすることで検証を開始できる。<ref>[https://twitter.com/th3j35t3r/status/973735470969643008 Twitterアカウント@th3j35t3rのアナウンス]</ref>
+
+悪質だと判断された場合、Botアカウント [https://counter.social/@CoSoGuard @CoSoGuard] から[[ダイレクトメッセージ]]で該当のユーザーに連絡され、適切な処理を促すという。
+
+悪質なEmailアドレスのリストは「オープンウェブとダークウェブの両方を毎日チェックしている」とアナウンスしているが、詳細な手段は公開されていない。<ref>[https://counter.social/about Aboutページより "COSGUARD is checking both the open web and dark web all day every day"]</ref>
+
+== 出典 ==
+<references />
+
+{{デフォルトソート:かうんたーそーしゃる}}
+[[Category:アメリカのインスタンス]]
+[[Category:独自機能が実装されたインスタンス]]

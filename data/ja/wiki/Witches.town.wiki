@@ -1,0 +1,95 @@
+{{Infobox instance
+| Name          = {{Ruby|'''Witches Town'''|ウィッチーズ タウン}}
+| Image         = [[ファイル:Logo de Witches Town.png|120px|Mastodon]]
+| Domain        = https://witches.town
+| Admin         = [https://witches.town/@TheSupreme The Supreme Witch]
+| Country       = フランス
+| Start         = 2017年4月3日<ref>[https://witches.town/@Alda/2734659 Alda氏による投稿(リンク切れ)]</ref>
+| End = 2018年4月30日
+| Kifu          = [https://liberapay.com/WitchesTown Liberapay]
+| SourceCode    = [https://github.com/WitchesTown/mastodon GitHub]
+| Alias         = Witches.town
+}}'''Witches Town'''とは、オープンソースのソーシャルネットワークMastodonのインスタンスである。ドメイン名である'''Witches.town'''で呼称される場合もある。
+
+== 概要 ==
+'''Witches Town'''は、{{Jawp|クィア}}（LGBTの意）、{{Jawp|フェミニスト}}、[[w:アナキズム|アナキスト]]、及びその支持者のためのコミュニティを提供することを目的に2017年に設立されたインスタンスである<ref>[https://witches.town/about Witches Town is made to provide a nice place on Mastodon for queer, feminists, anarchists and stuff as well as their sympathizers.]</ref>。
+
+2018年1月時点で2,305人のユーザーが利用しており、大半がフランス語話者であった。
+
+== 独自機能 ==
+Witches Townではその名にもある通りオカルトに関するコミュニティが存在するため、それになぞらえた独自機能が用意されていた。
+
+=== 新規登録 ===
+[[ファイル:スクリーンショット 2018-01-07 23.26.16.png|300px|right|thumbnail|インスタンスの新規登録には時間制限が設けられている]]
+インスタンスへの新規登録は毎日フランス時間20時から21時の間のみ可能である。登録画面ではこれを「扉」と表現しており、扉が開く際と閉じる際には同インスタンス内に開設されている[https://witches.town/@TheGateKeeper The Gatekeeper]というBotによってアナウンスされる。
+
+=== [[独自ロケール]] ===
+<!-- スクリーンショットを貼りたかったが、扉が開いていないので登録できなかった。 -->
+同インスタンスでは、[[トゥート]]のことをソート（仏:sort 運命の意）、[[お気に入り]]のことをシジル（英:sigil 西洋魔術の紋章）と表記している。
+
+=== 文字数 ===
+投稿の最大文字数が、{{Jawp|獣の数字}}に因み660文字になっている。
+
+=== フォロワー数 ===
+フォロワー数が正しく表示されず、⛧666⛧(獣の数字が{{Jawp|逆五芒星}}で囲まれている)と表示される。
+
+== モデレーション方針 ==
+前述の通り、フェミニストなどの特定の好みの人々を対象としたインスタンスであるため、モデレーションが一般的なインスタンスよりも厳格だとされている。
+
+=== ルール ===
+<blockquote>
+* Do not engage in harassment of any kind.
+* Do not publish private conversations or DMs except to the administration team if you need to report them.
+* Racial, sexist and other oppressive slurs will get you suspended, even in non-public conversations.
+* You can post porn and nudity, but you must use the nsfw flag and do not post on the public timeline or you will be silenced (ask around how to make unlisted posts)
+* Be nice to each other
+</blockquote>
+
+=== [[ドメインブロック]]されたインスタンス ===
+2017年7月1日時点では以下の通りである。
+
+* [[anitwitter.moe]]
+* [[ediot.social]]
+* [[freezepeach.xyz]]
+* [[gorf.club]]
+* [[gs.smuglo.li]]
+* [[rainbowdash.net]]
+* [[sealion.club]]
+* [[shitposter.club]]
+* [[social.au2pb.net]]
+* [[social.heldscal.la]]
+* [[social.imirhil.fr]]
+* [[unsafe.space]]
+* [[woofer.alfter.us]]
+* [[pawoo.net]] (サイレンス・メディア拒否 [[Pawoo#他インスタンスによるPawooブロック問題]]も参照）
+* [[presidentielle.tech]] (サイレンス)
+* [[social.targaryen.house]] (サイレンス)
+
+尚、ドメインブロックされたインスタンスは[https://github.com/WitchesTown/InstanceInternals/blob/master/Blocklist.md GitHub]で公開されている。
+
+== 終了 ==
+2018年3月27日、The Supreme Witch（Alda）により、突如同インスタンスの運営チームの解散が発表された。
+
+<blockquote>
+Half of the moderation team was thinking of leaving and was not doing much anyway, the other half was getting endlessly stuck in "non-decision wait and see mode". This alone let some heavy shitstorms live their lives.
+The thing that made me dissolve the team yesterday was a decision made by an admin to suspend the account of a trans woman based on an old smear campaign pushed by 4 chan with the subsequent support of the majority of the team.
+
+Giving credit to 4chan, the gamergate and the alt-right is never ok. So I stepped in.
+</blockquote>
+
+その後もAlda氏により様々なトゥートがされた後、2018年4月3日、The Supreme Witchにより同月30日をもってのインスタンスの終了が告知された。2018年4月30日、予告通りにインスタンスは終了した。
+
+=== 後継インスタンス ===
+*[https://occult.camp occult.camp]
+*[https://pentacl.es pentacl.es] - 2018年10月現在消滅状態。
+*[https://witchcraft.cafe witchcraft.cafe]
+*[https://eldritch.cafe eldritch.cafe] - Witches.town運​営チームメンバーのSylvhem氏による
+*[https://cybrewitch.es cybrewitch.es] - 2018年10月現在消滅状態。
+
+== 出典 ==
+<references />
+
+{{DEFAULTSORT:whitchestown}}
+[[category: フランスのインスタンス]]
+[[category: 独自機能が実装されたインスタンス]]
+[[fr:Witches.town]]

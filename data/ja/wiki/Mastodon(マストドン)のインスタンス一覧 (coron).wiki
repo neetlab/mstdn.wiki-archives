@@ -1,0 +1,17 @@
+{{Infobox software
+| Name = {{Ruby|Mastodon(マストドン)のインスタンス一覧|ますとどんのいんすたんすいちらん}}
+<!--| Image = -->
+| Developer = takimura
+| Platform = ウェブ
+| Launch = 2017年4月18日
+| Web = https://coron.tech/mastodon/instance/ https://qiita.com/cv_k/items/8ecafea3ce7dd720cec6
+}}[https://coron.tech/mastodon/instance/ Mastodon(マストドン)のインスタンス一覧]は、[https://coron.tech/ coron]というウェブサイトのうちの1ページで、日本のマストドンのインスタンスのリストを提供している。ウェブ上の[https://coron.tech/mastodon/add/ 登録フォーム]からインスタンスの追加申請を出すことができるが、運営者による承認が必要である。[https://qiita.com/cv_k/items/8ecafea3ce7dd720cec6 抜粋版]がQiitaに掲載されている。
+
+本体は2017年12月20日、Qiitaの抜粋版は2018年2月5日に更新が途絶えている。
+
+==関連項目==
+* [[日本Mastodonインスタンス一覧]] Qiitaの記事として作成されている。
+
+[[category: インスタンスの一覧を提供するウェブサイト]]
+[[Category:運用が放棄されたウェブサイト]]
+{{DEFAULTSORT:いんすたんすいちらんcoron}}

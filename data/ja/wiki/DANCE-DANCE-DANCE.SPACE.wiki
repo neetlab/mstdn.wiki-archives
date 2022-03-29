@@ -1,0 +1,36 @@
+{{infobox instance
+|Name = {{Ruby|'''DANCE-DANCE-DANCE.SPACE'''|ダンスダンスダンスドットスペース}}
+|Image = [[File:Ddds.png|300px]]
+|Domain = https://dance-dance-dance.space
+|Country = 日本
+|Admin = エイベックス株式会社
+|Start = 2017年11月14日
+|End = 2018年11月1日
+|Kifu = なし
+|Alias = なし
+}}'''DANCE-DANCE-DANCE.SPACE'''は、株式会社エイベックスによって運営されていた、オープンソースのソーシャルネットワークMastodonの[[インスタンス]]である。
+
+== 概要 ==
+2017年11月14日、エイベックス株式会社によって試験的に立ち上げられた、ダンスが好きなユーザーを対象としたインスタンス。
+
+好きなダンス動画を共有したり、自分で踊ったダンスを投稿することを主なテーマとしていた。
+
+またiOS（iPhone）向けのインスタンス公式アプリもリリースされていた。このアプリには、当インスタンスへのメールアドレス無しでのアカウント登録、Youtube動画の検索・共有、Youtubeへの動画投稿といった機能が実装されていた（アプリのみの機能で、Webには実装されていない）。
+
+== 閉鎖==
+2018年10月22日、運営アカウントより同月31日のインスタンス閉鎖が発表され<ref>{{toot|dance-dance-dance.space|ddds_master|100868592230416674}}</ref>、それに伴いアプリの配信停止も行われた<ref>{{toot|dance-dance-dance.space|ddds_master|100936607932907267}}</ref>。
+
+実際にインスタンスが閉鎖されたのは、2018年11月1日の午前9時頃となった。
+
+== 関連項目 ==
+* [[Odorite.tokyo]]
+* [[Masatodon.com]]
+
+==脚注==
+<references />
+
+{{DEFAULTSORT:dancedancedancespace}}
+[[Category:日本のインスタンス]]
+[[Category:独自機能が実装されたインスタンス]]
+[[Category:iOS用クライアント]]
+[[Category:企業が運用しているインスタンス]]

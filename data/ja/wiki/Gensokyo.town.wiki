@@ -1,0 +1,25 @@
+{{小文字}}
+'''gensokyo.town'''とは、オープンソースのソーシャルネットワーク[[Mastodon]]の日本語向けインスタンスである。
+
+{{Infobox instance
+| Name          = gensokyo.town
+| Image         = [[file:gensokyotown.png|300px]]
+| Domain        = https://gensokyo.town
+<!-- | SourceCode    = -->
+| Admin         = [https://gensokyo.town/@syumari/ しゅまり]
+| Country       = 日本
+| Start         = 2017年12月22日<ref>https://gensokyo.town/@syumari/99218082384537405</ref>
+| Kifu          = https://fantia.jp/syumari
+| Alias         = 幻街など
+}}
+
+{{DEFAULTSORT:gensokyo.cloud}}
+[[category:日本のインスタンス]]
+
+==概要==
+[[gensokyo.cloud]]の停止に伴って、その後継インスタンスとして設立された。
+
+当初はgensokyo.cloudからのデータの引継ぎが検討されていたものの、技術的な困難、gensokyo.cloudユーザーのプライバシーなどの理由から、データの引き継ぎは実施されなかった。
+
+==脚注==
+<references />

@@ -1,0 +1,29 @@
+{{Infobox instance
+| Name = <ruby>[[foresdon.jp]]<rt>フォレスドン　ジェイピー</rt></ruby>
+| Image = [[ファイル:Foresdon.png|300px]]
+| Domain = https://foresdon.jp
+| Admin = [https://foresdon.jp/@kedama よぅ]
+| Country = アストルティア
+| Start = 2017年6月27日
+| Kifu = なし
+| Alias = フォレスドン
+}}
+
+foresdon.jp は、オープンソースのソーシャルネットワーク[[Mastodon]]のインスタンス。
+
+== 概要 ==
+ドラゴンクエスト X オンライン [非公式] ロールプレイ用インスタンスとして建てられた。
+
+== 設定 ==
+ドラクエ10の世界、アストルティアの中にある mastodon インスタンスであるため、アストルティアの住人として発言し、振る舞うという設定になっている。
+
+ただし
+<blockquote>特に何かを強く制限するつもりもありませんし、自由に使ってもらえれば……とは思っています。どの辺までが OK でどこからがロールプレイ的に NG かは、もし人が増えれば自ずから定まっていくものだと、ケダマは思っています。<ref>https://foresdon.jp/about/more</ref></blockquote>
+とのこと。
+
+
+
+
+{{DEFAULTSORT:foresdonjp}}
+[[category:日本のインスタンス]]
+[[Category:ゲームに関するインスタンス]]

@@ -1,0 +1,25 @@
+{{Infobox software
+| Name = {{Ruby|Drawdon|ドロードン}}
+<!--| Image =-->
+| Developer = [[nzws (ねじわさ)]]
+| SourceCode = [https://github.com/yuzulabo/Drawdon GitHub]
+| Platform = Web
+| ProgrammingLanguage = JavaScript
+| Launch = 2018年5月7日
+| License = [[Mozilla Public License]] 2.0
+| Web = https://draw.nzws.me
+}}'''Drawdon'''とは、ウェブ上でイラストを描き、[[オープンソース]]の[[分散SNS]]である[[Mastodon]]に投稿できるウェブアプリケーション。
+
+== 概要 ==
+[[nzws (ねじわさ)]]氏により開発されているウェブアプリケーション。
+
+MastodonのアカウントでOAuth認証を行うとイラストを描く画面が開く。
+
+描画ツールは線を引くことができ太さやスムージングなどのオプションを持つ'''Draw'''のほかに、色を塗る'''Fill'''、描いたものを消す'''Erase'''を選ぶことができる。
+
+'''投稿'''を押すことでイラストの投稿フォームが表示される。投稿フォームでは、本文や[[Content Warning]]設定、[[NSFW]]の有無や、[[トゥート]]の公開範囲の選択ができる。投稿すると、ハッシュタグ「'''#Drawdon'''」が自動的に付与される。
+
+また、'''一時保存'''では描いた内容を投稿せずにキャッシュに保存しバックアップすることができる。
+
+[[Category:ウェブサイト]]
+[[Category:Mozilla Public License]]

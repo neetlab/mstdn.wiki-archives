@@ -1,0 +1,37 @@
+{{Infobox software
+| Name                = {{Ruby|Librem Social|ライブレム ソーシャル}}
+| Image               = [[ファイル:LibremSocial.png|120px|Librem Social]]
+| Developer           = [[Purism|Purism SPC]]
+| SourceCode          = [https://source.puri.sm/thomas.markiewicz/librem-social-android GitLub（Android版）]、iOS版は不明
+| Platform            = iOS、Android
+| ProgrammingLanguage = Objective-C、Java、Kotlin
+| Launch              = 2019年3月14日
+| License             = [[GPL]]（Android版）、iOS版は不明
+<!--| Web                 = [https://github.com/ReticentJohn/Amaroq/blob/master/README.md GitHub Readme]-->
+| Download            = [https://play.google.com/store/apps/details?id=one.librem.social PlayStore]<br />[https://itunes.apple.com/jp/app/librem-social/id1456164071 AppStore]
+}}'''Librem Social'''とは、[[Purism]]によって提供された、[[Mastodon]]をはじめとする分散SNSに対応したクライアント。
+
+==概要==
+アメリカのコンピュータハードウェア等の開発を手がけ、一時期Mastodonのプラチナスポンサーとなった事もある[[Purism|Purism SPC]]によって、AppStoreとPlayStoreで2019年3月14日より提供が開始された。
+
+同社によって提供されているサービス「Librem One」のMastodonサーバー「[[social.librem.one]]」のために提供されており、iOS版は[[Amaroq]]、Android版は[[Tusky]]のソースコードを流用しているが、同サーバーの特徴に則り公開タイムラインの廃止などの変更が加えられている。
+
+リリース当初フォークであることなどがソフトウェア上で明記されていなかったり、iOS版に至ってはソースコードの公開がされておらず、一部ユーザーから批判が上がっていた<ref>ただし、Amaroqについては[[Mozilla Public License]]であるため、ソースコード公開の義務は発生しない</ref>。2019年5月28日時点でアプリ内で元となったアプリは明示されており、ソースコードも公開されている。
+
+==似ている事例==
+[[Roma]]のAndroid、iOS、デスクトップアプリは、それぞれ[[Tusky]]、[[Mast]]、[[whalebird]]のフォークである。
+
+[[Hiveway]]の本体は[[Mastodon|マストドン]]のフォーク、Androidアプリは[[Tusky]]のフォークであった。
+
+==脚注==
+<references />
+
+==関連項目==
+*[[Purism]]
+*[[Amaroq]]
+*[[Tusky]]
+
+[[Category:iOS用クライアント]]
+[[Category:Android用クライアント]]
+[[Category:GNU General Public License]]
+[[Category:プロプライエタリ]]

@@ -1,0 +1,10 @@
+{{stub}}
+'''Guppe Groups'''は、[[ActivityPub]]ベースの[[分散SNS]]でグループを実現するためのウェブアプリケーション。
+
+==外部リンク==
+* https://gup.pe
+* https://github.com/wmurphyrd/guppe
+
+{{DEFAULTSORT:guppygroups}}
+[[category:ウェブサイト]]
+[[category:GNU Affero General Public License]]

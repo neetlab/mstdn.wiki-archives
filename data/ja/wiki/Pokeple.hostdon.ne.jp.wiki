@@ -1,0 +1,26 @@
+{{小文字}}
+{{Infobox instance
+| Name          = ポケプレ
+<!-- | Image         = [[ファイル:Mastodon_logo.png|120px|Mastodon]] -->
+| Domain        = https://pokeple.hostdon.ne.jp
+| Admin         = [https://pokeple.hostdon.ne.jp/Sinkaipa Sinkaipa], [https://pokeple.hostdon.ne.jp/daibaka daibaka]
+<!-- | Moderator     = モデレーター, モデレーター, モデレーター -->
+| Country       = 日本
+| Start         = 2020年1月16日<ref>https://pokeple.hostdon.ne.jp/notice/9r3rA4nNFgyEogBy2C</ref>
+<!-- | Kifu          = 寄付URL -->
+<!-- | SourceCode    = https://github.com/tootsuite/mastodon -->
+<!-- | Alias         = 愛称, 愛称, 愛称 -->
+}}
+
+'''pokeple.hostdon.ne.jp'''または'''ポケプレ'''は、ポケモンをテーマとする[[インスタンス]]。[[Hostdon]]の[[Pleroma]]ホスティングサービスで作られている。
+
+==既存のインスタンスとの軋轢==
+
+同様のコンセプトを持つインスタンスに[[ポケマス]]がある。ポケプレの運営者は、ユーザーへのアンケートを通して、既存のポケモン関係のインスタンスへの不満を収集していた。これはインスタンスの運営にとって有益な情報源になるはずであるが、[[ポケマス]]の運営者はこのアンケートに苦言を呈し<ref>アンケートに実質名指しでここの不満を書かせるようなことについてそろそろご意見を伺ってみてもよろしいでしょうか。 https://pokeple.hostdon.ne.jp/notice/9r7YXcimA5OUCPOaVU</ref><ref>あのアンケートを見た時に私もユーザーもやはりいい思いはしなかったので、その点はご配慮していただけたら良かったかな、とは思います。 https://pokeple.hostdon.ne.jp/notice/9r7aPQqUd9nUxYE8My</ref>、ポケプレの運営者が謝罪に追い込まれる<ref>新しくインスタンスを立ち上げる上で最低限既存のインスタンスへ敬意を払うのは当然だと思いますので、憤りを感じていると察し致しますのでその点は謝罪させてください。 https://pokeple.hostdon.ne.jp/notice/9r7a8IidamUYpeNrgO</ref><ref>この度はナツキ様やユーザー様にご迷惑をおかけし申し訳ございませんでした。今後このようなことのないように徹底してまいります。 https://pokeple.hostdon.ne.jp/notice/9r7bLplk7kX53OqyBc</ref>一幕があった。
+
+==脚注==
+<references />
+
+{{DEFAULTSORT:pokeple.hostdon.ne.jp}}
+[[category:日本のインスタンス]]
+[[category:ポケットモンスターに関するインスタンス]]

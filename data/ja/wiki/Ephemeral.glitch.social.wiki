@@ -1,0 +1,24 @@
+{{小文字}}
+{{Infobox instance
+| Name = ephemeral.glitch.social
+<!--| Image = -->
+| Domain = https://ephemeral.glitch.social
+| Admin = Beatrix Bitrot
+| Moderator = 
+| Country = カナダ
+| Start = 2017年4月16日
+| End = 
+| Kifu = 
+| SourceCode = [https://github.com/beatrix-bitrot/ephemeral.glitch.social GitHub]
+| Alias = 
+}}'''ephemeral.glitch.social'''は、[[オープンソース]]の[[分散SNS]]、[[Mastodon]]の[[インスタンス]]である。
+
+== 概要 ==
+[[Glitch.social]]管理者のBeatrix Bitrot氏により立ち上げられたインスタンス。[[トゥート]]が一定時間（20分から4時間）で削除されるのが特徴である。
+
+== 関連項目 ==
+* [[Glitch.social]]
+* [[Pawoo]] - [[ハッシュタグ]]を付けることで自動削除を行える。
+
+[[Category:カナダのインスタンス]]
+[[Category:独自機能が実装されたインスタンス]]

@@ -1,0 +1,20 @@
+{{infobox instance
+|Name = Mathtodon
+|Domain = https://mathtod.online
+|Country = 日本
+|Admin = [https://mathtod.online/@Nyoho Nyoho]
+|Start = 2017年4月24日
+|Kifu = Bitcoin（<small>1AhmL4t7aqgQzs4ZG1PPcS2uY8Bz39DRQv</small>）<br />[http://www.amazon.co.jp/registry/wishlist/2G8J2UATV9SV6/ Amazon]
+|Alias = 
+}}'''Mathtodon'''は、オープンソースのソーシャルネットワークMastodonの[[インスタンス]]。
+
+== 概要 ==
+Nyoho氏によって2017年4月24日に立ち上げられた、数学に関する話題が主のインスタンス。
+
+独自機能として、「'''$'''」で囲むことによって[[wikipedia:ja:TeX|T<span style="text-transform:uppercase;margin-left:-0.1667em;vertical-align:-0.5ex;line-height:0;margin-right:-0.125em">e</span>X<noinclude>]]や[[wikipedia:ja:LaTeX|L<span style="text-transform: uppercase; font-size: 70%; margin-left: -0.36em; vertical-align: 0.3em; line-height: 0; margin-right: -0.15em">a</span>T<span style="text-transform: uppercase; margin-left: -0.1667em; vertical-align: -0.5ex; line-height: 0; margin-right: -0.125em">e</span>X<noinclude>]]形式で数式を記述できるという機能が実装されている。また、投稿フォームの下にトゥートをプレビューする機能もある。
+
+== 関連項目 ==
+* [[Googoldon]] - 巨大数が主なテーマのインスタンス。
+
+[[Category:日本のインスタンス]]
+[[Category:独自機能が実装されたインスタンス]]

@@ -1,0 +1,20 @@
+{{Infobox instance
+| Name = {{Ruby|[[v1x3n.net]]|ビクセン ドット ネット}}
+| Image = [[ファイル:V1x3n.png|300px]]
+| Domain = https://v1x3n.net
+| Admin = [https://v1x3n.net ヒドロ🦊]
+| Country = 日本
+| Start = 2017年9月16日
+| Kifu = Bitcoin（19aAMYYhGN479MEPxeBD8rdGJsicbr2dV4）
+| Alias = ビクセン
+}}'''v1x3n.net''' とは、オープンソースのソーシャルネットワークMastodonで立てられた個人[[インスタンス]]。
+
+== 概要 ==
+[[Mastodon.onion]]を運営していたヒドロ🦊氏による個人インスタンス。ただし、新規登録は受け付けられており、ヒドロ🦊氏以外にも数人の利用者がいる。
+
+ローカルルールは言葉遊びのような内容であり、ユーザーに対して明示的な義務を課すものではない。
+
+== 関連項目 ==
+* [[mastodon.onion]] - かつて同管理者が運営していたインスタンス。
+
+[[category:日本のインスタンス]]

@@ -1,0 +1,63 @@
+{{Otheruses|iOSのアプリケーション|Linux向けのクライアント|Tootle}}
+{{Infobox software
+| Name = Tootle for Mastodon
+| Image = [[File:tootleios.png|120px]]
+| Developer = [https://pawoo.net/@tootleinside Moortz]
+| SourceCode = 不明
+| Platform = iOS（iPhone, iPad）
+| ProgrammingLanguage = 不明
+| Launch = 2017年5月17日<ref>https://pawoo.net/@tootleinside/12528706</ref>
+| Kifu = [https://fantia.jp/tootle Fantia]<br />[https://tootle.booth.pm Booth]
+| License = [[プロプライエタリ]] 
+| Web = [https://mastodon.cloud/@tootleapp 公式アカウント（mastodon.cloud）]
+| Download = [https://appstore.com/tootleformastodon AppStore]
+}}'''Tootle for Mastodon'''は、iPhone・iPad向けに配信されている、[[オープンソース]]の[[分散SNS]]である[[Mastodon]]及び[[Pleroma]]のクライアントである。
+
+== 概要 ==
+Moortzにより2017年5月17日にリリースされた、Mastodon向けのクライアントアプリケーションである。2017年12月のバージョン1.10.0以降は[[Pleroma]]にも対応している<ref>https://mstdn.jp/@tootle/99177846994085080</ref>。
+
+複数アカウントでのログインや同時投稿、[[マストドン検索ポータル]]のAPIを利用した[[トゥート]]の[[検索]]やドメインによる[[インスタンス]]の検索、[[タイムライン]]などのタブの編集、タイムラインのフィルタ、[[Twitter]]との連携投稿、カラーリングの変更など非常に豊富な機能を備えているのが特徴である。
+
+== 機能 ==
+=== 複数アカウントの運用 ===
+* 同一もしくは別個インスタンスの複数アカウントに対応
+* アカウント毎にカラーリングやレイアウトを変更
+* 複数アカウントによる同時投稿
+* Twitterアカウントとの同時投稿
+
+=== タイムラインのフィルター機能 ===
+* 文字列マッチングや正規表現によるフィルタリング
+* 特定のアカウントによるトゥートのみの表示
+* 画像付きのトゥートのみを表示
+* [[Content Warning]]（CW）のトゥートのみ、あるいはそれ以外のみを表示
+* 返信、[[ブースト]]の非表示
+
+=== トゥートの編集サポート機能 ===
+* 下書きを保存できる
+* ブラウザからURLをシェアできる
+
+=== 外観のカスタマイズ ===
+* タイムライン、検索、ハッシュタグやリストなどのタブの並び替え・追加
+* カラーリングの変更
+* フォントサイズやアイコンサイズの変更
+
+=== 通知機能 ===
+* 別アカウントの通知をアプリ内で通知する
+* 内容ごとにバッジやアラートを設定できる
+
+=== ソーシャル機能 ===
+* フォロワー、フォロー、リクエスト、ミュート、ブロックを表示
+* 各種リレーションの管理変更
+* ドメインブロック
+
+=== 検索 ===
+* [[ハッシュタグ]]、[[アカウント]]、[[トゥート]]、インスタンスのドメインを検索可能
+
+=== その他 ===
+* [[friends.nico]]の「ユーザー絵文字」に対応
+
+== 出典 ==
+<references />
+
+[[Category:iOS用クライアント]]
+[[Category:プロプライエタリ]]

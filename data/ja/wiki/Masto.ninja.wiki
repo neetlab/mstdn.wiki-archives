@@ -1,0 +1,13 @@
+{{stub}}
+{{Infobox instance
+| Name          = masto.ninja
+| Domain        = https://masto.ninja/
+| Admin         = [https://masto.ninja/@Agiri Agiri]
+| Country       = 不明
+| Start         = 2017年4月11日
+| Kifu          = なし
+| Alias         = なし
+}}mstdn.ninjaは、オープンソースのソーシャルネットワーク[[mastodon]]の[[インスタンス]]。現在新規受付は終了している。
+
+{{DEFAULTSORT:ninja}}
+[[category:日本のインスタンス]]

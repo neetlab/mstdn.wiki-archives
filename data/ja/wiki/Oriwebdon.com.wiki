@@ -1,0 +1,25 @@
+{{infobox instance
+|Name = '''oriwebdon.com'''
+|Domain = https://oriwebdon.com
+|Country = 日本
+|Admin = [https://oriwebdon.com/@en30 en30]<br />[https://oriwebdon.com/@Neko_Inu_ Neko_Inu_]
+|Start = 2017年4月18日
+|End = 2018年3月31日
+|Kifu = なし
+|Alias = 
+}}'''orieebdon.com'''は、オープンソースのソーシャルネットワークMastodonの[[インスタンス]]。
+
+== 概要 ==
+2017年4月18日にen30氏によって、オリジナルのWebサービスを作るユーザーを対象に立てられた。
+
+ログイン方法は通常通りメールアドレスで登録する方法の他に、[[Twitter]]アカウントまたは[[Github]]アカウントでの[[連携ログイン]]が可能となっていた。
+
+2018年3月末で終了している<ref><s>https://oriwebdon.com/users/en30/updates/1399</s>リンク切れ</ref>。
+
+==関連項目==
+* [[kakudon.com|かくどん]]
+
+== 出典 ==
+<references />
+
+[[Category:独自機能が実装されたインスタンス]]

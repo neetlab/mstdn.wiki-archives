@@ -1,0 +1,15 @@
+{{infobox instance
+|Name = toot.redmine.jp
+|Domain = https://toot.redmine.jp
+|Country = 日本
+|Admin = [https://www.farend.co.jp/ ファーエンドテクノロジー]
+|Start = 2017年4月17日
+|Kifu = なし
+|Alias = なし
+}}'''toot.redmine.jp'''は、オープンソースのソーシャルネットワークMastodonの[[インスタンス]]。
+
+== 概要 ==
+ファーエンドテクノロジーにより2017年4月17日に開始した、同社開発の[[オープンソース]]のプロジェクト管理ツール「Redmine」がテーマのインスタンス。
+
+[[Category:日本のインスタンス]]
+[[Category:企業が運用しているインスタンス]]

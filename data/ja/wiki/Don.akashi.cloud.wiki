@@ -1,0 +1,28 @@
+{{小文字}}
+{{unreachable|year=2017|month=12|day=26}}
+{{Infobox instance
+| Name          = {{ruby|明石のマストドン|あかしのますとどん}}
+| Domain        = https://don.akashi.cloud
+| Admin         = [https://don.akashi.cloud/@kntmrkm 村上健太]
+| Country       = 日本 <!-- (兵庫県明石市) -->
+| Start         = 2017年4月26日
+| Kifu          = なし
+| Alias         = なし
+}}
+'''明石のマストドン'''とは、オープンソースのソーシャルネットワーク[[Mastodon]]による、兵庫県明石市のご当地インスタンス。
+
+== 概要 ==
+明石市に関わりがあったり興味のあるユーザーに向け立てられたインスタンス。
+
+2017年12月26日の時点ではアクセスできなくなっている。
+
+==ローカルルール==
+[[jp-mstdn.com]]と同一のローカルルールを採用していた。
+
+== 関連項目 ==
+* [[AKASHIensis]]
+* [[都道府県のインスタンス一覧]]
+
+{{DEFAULTSORT:あかし}}
+[[category:日本のインスタンス|あかし]]
+[[category:消滅したインスタンス]]

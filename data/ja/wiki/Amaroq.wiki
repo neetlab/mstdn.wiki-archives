@@ -1,0 +1,32 @@
+{{Infobox software
+| Name                = {{Ruby|Amaroq|アマロック}}
+| Image               = [[ファイル:Amaroq.jpg|120px|Amaroq]]
+| Developer           = [https://mastodon.social/@eurasierboy John Gabelmann]
+| SourceCode          = [https://github.com/ReticentJohn/Amaroq GitHub]
+| Platform            = iOS
+| ProgrammingLanguage = Objective-C
+| Launch              = 2017年3月17日
+| Kifu                = [https://paypal.me/floofdog PayPal]
+| License             = [[Mozilla Public License]] 2.0
+| Web                 = [https://github.com/ReticentJohn/Amaroq/blob/master/README.md GitHub Readme]
+| Download            = [https://itunes.apple.com/us/app/amaroq-for-mastodon/id1214116200 AppStore]
+}}{{Ruby|Amaroq|アマロック}}とは、オープンソースのソーシャルネットワーク[[Mastodon]]のiOS向けクライアントである。
+
+==概要==
+2017年3月17日{{要出典}}に[[John Gabelmann]]氏によってリリースされたiOS向けのMastodonクライアントである。リリース当初はAndroid向けの[[Tusky]]同様に数少ないモバイル向けクライアントであったため重宝されていた。
+
+クライアント名はイヌイットの伝説上の巨大な狼に由来するという。
+
+2017年10月のMastodonバージョン2.0rcにおいてログイン方法の一つが廃止されたためにAmaroqでのログインができなくなる不具合が浮上。同月16日にJohn氏は「この問題はすぐには修正できない、修正されるまでは[[Tootdon]]など他のアプリを推奨する」という旨のコメントを出した<ref>https://mastodon.social/@eurasierboy/98835177434030762</ref><ref>[http://www.itmedia.co.jp/news/articles/1710/16/news052.html 老舗iOSアプリのAmaroqにログインできない不具合 - ITmediaニュース]</ref>。その後同月19日にMastodon 2.0対応版(v1.1.6)がリリースされた。
+
+=== ウォーン・モード ===
+設定画面には、適用すると投稿ボタンの「トゥート!」が「AWOO!」という吠え声に変わる「ウォーン・モード」機能がある。
+
+この説明文には「'''350ドルの罰金が課せられます'''」とあり、これは原文である「'''DON'T AWOO $350 PENALTY'''」をそのまま日本語翻訳したもので、「[https://knowyourmeme.com/memes/awoo Awoo~]」という4ch発ミームの[[https://knowyourmeme.com/photos/910542-awoo 関連画像]]にかけたアメリカン･ジョーク(?)であり、この日本語翻訳によってせっかくのアメリカン･ジョークが、日本人利用者に伝わりづらい結果を招くことになり、課金をおそれ有効にしない者もいる。
+
+==出典==
+<references />
+
+[[Category:IOS用クライアント]]
+[[category:Mozilla Public License]]
+{{DEFAULTSORT:amaroq}}

@@ -1,0 +1,349 @@
+{{DISPLAYTITLE:unnerv.jp - 特務機関NERV}}
+{{Infobox instance
+| Name = 特務機関NERV
+| Image = [[ファイル:NERV.png|300px]]
+| Domain = https://unnerv.jp/
+| Admin = [https://unnerv.jp/@UN_NERV 特務機関NERV]
+| Country = 日本
+| Start = 2017年4月16日<ref>[https://unnerv.jp/@UN_NERV/93 特務機関NERVで確認できる最古のトゥート]</ref>
+| Alias = 不明
+| Link = [https://twitter.com/un_nerv Twitterアカウント]<br />[http://matome.unnerv.net/ NERVまとめ]
+}}'''特務機関NERV'''(とくむきかんネルフ)は、オープンソースのソーシャルネットワークMastodonの[[インスタンス]]。
+
+== 概要 ==
+気象情報や鉄道情報、ニュースなど、様々な情報を[[bot]]アカウントから発信しているインスタンスで、アカウント登録はできないが、 botアカウントを[[フォロー|リモートフォロー]]することで情報を得ることができる。「特務機関NERV」は元々[[Twitter]]で活動していたbot<ref>https://twitter.com/un_nerv</ref>で、単一アカウントから同様に情報発信を行っていた。一方Mastodonでは、[[トゥート]]は同様に'''@UN_NERV'''アカウントから行われるが、それを起点に分野別に分けられたアカウントが@UN_NERVの中から関連するトゥートを[[ブースト]]するため、分野別のアカウントをリモートフォローすることで必要な情報のみを得ることが可能としている。
+
+「特務機関NERV」の名前の由来は「{{jawp|新世紀エヴァンゲリオン}}」に登場する架空の組織名である。Twitterアカウントのプロフィールによれば、同作品の版権元の理解と協力により「公認だが非公式」との事。
+
+== アカウント一覧 ==
+分野別のアカウント一覧。一覧の情報は[https://unnerv.jp/about/more インスタンスの詳細説明]による<ref>https://unnerv.jp/about/more</ref>。
+
+;起点となるアカウント
+* 特務機関NERV：[https://unnerv.jp/@UN_NERV @UN_NERV]
+
+;気象庁
+* 緊急地震速報：[https://unnerv.jp/@EEW @EEW]
+* 地震・津波情報：[https://unnerv.jp/@earthquake @earthquake]
+* 火山関連、噴火速報、噴火警報：[https://unnerv.jp/@volcano @volcano]
+* 記録的短時間大雨情報：[https://unnerv.jp/@rain @rain]
+* 台風情報：[https://unnerv.jp/@typhoon @typhoon]
+* 土砂災害警戒情報：[https://unnerv.jp/@landslide @landslide]
+* 指定河川洪水予報：[https://unnerv.jp/@river @river]
+* 竜巻注意情報：[https://unnerv.jp/@tornado @tornado]
+* 気象警報・注意報：[https://unnerv.jp/@warning @warning]
+
+;総務省消防庁
+* Jアラート：[https://unnerv.jp/@J_ALERT @J_ALERT]
+
+;ニュース
+* ニュース：[https://unnerv.jp/@news @news]
+
+;停電情報
+* 東京電力停電情報：[https://unnerv.jp/@TEPCO_Blackout @TEPCO_Blackout]
+
+;地域ごとの情報
+* 宗谷地方：[https://unnerv.jp/@Souya @Souya]
+* 上川地方：[https://unnerv.jp/@Kamikawa @Kamikawa]
+* 留萌地方：[https://unnerv.jp/@Rumoi @Rymoi]
+* 石狩地方：[https://unnerv.jp/@Ishikari @Ishikari]
+* 空知地方：[https://unnerv.jp/@Sorachi @Sorachi]
+* 後志地方：[https://unnerv.jp/@Shiribeshi @Shiribeshi]
+* 網走地方：[https://unnerv.jp/@Abashiri @Abashiri]
+* 北見地方：[https://unnerv.jp/@Kitami @Kitami]
+* 紋別地方：[https://unnerv.jp/@Monbetsu @Monbetsu]
+* 釧路地方：[https://unnerv.jp/@Kushiro @Kushiro]
+* 根室地方：[https://unnerv.jp/@Nemuro @Nemuro]
+* 十勝地方：[https://unnerv.jp/@Tokachi @Tokachi]
+* 胆振地方：[https://unnerv.jp/@Iburi @Iburi]
+* 日高地方：[https://unnerv.jp/@Hidaka @Hidaka]
+* 渡島地方：[https://unnerv.jp/@Oshima @Oshima]
+* 檜山地方：[https://unnerv.jp/@Hiyama @Hiyama]
+* 青森県：[https://unnerv.jp/@Aomori @Aomori]
+* 秋田県：[https://unnerv.jp/@Akita @Akita]
+* 岩手県：[https://unnerv.jp/@Iwate @Iwate]
+* 宮城県：[https://unnerv.jp/@Miyagi @Miyagi]
+* 山形県：[https://unnerv.jp/@Yamagata @Yamagata]
+* 福島県：[https://unnerv.jp/@Fukushima @Fukushima]
+* 茨城県：[https://unnerv.jp/@Ibaraki @Ibaraki]
+* 栃木県：[https://unnerv.jp/@Tochigi @Tochigi]
+* 群馬県：[https://unnerv.jp/@Gunma @Gunma]
+* 埼玉県：[https://unnerv.jp/@Saitama @Saitama]
+* 東京都：[https://unnerv.jp/@Tokyo @Tokyo]
+* 千葉県：[https://unnerv.jp/@Chiba @Chiba]
+* 神奈川県：[https://unnerv.jp/@Kanagawa @Kanagawa]
+* 長野県：[https://unnerv.jp/@Nagano @Nagano]
+* 山梨県：[https://unnerv.jp/@Yamanashi @Yamanashi]
+* 静岡県：[https://unnerv.jp/@Shizuoka @Shizuoka]
+* 愛知県：[https://unnerv.jp/@Aichi @Aichi]
+* 岐阜県：[https://unnerv.jp/@Gifu @Gifu]
+* 三重県：[https://unnerv.jp/@Mie @Mie]
+* 新潟県：[https://unnerv.jp/@Niigata @Niigata]
+* 富山県：[https://unnerv.jp/@Toyama @Toyama]
+* 石川県：[https://unnerv.jp/@Ishikawa @Ishikawa]
+* 福井県：[https://unnerv.jp/@Fukui @Fukui]
+* 滋賀県：[https://unnerv.jp/@Shiga @Shiga]
+* 京都府：[https://unnerv.jp/@Kyoto @Kyoto]
+* 大阪府：[https://unnerv.jp/@Osaka @Osaka]
+* 兵庫県：[https://unnerv.jp/@Hyogo @Hyogo]
+* 奈良県：[https://unnerv.jp/@Nara @Nara]
+* 和歌山県：[https://unnerv.jp/@Wakayama @Wakayama]
+* 岡山県：[https://unnerv.jp/@Okayama @Okayama]
+* 広島県：[https://unnerv.jp/@Hiroshima @Hiroshima]
+* 島根県：[https://unnerv.jp/@Shimane @Shimane]
+* 鳥取県：[https://unnerv.jp/@Tottori @Tottori]
+* 徳島県：[https://unnerv.jp/@Tokushima @Tokushima]
+* 香川県：[https://unnerv.jp/@Kagawa @Kagawa]
+* 愛媛県：[https://unnerv.jp/@Ehime @Ehime]
+* 高知県：[https://unnerv.jp/@Kochi @Kochi]
+* 山口県：[https://unnerv.jp/@Yamaguchi @Yamaguchi]
+* 福岡県：[https://unnerv.jp/@Fukuoka @Fukuoka]
+* 大分県：[https://unnerv.jp/@Oita @Oita]
+* 長崎県：[https://unnerv.jp/@Nagasaki @Nagasaki]
+* 佐賀県：[https://unnerv.jp/@Saga @Saga]
+* 熊本県：[https://unnerv.jp/@Kumamoto @Kumamoto]
+* 宮崎県：[https://unnerv.jp/@Miyazaki @Miyazaki]
+* 鹿児島県：[https://unnerv.jp/@Kagoshima @Kagoshima]
+* 奄美地方：[https://unnerv.jp/@KagoshimaAmami @KagoshimaAmami]
+* 沖縄本島地方：[https://unnerv.jp/@OkinawaHontou @OkinawaHontou]
+* 大東島地方：[https://unnerv.jp/@Daitoujima @Daitoujima]
+* 宮古島地方：[https://unnerv.jp/@Miyakojima @Mitakojima]
+* 八重山地方：[https://unnerv.jp/@Yaeyama @Yaeyama]
+
+;鉄道情報：JR東日本
+* JR吾妻線：[https://unnerv.jp/@JR_Agatsuma @JR_Agatsuma]
+* JR伊東線：[https://unnerv.jp/@JR_Ito @JR_Ito]
+* JR上越線（高崎～水上）：[https://unnerv.jp/@JR_Jouetsu @JR_Jouetsu]
+* JR信越本線（高崎～横川）：[https://unnerv.jp/@JR_ShinetsuHonsen @JR_ShinetsuHonsen]
+* JR水郡線：[https://unnerv.jp/@JR_Suigun @JR_Suigun]
+* JR水戸線：[https://unnerv.jp/@JR_Mito @JR_Mito]
+* JR両毛線：[https://unnerv.jp/@JR_Ryoumou @JR_Ryoumou]
+* JR上野東京ライン：[https://unnerv.jp/@JR_UenoTokyo @JR_UenoTokyo]
+* JR山手線：[https://unnerv.jp/@JR_Yamanote @JR_Yamanote]
+* JR京浜東北根岸線：[https://unnerv.jp/@JR_KeihinTouhokuNegishi @JR_KeihinTouhokuNegishi]
+* JR湘南新宿ライン：[https://unnerv.jp/@JR_ShounanShinjuku @JR_ShounanShinjuku]
+* JR東海道本線（東京～熱海）：[https://unnerv.jp/@JR_ToukaidouHonsen @JR_ToukaidouHonsen]
+* JR横須賀線：[https://unnerv.jp/@JR_Yokosuka @JR_Yokosuka]
+* JR横浜線：[https://unnerv.jp/@JR_Yokohama @JR_Yokohama]
+* JR相模線：[https://unnerv.jp/@JR_Sagami @JR_Sagami]
+* JR南武線（川崎～立川）：[https://unnerv.jp/@JR_NanbuHonsen @JR_NanbuHonsen]
+* JR鶴見線：[https://unnerv.jp/@JR_Tsurumi @JR_Tsurumi]
+* JR南武線（浜川崎～尻手）：[https://unnerv.jp/@JR_HamakawasakiShisen @JR_HamakawasakiShisen]
+* JR中央線(快速)（東京～高尾）：[https://unnerv.jp/@JR_ChuoKaisoku @JR_ChuoKaisoku]
+* JR中央総武線(各停)：[https://unnerv.jp/@JR_ChuoSoubu @JR_ChuoSoubu]
+* JR中央本線（高尾～大月）：[https://unnerv.jp/@JR_ChuoHonsen @JR_ChuoHonsen]
+* JR青梅線：[https://unnerv.jp/@JR_Oume @JR_Oume]
+* JR青梅線（立川～青梅）：[https://unnerv.jp/@JR_Oume_Tachikawa @JR_Oume_Tachikawa]
+* JR青梅線（青梅～奥多摩）：[https://unnerv.jp/@JR_Oume_Okutama @JR_Oume_Okutama]
+* JR五日市線：[https://unnerv.jp/@JR_Itsukaichi @JR_Itsukaichi]
+* JR宇都宮線：[https://unnerv.jp/@JR_Utsunomiya @JR_Utsunomiya]
+* JR宇都宮線（上野～宇都宮）：[https://unnerv.jp/@JR_Utsunomiya_Ueno @JR_Utsunomiya_Ueno]
+* JR宇都宮線（宇都宮～黒磯）：[https://unnerv.jp/@JR_Utsunomiya_Tohoku @JR_Utsunomiya_Tohoku]
+* JR高崎線：[https://unnerv.jp/@JR_Takasaki @JR_Takasaki]
+* JR埼京川越線（大崎～川越）：[https://unnerv.jp/@JR_Saikyo @JR_Saikyo]
+* JR八高川越線（八王子～川越）：[https://unnerv.jp/@JR_Kawagoe @JR_Kawagoe]
+* JR八高線（高麗川～高崎）：[https://unnerv.jp/@JR_Hachikou @JR_Hachikou]
+* JR日光線：[https://unnerv.jp/@JR_Nikko @JR_Nikko]
+* JR烏山線：[https://unnerv.jp/@JR_Karasuyama @JR_Karasuyama]
+* JR常磐線(快速)（上野～取手）：[https://unnerv.jp/@JR_JoubanKaisoku @JR_JoubanKaisoku]
+* JR常磐線(各停)：[https://unnerv.jp/@JR_JoubanKakutei @JR_JoubanKakutei]
+* JR常磐線（上野～いわき）：[https://unnerv.jp/@JR_JoubanIwaki @JR_JoubanIwaki]
+* JR常磐線（上野～水戸）：[https://unnerv.jp/@JR_JoubanMito @JR_JoubanMito]
+* JR常磐線（水戸～いわき）：[https://unnerv.jp/@JR_JoubanMitoIwaki @JR_JoubanMitoIwaki]
+* JR総武線(快速)（東京～千葉）：[https://unnerv.jp/@JR_SoubuKaisoku JR_SoubuKaisoku]
+* JR総武本線（千葉～銚子）：[https://unnerv.jp/@JR_SoubuHonsen @JR_SoubuHonsen]
+* JR内房線：[https://unnerv.jp/@JR_Uchibou @JR_Uchibou]
+* JR外房線：[https://unnerv.jp/@JR_Sotobou @JR_Sotobou]
+* JR成田線（我孫子～成田）：[https://unnerv.jp/@JR_NaritaAbikoShisen @JR_NaritaAbikoShisen]
+* JR成田線（佐倉～成田空港・銚子）：[https://unnerv.jp/@JR_NaritaHonsen @JR_NaritaHonsen]
+* JR京葉線：[https://unnerv.jp/@JR_Keiyo @JR_Keiyo]
+* JR武蔵野線：[https://unnerv.jp/@JR_Musashino @JR_Musashino]
+* JR東金線：[https://unnerv.jp/@JR_Tougane @JR_Tougane]
+* JR久留里線：[https://unnerv.jp/@JR_Kururi @JR_Kururi]
+* JR鹿島線：[https://unnerv.jp/@JR_Kashima @JR_Kashima]
+
+;鉄道情報：東京都交通局
+* 都営浅草線：[https://unnerv.jp/@TOEI_Asakusa @TOEI_Asakusa]
+* 都営三田線：[https://unnerv.jp/@TOEI_Mita @TOEI_Mita]
+* 都営新宿線：[https://unnerv.jp/@TOEI_Shinjuku @TOEI_Shinjuku]
+* 都営大江戸線：[https://unnerv.jp/@TOEI_Oedo @TOEI_Oedo]
+* 都電荒川線：[https://unnerv.jp/@TOEI_Arakawa @TOEI_Arakawa]
+* 日暮里･舎人ライナー：[https://unnerv.jp/@TOEI_Toneri @TOEI_Toneri]
+
+;鉄道情報：東京地下鉄
+* 東京メトロ銀座線：[https://unnerv.jp/@Metro_Ginza @Metro_Ginza]
+* 東京メトロ丸ノ内線：[https://unnerv.jp/@Metro_Marunouchi @Metro_Marunouchi]
+* 東京メトロ日比谷線：[https://unnerv.jp/@Metro_Hibiya @Metro_Hibiya]
+* 東京メトロ東西線：[https://unnerv.jp/@Metro_Tozai @Metro_Tozai]
+* 東京メトロ千代田線：[https://unnerv.jp/@Metro_Chiyoda @Metro_Chiyoba]
+* 東京メトロ有楽町線：[https://unnerv.jp/@Metro_Yurakucho @Metro_Yurakucho]
+* 東京メトロ半蔵門線：[https://unnerv.jp/@Metro_Hanzomon @Metro_Hanzomon]
+* 東京メトロ南北線：[https://unnerv.jp/@Metro_Nanboku @Metro_Nanboku]
+* 東京メトロ副都心線：[https://unnerv.jp/@Metro_Fukutoshin @Metro_Fukutoshin]
+
+;鉄道情報：京王電鉄
+* 京王線：[https://unnerv.jp/@KEIO_Keiosen @KEIO_Keiosen]
+* 京王新線：[https://unnerv.jp/@KEIO_Shinsen @KEIO_Shinsen]
+* 京王相模原線：[https://unnerv.jp/@KEIO_Sagamihara @KEIO_Sagamihara]
+* 京王高尾線：[https://unnerv.jp/@KEIO_Takao @KEIO_Takao]
+* 京王競馬場線：[https://unnerv.jp/@KEIO_Keibajou @KEIO_Keibajou]
+* 京王動物園線：[https://unnerv.jp/@KEIO_Doubutsuen @KEIO_Doubutsuen]
+* 京王井の頭線：[https://unnerv.jp/@KEIO_Inokashira @KEIO_Inokashira]
+
+;鉄道情報：小田急電鉄
+* 小田急小田原線：[https://unnerv.jp/@ODAKYU_Odawara @ODAKUI_Odawara]
+* 小田急江ノ島線：[https://unnerv.jp/@ODAKYU_Enoshima @ODAKYU_Enoshima]
+* 小田急多摩線：[https://unnerv.jp/@ODAKYU_Tama @ODAKYU_Tama]
+
+;鉄道情報：東京急行電鉄
+* 東急東横線：[https://unnerv.jp/@TOKYU_Toyoko @TOKYO_Toyoko]
+* 東急目黒線：[https://unnerv.jp/@TOKYU_Meguro @TOKYU_Meguro]
+* 東急田園都市線：[https://unnerv.jp/@TOKYU_Denentoshi @TOKYU_Denentoshi]
+* 東急大井町線：[https://unnerv.jp/@TOKYU_Oimachi @TOKYU_Oimachi]
+* 東急多摩川線：[https://unnerv.jp/@TOKYU_Tamagawa @TOKYU_Tamagawa]
+* 東急池上線：[https://unnerv.jp/@TOKYU_Ikegami @TOKYU_Ikegami]
+* 東急世田谷線：[https://unnerv.jp/@TOKYU_Setagaya @TOKYU_Setagaya]
+* こどもの国線：[https://unnerv.jp/@TOKYU_Kodomonokuni @Tokyu_Kodomonokuni]
+
+;鉄道情報：京浜急行電鉄
+* 京急本線：[https://unnerv.jp/@KEIKYU_Honsen @KEIKYU_Honsen]
+* 京急空港線：[https://unnerv.jp/@KEIKYU_Kuko @KEIKYU_Kuko]
+* 京急大師線：[https://unnerv.jp/@KEIKYU_Daishi @KEIKYU_Daishi]
+* 京急逗子線：[https://unnerv.jp/@KEIKYU_Zushi @KEIKYU_Zushi]
+* 京急久里浜線：[https://unnerv.jp/@KEIKYU_Kurihama @KEIKYU_Kurihama]
+
+;鉄道情報：首都圏新都市鉄道
+* つくばエクスプレス：[https://unnerv.jp/@TX @TX]
+
+;鉄道情報：東武鉄道
+* 東武宇都宮線：[https://unnerv.jp/@TOBU_Utsunomiya @TOBU_Utsunomiya]
+* 東武鬼怒川線：[https://unnerv.jp/@TOBU_Kinugawa @TOBU_Kinugawa]
+* 東武小泉線：[https://unnerv.jp/@TOBU_Koizumi @TOBU_Koizumi]
+* 東武佐野線：[https://unnerv.jp/@TOBU_Sano @TOBU_Sano]
+* 東武桐生線：[https://unnerv.jp/@TOBU_Kiryu @TOBU_Kiryu]
+* 東武スカイツリーライン：[https://unnerv.jp/@TOBU_SkyTree @TOBU_SkyTree]
+* 東武亀戸線：[https://unnerv.jp/@TOBU_Kameido @TOBU_Kameido]
+* 東武大師線：[https://unnerv.jp/@TOBU_Daishi @TOBU_Daishi]
+* 東武日光線（南栗橋～東武日光）：[https://unnerv.jp/@TOBU_Nikko @TOBU_Nikko]
+* 東武アーバンパークライン：[https://unnerv.jp/@TOBU_UrbanParkLine @TOBU_UrbanParkLine]
+* 東武東上線：[https://unnerv.jp/@TOBU_Tojo @TOBU_Tojo]
+* 東武越生線：[https://unnerv.jp/@TOBU_Ogose @TOBU_Ogose]
+* 東武伊勢崎線（久喜～伊勢崎）：[https://unnerv.jp/@TOBU_Isesaki @TOBU_Isesaki]
+
+;鉄道情報：西武鉄道
+* 西武池袋線：[https://unnerv.jp/@SEIBU_Ikebukuro @SEIBU_Ikebukuro]
+* 西武秩父線：[https://unnerv.jp/@SEIBU_Chichibu @SEIBU_Chichibu]
+* 西武新宿線：[https://unnerv.jp/@SEIBU_Shinjuku @SEIBU_Shinjuku]
+* 西武西武園線：[https://unnerv.jp/@SEIBU_Seibuen @SEIBU_Seibuen]
+* 西武国分寺線：[https://unnerv.jp/@SEIBU_Kokubunji @SEIBU_Kokubunji]
+* 西武多摩湖線：[https://unnerv.jp/@SEIBU_Tamako @SEIBU_Tamako]
+* 西武有楽町線：[https://unnerv.jp/@SEIBU_Yurakucho @SEIBU_Yurakucho]
+* 西武豊島線：[https://unnerv.jp/@SEIBU_Toshima @SEIBU_Toshima]
+* 西武狭山線：[https://unnerv.jp/@SEIBU_Sayama @SEIBU_Sayama]
+* 西武拝島線：[https://unnerv.jp/@SEIBU_Haijima @SEIBU_Hajima]
+* 西武多摩川線：[https://unnerv.jp/@SEIBU_Tamagawa @SEIBU_Tamagawa]
+* 西武山口線：[https://unnerv.jp/@SEIBU_Yamaguchi @SEIBU_Yamaguchi]
+
+;鉄道情報：京成電鉄
+* 京成千原線：[https://unnerv.jp/@KEISEI_Chihara @KEISEI_Chihara]
+* 京成金町線：[https://unnerv.jp/@KEISEI_Kanamachi @KEISEI_Kanamachi]
+* 成田スカイアクセス：[https://unnerv.jp/@KEISEI_NaritaSkyAccess @KEISEI_NaritaSkyAccess]
+* 京成本線：[https://unnerv.jp/@KEISEI_Honsen @KEISEI_Honsen]
+* 京成東成田線：[https://unnerv.jp/@KEISEI_HigashiNarita @KEISEI_HigashiNarita]
+* 京成押上線：[https://unnerv.jp/@KEISEI_Oshiage @KEISEI_Oshiage]
+* 京成千葉線：[https://unnerv.jp/@KEISEI_Chiba @KEISEI_Chiba]
+
+;鉄道情報：ゆりかもめ
+* ゆりかもめ線：[https://unnerv.jp/@Yurikamome @Yurikamome]
+
+;鉄道情報：東京モノレール
+* 東京モノレール線：[https://unnerv.jp/@TokyoMonorail @TokyoMonorail]
+
+;鉄道情報：湘南モノレール
+* 湘南モノレール線：[https://unnerv.jp/@ShonanMonorail @ShonanMonorail]
+
+;鉄道情報：多摩都市モノレール
+* 多摩都市モノレール線：[https://unnerv.jp/@TamaMonorail @TamaMonorail]
+
+;鉄道情報：千葉都市モノレール
+* 千葉都市モノレール線：[https://unnerv.jp/@ChibaMonorail @ChibaMonorail]
+
+;鉄道情報：相模鉄道
+* 相鉄本線：[https://unnerv.jp/@SOTETSU_Honsen @@SOTETSU_Honsen]
+* 相鉄いずみ野線：[https://unnerv.jp/@SOTETSU_Izumino @SOTETSU_Izumono]
+
+;鉄道情報：新京成電鉄
+* 新京成線：[https://unnerv.jp/@SHINKEISEI_Railway @SHINKEISEI_Railway]
+
+;鉄道情報：横浜高速鉄道
+* みなとみらい線：[https://unnerv.jp/@Minatomirai @Minatomirai]
+
+;鉄道情報：横浜市交通局
+* ブルーライン：[https://unnerv.jp/@YOKOHAMA_Blue @YOKOHAMA_Blue]
+* グリーンライン：[https://unnerv.jp/@YOKOHAMA_Green @YOKOHAMA_Green]
+
+;鉄道情報：北総鉄道
+* 北総線：[https://unnerv.jp/@HOKSO_Railway @HOKSO_Railway]
+
+;鉄道情報：東葉高速
+* 東葉高速線：[https://unnerv.jp/@TOYO_Railway @TOYO_Railway]
+
+;鉄道情報：埼玉高速鉄道
+* 埼玉高速鉄道線：[https://unnerv.jp/@SAITAMA_Railway @SAITAMA_Railway]
+
+;鉄道情報：東京臨海高速鉄道
+* りんかい線：[https://unnerv.jp/@TWR_Rinkai @TWR_Rinkai]
+
+;鉄道情報：流鉄
+* 流鉄流山線：[https://unnerv.jp/@RYUTETSU_Nagareyama @RYUTETSU_Nagareyama]
+
+;鉄道情報：秩父鉄道
+* 秩父鉄道線：[https://unnerv.jp/@CHICHIBU_Railway @CHICHIBU_Railway]
+
+;鉄道情報：箱根登山鉄道
+* 箱根登山鉄道線：[https://unnerv.jp/@HAKONE_Railway @HAKONE_Railway]
+
+;鉄道情報：江ノ島電鉄
+* 江ノ島電鉄線：[https://unnerv.jp/@ENODEN_Railway @ENODEN_Railway]
+
+;鉄道情報：小湊鉄道
+* 小湊鉄道線：[https://unnerv.jp/@KOMINATO_Railway @KOMINATO_Railway]
+
+;鉄道情報：いすみ鉄道
+* いすみ線：[https://unnerv.jp/@ISUMI_Railway @ISUMI_Railway]
+
+;鉄道情報：富士急行
+* 富士急行線：[https://unnerv.jp/@FUJIKYU_Railway @FUJIKYU_Railway]
+
+;鉄道情報：伊豆箱根鉄道
+* 大雄山線：[https://unnerv.jp/@IZUHAKONE_Daiyuzan @IZUHAKONE_Daiyuzan]
+
+;鉄道情報：横浜シーサイドライン
+* 金沢シーサイドライン：[https://unnerv.jp/@SeasideLine_Kanazawa @SeasideLine_Kanazawa]
+
+;鉄道情報：埼玉新都市交通
+* ニューシャトル：[https://unnerv.jp/@SAITAMASHINTOSHIN_NewShuttle @SAITAMASHINTOSHIN_NewShuttle]
+
+;鉄道情報：関東鉄道
+* 常総線：[https://unnerv.jp/@KANTETSU_Jousou @KANTETSU_Jousou]
+* 竜ケ崎線：[https://unnerv.jp/@Ryugasaki @Ryugasaki]
+
+;鉄道情報：ひたちなか海浜鉄道
+* 湊線：[https://unnerv.jp/@HITACHINAKA_MINATO @HITACHINAKA_MINATO]
+
+;鉄道情報：上毛電鉄
+* 上毛線：[https://unnerv.jp/@JOMO_Railway @JOMO_Railway]
+
+;鉄道情報：伊豆急行
+* 伊豆急行線：[https://unnerv.jp/@IZUKYU_Railway @IZUKYU_Railway]
+
+;鉄道情報：鹿島臨海鉄道
+* 大洗鹿島線：[https://unnerv.jp/@RINTETSU_OaraiKashima @RINTETSU_OaraiKashima]
+
+;鉄道情報：山万
+* ユーカリが丘線：[https://unnerv.jp/@YAMAMAN_Yukarigaoka @YAMAMAN_Yukarigaoka]
+
+== 出典 ==
+<references />
+
+==関連項目==
+* [[Bot]]

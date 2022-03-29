@@ -1,0 +1,21 @@
+{{混同|ActivityRelay (kaniini)}}
+{{Infobox software
+| Name                = Activity-Relay
+<!-- | Image               = [[ファイル:Amaroq.jpg|120px|Amaroq]] -->
+| Developer           = [[雪餅]]
+| SourceCode          = https://github.com/yukimochi/Activity-Relay
+| Platform            = Linux
+| ProgrammingLanguage = Go
+| Launch              = 2018年12月
+<!-- | Kifu                = [https://paypal.me/floofdog PayPal] -->
+| License             = [[GNU Affero General Public License]]
+| Web                 = https://relay.toot.yukimochi.jp
+<!-- | Download            = [https://itunes.apple.com/us/app/amaroq-for-mastodon/id1214116200 AppStore] -->
+}}'''Activity-Relay'''は、[[ActivityPub]]のリレーサーバーの実装の一つ。
+
+==外部リンク==
+* https://blog.yukimochi.jp/2018/12/fediverse-with-relay.html
+
+{{DEFAULTSORT:activityrelay}}
+[[category:リレーサーバー]]
+[[category:GNU Affero General Public License]]

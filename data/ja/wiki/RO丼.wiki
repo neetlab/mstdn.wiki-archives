@@ -1,0 +1,18 @@
+{{infobox instance
+|Name = RO丼
+|Image = [[File:Ro-don.jpg|240px]]
+|Domain = https://ro-mastodon.puyo.jp
+|Country = 日本
+|Admin = [https://ro-mastodon.puyo.jp/@noriko のりこさん]
+|Start = 2017年4月19日
+|Kifu = なし
+|Alias = RO丼、masROdon、マグRO丼など
+}}'''RO丼'''は、オープンソースのソーシャルネットワークMastodonの[[インスタンス]]。
+
+== 概要 ==
+2002年に開始した多人数同時参加型オンラインRPG「'''[[wikipedia:ja:ラグナロクオンライン|ラグナロクオンライン]]'''」の話題専門のインスタンス。
+
+現役プレイヤー、休止中のプレイヤー、引退済みのプレイヤー、これから始めるというプレイヤーなど、主にラグナロクオンラインに関するユーザーが対象。
+
+[[Category:日本のインスタンス]]
+[[Category:ゲームに関するインスタンス]]

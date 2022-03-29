@@ -1,0 +1,16 @@
+{{Infobox instance
+| Name          = Mastodon @ Poyo server
+| Domain        = https://mstdn.poyo.me/
+| Admin         = [https://mstdn.poyo.me/@prime prime]
+| Country       = 日本
+| Start         = 2017年4月16日
+| Alias         = ぽよ鯖
+}}'''Mastodon @ Poyo server'''は、オープンソースのソーシャルネットワークMastodonの[[インスタンス]]。
+
+== 概要 ==
+2017年4月16日より立てられたインスタンス。
+
+'''<nowiki>:poyo:</nowiki>'''というカスタム絵文字がある。
+
+{{DEFAULTSORT:poyo}}
+[[category:日本のインスタンス]]

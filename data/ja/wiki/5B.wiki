@@ -1,0 +1,22 @@
+{{Infobox word
+| Name          = <ruby>5B<rt>ごびー</rt></ruby>
+| Hinshi        = 名詞
+| Hatsu         = [[Mastodon.cloud]]
+}}
+'''<ruby>5B<rt>ごびー</rt></ruby>'''とはTLが早すぎるなどの原因により意図しない[[ブースト]]をしてしまうことを指す[[象語]]である。
+
+同義語に'''誤ブス'''などがある。
+
+== 概要 ==
+Mastodonにおける<ruby>5B<rt>ごびー</rt></ruby>は誤ブーストの略で、TLが早すぎるなどの原因により、意図しないブーストをしてしまうことを指す。
+
+== 関連項目 ==
+* [[象語]]
+* [[5F]]
+* [[5P]]
+== 出典 ==
+
+<references/>
+
+{{DEFAULTSORT:5b}}
+[[category:象語]]

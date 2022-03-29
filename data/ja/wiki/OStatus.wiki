@@ -1,0 +1,22 @@
+'''OStatus'''は、分散SNSのインスタンス間のプロトコル。[[GNU social]]、[[マストドン]]、[[Pleroma]]など<ref>新しいバージョンのマストドンでは利用できない。後述。</ref>で利用できる。OStatusに対応した分散SNSのインスタンスは互いに[[連合]]を形成することができる。
+
+マストドンではバージョン1.6.0から[[ActivityPub]]に移行し、OStatusと[[ActivityPub]]の併存が続いた。バージョン3.0.0でOStatusが削除された。
+
+==歴史==
+OStatusの前身は、2007年にエヴァン・プロドロモウがidenti.caを開設したことにさかのぼる。identi.caのプロトコルはOpenMicroBlogging、実装はLaconicaと呼ばれていた。2009年にLaconicaがStatusNetに改称される。2010年にはStatusNetがOStatusプロトコルのサポートを開始した。2012年、W3CがOStatus Community Groupを設置した。座長はエヴァン・プロドロモウである。2013年にはStatusNetとFree socialが統合され、GNU socialとなった。
+
+==退潮==
+[[Mastodon|マストドン]]はバージョン3.0.0でOStatusを削除した<ref>https://github.com/tootsuite/mastodon/releases/tag/v3.0.0</ref>。[[Pleroma]]はリリース1.1でOStatusをデフォルトで無効にしたうえで、リリース2.0でOStatusを削除することを計画している<ref>[https://git.pleroma.social/pleroma/pleroma/issues/1145 OStatus deprecation tracking issue (#1145)]</ref>。
+
+==関連項目==
+* [[ActivityPub]]
+
+==外部リンク==
+* [https://www.w3.org/community/ostatus/ OStatus Community Group]
+
+==脚注==
+<references />
+
+[[category:OStatus|*]]
+{{DEFAULTSORT:ostatus}}
+[[fr:OStatus]]

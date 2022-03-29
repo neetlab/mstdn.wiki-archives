@@ -1,0 +1,23 @@
+{{小文字}}
+{{Infobox instance
+| Name          = Mastodon@gdgd.jp.net
+| Domain        = <nowiki>https://sns.gdgd.jp.net</nowiki> (サービス終了)<br>https://pleroma.gdgd.jp.net (サービス終了予定の[[Pleroma]]インスタンス)<br>https://pixelfed.gdgd.jp.net (後継の[[Pixelfed]]インスタンス)
+| Admin         = lin(@lin@pixelfed.gdgd.jp.net)
+| Country       = 日本
+| Start         = 2017年4月13日
+}}'''Mastodon@gdgd.jp.net'''は、オープンソースのソーシャルネットワークMastodonの[[インスタンス]]。
+
+==概要==
+lin氏により2017年4月13日に立ち上げられたインスタンス。
+
+公式クライアントアプリ「ねこにうむ」もリリースされている（[https://play.google.com/store/apps/details?id=com.apps.nekonium Android]）。
+
+2017年11月28日、[[Pleroma]]インスタンス https://pleroma.gdgd.jp.net が立ち上げられた<ref>https://pleroma.gdgd.jp.net/notice/5</ref>。その後、Pleromaがバージョン0.9.0で[[ActivityPub]]に対応したのを機に、2018年3月末、完全な移行が発表された<ref>https://sns.gdgd.jp.net/@lin/99648781084422735 (リンク切れ、[https://mstdn.jp/web/statuses/99759271164978946 キャッシュ])</ref>。
+
+2022年2月2日、[[Pixelfed]]インスタンスが立ち上げられ<ref>https://pleroma.gdgd.jp.net/notice/AG327DkbCZLmt8qQbY</ref>、2月6日にはPleromaインスタンスの3月末での閉鎖、Pixelfedへの移行がアナウンスされた。<ref>https://pleroma.gdgd.jp.net/notice/AGBPeGO2H3GGpYh9pQ</ref>
+
+==出典==
+<references />
+
+{{DEFAULTSORT:gdgd}}
+[[category:日本のインスタンス]]

@@ -1,0 +1,19 @@
+{{Infobox instance
+| Name = きりたん丼
+| Image = [[file:kiritan_work_fluffy.png|120px]]
+| Domain = https://kiritan.work
+| Admin = きりたん
+| Country = 日本
+| Start = 2017年8月29日<br />2018年3月24日リセット
+<!--| Kifu = -->
+<!--| SourceCode = -->
+| Alias = きりたん丼
+}}'''きりたん丼'''は、[[オープンソース]]の[[分散SNS]]、[[Mastodon]]の[[インスタンス]]。
+
+== 概要 ==
+きりたん氏によって2017年8月29日に立ち上げられた個人インスタンス。{{jawp|VOICEROID}}の{{jawp|東北きりたん}}が由来であり、インスタンスのカラーテーマが同キャラクターのイメージカラーであるなどの特徴があるが、特にテーマは定まっておらず<ref>https://kiritan.work/@kiritan/99738492560141910</ref>、話題は自由となっている。
+
+== 出典 ==
+<references />
+
+[[Category:日本のインスタンス]]

@@ -1,0 +1,25 @@
+{{Infobox instance
+| Name = {{Ruby|[[YukaIAdon]]|ユカイアドン}}
+| Domain = <nowiki>https://yukaia.jp</nowiki><br /><nowiki>https://ykiadon.net</nowiki>
+| Admin = [https://ykiadon.net/@tou_neko 橙猫]
+| Country = 日本
+| Start = 2017年6月29日
+| End = 2018年1月4日
+| Kifu = BitCoin(37rA8jwrmcsuLyBa4KbjaV97tbZcJbSNeY)
+| Alias = ゆかいあ丼
+}}'''YukaIAdon''' とは、オープンソースのソーシャルネットワーク[[Mastodon]]の[[インスタンス]]。
+
+== 概要 ==
+VOCALOIDの結月ゆかりとIA -ARIA ON THE PLANETES-のカップリング(ゆかいあ)が好きな人が対象となっているインスタンス。
+
+2017年7月1日に'''yukaia.jp'''から'''yukiadon.net'''にドメインの移転を行っている。
+
+2018年1月4日<ref>[http://yukaia.jp/2018/01/04/%E3%82%86%E3%81%8B%E3%81%84%E3%81%82%E4%B8%BC%E9%96%89%E9%8E%96%E3%81%AE%E3%81%8A%E7%9F%A5%E3%82%89%E3%81%9B/ ゆかいあ丼閉鎖のお知らせ]</ref>に閉鎖された。
+
+== 関連項目 ==
+* [[Vocalodon]] - VOCALOID関係全般のインスタンス。
+* [[yukari.cloud]] - 結月ゆかりをテーマとするインスタンス。2018年3月18日閉鎖。
+* [[yukari.cafe]] - 結月ゆかりをテーマとするインスタンス。
+
+==脚注==
+<references />

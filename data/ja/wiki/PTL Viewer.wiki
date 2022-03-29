@@ -1,0 +1,18 @@
+{{Infobox software
+| Name = PTL Viewer
+| Developer = [https://github.com/hinaloe/ hinaloe]
+| SourceCode = [https://github.com/hinaloe/public-toot-viewer GitHub]
+| Platform = Web
+| ProgrammingLanguage = 
+| Launch = JavaScript
+| License = [[MITライセンス]]
+| Web = https://m6n-view.hnle.tk/
+}}'''PTL Viewer'''または'''public-toot-viewer'''は、[[オープンソース]]の[[分散SNS]]、[[Mastodon]]の[[タイムラインビューア]]。
+
+入力したドメインのマストドンインスタンスの[[連合タイムライン]]または[[ローカルタイムライン]]を閲覧することができる。
+
+デフォルトでは連合タイムラインが推挙されており、チェックボックスから切り替える。
+
+{{DEFAULTSORT:ptlviewer}}
+[[category:タイムラインビューア]]
+[[category:MITライセンス]]

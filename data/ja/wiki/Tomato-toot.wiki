@@ -1,0 +1,21 @@
+{{小文字}}
+{{Infobox software
+| Name = tomato-toot
+<!--| Image = -->
+| Developer = ぷーざ
+| SourceCode = [https://github.com/pooza/tomato-toot GitHub]
+| Platform = UNIXサーバ
+| ProgrammingLanguage = Ruby
+| Launch = 2017年12月17日（バージョン1.0.0）
+<!--| Kifu = -->
+| License = [[MITライセンス]]
+<!--| Web = -->
+<!--| Download = -->
+}}'''tomato-toot'''とは、[[RSS]]・Atomフィードの新着エントリをMastodon上のアカウントでトゥートするソフトウェア。
+
+==関連項目==
+*[[RSS]]
+*[[simple_ap]]
+
+[[Category:ソフトウェア]]
+[[Category:MITライセンス]]

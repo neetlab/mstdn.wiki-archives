@@ -1,0 +1,31 @@
+{{Infobox software
+| Name = {{Ruby|Oyakodon|おやこどん}}
+| Image = [[ファイル:oyakodon.jpg|120px|Oyakodon]]
+| Developer = [https://mstdn.jp/@isaotakeyasu Isao Takeyasu]
+| Platform = iOS
+| ProgrammingLanguage = 不明
+| Launch = 2017年4月27日
+| License = [[プロプライエタリ]]
+| Download = [https://itunes.apple.com/jp/app/oyakodon-for-mastodon-%E3%83%9E%E3%82%B9%E3%83%88%E3%83%89%E3%83%B3/id1229174544?mt=8 AppStore]
+}}'''Oyakodon for Mastodon'''とは、[[オープンソース]]の[[分散SNS]][[Mastodon]]のiOS向け[[クライアント]]である。
+
+== 概要 ==
+Isao Takeyasu氏によって2017年4月27日よりAppStoreで公開されているiOS向けクライアント。
+
+ウェブUIをそのまま表示するが、アプリ側で様々な補助機能を備えているのが特徴で、拡張機能的な側面が大きい。
+
+複数インスタンスにログインして横スワイプでインスタンスを切り替えることが可能なほか、タイムラインの着せ替え機能などを備えているのがユニークである。
+
+デフォルトでは追加できるインスタンスの数に限りがあり、広告が表示されるが、240円の課金でこれらの制限を解除することができる。
+
+2017年9月5日にバージョン2.4.0がリリースされて以降長らく更新が途絶え、Mastodonのバージョン2.0.0以降でログインの方式が変更された影響で、最新バージョンのインスタンスにログインできない不具合が発生していたが、約1年1ヶ月の間を開けて2018年10月10日にバージョン2.5.0がリリース。これによりログイン不能の不具合は解消された。
+
+== 主な機能 ==
+* 複数インスタンスのログイン
+* スワイプによるインスタンス切り替え
+* UIを[[Twitter]]風、Facebook風など様々なテーマに着せ替え
+* Twitterとの同時投稿
+* 投稿を同時ログイン中の他アカウントでブースト
+
+[[Category:iOS用クライアント]]
+[[Category:プロプライエタリ]]

@@ -1,0 +1,20 @@
+{{小文字}}
+{{Infobox instance
+| Name          = {{Ruby|mstdn.hokkaido.jp|マストドン ドット ホッカイドウ ドット ジェーピー}}
+| Image = [[ファイル:北海丼.png|300px|北海丼]]
+| Domain        = https://mstdn.hokkaido.jp/
+| Admin         = [https://mstdn.hokkaido.jp/@yue ゆえさん]
+| Country       = 日本(北海道)
+| Start         = 2017年4月16日
+| Kifu          = なし
+| Alias         = 北海丼
+}}[[Mstdn.hokkaido.jp]]とは、オープンソースのソーシャルネットワーク[[Mastodon]]による、北海道のご当地インスタンスである。
+
+== 概要 ==
+北海道に関わりのあるユーザーを対象としたインスタンス。
+
+== 関連項目 ==
+* [[都道府県のインスタンス一覧]]
+
+{{DEFAULTSORT:ほっかいどう}}
+[[category: 日本のインスタンス]]

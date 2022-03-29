@@ -1,0 +1,21 @@
+{{Infobox software
+| Name                = Mastofeed
+<!-- | Image               = [[ファイル:Amaroq.jpg|120px|Amaroq]] -->
+| Developer           = Drew Harwell
+| SourceCode          = https://github.com/fenwick67/mastofeed
+| Platform            = ウェブ
+| ProgrammingLanguage = JavaScript
+<!-- | Launch              = 2017年3月17日 -->
+<!-- | Kifu                = [https://paypal.me/floofdog PayPal] -->
+| License             = MITライセンス
+| Web                 = https://www.mastofeed.com/
+<!-- | Download            = [https://itunes.apple.com/us/app/amaroq-for-mastodon/id1214116200 AppStore] -->
+}}'''Mastofeed'''は、[[Mastodon|マストドン]]のユーザーのタイムラインを、他のウェブサイトに埋め込むことができるウェブアプリケーション。
+
+インスタンス、ユーザー名、また縦・横幅や、カラーテーマを指定し、「Generate」をクリックすると、HTML埋め込みコードが出力される。
+
+明記はされていないが、Mastodonの他に[[Pleroma]]などのユーザータイムライン埋め込みも利用できる。
+
+[[category:ウェブサイト]]
+[[category:MITライセンス]]
+{{DEFAULTSORT:mastofeed}}

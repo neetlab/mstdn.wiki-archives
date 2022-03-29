@@ -1,0 +1,33 @@
+{{Infobox software
+| Name                = {{Ruby|Tootmap|トゥートマップ}}
+| Image               = [[ファイル:Tootmap.png|300px|Tootmap]]
+| Developer           = [[Wakin]]
+| SourceCode          = [https://github.com/wakin-/Tootmap GitHub]
+| Platform            = Web
+| Launch              = 2017年3月17日
+| License             = MITライセンス
+| Web                 = [https://tootmap.net tootmap.net]
+:[https://map.biwakodon.com 旧ドメイン]
+}}{{Ruby|'''Tootmap'''|トゥートマップ}}は、[[Mastodon]]の[[トゥート]]を地図上に表示できるWebアプリケーション。
+
+== 概要 ==
+[[びわ湖に暮らす人のMastodon]]管理人の[[wakin]]氏により開発されたWebアプリケーション。
+
+ドメイン名と[[ハッシュタグ]]を設定して、サイト上の地図から任意の位置をクリックすると、その位置情報を付与してトゥートできる。
+
+投稿されたトゥートは設定したハッシュタグで紐付けられ、サイトの地図上でハッシュタグタイムラインの最新トゥート40件を取得、その中でこのサイトからのトゥートに添付されている位置情報を抽出、{{Jawp|Googleマップ}}上に表示する。
+
+主にびわ湖に暮らす人のマストドンや[[マストどす]]などの地域インスタンスを中心に使用されている。
+
+ソースコードはMITライセンスのもと、[[GitHub]]で[https://github.com/wakin-/Tootmap 公開されている]<ref>https://github.com/wakin-/Tootmap</ref>。
+
+== 出典 ==
+<references />
+
+== 関連項目 ==
+* [[びわ湖に暮らす人のMastodon]]
+* [[Chofudon.tokyo]] - トゥートに位置情報を付与する独自機能が実装されている。
+
+[[Category:ウェブサイト]]
+[[category:MITライセンス]]
+{{DEFAULTSORT:tootmap}}

@@ -1,0 +1,23 @@
+{{infobox instance
+|Name = {{Ruby|'''oransns.com'''|オランエスエヌエス.コム}}
+|Image = [[ファイル:oransns.png|300px]]
+|Domain = https://oransns.com
+|Country = 日本
+|Admin = [https://oransns.com/@nacika なちか]
+|Start = 2017年4月14日
+|Kifu = なし
+|Alias = おらんSNS
+}}
+'''oransns.com'''は、オープンソースのソーシャルネットワークMastodonの[[インスタンス]]。
+
+==概要==
+2017年4月14日、なちか氏によって立ち上げられたインスタンス。
+
+住民は主に[[Google+]]のユーザーなどが中心で、インスタンス名の由来は「誰も'''おらんSNS'''」から。
+
+独自機能として、2018年10月14日に実装されたGoogle+風に[[ローカルタイムライン]]を表示する「'''G+ LTL'''」がある。
+
+外部拡張として、ユーザインタフェースをGoogle+のように書き換えるChrome拡張「[https://chrome.google.com/webstore/detail/pbdcfhobpdhlafbjcchhfmmmnokajefa おらんＳＮＳ専用拡張「M Plus」]」もユーザ有志により開発・公開されている。
+
+[[category:日本のインスタンス]]
+[[Category:独自機能が実装されたインスタンス]]

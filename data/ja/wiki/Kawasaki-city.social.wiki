@@ -1,0 +1,22 @@
+{{unreachable|year=2018|month=7}}
+{{Infobox instance
+| Name          = Kawasaki-city.social
+| Domain        = <nowiki>https://Kawasaki-city.social</nowiki> (リンク切れ)
+| Admin         = [[Naf]]
+| Country       = 日本
+| Start         = 2017年4月11日<ref><nowiki>https://Kawasaki-city.social/@naf/1</nowiki> (リンク切れ)</ref>
+| Kifu          = https://enty.jp/naf
+| Alias         = 川崎鯖
+}}<ruby>'''Kawasaki-city.social'''<rt>かわさき　してぃー　そーしゃる</rt></ruby>とは、[[Naf]]氏が運営する[[マストドン]][[インスタンス]]である。
+
+== 概要 ==
+[[Naf]]氏によって開設された神奈川県川崎市の[[インスタンス]]。2018年7月時点で、アクセスできなくなっている。
+
+== 関連項目 ==
+* [[都道府県のインスタンス一覧]]
+
+== 出典 ==
+<references />
+
+{{DEFAULTSORT:かわさき}}
+[[category:消滅したインスタンス]]

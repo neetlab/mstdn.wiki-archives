@@ -1,0 +1,34 @@
+{{Infobox software
+| Name                = The Federation
+<!-- | Image               = [[ファイル:Amaroq.jpg|120px|Amaroq]] -->
+| Developer           = [https://jasonrobinson.me Jason Robinson]
+| SourceCode          = https://github.com/thefederationinfo/the-federation.info
+| Platform            = ウェブ
+| ProgrammingLanguage = Python
+| Launch              = 2013年11月
+<!-- | Kifu                = [https://paypal.me/floofdog PayPal] -->
+| License             = [[GNU Affero General Public License]]
+| Web                 = https://the-federation.info
+}}
+'''The Federation'''は、多数の[[分散SNS]]のプロジェクト、プロトコル、インスタンスを掲載しているウェブサイト。
+
+インスタンス一覧のデフォルトの並び順は月間アクティブユーザー数である。ただし、月間アクティブユーザー数を利用できるのは以下の分散SNSに限られる<ref>詳細は以下のコードを読めば分かる気がする。 https://github.com/jaywink/federation/blob/master/federation/hostmeta/parsers.py</ref>。
+
+* [[Mastodon]]
+* [[Friendica]]
+* [[Pixelfed]]
+* [[diaspora*]]
+* [[Funkwhale]]
+* [[Hubzilla]]
+* [[Prosody]]
+* [[lemmy]]
+* [[GNU social]]
+* [[bookwyrm]]
+
+また、他にも多数の並び順を選択できる。
+
+==脚注==
+<references />
+
+[[category:インスタンスの一覧を提供するウェブサイト]]
+[[category:GNU Affero General Public License]]

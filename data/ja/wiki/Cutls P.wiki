@@ -1,0 +1,32 @@
+{{Infobox person
+| Name     = Cutls P
+| Image    = [[file:TheDesk.png|120px]]
+| Color    = 
+| Country  = 日本
+| Instance = [[Kirishima.cloud]]
+2m.cutls.com
+| Link = [https://2m.cutls.com/@Cutls Cutls@2m.cults.com]
+}}
+'''Cutls P'''は、[[Mastodon|マストドン]]に関連する複数のソフトウェアで知られるプログラマー。
+
+==プロダクト==
+
+*[[TheDesk]]
+*[[アスタルテ暇人ランキング]]
+*[[votedon|votedon.]]
+*[[フォローレコメンデーションチェッカー]]
+*[[Quesdon]]のフォーク
+
+ほか
+
+==マストドンアカウント==
+
+*[https://kirishima.cloud/@Cutls Cutls@kirishima.cloud]
+*[https://2m.cutls.com/@Cutls Cutls@2m.cutls.com]
+
+==マストドン日本語ウィキ編集者として==
+
+*[[利用者:OcDra]]
+
+{{DEFAULTSORT:cutlsp}}
+[[category:人物]]

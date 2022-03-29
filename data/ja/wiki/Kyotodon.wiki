@@ -1,0 +1,20 @@
+{{Infobox instance
+| Name          = 京都丼
+| Domain        = https://myd.kyoto.jp/
+| Admin         = myd Kyoto
+| Country       = 日本
+| Start         = 不明
+| Kifu          = なし
+| Alias         = なし
+}}'''京都丼'''は、オープンソースのソーシャルネットワークMastodonの[[インスタンス]]。
+
+== 概要 ==
+京都に関する話題を主としたインスタンスとして、京都に関するマガジン、myd Kyotoが運営していた。
+
+2017年11月現在、消滅状態になっている。
+
+== 関連項目 ==
+* [[都道府県のインスタンス一覧]]
+
+{{DEFAULTSORT:きょうと}}
+[[Category:消滅したインスタンス]]

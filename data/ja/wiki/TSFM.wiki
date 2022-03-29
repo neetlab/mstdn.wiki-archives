@@ -1,0 +1,33 @@
+{{Infobox word
+| Name          = {{Ruby|TSFM|That's too much spam for me}}
+| Hinshi        = 名詞
+| Hatsu         = 神崎丼、[[friends.nico]]
+}}'''TSFM'''とは、「'''That's too much spam for me'''」の略である。
+
+== 概要 ==
+[[File:TSFM.png|200px|thumb|right|That’s too much spam for me]]
+
+「That's too much spam for me」は、神崎丼で連投していた神崎おにいさん氏に対し、[[Eugen Rochko]]氏が送ったリプライ<ref>https://friends.nico/@imncls/98896422758307361</ref>のこと。
+
+その後、神崎おにいさんは多数のユーザーから「That's too much spam for me」を送られることになる<ref>http://bit.ly/2zIod4c</ref>。
+
+略称「TSFM」の初出は神崎丼におけるフサギコ氏のトゥート<ref>https://knzk.me/@fusagiko/98895988947443005</ref>だが、この言葉が認知されるきっかけとなったのは[[まさらっき]]氏が[[friends.nico]]のメンテ明けに放った以下のトゥート。
+
+<blockquote>
+神崎丼から溜まってたのがドバーってきた
+
+完全にTSFM
+
+<ref>https://friends.nico/@masarakki/98896416768744443</ref>
+</blockquote>
+
+friends.nicoには「TSFM」のカスタム絵文字が登録されている。
+
+== 参考 ==
+*  [https://friends.nico/@parsley/98896445881517430 神崎丼TMSM事件]
+
+== 脚注 ==
+<references/>
+
+{{DEFAULTSORT:TSFM}}
+[[category:象語]]

@@ -1,0 +1,21 @@
+{{infobox instance
+|Name = {{Ruby|masto.pt|マスト ドット ピーティー}} 
+|Domain = https://masto.pt
+|Country = ポルトガル
+|Admin = [https://masto.pt/@hugo Hugo Gameiro]
+|Start = 2017年4月8日
+|Kifu = なし
+|Alias = pt鯖
+}}'''masto.pt'''は、オープンソースのソーシャルネットワークMastodonの[[インスタンス]]。
+
+== 概要 ==
+[[Hugo Gameiro]]氏によって2017年4月8日に公開されたインスタンスで、ポルトガル語圏のユーザーが対象。
+
+法律を遵守している限りは、話題は自由としている。
+
+管理人のHugo Gameiro氏は、2017年4月24日に[[ホスティングサービス]]「[[Masto.Host]]」を立ち上げている。
+
+== 関連項目 ==
+* [[Masto.Host]]
+
+[[Category:ポルトガルのインスタンス]]

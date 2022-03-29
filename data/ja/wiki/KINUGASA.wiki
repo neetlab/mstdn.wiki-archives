@@ -1,0 +1,20 @@
+{{Infobox instance
+| Name          = KINUGASA
+| Image         = [[ファイル:KINUGASA2.png|300px]]<br />[[ファイル:KINUGASA.png|300px]]
+| Domain        = https://kinugasa.me/
+| Admin         = 家入一真
+| Country       = 日本
+| Start         = 2017年4月16日
+| Kifu          = 不明
+| Alias         = 不明
+}}
+'''KINUGASA'''は、[[オープンソース]]の[[ソーシャル・ネットワーキング・サービス]][[Mastodon]]で立ち上げられた[[インスタンス]]。
+
+== 概要 ==
+2004年6月25日に開設され、2009年11月13日に終了していたSNS「KINUGASA」を、家入一真氏がMastodonインスタンスとして復活させたもの。
+
+2017年7月15日より[[セキュリティ証明書]]が期限切れとなっており、以降安全な接続ができない状態となっている。
+
+{{DEFAULTSORT:kinugasa}}
+[[category:日本のインスタンス]]
+[[category:消滅したインスタンス]]

@@ -1,0 +1,32 @@
+{{小文字}}
+{{Infobox instance
+| Name          = yontengoP
+| Image         = [[ファイル:YontengoP.png|300px]]
+| Domain        = https://yontengop.com/
+| Admin         = [https://yontengop.com/@narabo narabo🍕]
+| Country       = 日本
+| Start         = 2017年4月16日
+| Kifu          = 不明
+| Alias         = 不明
+}}'''YontengoP.com'''は、日本の[[インスタンス]]。
+
+== 概要 ==
+Twitterで知られる4.5P氏のインスタンス。
+
+2018年6月6日時点で、エラー画面が表示され、利用できなくなっている。
+
+== ルール ==
+2017年8月現在、次のルールが挙げられている。
+
+<blockquote>
+* bot禁止
+* 管理者が困る行為禁止
+* 他人が不快に思う行為禁止
+* 法律的にアウトなこと禁止
+</blockquote>
+
+== 関連項目 ==
+*[[mstdn-workers.com]]
+
+{{DEFAULTSORT:yontengop}}
+[[category:消滅したインスタンス]]

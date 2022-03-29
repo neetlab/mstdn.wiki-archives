@@ -1,0 +1,30 @@
+{{小文字}}
+{{混同|claristdon.net}}
+{{Infobox instance
+| Name = {{Ruby|妖怪衛星|ようかいえいせい}}クラリスドン : {{Ruby|平均|へいきん}}レベル13あじょう{{Ruby|推奨|すいしょう}}<ref>原文ママ。</ref>
+| Image = [[File:clariscf.png|280px]]
+| Domain = https://claris.cf
+| Admin = [https://claris.cf/@crab カニランモ＝クラブ]
+| Country = 日本国
+| Start = 2018年2月24日<ref name="start">{{toot|claris.cf|crab|99575905837312555}}</ref>
+| Kifu = [https://enty.jp/crbcl Enty]
+| Alias = クラリスドン
+}}'''claris.cf'''は、[[オープンソース]]の[[分散SNS]]、[[Mastodon]]の[[インスタンス]]。
+
+== 概要 ==
+iOS・Android向けにリリースされていた{{Jawp|ソーシャルゲーム}}「'''妖怪惑星クラリス'''」がテーマのインスタンス。
+同ゲームが2018年2月23日午後20時頃に終了<ref>https://twitter.com/claris_pr/status/966997924348510208</ref>し、その数時間後である2018年2月24日午前2時頃、カニランモ＝クラブ氏によって立ち上げられた<ref name="start" />。
+
+「妖怪惑星クラリス」のキャラクターの[[絵文字|カスタム絵文字]]を利用できるのが特徴。
+
+また、[[MaaStodon]]を利用して立てられたインスタンスの一つであったが、2018年11月5日よりアクセス不可となり、2018年11月17日に[[Masto.Host]]へ移転の上復活している<ref>{{toot|claris.cf|crab|101081996310478362}}</ref>。
+
+== 出典 ==
+<references />
+
+== 関連項目 ==
+* [[MaaStodon]]
+* [[Masto.Host]]
+
+[[category:日本のインスタンス]]
+[[Category:ゲームに関するインスタンス]]

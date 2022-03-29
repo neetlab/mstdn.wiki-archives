@@ -1,0 +1,27 @@
+{{Infobox software
+| Name                = followfriday indies
+| Image               = [[ファイル:cocona.jpeg|120px]]
+| Developer           = [[墓場人夜]]
+| SourceCode          = https://gitlab.com/distsn/followfriday-indies
+| Platform            = [[Mastodon|マストドン]]の[[bot|ボット]]
+| ProgrammingLanguage = C++
+| Launch              = 2018年8月15日
+| Kifu                = https://www.pixiv.net/fanbox/creator/6595116
+| License             = [[GNU Affero General Public License]]
+| Web                 = https://mstdn.maud.io/@hakabahitoyo
+}}'''followfriday indies'''は、マストドンの[[bot|ボット]]。[[followfriday|#followfriday]]ハッシュタグで紹介されたアカウントのうち、フォロワー数が500未満のものを抽出する。
+
+英語圏のマストドンでは、#followfridayハッシュタグでアカウントを紹介する風習がある。しかし、人手による[[ユーザーレコメンデーション]]はアンフェアである<ref>[https://distsn.gitbook.io/decentralization-by-design/fairness-of-the-user-recommendation-systems-for-mastodon Fairness of the user recommendation systems for Mastodon]</ref>ことが知られているため、フォロワー数が500未満のものだけを抽出するボットが作られた。
+
+2019年4月24日に停止した。
+
+==外部リンク==
+* [https://mstdn.maud.io/@hakabahitoyo followfriday indies]
+* [https://hakabahitoyo.wordpress.com/2018/08/18/followfriday-is-fair #followfridayはフェアなユーザーディスカバリーメソッド、よりフェアにするための工夫も]
+
+==脚注==
+<references />
+
+{{DEFAULTSORT:followfridayindies}}
+[[category:bot]]
+[[category:ユーザーレコメンデーション]]

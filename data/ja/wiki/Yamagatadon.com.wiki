@@ -1,0 +1,22 @@
+{{小文字}}
+{{Infobox instance
+| Name          = {{Ruby|YAMAGATADON|やまがたどん}}
+| Image = [[ファイル:Yamagatadon.jpeg|300px|YAMAGATADON]]
+| Domain        = https://yamagatadon.com
+| Admin         = [https://yamagatadon.com/@yamagatadon @yamagatadon]
+| Country       = 日本
+| Start         = 2017年5月30日
+| Kifu          = なし
+| Alias         = 山形丼
+}}'''YAMAGATADON'''は、オープンソースのソーシャルネットワークMastodonでかつて存在した[[インスタンス]]。
+
+== 概要 ==
+山形県に関するユーザーを対象とし、山形県の話題を中心とした、いわゆる地域密着インスタンスの一つ。
+
+2017年10月11日現在、消滅状態にある。
+
+== 関連項目 ==
+* [[都道府県のインスタンス一覧]]
+
+{{DEFAULTSORT:やまかた}}
+[[Category:消滅したインスタンス]]

@@ -1,0 +1,22 @@
+{{Infobox software
+| Name = Mastodon Timeline Peeping Tool
+<!--| Image = -->
+| Developer = [[雪餅]]
+| Platform = ウェブ
+| Launch = 不明
+| Web = https://md-tpt.azurewebsites.net/
+}}[https://md-tpt.azurewebsites.net/ Mastodon Timeline Peeping Tool]は、マストドンの[[タイムラインビューア]]の一つ。インスタンスのドメイン名をテキストボックスに入力すると、そのインスタンスの連合タイムラインまたはローカルタイムラインを見ることができる。取得できるトゥートは最新20件で、ページネーションされない。
+
+2017年12月10日<ref>https://toot.yukimochi.jp/@YUKIMOCHI/99146220006899101</ref>にリニューアルされ、マストドンのユーザープロフィールページに似た外見になった。また、画像が展開されるようになった。
+
+[[AGPL]]でライセンスされている<ref>https://github.com/yukimochi/Mastodon-Timeline-Peeping-Tool</ref>。
+
+==脚注==
+<references />
+
+==外部リンク==
+* [https://md-tpt.azurewebsites.net/ Mastodon Timeline Peeping Tool]
+* https://github.com/yukimochi/Mastodon-Timeline-Peeping-Tool
+
+[[category:タイムラインビューア]]
+[[category:GNU Affero General Public License]]

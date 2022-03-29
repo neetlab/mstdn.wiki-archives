@@ -1,0 +1,24 @@
+{{Infobox instance
+| Name          = {{Ruby|'''Botdon'''|ボットドン}}
+| Domain        = https://botdon.net
+| Admin         = [[合同会社きぼうソフト]]
+| Country       = 日本国
+| Start         = 2017年4月27日
+| End = 2019年4月28日
+}}{{Ruby|'''Botdon'''|ボットドン}}は、オープンソースのソーシャルネットワークMastodonの[[インスタンス]]。
+
+== 概要 ==
+世界初の「自動投稿[[Bot|ボット]]専用インスタンス」を謳ったインスタンスで、運営は[[合同会社きぼうソフト]]。
+スパムを防ぐため、登録は審査制となっている。
+
+2019年4月28日<ref>https://now.kibousoft.co.jp/@kibousoft/102003890589850903</ref>、サービスを終了した。
+
+== 関連項目 ==
+* [[botsin.space]]
+
+==脚注==
+<references/>
+
+{{DEFAULTSORT:botdon}}
+[[category: 日本のインスタンス]]
+[[Category:企業が運用しているインスタンス]]

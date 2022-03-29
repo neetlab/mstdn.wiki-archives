@@ -1,0 +1,38 @@
+{{Infobox software
+| Name                = {{Ruby|PeerTube|ピアチューブ}}
+| Image               = [[ファイル:Peertube-2017-12-26.png|120px|PeerTube]]
+| Developer           = [https://framapiaf.org/@Chocobozzz Chocobozzz]
+| SourceCode          = [https://github.com/Chocobozzz/PeerTube GitHub]
+| Platform            = Web
+| ProgrammingLanguage = TypeScript (Node.js)
+| Kifu                = [https://soutenir.framasoft.org/en/ Framasoft]
+| License             = [[GNU Affero General Public License]] 3.0
+| Web                 = https://joinpeertube.org/<br />[https://peertube.cpy.re 開発者によるデモサーバ]
+}}'''PeerTube'''とは、[[WebTorrent]]を用いたオープンソースの分散型動画ストリーミングプラットフォームである。
+
+== 概要 ==
+PeerTubeは[https://framapiaf.org/@Chocobozzz Chocobozzz]氏によってリリースされたP2P(BitTorrent)の動画ストリーミングプラットフォームであり、実装に[[WebTorrent]]及び[[ActivityPub]]を用いている。
+
+そのためMastodonや他の[[ActivityPub]]ベースのアプリケーションと[[連合]]をすることができ、Mastodonもバージョン2.1.0から正式にPeerTubeとの通信を可能にするアップデートが取られた<ref>[http://www.itmedia.co.jp/news/articles/1712/16/news014.html マストドン2.1.0公開　PeerTubeとの統合も - ITmedia NEWS]</ref>。
+
+==インスタンス一覧==
+PeerTubeのインスタンス一覧を提供するウェブサイトには、公式の提供する[https://instances.joinpeertube.org PeerTube instances]がある。
+
+多数の分散SNSのインスタンス一覧の提供やインスタンス監視を行なっている[[Fediverse Network]]は、PeerTube instancesからデータを取得してインスタンス一覧を[https://fediverse.network/peertube 提供している]。
+
+==エピソード==
+=== Cobaltとの関係 ===
+Mastodonの開発者である[[Eugen Rochko]]氏によって開発されていた[[Cobalt]]も同様に[[WebTorrent]]実装の分散型動画ストリーミングプラットフォームであったが、従来PeerTubeが[[ActivityPub]]を実装していなかったことに対して[[Cobalt]]では実装されていたことに違いがあった。しかしPeerTubeが従来の配信方法から[[ActivityPub]]ベースの配信方法に切り替えたことでCobaltと同様の機能が実装され、「開発を続ける必要がなくなった」として開発を終了し、以後Mastodonでの互換性向上に努めている<ref>[https://www.patreon.com/posts/15635446 Mastodon: Update and retrospective]</ref>。
+
+===Blenderによるインスタンス開設===
+Blender<ref>https://www.blender.org/</ref>は[[オープンソース]]の3Dグラフィックス作成ソフトウェア。BlenderのYouTubeのチャンネルがブロックされたことを受けて、2018年6月19日、PeerTubeのインスタンス<ref>https://video.blender.org</ref>が開設された<ref>[https://www.blender.org/media-exposure/youtube-blocks-blender-videos-worldwide/ YouTube Blocks Blender Videos Worldwide]</ref><ref>[https://gigazine.net/news/20180621-blender-switch-youtube-to-peertube/ YouTubeが広告なしで動画を公開していたBlenderをブロック、BlenderはP2Pによる無料ストリーミングにチャレンジ]</ref>。
+
+== 関連項目 ==
+*[[Mastodon]]
+*[[GNU social]]
+
+== 出典 ==
+<references />
+
+[[Category:分散SNS]]
+[[category:GNU Affero General Public License]]

@@ -1,0 +1,20 @@
+{{stub}}
+{{Infobox software
+| Name = Tootoise
+| Developer = [https://handon.club/@nao Naoki Kuwata]
+| Platform = iOS
+| ProgrammingLanguage = 不明
+| Launch = 2019年5月27日
+| License = [[プロプライエタリ]]
+| Download = [https://itunes.apple.com/jp/app/tootoise/id1465090190 AppStore]
+}}'''Tootoise'''とは、[[オープンソース]]の[[分散SNS]][[Mastodon]]のiOS向け[[クライアント]]である。
+
+==概要==
+AppStoreで2019年5月27日よりリリースされている。
+
+下メニューに[[タイムライン]]の表示の他に[[お気に入り]]の項目があることや、絶対時間表示、4種から選べるカラーテーマ、自由に書式を変更してのNowPlaying投稿などの機能がユニークである。
+
+一方で[[リスト]]やトゥートの固定など未実装機能も多数である。
+
+[[Category:iOS用クライアント]]
+[[Category:プロプライエタリ]]

@@ -1,0 +1,13 @@
+{{小文字}}
+{{Infobox instance
+| Name          = Mstdn.barippi.com
+| Domain        = https://mstdn.barippi.com/
+| Admin         = [https://mstdn.barippi.com/@barippi ばりっぴ]
+| Country       = 日本
+| Start         = 2017年4月14日
+| Kifu          = アマゾンギフト券、iTunesカード、Google Playカード、ConoHaカードそれぞれメールタイプでbarippi@barippi.comまで
+| Alias         = なし
+}}'''mstdn.barippi.com'''は、オープンソースのソーシャルネットワークMastodonで立てられた[[インスタンス]]。
+
+{{DEFAULTSORT:barippi}}
+[[category:日本のインスタンス]]

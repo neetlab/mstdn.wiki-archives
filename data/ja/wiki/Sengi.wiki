@@ -1,0 +1,23 @@
+{{stub}}
+{{Infobox software
+| Name = Sengi
+| Image = [[image:Sengi.png|240px]]
+| Developer = [https://mastodon.partipirate.org/@NicolasConstant Nicolas Constant]
+| SourceCode = https://github.com/NicolasConstant/sengi
+| Platform = Webブラウザー
+| Launch = 2019年2月21日
+| License = [[GNU Affero General Public License]]
+| Web = https://nicolasconstant.github.io/sengi/
+}}'''Sengi'''とは、[[Mastodon]]並びに[[Pleroma]]のクライアントである。
+
+[https://nicolasconstant.github.io/sengi/ 公式サイト]によると、ブラウザでの動作のほか、各種OS上で動作するクライアントも公開されている。
+
+==ソースコード==
+
+* https://github.com/NicolasConstant/sengi
+
+{{DEFAULTSORT:sengi}}
+
+[[Category:ウェブクライアント]]
+[[Category:デスクトップクライアント]]
+[[category:GNU Affero General Public License]]

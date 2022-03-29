@@ -1,0 +1,19 @@
+{{小文字}}{{infobox instance
+|Name = Mastodon{{Ruby|殆知阁汪站|ダイヂーグェ゛ァワンヂャン}}
+|Domain = https://a.daizhige.org
+|Country = 中国
+|Admin = [https://a.daizhige.org/@daizhige 殆知阁]
+|Start = 2017年12月15日
+|Alias = 汪站
+}}'''Mastodon殆知阁汪站'''は、オープンソースのソーシャルネットワークMastodonの[[インスタンス]]。
+
+== 概要 ==
+[https://mao.daizhige.org/@daizhige 殆知阁]氏が作った[https://mao.daizhige.org mao.daizhige.org]の派生インスタンス。犬の話題を中心とした中国語圏のインスタンスである。
+
+== 関連項目 ==
+* [[Mao.daizhige.org]]
+<!--
+== 出典 ==
+<references />
+-->
+[[Category:中国のインスタンス]]

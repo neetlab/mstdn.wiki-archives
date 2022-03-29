@@ -1,0 +1,64 @@
+{{Infobox software
+| Name                = The Fediverse Network
+| Image               = [[ファイル:Fediverse_network_logo.png|150px|fediverse network]]
+| Developer           = href<ref>https://href.rocks</ref>
+| SourceCode          = https://git.yt/random/fediverse-network
+| Platform            = ウェブ
+| ProgrammingLanguage = Elixir
+<!-- | Launch              = 1970年1月1日 -->
+| Kifu                = https://liberapay.com/href
+| License             = [[GNU Affero General Public License]]
+| Web                 = https://fediverse.network
+}}'''The Fediverse Network'''または'''fediverse network'''は、[[分散SNS]]の[[インスタンス]]を観測しているウェブサイト。後継ウェブサイトに[[fedi ninja]]がある。
+
+==概要==
+
+対応している[[分散SNS]]は以下。
+
+* [[Mastodon]]
+* [[Pleroma]]
+* [[PeerTube]]
+* [[GNU social]]
+* [[Friendica]]
+* [[Hubzilla]]
+* [[Misskey]]
+* [[WriteFreely]]
+* [[Funkwhale]]
+* [[postActiv]]
+* [[Plume]]
+* [[microblog.pub]]
+* [[Osada]]
+* [[Kroeg]]
+* [[red]]
+* [[castling.club]]
+* [[Rustodon]]
+* [[reel2bits]]
+* [[read.as]]
+* [[p3k]]
+
+インスタンスの死活を観測しており、インスタンスの停止と復活がリスト化されている<ref>https://fediverse.network/checks</ref>。
+
+明記されていないが、[[Peers API]]によりインスタンスを自動的に収集している<ref>記事執筆者がソースコードを読んで判断した。[[Peers API]]を持たない分散SNSをどのように収集しているかは不明である。</ref>とみられる。
+
+==タイムラインビューア==
+[[タイムラインビューア]]で[[ローカルタイムライン]]を見ることができる。タイムラインビューアは画像を展開する。ページネーションは対応していない。
+
+==障害==
+[[2018年]]10月22日<ref>https://functional.cafe/@phoe/100938288398797997</ref>頃から2018年11月9日頃<ref>記事執筆者による独自調査。</ref>まで利用できなくなっていた。
+
+[[2020年]]11月1日頃から不調状態が続き、現在に至っている。
+
+==関連するボット==
+* '''Fediverse Monitoring'''<ref>https://pleroma.fr/users/fediversemonitoring</ref>は、インスタンスの停止と復活を報告する[[Bot|ボット]]。
+* '''Fediverse Watch'''<ref>https://pleroma.fr/users/fediverse</ref>は、インスタンスの発生とバージョンアップを報告する[[Bot|ボット]]。
+
+==関連項目==
+* [[The Federation]]
+
+==脚注==
+<references />
+
+{{DEFAULTSORT:fediversenetwork}}
+[[category:インスタンスの一覧を提供するウェブサイト]]
+[[category:GNU Affero General Public License]]
+[[category:bot]]

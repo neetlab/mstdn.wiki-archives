@@ -1,0 +1,20 @@
+{{Infobox instance
+| Name          = Mastodon＠GIFU
+| Domain        = https://mstdn.gifu.jp/
+| Admin         = [https://mstdn.gifu.jp/@pata128 Take Kazu]
+| Country       = 日本
+| Start         = 2017年5月14日
+| Kifu          = BTC/Monacoin
+| Alias         = なし
+}}'''mstdn.gifu.jp'''は、オープンソースのソーシャルネットワークMastodonの[[インスタンス]]。
+
+== 概要 ==
+当初はTake Kazu氏の個人インスタンスとして立てられたが、岐阜県に関係するユーザーに向け一般開放された。
+
+2017年11月現在、消滅状態となっている。
+
+== 関連項目 ==
+* [[都道府県のインスタンス一覧]]
+
+{{DEFAULTSORT:ぎふ}}
+[[Category:消滅したインスタンス]]

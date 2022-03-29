@@ -1,0 +1,38 @@
+{{Infobox instance
+| Name          = <ruby>[[ika.moe]]<rt>いかもえ</rt></ruby>
+| Domain        = https://ika.moe
+| Admin         = [https://ika.moe/@Naouak @Naouak]
+| Country       = フランス共和国
+| Start         = 2017年4月7日
+| Alias         = イカ鯖 いかもえ
+}}
+<ruby>[[ika.moe]]<rt>いかもえ</rt></ruby>とは、オープンソースのソーシャルネットワーク[[Mastodon]]のインスタンスである。
+
+== 概要 ==
+[[ファイル:Ikamoe-icon.png|100px|thumb|right|ika.moeのデフォルトアイコン]]
+[https://ja.wikipedia.org/wiki/%E4%BE%B5%E7%95%A5!%E3%82%A4%E3%82%AB%E5%A8%98 侵略!イカ娘]が大好きだという[https://ika.moe/@Naouak Naouak]氏が開設した[[インスタンス]]。しかし、日本人ユーザーとの会話に関しては日本語が喋れるわけでは無いので、Google翻訳を利用しているようである。
+
+インスタンスの説明に''「ここでは日本語を話してもいいでゲソ！ 」''と記されていたこともあり、[[mstdn.jp]] のサーバー移転期間中に、多くの日本ユーザーが増加した。
+
+そのため、日本ユーザーの発言が占めるがとりわけ発言するユーザー数は少なく、ローカルタイムラインの流れる速度はとても緩やかめ。同一のジャンルであるTVゲーム[https://ja.wikipedia.org/wiki/%E3%82%B9%E3%83%97%E3%83%A9%E3%83%88%E3%82%A5%E3%83%BC%E3%83%B3 Splatoon]の[[インスタンス]]の要望については「ここにすべてのイカを受け入れる<ref>https://ika.moe/@Naouak/49758</ref>」とし、あらゆるカテゴリのユーザーへの対応を発表した。
+
+デフォルトアイコンにはイカの顔文字に差し替えられた独自のアイコンが設定されている。
+
+== インスタンス間での児童ポルノなどの規約の問題 ==
+Pixivが運営するインスタンス[[Pawoo]]が他のインスタンスから[[ドメインブロック]]を受けた件については、以下の声明を出した。
+<blockquote>
+I won't silence or block pawoo.net onstance anytime soon. I didn't get any report for it and Pixiv is usually a great source for illustration.
+pawoo.netを沈黙させたりブロックしたりすることはありません。 Pixivは素晴らしいイラストレーションのソースです。<ref>https://ika.moe/@Naouak/47640</ref>
+</blockquote>
+
+== ローカルルール ==
+2017年4月18日時点のローカルルールは以下の１件である。
+<blockquote>
+* Sur cette instance, on accepte et jugera sans pitié les pires blagues et jeux de mots qui viennent à l'esprit de nos poueteurs.
+</blockquote>
+
+== 出典 ==
+<references/>
+
+{{DEFAULTSORT:ikamoe}}
+[[category:フランスのインスタンス]]

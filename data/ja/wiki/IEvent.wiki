@@ -1,0 +1,12 @@
+{{小文字}}{{stub}}
+'''iEvent'''は、イベントの開催告知と参加表明のためのウェブアプリケーション。[[Mastodon|マストドン]]のアカウントでログインする。
+
+==関連項目==
+* [[Get Together]]
+
+==外部リンク==
+* https://event.baraweb.net
+
+{{DEFAULTSORT:ievent}}
+[[category:ウェブサイト]]
+[[category:プロプライエタリ]]

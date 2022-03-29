@@ -1,0 +1,39 @@
+[[file:Bouton AGPL 3.svg|thumb|300px|right|AGPL 3.0]]
+'''AGPL''' ('''GNU Affero General Public License''') とは、ソフトウェアライセンスである。
+
+== 概要 ==
+AGPLは[[フリーソフトウェア]]ライセンスおよび[[オープンソース]]ライセンスの一種で、概要は以下の通り。
+
+# ウェブアプリケーションを開設したならば、そのウェブアプリケーションの利用者に、ソースコードを開示しなくてはならない。
+# AGPLが適用されたソフトウェアを組み込んだ別のソフトウェアにも、AGPLが適用される。
+
+== マストドンとの関係 ==
+マストドンや GNU Social は AGPL でライセンスされているため、これを改変したときは公開して AGPL でライセンスしなければならない。
+
+また、関連するウェブアプリケーションでも AGPL を採用するものが多い。
+
+マストドンに関連するソフトウェアおよびウェブアプリケーションのうち、AGPLが適用されているものは、[[:カテゴリ:GNU Affero General Public License]] を参照。
+
+== マストドンに関係するAGPL違反事例 ==
+
+AGPL違反であるかどうか議論のあった事例も含む。
+
+* [[3.nu]] がインスタンスを開設し、独自機能を導入したとき、ソースコードを公開しなかったため、AGPL違犯の状態になった。その後、すぐにソースコードが公開され、AGPL違犯は解消された。しかし、3.nuのインスタンス管理者が、AGPL違犯を指摘したユーザーを揶揄するトゥートを投稿し、反感を買った。
+* [[Mstdn.guru|mstdn.guru]] - 当該項目を参照。
+* [[Hiveway]] - 当該項目を参照。
+* [[Librem Social]] - 当該項目を参照。
+* 2021年10月20日<ref>[https://www.itmedia.co.jp/news/articles/2110/21/news115.html トランプ前大統領、新SNS「TRUTH Social」立ち上げを発表　iPhoneアプリ予約受付中 - ITmedia NEWS]</ref>にドナルド・トランプがTRUTH social<ref>https://www.truthsocial.com/</ref>という[[ソーシャル・ネットワーキング・サービス|SNS]]を発表すると、翌21日には、そのテストサイトがAGPLに違反している<ref>[https://sfconservancy.org/blog/2021/oct/21/trump-group-agplv3/ Trump's Social Media Platform and the Affero General Public License (of Mastodon) - Conservancy Blog - Software Freedom Conservancy]</ref>ことが判明した。テストサイトはすぐに削除された。記事執筆時点では、TRUTH socialのウェブサイトではメールアドレスを登録することのみが可能となっている。2022年1月時点でソースコードが公開されている<ref>https://truthsocial.com/open-source/</ref>が、トップページからリンクされていない。TRUTH socialの一般利用開始は2022年2月11日<ref>[https://www.afpbb.com/articles/-/3384079 トランプ氏の独自SNS、2月21日に一般利用開始へ]</ref>を予定している。
+*2021年9月29日<ref>https://prtimes.jp/main/html/rd/p/000000016.000036904.html</ref>に保守SNS「SAKURA」β版がリリースされると、それが[[Mastodon|マストドン]]のフォークであり、AGPLに違反している<ref>[https://theoria.hatenablog.com/entry/2021/09/29/230524 東大発ベンチャーが届ける国産SNS「SAKURA」β版がついにリリース！]</ref><ref>[https://riq0h.jp/2021/10/01/110014/ 保守SNSの欺瞞を暴く]</ref><ref>[https://hide.ac/articles/3VzOND3zL #保守SNS がMastodonのライセンス違反でソースコードを公開せず]</ref>ことが明らかになった。
+
+== 関連項目 ==
+* [[フリーソフトウェア]]
+* [[オープンソース]]
+
+== 外部リンク ==
+* [https://www.gnu.org/licenses/agpl-3.0.html GNU AFFERO GENERAL PUBLIC LICENSE Version 3, 19 November 2007]
+
+== 脚注 ==
+<references />
+
+[[category:オープンソースライセンス]]
+[[category:GNU Affero General Public License|*]]

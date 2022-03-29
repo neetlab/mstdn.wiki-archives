@@ -1,0 +1,26 @@
+{{小文字}}
+{{Infobox instance
+| Name = mastodon.rocks
+| Domain = https://mastodon.rocks
+| Admin = HackJack
+| Country = 不明
+| Start = 2017年4月4日
+| Alias = .rocks
+}}'''mastodon.rocks'''とは、[[オープンソース]]の[[分散SNS]]、[[Mastodon]]の[[インスタンス]]。
+
+== 概要 ==
+2017年4月4日、HackJack氏によって立ち上げられた。
+
+[[Eugen Rochko]]氏には「良質なインスタンス」として紹介されており<ref>[https://medium.com/@Gargron/mastodon-2-0-e93d9d28dbb9 Mastodon 2.0 The Big Emoji Update - Mastodon Blog]</ref>、ユーザー数は2018年時点で2000人以上となっていた。
+
+== データロスト ==
+2018年3月16日、Mastodonのバージョンアップの際にデータが全てロスト、バックアップも残っていなかったため、一からやり直しとなってしまった。
+
+ロスト後のインスタンスはインスタンス名が「'''All data lost'''」になり、ランディングページに以下のような文章が掲載された。
+
+<blockquote>
+The 16/03/2018, during the update to Mastodon v2.3.1, this instance has crashed and lost all accounts, media and toots. I'm totally sorry for all users. It just a fucking nightmare...
+</blockquote>
+
+== 出典 ==
+<references />

@@ -1,0 +1,20 @@
+{{Infobox instance
+| Name          = akiba.tokyo.jp
+| Domain        = https://akiba.tokyo.jp/
+| Admin         = [https://akiba.tokyo.jp/@akiba 珈琲]
+| Country       = 日本
+| Start         = 2017年4月28日
+| Kifu          = なし
+| Alias         = なし
+}}'''Mastodon in アキバ'''は、オープンソースのソーシャルネットワークMastodonで立てられていた[[インスタンス]]。
+
+== 概要 ==
+秋葉原に関する話題を中心としたインスタンス。
+
+2017年10月現在、消滅状態。
+
+== 関連項目 ==
+* [[都道府県のインスタンス一覧]]
+
+{{DEFAULTSORT:あきば}}
+[[Category:消滅したインスタンス]]

@@ -1,0 +1,19 @@
+{{Infobox software
+| Name = {{Ruby|Fedeloper forum|ふぇでぇろっぱーフォーラム}}
+| Developer = [[красная икра]]
+| Platform = ウェブ
+| Launch = 2019年3月2日
+| Web = https://forum.fedeloper.jp/
+}}[https://forum.fedeloper.jp/ Fedeloper forum]は、分散型SNSの開発・運用に関する話題を日本語でするために[[красная икра]]氏が開設した[[Discourse]]のフォーラム。
+
+同様の趣旨で公開されていた[[Mastodon日本語メタフォーラム]]は、運用されていたmstdn.jpドメインが[[合同会社きぼうソフト]]に移管されてから表示されなくなっており、その代替としての利用も可能<ref>https://comm.cx/@ikuradon/101709868457088078</ref>。
+
+== 関連項目 ==
+* [[Mastodon Meta Discussion Board]] - 同じコンセプトのフォーラムだが、英語でのコミュニケーションが必要
+* [[鯖缶工場]] - 似たコンセプトの[[Discord]]チャンネル
+
+==脚注==
+<references />
+
+[[category:ウェブサイト]]
+{{DEFAULTSORT:Fedeloperふおおらむ}}

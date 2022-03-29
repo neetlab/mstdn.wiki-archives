@@ -1,0 +1,18 @@
+{{小文字}}{{Infobox instance
+| Name          = {{Ruby|'''elict-mastodon'''|エリクト マストドン}}
+| Domain        = https://elict.net
+| Admin         = [https://elict.net/@kotatsurin 林向達]
+| Country       = 国
+| Start         = 2017年4月22日<ref>https://elict.net/@kotatsurin/1</ref>
+| Kifu          = なし
+}}{{Ruby|'''elict-mastodon'''|エリクト マストドン}}は、[[オープンソース]]の[[ソーシャル・ネットワーキング・サービス|ソーシャルネットワーク]][[Mastodon]]の[[インスタンス]]。
+
+== 概要 ==
+教育学習とICTがテーマのインスタンス。{{Jawp|徳島文理大学}}の林向達氏により2017年4月22日に立ち上げられた。
+
+特徴として、webの色調が変更されていることが挙げられる。
+
+== 出典 ==
+<references />
+
+[[Category:日本のインスタンス]]

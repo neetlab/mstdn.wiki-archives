@@ -1,0 +1,19 @@
+{{infobox instance
+|Name = cosp.me
+|Domain = <s><nowiki>https://cosp.me</nowiki></s>
+|Country = 日本
+|Admin = [https://cosp.me/@miyagawayuu 龍志]
+|Start = 2017年5月5日
+}}'''cosp.me'''はオープンソースのソーシャルネットワークMastodonの[[インスタンス]]。
+
+== 概要 ==
+龍志（宮川ゆう）氏によって2017年5月5日に公開されたインスタンス。
+
+2017年10月現在消滅状態となっており、同ドメインにはジェネレーターメーカーという別のサービスが組み込まれている。
+
+== 関連項目 ==
+* [[Odorite.tokyo]]
+* [[Mstdn.studio]]
+
+[[Category:日本のインスタンス]]
+[[Category:消滅したインスタンス]]

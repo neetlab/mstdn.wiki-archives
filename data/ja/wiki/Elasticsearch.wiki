@@ -1,0 +1,27 @@
+{{Infobox software
+| Name                = Elasticsearch
+| Image               = [[ファイル:Icon-elasticsearch-bb.svg|120px]]
+| Developer           = Elastic
+| SourceCode          = https://github.com/elastic/elasticsearch
+| Platform            = クロスプラットフォーム
+| ProgrammingLanguage = Java
+<!-- | Launch              = 2017年3月17日 -->
+<!-- | Kifu                = [https://paypal.me/floofdog PayPal] -->
+| License             = [[オープンソース]]、[[Apacheライセンス]]を含むマルチライセンス
+| Web                 = https://www.elastic.co/jp/products/elasticsearch
+| Download            = https://www.elastic.co/jp/downloads/elasticsearch
+}}
+'''Elasticsearch'''は、[[オープンソース]]の検索エンジン。
+
+バージョン2.3.0以降<ref>https://github.com/tootsuite/mastodon/releases/tag/v2.3.0</ref>の[[Mastodon|マストドン]]では、ユーザーが自分自身のトゥートを全文検索することができる。ただし、この機能はデフォルトでは無効になっている。この機能を有効にするには、インスタンスにElasticsearchをインストールする必要がある。
+
+==派生したスラング==
+'''えらい棒'''は、日本語圏のマストドンにおけるElasticsearchの通称。
+
+==脚注==
+<references />
+
+{{DEFAULTSORT:elasticsearch}}
+[[category:マストドンの機能]]
+[[category:ソフトウェア]]
+[[category:オープンソース]]

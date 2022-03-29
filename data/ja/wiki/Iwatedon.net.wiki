@@ -1,0 +1,21 @@
+{{DISPLAYTITLE:イワテドン}}
+{{Infobox instance
+| Name          = イワテドン
+| Domain        = https://iwatedon.net
+| Admin         = [https://iwatedon.net/@aquarla あくあーら]
+| Country       = 日本
+| Start         = 2017年7月19日
+| Kifu          = なし
+| Alias         = なし
+}}'''イワテドン'''は、オープンソースのソーシャルネットワークMastodonの[[インスタンス]]。
+
+== 概要 ==
+岩手県をテーマとした、いわゆる地域特化型インスタンスの一つ。
+
+当初は'''岩手丼'''という呼称が用いられていたが、2018年5月9日より'''イワテドン'''に改称している。
+
+== 関連項目 ==
+* [[都道府県のインスタンス一覧]]
+
+{{DEFAULTSORT:いわてとん}}
+[[Category:日本のインスタンス]]

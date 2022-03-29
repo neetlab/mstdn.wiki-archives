@@ -1,0 +1,15 @@
+{{Infobox instance
+| Name          = どんぶり大破
+| Domain        = https://mstdn.taiha.net/
+| Admin         = [https://mstdn.taiha.net/@musashino205 武蔵野]
+| Country       = 日本
+| Start         = 2017年4月16日
+| Kifu          = 不明
+| Alias         = 不明
+}}'''どんぶり大破'''は、オープンソースのソーシャルネットワーキング・サービスMastodonの[[インスタンス]]。
+
+== 概要 ==
+2017年4月16日、武蔵野氏によって立ち上げられたインスタンス。
+
+{{DEFAULTSORT:とんふりたいは}}
+[[category:日本のインスタンス|taihanet]]

@@ -1,0 +1,30 @@
+{{小文字}}
+{{Infobox software
+| Name = whalebird
+<!--| Image = -->
+| Developer = ぽてと
+| SourceCode = [https://github.com/h3poteto/whalebird-desktop GitHub]
+| Platform = Mac, Linux, Windows
+| ProgrammingLanguage = Electron（Swift）
+| Launch = 2018年3月10日
+<!-- | Kifu = -->
+| License = MIT License
+<!--| Web = -->
+<!--| Download = -->
+}}'''whalebird'''は、[[オープンソース]]の[[分散SNS]]、[[Mastodon]]のデスクトップクライアント。
+
+== 概要 ==
+ぽてと氏により開発されているデスクトップクライアント。Electronベースのため、複数のOSで利用可能であり、Mac, Linux, Windowsに対応している。Windows版は開発の優先度が低く、バージョン0.2.0<ref>https://github.com/h3poteto/whalebird-desktop/releases/tag/0.2.0</ref>より配布されるようになった。
+
+特徴として、チャットアプリケーションである{{Jawp|Slack}}に類似したUIが挙げられる。
+
+== 関連リンク ==
+* [http://h3poteto.hatenablog.com/entry/2018/03/25/200000 最高のmastodonクライアントを探した結果，自作した - メモ帳の裏の切れ端]
+* [http://www.itmedia.co.jp/news/articles/1803/26/news109.html Slackライクなマストドンのデスクトップアプリ「whalebird」登場　MacとLinuxに対応 - ITmedia NEWS]
+
+==脚注==
+<references />
+
+{{DEFAULTSORT:whalebird}}
+[[category:デスクトップクライアント]]
+[[category:MITライセンス]]

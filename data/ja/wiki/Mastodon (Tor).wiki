@@ -1,0 +1,33 @@
+{{Infobox instance
+| Name = {{Ruby|[[Mastodon (Tor)]]|マストドン　トーア}}
+| Domain = http://nq5jmc5rsyo4fiph.onion (Tor必須)<br /><strike>[http://tormirror.mastodon.i2p/about?i2paddresshelper=6xd3RvM~4Eq9Vwe6CCwihZz66poPWiwszpq4eBsebaGkFi1KDKqC6P-Vmq5obbHId0UVFEGYZh9DSmkcDYCK~Ok1BceOtw-ELYtlVTw586XCqkRCHf9F1sC5x9~WSJwOluScIM7NXMBGfF3nxYRU3IRlKTOrX-bD3A0qq~8BYmMyy54AtgcDhswaSd6Q4rj95Tvyvb4GTEWZKIb0Ayuj12i23cmtXIvl5D-WSeOGTpaFSpnHRap6Od9k5kHpApFbhdjqjBhZPLBLKkcBUpLbDpzWMepBcjpIiHDwH-MZsa77CTpLxv-whOdAcOms9tfuKte1PLv9yQJrZumxeiQfI5sGL17R2SK4hyUKG4YF66R9HzNjR0VbrcnsEF-~ikMxY2VMlcLH9O9qjohV5lEUK~6ZQo1ihfbHV2gbyHwn90Ir0C2kq~lZ6j9q2Y8BC0WgvZlu0SD9niYXeswJW44PYIETvMmYYP8s9CXycsz4jnlzzjBGARFPMnC8gZ6X3RCZBQAEAAcAAA== http://tormirror.mastodon.i2p] (I2P必須)</strike><br /><strike>[http://6paptelupqaoinxgcyeeewb6c4gmkwmz3udiavowwavwydb7t2kq.b32.i2p/ (I2P用アドレスの32ビット表記)]</strike>
+| Admin = [http://nq5jmc5rsyo4fiph.onion root] (Tor必須)
+| Country = 日本
+| Start = 2017年12月1日
+| Kifu = 不明
+| Alias = 新玉丼, 二代目Tor丼
+}}
+'''Mastodon (Tor)'''とは、オープンソースのソーシャルネットワーク[[Mastodon]]の[[インスタンス]]である。
+
+==概要==
+[[IPv6ドン]]管理者のはいこん氏が立ち上げたインスタンス。Darknetを介した連合を形成するための実験として設置・運用がされている。.onionのドメインの通り、Torを用いなければアクセスできない。だだし、確認メールや通知メールはTorネットワークを経由せずに届く。設立当初の名称は'''Mastodon (Darknet)'''であった。
+
+インスタンスを設置する際にIPv6ドンのソースを流用しているため、IPv6ドンの追加機能を使うことができる。それに加え、Service Workerによるバックグラウンド通信機能を取り除いたため、通知はされないようになっている。
+
+2017年12月3日、I2PネットワークからアクセスできるミラーURLが追加されたものの、後に[[Mastodon (I2P)]]が建てられたため同月13日に廃止された。また、インスタンス名が'''Mastodon (Tor)'''に変更された。
+
+主宰者の休養により停止されている。<ref>https://mstdn.maud.io/@obsolete_std/100834944502233063</ref>
+
+== 出典 ==
+<references />
+
+==関連項目==
+
+*[[Darknet連合対応インスタンスの一覧]] - 同様にDarknetに対応するインスタンスの一覧。
+*[[mastodon.onion]] - かつて存在したTor専用インスタンス。
+*[[IPv6ドン]]
+*[[Mastodon (I2P)]]
+
+[[category:日本のインスタンス]]
+[[category:独自機能が実装されたインスタンス]]
+[[category:一時的に利用できなくなっているインスタンスまたはウェブサイト]]

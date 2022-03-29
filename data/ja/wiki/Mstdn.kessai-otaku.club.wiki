@@ -1,0 +1,46 @@
+{{小文字}}
+{{Infobox instance
+| Name          = {{Ruby|mstdn.kessai-otaku.club|マストドン　ケッサイオタク クラブ}}
+| Domain        = https://mstdn.kessai-otaku.club
+| Admin         = [https://mstdn.kessai-otaku.club/@mecaota pitoru]
+| Country       = 日本
+| Start         = 2018年10月11日
+| Kifu          = なし
+| Alias         = 決済丼, 決済クラブ
+}}'''mstdn.kessai-otaku.club'''は、[https://mstdn.kessai-otaku.club/@mecaota pitoru]が運営するMastodonインスタンス。
+
+== 概要 ==
+[https://mstdn.kessai-otaku.club/@mecaota pitoru]が運営する決済クラスタ向けのMastodonインスタンス。
+
+== 設立要旨 ==
+管理人の [https://mstdn.kessai-otaku.club/@mecaota pitoru]がインフラの勉強に加え, 自分のインスタンスを立てようと思うと最低構成でおひとりさまインスタンスは性能を余してしまうと考え, テーマインスタンスとして決済クラスタ向けのMastodonインスタンスを建てたのが始まり。
+<ref>[https://mstdn.kessai-otaku.club/@mecaota/101528282375359127/ https://mstdn.kessai-otaku.club/@mecaota/101528282375359127/]</ref>
+
+== ターゲット ==
+<blockquote>
+<ul>
+<li>マクドナルドやローソンで♪ﾎﾟｰｯ♪して店員の反応が楽しいみんな</li>
+<li>ここ数週間現金に触れてないみんな</li>
+<li>店員よりもレジ操作に詳しいみんな</li>
+<li>サークルでカード決済を導入しちゃったみんな</li>
+<li>某掲示板のクレ板のみんな</li>
+<li>この界隈に興味があるみんな(よし沼に落とせ)</li>
+<li>とはいいつつ基本誰でもウェルカムだよ☆</li>
+</ul>
+</blockquote><ref>[https://mstdn.kessai-otaku.club/about 決済オタク丼about]</ref>
+
+== 特徴==
+決済丼らしく,　ファビコンにアメリカン・エキスプレス・カード・ゴールドが目に張り付いたMastodonロゴを使用していたり, エラー画面のgifに「審査結果 否決」と書かれていたり,<ref>[https://mstdn.kessai-otaku.club/@mecaota/100905176301523263/ https://mstdn.kessai-otaku.club/@mecaota/100905176301523263/]</ref> アクセプタンスマーク絵文字が大量に登録されていたりする。
+
+また, 通知音が主要な電子マネーの決済音になっている。
+
+絵文字に関しては, 50KBかつ160×160サイズ以上を満たすロゴマークであればユーザーからのデータ提供を受けての登録を受け付ける方針を表明している。<ref>[https://mstdn.kessai-otaku.club/@mecaota/101367981448476799/ https://mstdn.kessai-otaku.club/@mecaota/101367981448476799/]</ref>
+
+== 出典 ==
+<references/>
+
+== 関連項目 ==
+
+
+{{DEFAULTSORT:kessai-otaku}}
+[[category:日本のインスタンス]]

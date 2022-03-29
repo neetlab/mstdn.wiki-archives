@@ -1,0 +1,36 @@
+{{Infobox software
+| Name = {{Ruby|tootsearch|トゥートサーチ}}
+<!--| Image = -->
+| Developer = Kirino Minato (imksoo)
+| SourceCode = [https://github.com/imksoo/tootsearch GitHub]
+| Platform = ウェブ
+| ProgrammingLanuage = Ruby, JavaScript
+| Launch = 2017年6月2日
+| License = [[GNU Affero General Public License]]
+| Web = https://tootsearch.chotto.moe/
+}}'''[https://tootsearch.chotto.moe/ tootsearch]'''は、マストドンのトゥートを検索することができるウェブアプリケーション。
+
+== 概要 ==
+2017年6月2日に公開された、マストドンのトゥートを検索できるウェブアプリケーション。検索対象となるインスタンスは[[mstdn.jp]]、[[pawoo.net]]、[[friends.nico]]、[[mstdn-workers.com]]、[[mastodon.yuritopia.net]]、[[mastodon.chotto.moe]]、 [[jitakurack.chotto.moe]]の7インスタンスに限られる。公式にはアナウンスされていないが、これらのインスタンスのユーザーのトゥートだけでなく、これらのインスタンスの[[連合タイムライン]]のトゥートも検索対象となっている<ref name=hd>[[User:Hakabahitoyo|記事執筆者]]による独自調査。</ref>ようである。
+
+検索ではスコア順、時系列順、[[ブースト]]数順、[[お気に入り]]数順にトゥートを表示することが可能。また、決められた属性名<ref>https://github.com/tootsuite/documentation/blob/master/Using-the-API/API.md#status</ref>によりユーザー名検索などの特殊検索も可能なほか、OR検索にも対応している。検索可能なトゥートの期間は、明記されていないが、競合する他の検索エンジンよりも短い<ref name=hd />と見られている。
+
+ライセンスは[[AGPL]]であり、ソースコードはGitHubで公開されている<ref>https://github.com/imksoo/tootsearch</ref>。
+
+APIも利用できる。APIのURLは、検索ページのURLのパラメーターを <nowiki>https://tootsearch.chotto.moe/api/v1/search</nowiki> に付加したものである。結果としてJSONが返る。
+
+オプトアウトの方法は明記されていないが、複数のアカウントまたはインスタンスが検索結果から除外された前例<ref>https://github.com/imksoo/tootsearch/commit/c9300a6dea20d56fbe95b2fc0a5bee99f6b12d66</ref><ref>https://github.com/imksoo/tootsearch/commit/16ce0b200bba62d911b37f27f06d8d545b4c5e5a</ref><ref>https://github.com/imksoo/tootsearch/commit/9b8c2128f30cf10fce0a6b97daa5272a7d6ed037</ref>がある。
+
+==関連項目==
+* [[Subway Tooter]]
+
+==脚注==
+<references />
+
+==外部リンク==
+* [https://tootsearch.chotto.moe/ tootsearch]
+* https://github.com/imksoo/tootsearch
+
+[[category: 検索エンジン]]
+[[category:GNU Affero General Public License]]
+{{DEFAULTSORT:tootsearch}}

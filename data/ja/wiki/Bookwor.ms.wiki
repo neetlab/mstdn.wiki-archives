@@ -1,0 +1,20 @@
+{{小文字}}
+{{Infobox instance
+| Name = bookwor.ms / 本の虫
+| Image = [[File:bookworms_fluffy.png|240px]]
+| Domain = https://bookwor.ms
+| Admin = [https://bookwor.ms/@skoji Satoshi Kojima]
+| Country = 日本国
+| Start = 2017年7月16日<ref>https://bookwor.ms/@skoji/3</ref>
+| Alias = 本の虫
+}}'''bookwor.ms''' / '''本の虫'''とは、[[オープンソース]]の[[分散SNS]]、[[Mastodon]]の[[インスタンス]]。
+
+== 概要 ==
+2017年7月16日より、Satoshi Kojima（Skoji）氏により運用されているMastodonインスタンスである。
+
+インスタンス名の通り、本、書籍が好きなユーザーに向けられているが、話題は特に制限されておらず、本に関する話題を中心に、様々な[[トゥート]]が行われている。
+
+== 出典 ==
+<references />
+
+[[Category:日本のインスタンス]]

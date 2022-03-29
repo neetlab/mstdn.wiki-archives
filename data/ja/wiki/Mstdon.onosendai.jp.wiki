@@ -1,0 +1,21 @@
+{{小文字}}
+{{Infobox instance
+| Name          = mstdon.onosendai.jp
+| Domain        = https://mstdn.onosendai.jp/
+| Admin         = [https://mstdn.onosendai.jp/@shi3z shi3z]
+| Country       = 日本
+| Start         = 2017年4月15日
+| Kifu          = なし
+| Alias         = なし
+}}'''mstdn.onosendai.jp'''は、オープンソースのソーシャルネットワーキング・サービスMastodonのインスタンスである。
+
+== 概要 ==
+株式会社UEIの代表で[[naumanni]]の開発者である[[shi3z]]氏が運用するインスタンス。
+
+2018年10月8日でSSL証明書の期限が切れており、警告を無視してのアクセスには注意が必要である。
+
+== 関連項目 ==
+* [[Naumanni]]
+
+{{DEFAULTSORT:onosebdai}}
+[[category:消滅したインスタンス]]

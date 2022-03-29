@@ -1,0 +1,28 @@
+{{小文字}}
+{{Infobox software
+| Name = clericalist
+| Image = [[File:Clericalist.png|240px]]
+| Developer = victor felder
+| SourceCode = <s>[https://github.com/vhf/clericalist GitHub]</s>
+| Platform = Web
+| ProgrammingLanguage = Elixir
+| Launch = [[2017年]]4月12日
+| License = [[MITライセンス]]
+| Web = <s>https://cler.ical.ist</s>
+}}'''clericalist'''とは、"聖職者主義者"を意味する語。また、同名を冠し、[[オープンソース]]の[[分散SNS]]、[[Mastodon]]の[[トゥート]]を[[検索|全文検索]]できる[[MITライセンス]]のウェブアプリケーション。
+
+== 概要 ==
+デフォルトのMastodonではトゥートを全文検索できる手段を持ち合わせていないため、トゥートの検索ができる外部アプリケーションが多く開発されており、clericalistはその一つである。Elixir言語で開発されており、開発者は[[techn.ical.ist]]管理者のvictor felder氏。
+
+トゥートの全文検索のほか、タグクラウドなどの機能も存在した。また、比較的早い時期から公開されていたのもあり、トゥートのインデックスが非常に多かった。その一方で、トゥート元のユーザーが表示されないなどの問題点も存在した。
+
+現在、cler.ical.istおよびtechn.ical.istは消滅している。また、しばらく公開されていたソースコードも2018年10月にはGitHub上から削除されている。
+
+== 関連項目 ==
+* [[検索]]
+* [[:カテゴリ:検索エンジン]]
+* [[techn.ical.ist]]
+
+[[Category:検索エンジン]]
+[[Category:運用が放棄されたウェブサイト]]
+[[Category:MITライセンス]]

@@ -1,0 +1,29 @@
+{{Infobox website
+| Name = MaaStodon<!--
+| Image = 
+-->| URL = https://maastodon.net
+| Admin = [https://octodon.social/@CobaltVelvet Alice Voidstar]
+| Country = フランス
+| Start = 2018年1月5日
+}}
+'''MaaStodon'''とは、[[Mastodon]]の[[ホスティングサービス]]である。
+
+== 概要 ==
+相応の技術力や資金を要するMastodon[[インスタンス]]の立ち上げを容易にすべく公開された、ホスティングサービスの一つ。
+
+[[Octodon]]管理人の[https://octodon.social/@CobaltVelvet Alice Voidstar]氏により、2018年1月5日に公開された。
+
+3ユーロのパーソナルプランから8のプランが用意されており、また相談により用意されている以上のプランを要求することも可能としている。サーバーはintel Xeonが用いられており、既存のインスタンスをMaaStodonにインポートしたり、データをエクスポートして自分のサーバーに移行する事も可能。
+
+MaaStodonを利用しているインスタンスには、[[mastodon.social]]や[[octodon]]などが挙げられる。
+
+2018年5月<ref>[https://masto.news/2018/05/19/maastodon マストドンホスティングサービス「MaaStodon」が終了]</ref>に閉鎖された。インスタンスは稼動しているが、新たなインスタンスの作成とマネージメントパネルのアクセスができなくなっている。
+
+== 関連項目 ==
+* [[ホスティングサービス]]
+* [[Octodon]]
+
+==脚注==
+<references />
+
+[[Category:ホスティング]]

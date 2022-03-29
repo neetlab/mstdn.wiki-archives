@@ -1,0 +1,52 @@
+{{Infobox instance
+| Name          = <ruby>mastadano.com<rt>ますただの.こむ</rt></ruby>
+| Domain        = https://mastadano.com/
+| Admin         = [https://mastadano.com/web/accounts/107188811694286022 @JNR_810Series]
+| Country       = 日本
+| Start         = 2021年10月30日
+}}
+
+{{Infobox instance
+| Name          = <ruby>mstdn.yjsnpi.nu<rt>ますとどんどっとやじゅーせんぱいどっとぬっ</rt></ruby>
+| Domain        = https://mstdn.yjsnpi.nu/
+| Admin         = [https://mstdn.yjsnpi.nu/@atomi2d @atomi2d]
+| Country       = 日本
+| Start         = 2017年4月18日
+| End           = 2019年12月7日
+| Alias         = 淫スタンス<br>マストドン！（絶望）
+}}
+
+<ruby>[[Mastodon淫夢]]<rt>ますとどんいんむ</rt></ruby>とは、オープンソースのソーシャルネットワーク[[Mastodon]]のインスタンスである。
+
+==概要==
+[http://dic.nicovideo.jp/a/%E7%9C%9F%E5%A4%8F%E3%81%AE%E5%A4%9C%E3%81%AE%E6%B7%AB%E5%A4%A2 真夏の夜の淫夢]に関連して設立されたクッソ汚い[[インスタンス]]。
+
+話題はもっぱらホモビについてだが、淫夢以外の例のアレ系ジャンルの話題も出たりする。
+
+==終了==
+
+2019年12月7日未明に閉鎖。
+「多田野数人選手の引退日である12月6日をもって閉鎖する」という告知だったが日付が7日になった後も1時間ほどアクセス可能だった。締まりの悪そうな終わり方だな……
+
+===後継インスタンス===
+
+[https://dededon072.net/ <s>Mastodon淫夢2</s>]
+
+[https://mastadano.com/ Mastodon淫夢3]
+
+==ローカルルール==
+<blockquote>
+*淫夢要素はありません
+</blockquote>
+
+==イベント・交流==
+
+*'''本編実況'''
+
+:淫夢本編、つまりホモビデオを同時に再生開始して実況するイベント。
+:中年・熟年・若デブ系の本編（あぁ狂いそう、ガバ穴ダデイーなど）が実況の標的とされやすい。
+
+==出典==
+<references />
+
+{{DEFAULTSORT:yjsnpi}}

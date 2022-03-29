@@ -1,0 +1,18 @@
+{{Infobox instance
+| Name          = NaGaNoDoN ナガノドン
+| Domain        = https://ngndn.jp/
+| Admin         = [https://ngndn.jp/@nagano 長野県マストドン協会]
+| Country       = 日本
+| Start         = 2017年5月2日
+| Kifu          = 
+| Alias         = 長野丼
+}}<ruby>NaGaNoDoN ナガノドン</ruby>とは、長野県マストドン協会が運営する[[マストドン]][[インスタンス]]である。
+
+== 概要 ==
+2017年5月2日に開設された信州長野県の[[インスタンス]]。
+
+== 関連項目 ==
+* [[都道府県のインスタンス一覧]]
+
+{{DEFAULTSORT:ながの}}
+[[category:日本のインスタンス]]

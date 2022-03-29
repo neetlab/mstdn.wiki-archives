@@ -1,0 +1,46 @@
+{{小文字}}
+{{Infobox instance
+| Name = (｀・ω・´) 嘟嘟噜
+| Image = [[file:wxwmoe-fluffy.jpg|300px]]
+| Domain = https://wxw.moe
+| Admin = [https://wxw.moe/@fghrsh FGHRSH]<br />[https://wxw.moe/@lwl12 liwanglin12]
+| Country = 中国
+| Start = 2017年11月19日<ref>https://wxw.moe/@lwl12/99026547553859547</ref>
+}}'''wxw.moe'''は、[[オープンソース]]の[[分散SNS]]、[[Mastodon]]の[[インスタンス]]。
+
+== 概要 ==
+2017年11月19日、FGHRSH氏、liwanglin12氏らによって立ち上げられたインスタンス。2018年6月20日現在、200人以上のユーザー数を有している。
+
+いわゆる「萌え」系のアニメやマンガコンテンツをテーマにしているが、話題は特に限定されておらず、また、主な言語は簡体字中国語であるが、使用言語も限定されずどの言語でも許容されるとしている。
+
+== bot ==
+インスタンスの特徴として、画像を自動投稿する[[bot]]が非常に多く存在することが挙げられる。インスタンスに存在するbotは以下の通り。
+
+* [https://wxw.moe/@CuteGirl_2D 二次元美少女画]
+* [https://wxw.moe/@Seihuku_2D 制服美少女推進委員会]
+* [https://wxw.moe/@Mizugi_2D 水着美少女推進委員会]
+* [https://wxw.moe/@Eros_2D 萌えエロ画像推進委員会]
+* [https://wxw.moe/@cute_46minutes 二次元美少女BOT]
+* [https://wxw.moe/@Cute_Animegirls Anime Girls :3]
+* [https://wxw.moe/@AnimeGirlsBot Anime Girls]
+* [https://wxw.moe/@nijigengazokore 二次元エロ画像]
+* [https://wxw.moe/@CuteAnimeGirls_ Cute Anime Girls]
+* [https://wxw.moe/@SchoolGirlsBot Anime School Girls]
+* [https://wxw.moe/@catgirls_bot Catgirl Bot]
+* [https://wxw.moe/@MSimagebot Moe Squad Image Bot]
+* [https://wxw.moe/@GifsAnime_ Anime Pics & Gifs ツ]
+* [https://wxw.moe/@cute30minutes Cute anime pics]
+* [https://wxw.moe/@tamamoebot tamaMoeBot]
+* [https://wxw.moe/@headpat_bot The Headpat Bot]
+* [https://wxw.moe/@AceYuriBot Pic (Yuri) Bot]
+* [https://wxw.moe/@AceAsianBot Ace (Asian) Bot]
+* [https://wxw.moe/@Wzettairyouiki 絶対領域が僕をダメにする]
+
+== 関連項目 ==
+* [[bot]]
+* [[NSFW]]
+
+== 出典 ==
+<references />
+
+[[Category:中国のインスタンス]]

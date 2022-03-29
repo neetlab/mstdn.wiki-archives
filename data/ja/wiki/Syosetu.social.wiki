@@ -1,0 +1,26 @@
+{{Infobox instance
+| Name          = {{Ruby|'''Syosetu.social'''|小説.ソーシャル}}
+| Image         = [[ファイル:Mastodon_logo.png|120px|Mastodon]]
+| Domain        = https://syosetu.social
+| Admin         = [https://syosetu.social/@ress Ress]
+| Country       = 日本
+| Start         = 2018年12月1日（開始日時）
+| Kifu          = [https://fantia.jp/fanclubs/15045 Fantia]
+| Alias         = ふみ
+}}
+'''Syosetu.social'''とは、[[分散SNS]]、[[Mastodon]]の[[インスタンス|サーバー]]の一つである。
+
+==概要==
+書き手、読み手は問わず、小説が好きなユーザーを対象としたインスタンス。
+
+管理者がメンテナンス時にデータベースを破損させたことを理由にサービスを一時停止させ、2019年10月18日に閉鎖された。移行先として[[fumi.39.gy]]がアナウンスされている。
+
+==寄付==
+かくどんの閉鎖に伴いユーザーが増加したため寄付を募っている。
+
+Fantia 以外にも直接アマゾンギフト券でも対応している。
+
+==呼称==
+syosetu.social は正式な呼称は定義されていないが、多くのユーザーにより「ふみ」という略称が使用されている。
+
+[[category:消滅したインスタンス]]

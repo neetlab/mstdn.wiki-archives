@@ -1,0 +1,28 @@
+{{小文字}}
+{{infobox instance
+|Name = {{Ruby|donphan.social|ドンファン ソーシャル}}
+|Image = [[File:donphan_social_logo.png|300px]]
+|Domain = https://donphan.social
+|Country = フランス
+|Admin = [https://donphan.social/@Siphonay Siphonay]
+|Start = 2018年1月19日
+|Kifu = [https://paypal.me/siphonay Paypal]
+}}
+{{Ruby|'''donphan.social'''|ドンファン ソーシャル}}は、[[オープンソース]]の[[ソーシャル・ネットワーキング・サービス]][[Mastodon]]の[[インスタンス]]。
+
+== 概要 ==
+2018年1月19日<ref>https://donphan.social/@Siphonay/99372969212386647</ref>にSiphonay氏によって立ち上げられた、テレビゲームシリーズ及びカードゲーム、テレビアニメシリーズを展開する「{{Jawp|ポケットモンスター}}」に関する話題をテーマとしたMastodonインスタンス。
+
+[[トゥート]]の内容については、フランス及びユーザーの所属する国の法律に抵触しない限り、ポケットモンスターシリーズに関する話題から一般的な話題まで自由となっている。
+
+[[Mastodon Glitch Edition]]のインスタンスであり、同フォークの様々な機能を利用することができる。
+
+== 出典 ==
+<references />
+
+== 関連項目 ==
+* [[ポケマス]]
+* [[pokemastodon.net]]
+
+[[Category:フランスのインスタンス]]
+[[Category:ポケットモンスターに関するインスタンス]]

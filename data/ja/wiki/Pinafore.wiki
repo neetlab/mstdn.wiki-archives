@@ -1,0 +1,24 @@
+{{Infobox software
+| Name = {{Ruby|Pinafore|ピナフォア}}
+| Image = [[ファイル:Sailboat-icon.svg|120px|Pinafore]]
+| Developer = [https://toot.cafe/@nolan Nolan Lawson]
+| SourceCode = [https://github.com/nolanlawson/pinafore GitHub]
+| Platform = Web
+| ProgrammingLanguage = JavaScript
+| Launch = 2018年2月7日
+<!--| Kifu = [https://paypal.me/floofdog PayPal]-->
+| License = [[GNU Affero General Public License]] 3.0
+| Web = https://pinafore.social
+}}{{Ruby|'''Pinafore'''|ピナフォア}}は、[[オープンソース]]の[[分散SNS]]、[[Mastodon]]のウェブクライアントである。
+
+== 概要 ==
+Nolan Lawson氏により、2018年2月7日から開発されているMastodonのウェブクライアント。
+
+軽量で、ローエンドな端末でもレスポンス良く動作するよう開発されているのが特徴で、Progressive Web Appsであるためスマートフォンでも軽快に動作する。またサーバーサイドを持たず、クライアントサイドのみで構成されているため、サーバーにユーザーのデータは収集されない。
+
+機能はMastodonのWebUIと同様だが、白いカラーテーマでメニューが上に配置されシングル[[カラム]]であるなどUIは[[Twitter]]に類似している。メニューは[[タイムライン]]や[[リスト]]などを自由に配置できる。
+
+マルチアカウントにも対応しており、設定からアカウントを追加・切り替えを行える。
+
+[[Category:ウェブクライアント]]
+[[Category:GNU Affero General Public License]]

@@ -1,0 +1,42 @@
+{{小文字}}
+
+{{Infobox software
+| Name                = fedi ninja
+| Image               = [[ファイル:Fediverse_network_logo.png|150px|fediverse network]]
+| Developer           = href
+| SourceCode          = https://git.yt/random/fediverse-network (リンク切れ)
+| Platform            = ウェブ
+| License             = [[GNU Affero General Public License]]
+| Web                 = https://fedi.ninja
+}}
+
+'''fedi ninja'''は[[Fediverse Network]]の後継ウェブサイト。さまざまな[[分散SNS]]のインスタンスの一覧を提供している。
+
+デフォルトの並び順は過去1時間の「アクティビティ」である。「アクティビティ」の定義は不明である。並び順は
+
+* 新しいユーザーの数
+* 新しい投稿の数
+* アクティビティ (デフォルト)
+* ユーザー数
+* 投稿数
+* ピアの数
+* 開設日
+
+と
+
+* 過去1時間
+* 過去3時間
+* 過去6時間
+* 過去12時間
+* 過去24時間
+* 過去7日間
+
+の組み合わせが可能である。
+
+[[タイムラインビューア]]は画像を展開する。ページネーションは対応していない。
+
+インスタンスを自動的に収集しているかどうかは不明である。インスタンスのホスト名と管理者のメールアドレスを入力することにより、インスタンスの登録が可能である。
+
+==外部リンク==
+
+* https://fedi.ninja/

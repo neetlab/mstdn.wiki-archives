@@ -1,0 +1,23 @@
+{{Infobox software
+| Name = Flantter
+| Image = [[File:FlantterLogo_Orig.png|120px|Flantterのロゴ]]
+| Developer = [[きゅうりうむ]]
+| SourceCode = https://github.com/cucmberium/Flantter.MilkyWay
+| Platform = Windows8, Windows8,1, Windows 10, Windows 10 Mobile<ref>https://www.microsoft.com/ja-jp/store/apps/flantter/9wzdncrcrpmn</ref>
+| ProgrammingLanguage = C#
+| Launch = 2016年6月5日 (Version 3.0.0 正式版公開<ref>http://cucmber.net/flantter/releasenote.html</ref>)
+<!-- Kifu -->
+| License = [[MITライセンス]]
+| Web = http://cucmber.net/flantter
+| Download = https://www.microsoft.com/ja-jp/store/apps/flantter/9wzdncrcrpmn
+}}'''Flantter'''は、[[Twitter]]と[[Mastodon|マストドン]]のクライアント。Windowsストアアプリとしてインストールできる。
+
+==関連項目==
+* [[Mastodonおすすめユーザー検索]]
+
+==脚注==
+<references />
+
+[[category:デスクトップクライアント]]
+[[category:MITライセンス]]
+{{DEFAULTSORT:flantter}}

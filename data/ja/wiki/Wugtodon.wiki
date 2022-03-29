@@ -1,0 +1,17 @@
+{{Infobox instance
+| Name = <ruby>Wugtodon<rt>ワグトドン</rt></ruby>
+| Image = [[ファイル:Wugtodon.png|300px|Wgtodon]]
+| Domain = https://wug.fun
+| Admin = [[ておりあ]]
+| Country = 日本国
+| Start = 2017年7月20日
+| Kifu = https://enty.jp/wugtodon https://liberapay.com/theoria/ https://patreon.com/_theoria など
+| Alias = wug.fun, WUG丼 など
+}}[[Wugtodon]]とはWake Up, Girls！が好きな人のための[[Mastodon]]インスタンスである。
+
+== 概要 ==
+[[Wugtodon]]は、2017年7月20日に公開されたインスタンスで、アニメ[https://ja.wikipedia.org/wiki/Wake_Up,_Girls! Wake Up, Girls！]や声優ユニット[https://ja.wikipedia.org/wiki/Wake_Up,_Girls!_(声優ユニット) Wake Up, Girls！]およびそのメンバーが好きな人向けのインスタンス。
+
+話題は特に制限されない。
+
+[[category: 日本のインスタンス]]

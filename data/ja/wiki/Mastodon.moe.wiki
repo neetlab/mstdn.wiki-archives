@@ -1,0 +1,27 @@
+{{小文字}}
+{{Infobox instance
+| Name = {{Ruby|'''mastodon.moe'''|マストドン ドット モエ}}
+| Image = [[ファイル:Mastodon_logo.png|120px|Mastodon]]
+| Domain = https://mastodon.moe
+| Admin = {{account|user=imbsky|instance=mastodon.moe|link=y}}<br />{{account|user=angristan|instance=mastodon.moe|link=y}}
+| Country = 日本国, フランス共和国, アメリカ合衆国
+| Start = 2018年7月10日<ref>{{toot|mastodon.moe|angristan|100346435045966427}}</ref><ref>{{toot|mastodon.moe|imbsky|100346426624871759}}</ref>
+}}
+{{Ruby|'''mastodon.moe'''|マストドン ドット モエ}}は、[[オープンソース]]の[[分散SNS]]、[[Mastodon]]の[[インスタンス]]である。
+
+== 概要 ==
+2018年7月10日、[[Knzk.me]]や[[mastodon.cloud]]を運営する[https://mastodon.moe/@imbsky @imbsky]氏と、[[mstdn.io]]を運営する[https://mastodon.moe/@angristan @angristan]氏によって立ち上げられた。
+
+サーバーインフラに[[Amazon Web Services]]を使用しており<ref>https://mastodon.moe/about/more</ref>、レスポンスが非常に軽快な点が特徴である。
+
+== 関連項目 ==
+* [[mstdn.io]]
+* [[Knzk.me]]
+* [[mastodon.cloud]]
+
+== 出典 ==
+<references />
+
+[[category:日本のインスタンス]]
+[[category:フランスのインスタンス]]
+[[category:アメリカのインスタンス]]

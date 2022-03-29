@@ -1,0 +1,22 @@
+{{infobox instance
+|Name = {{Ruby|Mastodon by bitbank.cc|マストドン バイ ビットバンク シーシー}}
+|Domain = <s><nowiki>https://mastodon.bitbank.cc</nowiki></s>
+|Country = 日本
+|Admin = ビットバンク株式会社
+|Start = 2017年4月17日<ref>https://bitcoinbank.co.jp/2017/04/280</ref>
+|Kifu = なし
+|Alias = ビックバンクドン
+}}'''mastodon.bitbank.cc'''は、オープンソースのソーシャルネットワークMastodonの[[インスタンス]]。
+
+== 概要 ==
+仮想通貨の取引所「[https://bitbank.cc bitbank.cc]」やニュースサイト「[https://btcnews.jp BTCN]」を運営するビットバンク株式会社によって2017年4月17日に立ち上げられた、仮想通貨がテーマのインスタンス。2019年現在リンク切れになっていた。
+
+==ローカルルール==
+仮想通貨をテーマとするインスタンスであるだけに、「詐欺的な投資勧誘」と「HYIPの勧誘」を禁止する規定がある。
+
+==脚注==
+<references />
+
+[[Category:日本のインスタンス|bitbankcc]]
+[[category:企業が運用しているインスタンス]]
+[[Category:消滅したインスタンス]]

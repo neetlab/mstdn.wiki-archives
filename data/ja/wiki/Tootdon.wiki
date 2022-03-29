@@ -1,0 +1,62 @@
+{{Infobox software
+| Name      = {{Ruby|Tootdon|トゥートドン}}
+| Image     = [[ファイル:Tootdon.png|300px]]
+| Developer = [http://mobirocket.com/ MobiRocket,Inc.]（旧）<br />[http://tsukurito.jp/ 株式会社つくりと]（新）
+| Platform  = iOS・Android
+| Launch    =  2017年5月12日（iOS版）<br />2017年8月23日（Android版）
+| Web       = [http://tootdon.club/ 公式サイト]<br />[http://blog.mastodon-tootdon.com/ 公式サポートブログ]
+| Download  = [https://itunes.apple.com/app/id1282283934 AppStore]<br />[https://play.google.com/store/apps/details?id=club.tootdon.app GooglePlay]
+}}{{Ruby|'''Tootdon'''|トゥートドン}}は、オープンソースのソーシャルネットワークMastodonの、iOS・Android向けにかつて配信されていた[[クライアント]]アプリケーションである。
+
+== 概要 ==
+まとめ・ニュース系のアプリを提供しているMobiRocketから2017年5月12日に公開されたiOSアプリ。のち2017年8月23日には株式会社つくりとによりAndroid版アプリがリリースされ<ref>[http://blog.mastodon-tootdon.com/entry/android-v1-8-0 TootdonのAndroid版リリース（Version 1.8.0）のお知らせ - マストドン  アプリ『Tootdon』公式サポートブログ]</ref>、1ヶ月後の2017年9月23日に同社への事業譲渡が発表された<ref>https://mstdn.jp/@tootdon/42898181</ref>。
+
+[[Julika]]や[[THINKERS.AC]]などの[[インスタンス]]では推奨アプリとして紹介されており<ref>[http://www.itmedia.co.jp/news/articles/1708/04/news118.html サードパーティー製モバイルアプリ、「インスタンス推奨」の動き始まる - ITmedia NEWS]</ref>、読み上げや検索、アイコンのエフェクト機能など非常に充実した機能を持つクライアントとしてMastodonアプリの中でも随一のシェアを誇っている<ref>https://takulog.info/mastodon-using-apps-ranking/</ref>。
+
+またMastodonが企業スポンサーを募集した際には、Tootdonは一番最初にプラチナスポンサーとして支援を開始した<ref>[http://www.itmedia.co.jp/news/spv/1709/25/news045.html マストドン初のプラチナスポンサーはTOOTDON - ITmedia NEWS]</ref>。
+
+2018年1月にバージョン2.1に対応したのを最後に、2018年7月頃まで更新が停滞していた。これについて、Tootdonの公式アカウントは2018年6月4日に「現在他のプロジェクトで忙しい状態が続いている」と発言。その上で、「今後もアップデートを行う」ともした<ref>{{toot|mstdn.jp|tootdon|100144497435765368|2018年6月4日の非公開}}</ref>。2018年8月14日、7ヶ月ぶりとなるアップデートが行われた。
+
+==サービス終了==
+2019年6月23日<ref>https://mstdn.jp/users/tootdon/statuses/102319210789924221</ref>、サービス終了がアナウンスされた。実際のサービス終了は2019年7月7日を予定していた。
+
+サービス終了に先立ちAndroid版はサービス終了をアナウンスする為のアップデートが行われた。一方でiOS版は、2019年6月29日時点でAppStoreから消滅しているのが確認された。
+
+2019年7月7日の早朝より、アプリの検索機能やトレンド機能といったTootdonのサーバーに依存する機能が一切使用できなくなり、起動時にサービス終了のアナウンスが表示されるようになった。また、GooglePlayのアプリ配信も停止された。
+
+== 機能 ==
+* タイムラインのストリーミングや読み上げに対応している。
+* トゥート、インスタンス、ユーザーの[[検索]]に対応。トゥート検索は独自実装<ref>[http://www.itmedia.co.jp/news/articles/1705/12/news083.html 横断検索できるマストドンiPhoneクライアント「Tootdon」登場]</ref>で、検索可能なトゥートの期間は30日以内<ref>{{toot|mstdn.jp|tootdon|99830170563103200}}</ref>。
+* 検索ワードをタイムラインとして固定する「検索タイムライン」機能がある。
+* インスタンス検索では未登録インスタンスでも[[ローカルタイムライン]]のプレビューができる。プレビューのタイムラインを固定することも可能。
+* アイコンを様々な効果でデコレーションできる「今日のアイコン」機能がある。
+* 文字サイズを変更可能。
+* 動画の自動再生に対応。
+* 投稿動画の画質を指定できる。
+* 返信、フォロワー、ブースト、お気に入り毎の通知欄がある。
+* 配色をMastodon標準のカラーテーマに変更できる。
+* インスタンスで注目されているトゥートを表示する「トレンドタイムライン」機能がある。
+* インスタンス内のハッシュタグを人気順で一覧表示したり、検索できる。
+
+== データ収集の問題 ==
+Tootdonの実装するトゥート検索機能は、Tootdonのユーザーが閲覧した公開設定のトゥートをサーバーに保存する事で実現していた。また、プッシュ通知の実装のために認証トークンの収集も行なっていたという。
+
+これについて、ユーザーデータの収集に当たると批判が集まり、多くのユーザーがTootdonのアプリを削除する事態となった<ref>https://blog.kjwon15.net/2018/03/28/mastodon-and-tootdon/</ref>。
+
+騒動の後、Mastodonにはweb push notficationの対応が実装されている<ref>https://github.com/tootsuite/mastodon/pull/3243</ref>が、Tootdonでは更新が停滞しており、未対応となっている。
+
+== 関連項目 ==
+* [[マストドン検索ポータル]]
+* [[Julika]]
+
+== 関連リンク ==
+* [http://tootdon.club/ iOS・Androidアプリ]
+* [http://blog.mastodon-tootdon.com/ 公式サポートブログ]
+
+== 出典 ==
+<references />
+
+[[category:iOS用クライアント]]
+[[category:Android用クライアント]]
+[[category:検索エンジン]]
+{{DEFAULTSORT:tootdon}}

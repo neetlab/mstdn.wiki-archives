@@ -1,0 +1,19 @@
+{{infobox instance
+|Name = 0x2a.club
+|Domain = https://0x2a.club
+|Country = 中国
+|Admin = [https://0x2a.club/@m Admin]
+|Start = 2017年10月23日
+|Kifu = 不明
+|Alias = なし
+}}'''0x2a.club'''は、オープンソースのソーシャルネットワークMastodonの[[インスタンス]]。
+
+== 概要 ==
+Adminはほかのアカウントとなっているが、実際は[https://0x2a.club/@Leps Leps]氏が運営しているインスタンス。
+
+トゥートを審査しない、消さない、ほかのインスタンスをブロックしないと謳っている。サーバに危害を加えない限り何をしても構わない。
+
+2018年05月05日現在、アクセス不能の状態になっている。
+
+[[Category:中国のインスタンス]]
+[[category:消滅したインスタンス]]

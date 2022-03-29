@@ -1,0 +1,29 @@
+{{小文字}}
+{{Infobox instance
+| Name = {{Ruby|箕面どん|みのおどん}}
+<!--| Image = -->
+| Domain = https://minohdon.jp
+| Admin = [https://minohdon.jp/@toneji とねぢ]
+| Moderator = 
+| Country = 日本国
+| Start = 2018年3月28日<ref>https://minohdon.jp/@toneji/99761933087092360</ref>
+| End = 
+| Kifu = [https://osushi.love/toneji Osushi]
+| SourceCode = 
+| Alias = 
+}}'''箕面どん'''または'''minohdon.jp'''は、[[オープンソース]]の[[分散SNS]]、[[Mastodon]]の[[インスタンス]]。
+
+== 概要 ==
+とねぢ氏により2018年3月28日に立ち上げられたインスタンス。
+
+大阪府箕面市がテーマで、同市に関心のあるユーザーであれば誰でも登録することができる。
+
+ただし話題は基本的に自由で、箕面市以外の話題も多くトゥートされている。
+
+== 関連項目 ==
+* [[都道府県のインスタンス一覧]]
+
+== 出典 ==
+<references />
+
+[[category:日本のインスタンス]]

@@ -1,0 +1,17 @@
+{{Infobox instance
+| Name          = ナントカパーク
+| Domain        = https://park.eldoom.me/
+| Admin         = [https://park.eldoom.me/@yue ゆえさん]
+| Country       = 日本
+| Start         = 不明
+| Kifu          = 不明
+| Alias         = 不明
+}}'''ナントカパーク'''は、日本のインスタンス。2017年8月現在、アクセスができなくなっている。
+
+== 概要 ==
+”東雲研究所„によって運営されていたインスタンス。
+
+== 関連項目 ==
+*[[mstdn.hokkaido.jp]]
+{{DEFAULTSORT:なんとかはあく}}
+[[Category:消滅したインスタンス]]

@@ -1,0 +1,11 @@
+{{stub}}
+'''Fediverse Town'''は、[[Fediverse]]についてのフォーラム。
+
+==関連項目==
+* [[Join the Fediverse (Wiki)]]
+
+==外部リンク==
+* https://fediverse.town/
+
+{{DEFAULTSORT:fediversetown}}
+[[category:ウェブサイト]]

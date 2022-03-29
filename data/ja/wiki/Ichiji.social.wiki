@@ -1,0 +1,17 @@
+{{Infobox instance
+| Name          = {{Ruby|'''ichiji.social'''|イチジ ソーシャル}}
+| Domain        = https://ichiji.social
+| Admin         = [https://ichiji.social/@tnzk @tnzk氏]
+| Country       = 日本
+| Start         = 2017年9月1日
+| Kifu          = [https://www.pixiv.net/fanbox/creator/45748691 FANBOX]<br />[https://www.patreon.com/ichiji_social Patreon]
+| Alias         = いちくら、一次丼
+}}{{Ruby|'''ichiji.social'''|いちじ そーしゃる}}は、オープンソースのソーシャルネットワークMastodonの[[インスタンス]]。
+
+== 概要 ==
+絵描きや物書きなどの一次創作者や、そうした一次創作品が好きな読み手に向け立てられたインスタンス。
+
+「自己紹介タイムライン」「作品紹介タイムライン」と呼ばれるハッシュタグのタイムラインを擁立しており、一次創作に特化したインスタンスとなっている。
+
+{{DEFAULTSORT:ichiji}}
+[[Category:日本のインスタンス]]

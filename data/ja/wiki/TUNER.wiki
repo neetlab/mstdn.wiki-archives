@@ -1,0 +1,33 @@
+{{Infobox instance
+| Name          = [[TUNER]]
+| Image         = [[ファイル:Tuner.png|300px|tuner]]
+| Domain        = https://tuner.1242.com/
+| Admin         = 株式会社ニッポン放送
+| Country       = 日本
+| Start         = 2017年4月20日<ref>https://twitter.com/yoshidahisanori/status/855012551993774082</ref>
+| Kifu          = なし
+| Alias         = TUNER
+}}<ruby>TUNER<rt>チューナー</rt></ruby>とは、株式会社ニッポン放送が運営する[[マストドン]][[インスタンス]]である<ref>http://www.itmedia.co.jp/news/articles/1704/20/news150.html</ref>。
+
+== 概要 ==
+株式会社ニッポン放送が2017年4月20日に開設した主に同社のラジオについての話題を想定した[[インスタンス]]。2017年4月時点では試験運用中であるとしている。
+
+2018年7月9日時点では、アクセスできなくなっている。
+
+<blockquote>
+TUNER（チューナー）はニッポン放送が運営するMastodonのインスタンス（サーバー）です。 「ラジオを中心とした自由なコミュニケーションを楽しめる場」として、どなたでも幅広くご利用頂けます。国内・国外のどの局のラジオの話題をトゥートしていただいても構いません。
+</blockquote>
+
+== ルール ==
+<blockquote>
+* 公序良俗に反する投稿や行為はご遠慮ください。
+* 法に抵触する投稿、犯罪行為はおやめください。
+* 他者の権利を侵害する投稿は禁止です。
+* みんなが楽しいと思う空間にしましょう！
+</blockquote>
+
+== 出典 ==
+<references/>
+
+[[Category:企業が運用しているインスタンス]]
+[[カテゴリ:消滅したインスタンス]]

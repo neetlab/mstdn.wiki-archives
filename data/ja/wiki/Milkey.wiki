@@ -1,0 +1,7 @@
+'''Milkey'''とは、[[ActivityPub]]の[[分散SNS]]、Groundpolisのインスタンスである。{{Infobox instance
+| Name          = Milkey
+| Image         = [[ファイル:Milkey cream.png|500px|Milkey]]
+| Domain        = https://milkey.homes
+| Admin         = [https://machikadon.online/@SanctuarySakura/ 桜ヶ丘電信]
+| Country       = 日本
+| Start         = 2021年3月30日|Kifu=https://www.patreon.com/sakuraelec|SourceCode=https://github.com/Milkey-homes/groundpolis}}

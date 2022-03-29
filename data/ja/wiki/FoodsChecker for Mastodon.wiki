@@ -1,0 +1,32 @@
+{{Infobox software
+| Name                = FoodsChecker for Mastodon
+<!-- | Image               = [[ファイル:Amaroq.jpg|120px|Amaroq]] -->
+| Developer           = [[SH|S.H.]]
+| SourceCode          = [https://github.com/GAMELINKS/FoodsChecker.for.Mastodon GitHub]
+| Platform            = ウェブ
+| ProgrammingLanguage = Ruby
+| Launch              = 2018年3月6日 (β版<ref>https://gamelinks007.net/@S_H_/99636251133401289</ref>)
+<!-- | Kifu                = [https://paypal.me/floofdog PayPal] -->
+| License             = MITライセンス
+| Web                 = https://foods-checker-for-mastodon.herokuapp.com/
+<!-- | Download            = [https://itunes.apple.com/us/app/amaroq-for-mastodon/id1214116200 AppStore] -->
+}}'''FoodsChecker for Mastodon'''は、食品の管理を行える[[オープンソース]]のウェブアプリケーション。
+
+== 概要 ==
+ゲームリンクス代表であり[[Creatodon]]管理人のS.H.氏により2018年3月6日に公開されたウェブアプリケーション。
+
+食材や食品、またその保管場所などを登録し、それらの管理を容易にするもので、アカウント登録に[[Mastodon]]や[[Pleroma]]、[[GNU social]]のアカウントが利用できるのが特徴。
+
+PWA(Progressive Web Apps)としてスマホからも利用可能。
+
+iOSの場合はSafariから「ホーム画面へ追加」、Androidの場合はChromeから「ホーム画面へ追加」でスマホからも利用できるようになる。
+
+== 関連項目 ==
+* [[Creatodon]]
+
+==脚注==
+<references />
+
+[[category:ウェブサイト]]
+[[category:MITライセンス]]
+{{DEFAULTSORT:foodscheckerfor}}

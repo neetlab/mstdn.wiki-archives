@@ -1,0 +1,22 @@
+{{Infobox software
+| Name                = {{Ruby|Toot!|トゥート}}
+| Image               = [[ファイル:Toot-icon.jpg|120px|Toot!]]
+| Developer           = [https://mastodon.social/@eurasierboy Dag Ågren]
+| Platform            = iOS
+| Launch              = 2018年10月23日<ref name="launch">{{toot|mastodon.social|tootapp|100940370898640483}}</ref>
+| License             = [[プロプライエタリ]]
+| Web                 = [https://mastodon.social/@tootapp 公式アカウント], [https://github.com/DagAgren/toot/issues GitHub issues]
+| Download = [https://itunes.apple.com/jp/app/toot/id1229021451?mt=8 AppStore]
+}}Toot!とは、オープンソースのソーシャルネットワーク[[Mastodon]]のiOS向けクライアントである。
+
+== 概要 ==
+[[file:toot!.png|100px|thumb|right|Toot!の画面]]
+Toot!は、開発者の[https://mastodon.social/@WAHa_06x36 Dag Ågren]氏によって2018年5月5日に開発中であることが告知され<ref>[https://mastodon.social/@WAHa_06x36/99972795158007717 Dag Ågren氏のトゥート</ref>、2018年10月23日よりリリースされている<ref name="launch" />。
+
+Gitのソースツリーのようなリプライ表示や、複数インスタンスのタイムライン表示切り替えなどといった多くの機能、豊富なアニメーション表示などが特徴的である。
+
+== 出典 ==
+<references />
+
+[[Category:IOS用クライアント]]
+[[Category:プロプライエタリ]]

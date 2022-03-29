@@ -1,0 +1,155 @@
+'''Darknet連合対応インスタンスの一覧'''は、[[:wikipedia:ja:Tor|Tor]]や[[:wikipedia:ja:I2P|I2P]]といった[[:wikipedia:ja:ダークネット|darknet]]を経由した連合ネットワークを形成することに対応した、[[Mastodon]]や[[Pleroma]]などの[[分散SNS]]の[[インスタンス]]を掲載する。
+
+==概要==
+darknet内にあるサイトにアクセスする場合、ネットワーク毎に特別なソフトウェア(Tor/I2P)を起動させ、そこに対してプロクシを通させるようにクライアントを設定させる必要がある。Mastodonはバージョン2.4.0よりHTTPプロクシを使用できるようになったため、darknet中継に対応したプロクシを通じてdarknetにアクセスすることができるようになった。また、ユーザー情報を解決するために必要とされている処理がdarknetを通そうとすると阻まれてしまう問題があったが、管理者の明示的なオプション指定によってその阻ませる処理をバイパスさせることでdarknetを通した連合を形成することが可能になった。
+
+2.4.0以前にもTor対応を謳うインスタンスは存在したが、利用者に対してTorによるアクセスを受け付けていたというもので、インスタンス間のコミュニケーションを意図したものではなかった。そのようなインスタンスは掲載していない。
+
+==一覧==
+{| class="wikitable sortable"
+!サイト名
+!管理者
+!ソフトウェア
+!拠点
+!対応先
+!備考
+|-
+|[[MasTorDon (Mastodon)]]
+|[https://mastordon43zyheh.onion/@MasTorDon @MasTorDon]
+|Mastodon
+|Tor
+|Tor (v2 & v3 onion)
+|
+|-
+|[[Mastodon (Tor)]]
+|[http://nq5jmc5rsyo4fiph.onion/@root @root]
+|Mastodon
+|Tor
+|clr/Tor/I2P
+|
+|-
+|[http://5hftbbffiohmyugvc6vypyqhi6tl2yxo6wvyscybvv5c57pva3iq.b32.i2p Mastodon (I2P II)]
+|[http://5hftbbffiohmyugvc6vypyqhi6tl2yxo6wvyscybvv5c57pva3iq.b32.i2p/@root @root]
+|Mastodon
+|I2P
+|clr/Tor/I2P
+|
+|-
+|[[IPv6ドン]]
+|[https://mastodon.home.js4.in/@root @root]
+|Mastodon
+|clearnet
+|clr/Tor/I2P
+|Mastodon (Tor)と併せて、本実装の前にMastodonのdarknet対応の調査を行っていた
+|-
+|[https://js4.in/alttw/ オルタナティブついったー in JS4さくらVPS]
+|[https://js4.in/alttw/obsoletestandard @obsoletestandard]
+|GNU Social
+|clearnet
+|clr/Tor/I2P
+|
+|-
+|[https://md.xps2.net MBDon]
+|[https://md.xps2.net/@admin @admin]
+|Mastodon
+|clearnet
+|clr/Tor/I2P
+|
+|-
+|[http://6cuelujo3prytx3k.onion Pleroma/Tor]
+|[http://6cuelujo3prytx3k.onion/users/mevo @mevo]
+|Pleroma
+|Tor
+|clr/Tor
+|
+|-
+|[http://pleroma.oniichanylo2tsi4.onion oniifam]
+|[http://pleroma.oniichanylo2tsi4.onion/users/notjeff @notjeff]
+|Pleroma
+|Tor
+|clr/Tor
+|
+|-
+|[https://social.i2p.rocks i2p.rocks]
+|[https://social.i2p.rocks/users/jeff @jeff]
+|Pleroma
+|clearnet
+|clr/Tor
+|I2P経由のアクセスも可能[http://7ovtjstzxxqehxxeg6ahkgetu7umw2ewkwn6qg2g62cfabwzleta.b32.i2p]
+|-
+|[http://5z5ce433e2yp73jqm3yxmyh2yvcn33venhnm5trqde6uwjysxyy3gbad.onion Misskey(Tor)]
+|[http://5z5ce433e2yp73jqm3yxmyh2yvcn33venhnm5trqde6uwjysxyy3gbad.onion/@admin @admin]
+|Misskey
+|Tor
+|clr/Tor
+|
+|-
+|[https://banana.dog Banana.dog]
+|[https://banana.dog/@debugninja @debugninja]
+|Mastodon
+|clearnet
+|clr/Tor
+|
+|-
+|[https://mastodon.sergal.org Sergal.org]
+|[https://mastodon.sergal.org/@Sir_Boops @Sir_Boops]
+|Mastodon
+|clearnet
+|clr/Tor/I2P
+|Tor経由のアクセスも可能[http://izeljfc5nxetw7dm.onion][http://kcmykvkkt3umiyx4xouu3sjo6odz3rolqphy2i2bbdan33g3zrjfjgqd.onion]
+|-
+|[http://xi6uivuxxqvjzxx26bumnw6i542umnbqhwbahlj3m5zphk6a5iox6uid.onion autoBleroma]
+|[http://xi6uivuxxqvjzxx26bumnw6i542umnbqhwbahlj3m5zphk6a5iox6uid.onion/users/notkamp @notkamp]
+|Pleroma
+|Tor
+|clr/Tor
+|
+|-
+|[https://falafel.win Falafel]
+|[https://falafel.win/users/artik @artik]
+|Pleroma
+|clearnet
+|clr/Tor/I2P
+|Tor・I2P経由のアクセスも可能[http://xb6exkwqbdkf2zxsfkbm4lthj7jin4t4hvqku73o5ib6nlly3ww67wid.onion][http://djpn5cbcgmpumwcriuzqistbae66txca2j4apjd2xesfgb7r5zmq.b32.i2p/][http://falafel.i2p/]
+|-
+|[https://comm.cx comm.cx]
+|[https://comm.cx/@ikuradon @ikuradon]
+|Mastodon
+|clearnet
+|clr/Tor/I2P
+|-
+|[https://misskey.xps2.net Misskey X]
+|[https://misskey.xps2.net/@admin @admin]
+|Misskey
+|clearnet
+|clr/Tor/I2P
+|
+|-
+|[https://social.homunyan.com Homunyan]
+|[https://social.homunyan.com/@animeirl @animeirl]
+|Mastodon
+|clearnet
+|clr/Tor
+|
+|-
+|[https://social.device5.co.uk social.device5.co.uk]
+|[https://social.device5.co.uk/@paul @paul]
+|Mastodon
+|clearnet
+|clr/Tor
+|
+|-
+|[https://social.toromino.de TorominoSocial]
+|[https://social.toromino.de/users/Toromino @Toromino]
+|Pleroma
+|clearnet
+|clr/Tor
+|
+|}
+
+==外部リンク==
+
+*[https://qiita.com/obsolete-standard/items/97b1274fe0abf147f659 MastodonでTorインスタンスと連合ネットワークを組む方法、2.4.0版 - Qiita] — clearnet側、tor側で対応に必要な手順の解説など
+
+{{DEFAULTSORT:darknetれんこうたいおういんすたんすのいちらん}}
+[[Category:インスタンスの独自機能]]

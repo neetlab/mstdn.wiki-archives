@@ -1,0 +1,22 @@
+{{小文字}}
+'''パチトドン'''または'''パチハウス'''は、過去に存在したオープンソースのソーシャルネットワーク[[Mastodon]]の日本のインスタンスである。
+{{Infobox instance
+| Name          = パチトドン
+| Domain        = https://pachi.house
+| Admin         = [[合同会社きぼうソフト]]
+| Country       = 日本
+| Start         = 2017年4月27日
+| End           = 2018年1月4日<ref>https://now.kibousoft.co.jp/@kibousoft/99287385078444568</ref>
+}}
+
+== 概要 ==
+パチンコ／パチスロ関連の話題をメインにしている。話題の内容から、18歳未満の登録は禁止している。
+
+==名称について==
+'''パチハウス'''の名称で開設され、2017年8月30日<ref>[https://masto.news/2017/08/30/pachitodon/ 【名称変更】パチトドン（旧：パチハウス）]</ref>に'''パチトドン'''に改称された。
+
+== 脚注 ==
+<references />
+
+{{DEFAULTSORT:pachihouse}}
+[[Category:企業が運用しているインスタンス]]

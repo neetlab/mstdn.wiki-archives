@@ -1,0 +1,30 @@
+{{Infobox software
+| Name = Tooterminal
+| Image = [[ファイル:Koya tooterminal.png|300px]]
+| Developer = [[ぐすくま]]
+| SourceCode          = https://github.com/wd-shiroma/tooterminal
+| Platform = Webブラウザー
+| ProgrammingLanguage = JavaScript
+| Launch = 2017年8月20日
+| License             = [[MITライセンス]]
+| Web = https://wd-shiroma.github.io/tooterminal
+}}Tooterminalとは、オープンソースのソーシャルネットワーク[[Mastodon]]のWebブラウザー向けクライアントである。
+
+== 概要 ==
+
+2017年8月に[[ぐすくま]]によってリリースされた<ref>https://mstdn.jp/@shiroma/36176065</ref>オープンソースのCLI風Web向けクライアント。[[Halcyon]]など他のWebクライアント同様に[[Mastodon]]アカウントと連携し利用することができる。
+
+== 特徴 ==
+
+*クライアント起動と同時にCiscoIOS風のCLI画面が表示される。
+*CiscoIOSを模したコマンドを入力し、各種設定やインスタンスの操作などを行う。
+*CLIという特徴から、画面へ一度に表示できるトゥート数が多い。
+
+== 関連リンク ==
+*[https://github.com/wd-shiroma/tooterminal GitHub]
+
+== 出典 ==
+<references/>
+
+[[category:ウェブクライアント]]
+[[category:MITライセンス]]

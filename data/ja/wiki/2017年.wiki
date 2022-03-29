@@ -1,0 +1,374 @@
+{{small|←[[2016年]]・[[2018年]]→}}
+
+{{Stub}}
+
+当記事では'''2017年'''に起きたMastodon関連の出来事についてまとめる。
+
+=== 1月 ===
+;26日
+* [[Social.tchncs.de]]が開始。
+
+=== 2月 ===
+;4日
+* [[Icosahedron]]が開始。
+;6日
+* 最初のメジャーアップデートである'''バージョン1.0'''がリリース。
+;8日
+* [[Awoo.space]]が開始。
+;25日
+* [[social.diskseven.com]]が開始。
+
+=== 3月 ===
+;17日
+* iOSアプリ[[Amaroq]]がリリース。
+;24日
+* [[manx.social]]が開始。
+
+=== 4月 ===
+;1日
+* [[mastodon.xyz]]が開始。
+;3日
+* [[witches.town]]が開始。
+;4日
+* ニュースサイト「Motherboard」において「[https://motherboard.vice.com/en_us/article/783akg/mastodon-is-like-twitter-without-nazis-so-why-are-we-not-using-it Mastodon Is Like Twitter Without Nazis, So Why Are We Not Using It?]」が掲載。
+* ニュースサイト「The Verge」において「[https://www.theverge.com/2017/4/4/15177856/mastodon-social-network-twitter-clone Mastodon.social is an open-source Twitter competitor that’s growing like crazy]」が掲載。
+* [[Mastodon.cloud]]、[[Mastodon.club]]、[[Slime.global]]、[[toot.cafe]]、[[anticapitalist.party]]、[[Octodon]]、[[tootplanet.space]]が開始。
+;5日
+* [[Niu.moe]]、[[Toot.cat]]、[[cybre.space]]、[[from.komic.eu]]、[[mastodon.technology]]、[[im-in.space]]、[[bibeogaem.zone]]、[[mstdn.io]]が開始。
+;6日
+* [[Meow.social]]が開始。
+;7日
+* [[Ika.moe]]、[[botsin.space]]、[[a.weirder.earth]]が開始。
+* [[Mastodon Instances]]が開始。
+* ニュースサイト「The Verge」において「[https://www.theverge.com/2017/4/7/15183128/mastodon-open-source-twitter-clone-how-to-use A beginner’s guide to Mastodon, the hot new open-source Twitter clone]」が掲載。
+;8日
+* [[vulpine.club]]、[[mst3k.interlinked.me]]、[[metal.odon.space]]、[[mastodon.tokyo]]、[[masto.pt]]が開始。
+;9日
+* [[un.lobi.to]]、[[asonix.dog]]、[[mastodon.zombocloud.com]]、[[scifi.fyi]]が開始。
+;10日
+* [[pokemastodon.net]]、[[glitch.social]]が開始。
+* ニュースサイト「ASCII」の連載「遠藤諭のプログラミング＋日記」において「[http://ascii.jp/elem/000/001/465/1465842/ Twitterのライバル？　実は、新しい「マストドン」（Mastodon）とは！]」が掲載。
+;11日
+* [[Mastodon.nil.nu]]、[[Mstdn.maud.io]]、[[Kawasaki-city.social]]、[[Masto.ninja]]、[[simstim.club]]、[[Framapiaf.org]]が開始。
+;12日
+* [[Mastodon.nil.nu]]が[[Mstdn.jp]]に移転。
+* [[Mastodon.juggler.jp]]、[[mastodon.yokohama]]が開始。
+* scifi.fyiがデータベースをリセット。
+;13日
+* [[Kirakiratter.com]]、[[Mstdn.club]]、[[Sns.gdgd.jp.net]]、[[Meemu.org]]、[[is.a.qute.dog]]、[[Mastodon Onsen]]、[[卓ゲ箪笥]]が開始。
+* ニュースサイト「ITmedia NEWS」に「[http://www.itmedia.co.jp/news/articles/1704/13/news131.html ポストTwitter？　急速に流行中「マストドン」とは]」が掲載。
+* 英文版WIREDにおいて「[https://www.wired.com/2017/04/like-twitter-hate-trolls-try-mastodon/ Like Twitter But Hate the Trolls? Try Mastodon]」が掲載。
+;14日
+* [[Pawoo]]、[[Imastodon.net]]、[[Mostodon.net]]、[[Mstdn-workers.com]]、[[Mstdn.blue]]、[[Mastdn.barippi.com]]、[[chitter.xyz]]、[[妄想鱒丼]]、[[Oransns.com]]が開始。
+* [[Mastodonランキング]]が公開される。
+* '''[[マストドン日本語ウィキ]]が公開される。'''
+;15日
+* [[O.kagucho.net]]、[[Kero.ccsakura.jp]]、[[Ekimemo.info]]、[[Pritter.tk]]、[[Mstdon.onosendai.jp]]、[[Bekospace]]、[[Mastodon.ART]]や、&nbsp;[[tenforward.social]]、[[wandering.shop]]、[[Mstdn.web4u.jp]]、[[mastodon.sylphid.jp]]、[[mstdn.kemono-friends.info]]が開始。
+* [[マストドン検索ポータル]]が公開される。
+* ITmediia NEWSで連載「[[マストドンつまみ食い日記]]」が開始。
+* [[Mstdn.jp]]がさくらインターネットのクラウドサーバーに移転し、データベースがリセット。
+* Pawooの“2次ロリエロ”コンテンツが海外のインスタンスで問題視され、多くのインスタンスにブロックされる。
+* Mastodon.cloudにおいて「[[クラウド女学院]]」の流れが生まれる。mstdn.jpにおいて「[[膣ヶ丘高校]]」の流れが生まれる。
+* [[List of instances of Mastodon in Japan]]が公開。
+;16日
+* [[Jp-mstdn.com]]、[[Kibousoft Now]]、[[Mstdn.hokkaido.jp]]、[[山陰Mastodon]]、[[Vocalodon]]、[[Mstdn.taiha.net]]、[[YontengoP]]、[[4com.jp]]、[[特務機関NERV]]、[[Dqfan.club]]、[[KINUGASA]]、[[Poyo.me]]、[[Aqua Graphic]]が開始。
+* Pawooのブロック問題がGitHubで議論される。
+;17日
+* [[Mammut.red]]、[[Gensokyo.cloud]]、[[Mstdn.osaka]]、[[Eletusk]]、[[clover.social]]、[[computerfairi.es]]、[[mellified.men]]や、&nbsp;[[Hokutodon.co]]、[[マストドン.jp]]、[[mastodon.bitbank.cc]]が開始。
+;18日
+* [[Mstdn.plus]]、[[グンマストドン]]、[[おたじょどん]]、[[Mastodon淫夢]]、[[Oriwebdon.com]]、[[Yukari.cloud]]が開始。
+* [[日本のマストドンインスタンスの一覧 (ウェブサイト)]]、[[Mastodon(マストドン)のインスタンス一覧 (coron)]]が公開。
+;19日
+* [[friends.nico]]、[[Mastodon.nara.jp]]、[[カラスタンス]]、[[Catdon]]、[[Mstdn.nere9.help]]、[[Horiedon.com]]、[[Kibousoft Now]]、[[RO丼]]、[[スノー丼]]が開始。
+* [[Mastodon検索サイト]]が公開。
+;20日
+* [[3.nu]]、[[Mstdn-kanazawa.jp]]、[[TUNER]]、[[Mstdn.oresys.nagoya]]、[[FF14-Mastodon]]、[[FGOチホー]]、[[車好き Mastodon]]、[[mstdnaart.net]]、[[Mimumedon]]、[[Mstdn.Camera]]、[[キャブどん]]、[[Mastodol]]が開始。
+;21日
+* [[Mikumikudance.cloud]]、[[Mastodon 大分]]、[[ヨミドン]]、[[十日町市のMastodon]]、[[mastodon.nara.jp]]が開始。
+* [[Nullkal]]氏がドワンゴへの入社を発表。
+;22日
+* [[Nekotodon.com]]、[[Mstdn.niigata.jp]]、[[ダイハードテイルズネット]]、[[im.notreal.pw]]が開始。
+;23日
+* [[Grimoire.kanzakiranko.jp]]、[[Mstdn.fukuoka.jp]]、[[Flower.afn.social]]、[[映画ドン]]、[[映像丼]]、[[Ftb.moe]]、[[mental.social]]が開始。
+* [[Subway Tooter]]が公開。
+;24日
+* [[西宮 in Net]]、[[Saigodon]]、[[野球ドン]]、[[Saigodon]]、[[Chofudon.tokyo]]、[[Mathtodon]]、[[Kirby-fans.com]]が開始。
+* [[Masto.Host]]がスタート。
+;25日
+* [[Akitadon.info]]、[[Tekkadon.manimani.cc]]、[[くまもとん]]、[[Hokutodon.com]]が開始。
+* iOSアプリの[[Mustor|Mastodon - iOS]]がリリース。
+;26日
+* [[Don.akashi.cloud]]、[[クック丼]]、[[囲碁○新米●倶楽部]]、[[Kakudon.com]]、[[Maltdn.com]]が開始。
+* [[マイニュー]]が開始。
+;27日
+* [[Pachi.house]]、[[MASTODON FISHING]]、[[Swiftドン]]、[[Botdon]]、[[elekk.xyz]]、[[emojidon.global]]、[[lgbt.io]]、[[つるが.net]]が開始。
+* 株式会社角川アスキー総合研究所主催のイベント「マストドン会議 ―― その無限の可能性を、いま語らずしていつ語らう！ ～コミュニティもマーケティングも揺るがすTwitterのライバル出現～」が開催。
+;28日
+* [[ナチュドン アウトドア]]、[[Basstdn.jp]]、[[Mastodon in アキバ]]が開始。hokutodon.comが消滅。
+;29日
+* [[チムドンドン]]、[[まちトドン]]が開始。clover.socialが[[hokutodon.co]]に改名。
+* [[マストドンインスタンスリンク集＠日本サーバー]]が公開。
+;30日
+* [[Odorite.tokyo]]が開始。
+
+=== 5月 ===
+;1日
+* [[kitty.town]]、[[クラゲ丼]]、[[マストドンin小諸]]が開始。
+* [[トレンドン]]が公開。
+;2日
+* [[NaGaNoDoN ナガノドン]]、[[Niigata.minnna.xyz]]、[[山陰交通丼]]、[[マストどす]]、[[長崎は今日も Mastodon]]、[[Creatodon]]、[[ヒゲメガネ丼]]、[[やますとどんJP]]、[Danshudon.jp]]、[[艦ます]]が開始。
+* [[ムトー★マストドンホスティング|ムトー★無料マストドン]]が公開。
+;3日
+* [[限界インスタンス]]が開始し、消滅。
+* インプレスR&Dから書籍「これがマストドンだ！」が発売。
+;4日
+* [[INADON 伊那丼 イナドン]]が開始。
+;5日
+* [[Chibadon-ちばどん-]]、[[Cosp.me]]が開始。
+;6日
+* [[scalie.club]]、[[foodon]]が開始。
+;7日
+* [[佐賀トドン]]
+;8日
+* [[マストドン-富山]]、[[マストドン@埼玉連邦]]が開始。
+;9日
+* [[Musicdn.jp]]が開始。
+* [[マストドン速報]]がスタート。
+;11日
+* [[銀河丼]]が開始。
+;12日
+* [[はまどん]]が開始。
+* [[Tootdon]]が公開。
+;13日
+* [[Mastodon Kyoto]]、[[竹トドン]]、[[IPv6ドン]]が開始。
+;14日
+* [[Mastodon.gifu.jp]]が開始。
+;15日
+* [[和歌山丼]]、[[ナチュドンフィッシング]]、[[Mastodon.shortnote.jp]]が開始。
+;17日
+* [[三重スト丼]]が開始。
+* 株式会社角川アスキー総合研究所主催のイベント「マストドン会議2 ― Mastodonにインスタンスを立てる理由～そして実装の課題」が開催。
+* Webクライアント[[Naumanni]]が公開。
+;18日
+* [[じゃんけんでデスゲームするMastodon!]]が開始。
+;19日
+* [[Qiitadon]]が開始。
+;20日
+* '''[[Joinmastodon.org]]が公開。'''
+;22日
+* [[theshadowrealm.party]]、[[mstdn.shizuoka.jp]]が開始。
+;23日
+* [[片思い確認くん]]が公開。
+;24日
+* [[Mostodon.info]]が開始。
+* [[マストドンリアルタイム検索]]が公開。
+;26日
+* フォルティアコミュニケーションズから「[[foltia ANIME LOCKER]] 5.0 [with Mastodon]」が発表。
+;27日
+* [[Acg.mn]]が開始。
+* [[Becodon|Bekospace]]が消滅。
+;28日
+* [[Halcyon]]が公開。
+* INADON 伊那丼 イナドンが消滅。
+;29日
+* [[Mastodon for Monappy]]が開始。
+* Mastodonバージョン1.4.1が公開。
+;30日
+* [[YAMAGATADON]]、[[dotopia.dk]]が開始。
+
+=== 6月 ===
+;1日
+* [[Tegedon]]、[[THINKERS.AC]]が開始。
+;2日
+* [[いばらきどん]]が開始。
+* [[Tootsearch]]が公開。
+;3日
+* [[モケイドン]]が開始。
+;5日
+* mastodon.shortnote.jpが終了。
+;6日
+* [[ミニ四駆DON]]が開始。
+;8日
+* [[Googoldon]]が開始。
+;10日
+* 株式会社角川アスキー総合研究所主催のイベント「マストドン会議3 ― ようこそ、Mastodon への “願望” と “思想” が交わる一日へ」が開催。
+;12日
+* 株式会社角川アスキー総合研究所主催のイベント「マストドン会議4 『地域インスタンスが、日本の経済も遊びも活性化する』」が開催。
+;13日
+* Mastodonホスティングサービス[[Hostdon]]が開始。
+;15日
+* [[Pawoo#Pawoo Music|Pawoo Music]]が開始。
+;18日
+* [[Instances List]]が公開。
+;19日
+* ムトー★無料マストドンが正式リリース。
+;26日
+* マイナビ新書から書籍「マストドン 次世代ソーシャルメディアのすべて」が発売。
+* ボカロ丼から「Vocalodon VST」がリリース。
+; 27日
+* [[Julika]]、[[Foresdon.jp]]が開始。
+;29日
+* [[MastoDongene 宮崎]]、[[高知どん]]、[[Catgram]]、[[YukaIAdon]]が開始。
+
+=== 7月 ===
+;1日
+* 墓場人夜氏によるイベント「[[分散SNSフォーラム]]#1」が開催。
+;5日
+* 「マストドンつまみ食い日記」が書籍化。
+;6日
+ソーテック社から書籍「Mastodon入門ガイド」が発売。
+;11日
+* とよの ていねインスタンスが消滅。
+* Mstdn.osakaの公式iOSアプリが公開。
+* ウェブサイト「分散SNSフォーラム」が公開。
+;16日
+* [[Bookwor.ms]]が開始。
+;19日
+* [[岩手丼]]が開始。
+; 20日
+* [[Wugtodon]]、[[Anisodon]]、[[ふたば丼]]が開始。
+;23日
+* [[ひろしますとどん]]が開始。
+;25日
+* [[Edge.mstdn.jp]]が開始。
+;27日
+* [[S&II Mastodon]]が開始。
+;28日
+* [[日本語ポーランドボール板]]が開始。
+;29日
+* SF作家でお一人様インスタンス[[ostatus.taiyolab.com]]管理人の藤井太洋氏がマストドンを題材に書いた中編小説「巨象の肩に乗って」が月間文芸誌の「小説現代」に掲載される。
+
+=== 8月 ===
+;3日
+* [[海峡交通嘟嘟]]が開始。
+;17日
+* [[KADOKAWA丼]]が開始。
+;18日
+* [[ギリメカラ]]が公開。
+;19日
+* Mastodon Developers Kaigi #0 が開催。
+;20日
+* [[Tooterminal]]が開始。
+;23日
+* TootdonのAndroid版が公開。
+* [[Iyher.club]]が開始。
+;26日
+* [[Knzk.me|神崎丼]]が開始。
+;31日
+* [[Cmx.im]]が開始。
+
+=== 9月 ===
+;1日
+* [[Ichiji.social]]が開始。
+;2日
+* [[Becodon]]、[[Theboss.tech]]が開始。
+* [[マストポータル]]が開始。
+* 「[[分散SNSフォーラム]]#2」が開催。
+;3日
+* [[中仙ドン]]が開始。
+;5日
+* 神崎丼がサーバーを移転。
+;12日
+* [[长毛象.com]]、[[Hearthtodon]]が公開。
+;15日
+* インターリンクより書籍「[[自宅・ノートPCインスタンス構築ガイド～マストドンを持って街へ出よう！～]]」が発売。
+;16日
+* [[V1x3n.net]]が開始。
+;17日
+* [[ポケマス]]が開始。
+* MastodonホスティングサービスのHostdonが正式サービスに移行。
+;18日
+* [[Mastodon.onion]]が開始。
+* [[soscet.network]]が開始。
+;23日
+* [[Md.distsn.org]]が開始。
+;29日
+* [[マ]]が開始。
+;30日
+* [[オランダに住む日本人のためのマストドン]]が開始。
+=== 10月 ===
+;1日
+* [[Mastodon.wine]]が開始。
+; 4日
+* [[Kirishima.cloud]]が開始。
+;5日
+* [[Manhodon]]が開始。
+;6日
+* [[TootCloud]]が公開。
+;10日
+* [[fla.red]]が開始。
+* [[iconDecotter]]がMastodonに対応。
+;12日
+* Knzk.meの公式アプリKnzkAppのAndroid版がリリース。
+;14日
+* [[Tomitodon]]が開始。
+;16日
+* [[Bangdream.space]]、[[mao.daizhige.org]]が開始。
+;18日
+* Mastodonのバージョン2.0.0がリリース。
+;19日
+* [[フリラ@Mastodon]]が開始。
+;21日
+* [[いわみどん]]、[[ベイブレー丼]]が開始。
+;23日
+* [[0x2a.club]]が開始。
+;24日
+* [[MIKUSPOT]]が公開。
+;26日
+* [[カスタム絵文字でお絵かきツール]]が公開。
+
+=== 11月 ===
+;7日
+* オランダに住む日本人のためのマストドンが終了。
+;9日
+* [[Gamers.social]]が公開。
+;10日
+* [[Null0000.m.to]]が公開。
+;13日
+* [[Mastodon日本語メタフォーラム]]が開始。
+;14日
+* [[DANCE-DANCE-DANCE.SPACE]]が開始。
+;15日
+* [[マストドンユーザーマッチング]]が公開。
+;19日
+* [[Abyss.fun]]が開始。
+;23日
+* [[どうぶつの森マストドンインスタンス]]、[[Ancr.club]]が開始。
+;24日
+* Knzk.meが大幅アップデートを敢行。
+* List of instances of Mastodon in Japanが公開終了。
+;25日
+* [[フォローリンク]]が公開。
+
+=== 12月 ===
+;1日
+* [[Mastodon (Darknet)]]、[[okinawa-mstdn.okinawa]]が開始。
+* [[Aqua Graphic]]が終了。
+;2日
+* '''Mastodonの総[[アカウント]]数が100万人を突破。'''
+;4日
+* Knzk.meが11月24日に次いで大幅アップデートを実施。
+;9日
+* [[Quesdon]]が公開。
+;11日
+* [[Julika]]のサービス終了がアナウンスされる。
+;12日
+* [[艦これ マストドン泊地]]が開始。
+* ホスティングサービスのhostdonがさくらインターネットの支援を受けることを発表した。
+;13日
+* [[Mastodon (I2P)]]が開始。
+;14日
+* [[nullkal]]氏の[[Twitter]]アカウントが凍結される。
+;15日
+* [[a.daizhige.org]]が開始。
+;18日
+* [[ひろしますとどん]]が終了。
+;19日
+* [[syuwa.fun]]が開始。
+;21日
+* [[Sousaku.club]]が終了。
+;26日
+* [[Julika]]が終了。
+
+{{DEFAULTSORT:2017ねん}}
+[[category: 年別の出来事|*]]

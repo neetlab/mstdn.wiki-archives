@@ -1,0 +1,61 @@
+{{Infobox software
+| Name = <ruby>Twitter<rt>ツイッター</rt></ruby>
+| Image = [[ファイル:Twitter.png|300px|燃やせ]]
+| Developer = Twitter
+| Platform = Web, Android, iOS, Chrome, Windows, macOS
+| Launch = 2006年3月21日
+| Web = https://twitter.com
+}}
+<ruby>Twitter<rt>ツイッター</rt></ruby>とはTwitter社によって運営されているサービスである。当記事では[[Mastodon]]におけるTwitterについて説明する。Twitterの詳細については[[:wikipedia:ja:Twitter|Wikipediaの記事を参照のこと]]。
+
+== 概要 ==
+Twitterは[[Mastodon]]において、それ自身がTwitterの弱点を克服したサービスを目指して作られた事もあり、実に共通点は多い。
+
+そのため、MastodonのUIをTwitter風にしたクライアントも公開されている（[[Halcyon]]）。
+
+== MastodonにおけるTwitter ==
+
+=== ユーザー分布 ===
+
+*Mastodonのユーザーの中にはTwitterから移行してきて、Twitterの文化をそのまま持ち込んでいるユーザーも数多くみられる。まだ開発されて間もないころ、[http://www.theverge.com/2017/4/4/15177856/mastodon-social-network-twitter-clone TheVerge]や[http://ascii.jp/elem/000/001/465/1465842/ ASCII.jp]などのニュース媒体が記事を「拡散」し、それをTwitterで見かけたユーザーも数多いとされ、実際にTwitterでは日本国内で「マストドン」というワードが日を跨いでトレンドに表示された期間があった<ref>https://twitter.com/jptrend/status/852521766102614018</ref> <ref>https://twitter.com/jptrend/status/852733157967183872</ref>。
+
+* しかし、逆に、Twitterユーザーに対して抱く感情は各インスタンスによって大きく異なり、「Twitter関連のものは排斥するべき」という風潮のインスタンスもあればTwitterの雰囲気がそのまま持ち込まれているインスタンスもある。従って自分のインスタンス内でのTwitterの立ち位置に注意してトゥートした方が良いかもしれないので注意が必要である。
+
+=== 類似点 ===
+従来、[https://mastodon.social/about/ 商用プラットフォームの代替となる分散型]のサービスとなる目的で開発されたMastodonは、そのプラットフォームの仕組みこそは異なるものの、多くの点をTwitterから引き継いでいる。
+
+*[[タイムライン]]はTwitterから引き継がれ、フォローしたユーザーのみが表示される[[ホーム]]が継承された。かつてTwitterにはMastodonで言うところの[[ローカルタイムライン]]や[[連合タイムライン]]にあたる、全ユーザーのツイートが表示される「パブリックタイムライン」という同様のタイムラインが存在していたが、現在は廃止されている。
+
+*[[フォロー]]機能はTwitterと全く同じである。ただし異なる[[インスタンス]]のユーザー間でフォローを行う場合は[[リモートフォロー]]が必要。
+
+*[[お気に入り]]機能とそのアイコンは従来のTwitterから継承された名称(英:Favorite)であるが、現在Twitterは「いいね」に名称及び機能を変更している<ref>http://gigazine.net/news/20151104-twitter-fav-heart/</ref>。
+
+*[[リツイート]]機能は[[ブースト]]として継承された。
+
+=== 相違点 ===
+
+上とは異なり、MastodonはTwitterのある意味「弱点」である点を多く克服している。
+
+*ツイートの文字数が140文字なのに対して、[[トゥート]]の文字数は500文字まで使えるようになっている。
+
+*Mastodonではタイムラインのストリーミング（自動更新）をデフォルトで実装しており、利用可能。TwitterではAPIとしてストリーミングが提供されていたが、2018年8月をもって廃止された。
+
+*Twitterのような商用プラットフォームとは異なり、個人のサーバーさえあればサービスを始めることが出来る。そのためユーザーはプラットフォームに縛られる必要がない。
+
+*その副作用として[[インスタンス]]が複数のサーバーにまたがることで、トゥートのキャッシュが残ってしまう問題や、国家間での法律の差で利用規約上の問題がある。
+
+=== 「ライバル」としてのTwitter ===
+
+*上記の通り、類似点と差異がはっきりと別れているためしばしば「ライバル」として扱われることがある<ref>http://ascii.jp/elem/000/001/465/1465842/</ref> <ref>https://it.srad.jp/story/17/04/12/1347222/</ref> <ref>http://www.sankei.com/economy/news/170416/ecn1704160006-n1.html</ref>。
+
+== 出典 ==
+<references/>
+
+== 関連項目 ==
+* [[鳥]]
+* [[鳥貴族]]
+* [[渡り鳥]]
+
+{{DEFAULTSORT:twitter}}
+[[category:ミニブログ]]
+[[Category:プロプライエタリ]]

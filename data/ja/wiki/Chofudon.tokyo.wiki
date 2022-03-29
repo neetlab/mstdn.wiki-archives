@@ -1,0 +1,27 @@
+{{小文字}}
+{{Infobox instance
+| Name          = {{Ruby|'''Chofudon'''|チョウフドン}}
+| Domain        = https://chofudon.tokyo/
+| Admin         = [https://chofudon.tokyo/@jishiha Junya Ishihara]
+| Country       = 日本
+| Start         = 2017年4月24日
+| End = 不明
+| Kifu          = なし
+| Alias         = なし
+}}{{Ruby|'''Chofudon'''|チョウフドン}}は、オープンソースのソーシャルネットワークMastodonの[[インスタンス]]。
+
+== 概要 ==
+東京都調布市に関する話題がテーマのインスタンスである。
+
+独自機能として「位置情報付きトゥート」機能があり、公開範囲選択から設定が可能。使用すると、トゥートした地点の位置情報がトゥートに埋め込まれる<ref>https://github.com/champierre/mastodon/pull/2</ref>。
+
+2017年11月頃には[[セキュリティ証明書]]が期限切れとなっていたが、2018年4月現在、完全消滅状態となっている。
+
+== 出典 ==
+<references />
+
+== 関連項目 ==
+* [[都道府県のインスタンス一覧]]
+
+{{DEFAULTSORT:ちょうふ}}
+[[Category:独自機能が実装されたインスタンス]]

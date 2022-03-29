@@ -1,0 +1,23 @@
+{{stub}}
+{{Infobox software
+| Name                = postActiv
+| Image               = [[ファイル:PostActiv_logo.png|postActiv]]
+| Developer           = Maiyannah Bishop
+| SourceCode          = http://gitea.postactiv.com/postActiv/postActiv
+| Platform            = ウェブ
+| ProgrammingLanguage = PHP
+<!-- | Launch              = 2017年3月17日 -->
+<!-- | Kifu                = [https://paypal.me/floofdog PayPal] -->
+| License             = [[GNU Affero General Public License]]
+| Web                 = https://www.postactiv.com
+<!-- | Download            = [https://itunes.apple.com/us/app/amaroq-for-mastodon/id1214116200 AppStore] -->
+}}'''postActiv'''は、[[GNU social]]から派生した[[分散SNS]]。
+
+==インスタンス一覧==
+[[Fediverse Network]]はpostActivのインスタンス一覧を提供している。
+
+==外部リンク==
+* https://www.postactiv.com/docs/ - 公式ドキュメント
+[[category:分散SNS]]
+[[category:GNU Affero General Public License]]
+{{DEFAULTSORT:postactiv}}

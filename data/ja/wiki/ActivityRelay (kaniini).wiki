@@ -1,0 +1,27 @@
+{{混同|Activity-Relay}}
+{{Infobox software
+| Name                = ActivityRelay
+<!-- | Image               = [[ファイル:Amaroq.jpg|120px|Amaroq]] -->
+| Developer           = kaniini
+| SourceCode          = https://git.pleroma.social/pleroma/relay
+<!-- | Platform            = -->
+| ProgrammingLanguage = Python 3.5
+| Launch              = 2018年11月19日<ref>https://pleroma.site/notice/8572379</ref>
+<!-- | Kifu                = [https://paypal.me/floofdog PayPal] -->
+| License             = [[GNU Affero General Public License]]
+| Web                 = https://relay.pleroma.site
+}}'''ActivityRelay'''は、[[ActivityPub]]を用いる[[分散SNS]]のリレーサーバーの実装。
+
+==インスタンス==
+* https://relay.pleroma.site
+* [[Fediverse Network]]は[https://fediverse.network/activityrelay ActivityRelayインスタンス一覧] を提供している。
+
+==名称について==
+'''relay'''という名称で言及されることがある<ref>[https://blog.yukimochi.jp/2018/12/fediverse-with-relay.html 連合リレーと Activity Relay]</ref>が、relayはリポジトリの名称<ref>https://git.pleroma.social/pleroma/relay</ref>であり、ソフトウェアの名称としては'''ActivityRelay'''である。
+
+==脚注==
+<references />
+
+{{DEFAULTSORT:activityrelaykaniini}}
+[[category:リレーサーバー]]
+[[category:GNU Affero General Public License]]

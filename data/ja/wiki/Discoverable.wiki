@@ -1,0 +1,19 @@
+{{小文字}}'''discoverable'''は、[[ActivityPub]]のActorに追加されたフラグ。もとは[[Mastodon|マストドン]]による独自拡張で、マストドンの[[Profile directory]]に掲載されることをユーザーが許可しているかどうかを他のインスタンスに伝える<ref>[https://github.com/tootsuite/mastodon/pull/11688 Add profile directory to web UI #11688]</ref>ために導入された。デフォルトでは無効であり、設定画面の'''List this account on the directory''' (日本語では'''ディレクトリに掲載する''') で有効にすることができる。
+
+==その他の応用==
+[[マストドンユーザーマッチング]] (廃止。当該項目参照。) と[[Fediverse Observer (墓場人夜)|Fediverse Observer]] (廃止。当該項目参照。) と[[Who To Follow For Mastodon & Pleroma]]は、ActivityPubのdiscoverableフラグがfalseであるユーザーを推挙の対象外としている<ref>https://whotofollow.tk/</ref>。
+
+なお、検索エンジン拒否の意思表示としてdiscoverableフラグを使用することの是非について、[[Gargron]]は、使えなくもないが微妙に意味が異なる<ref>https://github.com/tootsuite/mastodon/pull/7822#issuecomment-535689472</ref>という見解である。
+
+==他の分散SNSとの関係==
+[[Pleroma]]はdiscoverableフラグをActivityPubを通じて送出することができる<ref>[https://git.pleroma.social/pleroma/pleroma/merge_requests/1641 Activitypub/Add `discoverable` parameter in ActivityPub actor !1641]</ref>。これは、デフォルトでは無効であり、設定画面の'''Allow discovery of this account in search results and other services''' (やさしいにほんごでは、'''けんさくなどのサービスで、このアカウントをみつけてもよい''') で有効にすることができる。これにより、PleromaのユーザーをマストドンのProfile directoryに出現させることが可能になる。
+
+[[ファイル:Pleroma user in mastodons prodile directory.png|480px|none]]
+<small>マストドンインスタンス ([[mastodon.social]]) のProfile directoryにPleromaのユーザー (グリッドの右上、頭にひまわりを乗せた黒人の女の子のアイコンとヘッダー画像) を表示させた例。</small>
+
+==脚注==
+<references />
+
+{{DEFAULTSORT:discoverable}}
+[[category:ActivityPub]]
+[[category:マストドンの機能]]

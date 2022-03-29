@@ -1,0 +1,35 @@
+{{小文字}}
+{{unreachable|year=2017|month=10}}
+{{ruby|[[mammut.red]]|まむーと れっど}}とは、オープンソースのソーシャルネットワーク[[Mastodon]]の日本語向けインスタンスである。
+
+{{Infobox instance
+| Name          = [[mammut.red]]
+| Domain        = https://mammut.red
+| Admin         = [https://mammut.red/@Tatsuki Tatsuki]
+| OS            = CentOS
+| Country       = 日本国
+| Start         = 2017年4月17日
+| Kifu          = 
+| Alias         = Mammut マムート
+}}
+
+== 概要 ==
+
+[[Tatsuki]]と[[なかっちゃん]]によって2017年4月17日に公開されたインスタンスである。
+
+基本的に内容に制限は無い。技術系の話題が多め。
+
+尚、ドメイン名にある<ruby>Mammut<rt>まむーと</rt></ruby>は、約4000万年前から11000年前まで生存していた大型哺乳類「マストドン」の学名である。
+
+2017年10月現在、消滅状態にある。
+
+== ローカルルール ==
+
+<blockquote>
+* 日本の法律は厳守して下さい
+* 意図的にサーバーに負荷を掛けるような行為はしないで下さい(バルス等の呪文は手動詠唱である場合に限り、他のインスタンスに迷惑を掛けない範囲で使用して構いません)
+</blockquote>
+
+{{DEFAULTSORT:mammutred}}
+[[category: 日本のインスタンス]]
+[[Category:消滅したインスタンス]]

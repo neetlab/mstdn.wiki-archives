@@ -1,0 +1,28 @@
+'''o.kagucho.net'''とは、東京理科大学のサークルの一つである[https://kagucho.net/ 神楽坂一丁目通信局]が運営している、オープンソースのソーシャルネットワーク[[Mastodon]]のインスタンスである。
+
+{{Infobox instance
+| Name          = '''o.kagucho.net'''
+| Domain        = <s>https://m.kagucho.net</s><br /> https://o.kagucho.net
+| Admin         = [https://o.kagucho.net/@173210 神楽坂一丁目通信局]
+| OS            = CentOS7<ref>http://173210.github.io/kagucho</ref>
+| Country       = 日本
+| Start         = 2017年4月15日
+}}
+
+== 概要 ==
+
+このインスタンスは、東京理科大学のサークルである神楽坂一丁目通信局<ref>[http://www.stdass.jp/index.php?id=00052 団体リスト（文化系）]</ref>のメンバー向けであるとなっており、新規登録ができない<ref>[https://o.kagucho.net/about o.kagucho.net - Mastodon]に「このインスタンスは神楽坂一丁目通信局の局員専用なのです.」と記載がある</ref>。
+
+神楽坂一丁目通信局にはWeb部という内部組織が存在するが<ref>[https://kagucho.net/#clubs 神楽坂一丁目通信局#活動別紹介]</ref>、Web部部長である[https://twitter.com/173210 173210]氏が<ref>[https://twitter.com/173210/status/800291945956290560 https://twitter.com/173210/status/800291945956290560]</ref>2017年4月15日に'''m.kagucho.net'''として公開した<ref>[https://m.kagucho.net/@173210/1 <s>https://m.kagucho.net/@173210/1</s>'''（リンク切れ）'']</ref><ref>[https://m.kagucho.net/@yumetodo/2 <s>https://m.kagucho.net/@yumetodo/2</s>''（リンク切れ）'']</ref>。サーバーはIDCFクラウド<ref>[https://m.kagucho.net/@173210/528 <s>https://m.kagucho.net/@173210/528</s>''（リンク切れ）'']</ref>。
+
+その後2017年4月27日にインスタンスがリセットされドメインが'''o.kagucho.net'''に変更されている<ref>[https://o.kagucho.net/@173210/1 https://o.kagucho.net/@173210/1]</ref>。
+
+Dockerをつかってインスタンスを構築しているところが多い中、サーバーのメモリー不足からDockerを使わず<ref>メモリは1GBしかない [https://m.kagucho.net/@173210/523 <s>https://m.kagucho.net/@173210/523</s>''（リンク切れ）'']</ref>、SELinuxを適用したCentOS7環境で運用されている。
+
+このインスタンスにおけるSELinuxのポリシーは[https://gist.github.com/akihikodaki/b47dcbdc51c9d95bc0748418442850c8 A SELinux policy module for Mastodon]にて公開されている。
+
+== 出典 ==
+<references/>
+
+{{DEFAULTSORT:mkaguchonet}}
+[[category:消滅したインスタンス]]

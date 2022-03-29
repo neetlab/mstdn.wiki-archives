@@ -1,0 +1,58 @@
+{{Infobox instance
+| Name          = {{Ruby|'''Best-friends.chat'''|ベストフレンズ.チャット}}
+| Image         = [[ファイル:Mastodon_logo.png|120px|Mastodon]]
+| Domain        = https://best-friends.chat
+| Admin         = Team Best Friends
+*{{account|user=rosylilly|instance=best-friends.chat|link=yes}}
+*{{account|user=masarakki|instance=best-friends.chat|link=yes}}
+| Country       = 日本国
+| Start         = 2019年4月7日（β公開）<br />2019年4月10日（正式公開）
+| Kifu          = [https://www.patreon.com/best_friends Patreon]
+| SourceCode    = [https://github.com/best-friends/mastodon GitHub]
+| Alias         = ベスフレ
+}}
+'''Best-friends.chat'''とは、[[分散SNS]]、[[Mastodon]]の[[インスタンス|サーバー]]の一つである。
+
+==概要==
+株式会社ドワンゴによって約2年運用され世界的なユーザー数を誇った[[friends.nico]]が2019年4月28日19時をもって終了することが決定<ref>[https://blog.nicovideo.jp/niconews/105071.html friends.nico サービス終了のお知らせ]</ref>したのを受けて、同サーバーの運営スタッフの一部によって独自に開設されたサーバーである<ref>[https://www.itmedia.co.jp/news/articles/1904/10/news095.html friends.nicoの移住先が開拓された　第二期マストドンインスタンスは「Best Friends」]</ref>。
+
+2019年4月10日に正式公開が行われ元サーバーのユニークユーザーの多くが移転したことにより、開設から4日で400人を超し、ローカルタイムラインが元サーバーと同様の流速となった。
+
+主に[[friends.nico]]の文化を踏襲しており、ローカルタイムラインで会話が行われるのが特徴である。また、そのためにローカルタイムラインがデフォルトでホームの位置に表示されるカスタムが行われている。
+
+==寄付==
+friends.nicoは企業で運用されていた影響で寄付の募集は一切無かったが、当サーバーは運営チーム個人による運用であるため、Patreonを通じてユーザーからの寄付を募っている。
+
+寄付者のことは寄付プランが各種鳥類の名前であることに因み'''Birds'''と呼称され、プランに応じた特典を得ることができる。
+
+1ドルのプラン「Chick/ヒヨコ」は、運営チームの開発[[Discord]]の観覧権を得ることができる。
+
+5ドルのプラン「Chicken/ニワトリ」は、同[[Discord]]の観覧権を得ることができる。（「Chick/ヒヨコ」との違いはTIERSのみ）
+
+10ドルのプラン「Eagle/ワシ」では、同[[Discord]]の観覧および書き込みが可能となり、マストドンのテストサーバーへのアカウント作成ができるようになる。
+
+20ドルのプラン「Pigeon/ハト」は同[[Discord]]の観覧および書き込みが可能となり、マストドンのテストサーバーへのアカウント作成ができるようになり、Best-friends.chatサーバーへ[[カスタム絵文字]]の追加ができるようになる。
+
+また上記の他に別途、suzuriにて衣料品やバック、ステッカーなどの公式グッズを販売しており<ref>[https://suzuri.jp/best-friends best-friends.shop]</ref>、グッズを購入することで売り上げの一部が運営費となる。
+
+==呼称==
+friends.nicoと同様、正式な呼称は定義されていないが、多くのユーザーにより「ベスフレ」という略称が使用されている。またタイムライン内では、「ベ」と一文字で表現されることがある。
+
+==批評==
+
+friends.nico終了間際、企業運営から個人運営となるにもかかわらず後継にBest-friends.chatが移住先の選択肢の1つとして用意されることとなり、歓喜の声は多少なりともあった。実際に移住し定住しているユーザーが少なからず存在する。
+
+一方で、以下のような批判がある。
+
+ドワンゴという企業がバックに付いていた頃にも存在したが、個人運営に変わった事によりいっそうSNS特有の治安の問題やトラブルが生じているとの指摘がある。
+
+==出典==
+
+<references />
+
+==関連項目==
+
+*'''[[friends.nico]]'''
+
+[[Category:日本のインスタンス]]
+[[Category:独自機能が実装されたインスタンス]]

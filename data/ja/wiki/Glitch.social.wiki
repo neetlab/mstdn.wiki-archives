@@ -1,0 +1,27 @@
+{{小文字}}
+{{Infobox instance
+| Name          = {{Ruby|'''Glitch.social'''|グリッチ ソーシャル}}
+| Domain        = https://glitch.social/
+| Admin         = [https://glitch.social/@bea Beatrix Bitrot]
+| Country       = カナダ
+| Start         = 2017年4月9日<ref>[https://glitch.social/@bea Beatrix Bitrot]氏の[https://glitch.social/@bea/99309699998066499 トゥート]</ref>
+| SourceCode    = [https://github.com/beatrix-bitrot/glitch.social GitHub]
+| Alias         = GLITCH
+}}
+'''Glitch.social'''とは、オープンソースのソーシャルネットワークMastodonのインスタンスである。単にGLITCHとも呼ばれる。
+
+==概要==
+Glitch.socialは、[https://glitch.social/@bea Beatrix Bitrot]氏によって2017年4月9日に開設されたインスタンスである。氏は同インスタンスを開発向けのテスト用のものであるとアナウンスしており<ref>[https://glitch.social/about/more BE WARNED this instance may actually be unstable at times. It will likely be used for experimenting with settings and tweaks to Mastodon.]</ref>、動作が不安定である場合もある。
+
+==関連するインスタンス==
+[https://dev.glitch.social dev.glitch.social] は[[Mastodon Glitch Edition]]を運用している。(現時点では localhost に向けられている)
+
+[[ephemeral.glitch.social]] は一定時間 (20分から4時間) でトゥートが削除されるインスタンスである。
+
+[https://rustodon.glitch.social rustodon.glitch.social] は[[Rustodon]]を運用している。
+
+==出典==
+<references />
+
+[[category:カナダのインスタンス]]
+[[fr:Glitch.social]]

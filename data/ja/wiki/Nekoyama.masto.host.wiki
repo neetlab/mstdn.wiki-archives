@@ -1,0 +1,24 @@
+{{Infobox instance
+| Name          = '''nekoyama.masto.host'''
+| Domain        = https://nekoyama.masto.host/about
+| Admin         = [https://nekoyama.masto.host/@nekoyama @nekoyama]
+| Country       = 日本
+| Start         = 2020年6月3日
+| Alias         = ねこやまどん
+}}
+'''nekoyama.masto.host'''とは、オープンソースのソーシャルネットワーク[[Mastodon]]のインスタンスである。
+
+== 概要 ==
+[https://nekoyama.masto.host/@nekoyama @nekoyama]氏が開設した[[インスタンス]]。
+
+
+[https://nekoyama.masto.host/@nekoyama @nekoyama]氏はTwitterいおいて「ぷんぴ」名義で活動しており、主にTwitterから引っ越してくる人を受け入れることを目的としている。
+
+== ローカルルール ==
+管理人は[https://nekoyama.masto.host/@nekoyama @nekoyama]氏のみ。
+
+== 出典 ==
+<references/>
+
+{{DEFAULTSORT:nekoyama.masto.host}}
+[[category:日本のインスタンス]]

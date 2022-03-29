@@ -1,0 +1,23 @@
+{{Infobox software
+| Name                = <nowiki>#tusktowall</nowiki>
+<!-- | Image               = [[ファイル:Amaroq.jpg|120px|Amaroq]] -->
+| Developer           = [http://darthvid.com darthvid]
+| SourceCode          = https://github.com/tehdarthvid/tusktowall
+| Platform            = ウェブ
+| ProgrammingLanguage = JavaScript
+| Launch              = 2017年4月
+<!-- | Kifu                = [https://paypal.me/floofdog PayPal] -->
+| License             = [[GNU Affero General Public License]]
+| Web                 = https://tusktowall.darthvid.com
+}}'''#tusktowall'''または'''Tusk To Wall'''は、画像専用の[[タイムラインビューア]]。[[連合タイムライン]]と[[ローカルタイムライン]]の切り替え、[[NSFW]]の表示・非表示の切り替えが可能である。
+
+==関連項目==
+* [[Artodon]]
+* [[Gallery]]
+
+==外部リンク==
+* https://baraag.net
+
+{{DEFAULTSORT:tusktowalldarthvidcom}}
+[[category:タイムラインビューア]]
+[[category:GNU Affero General Public License]]

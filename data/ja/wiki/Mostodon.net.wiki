@@ -1,0 +1,16 @@
+[[Mostodon.net]]とは、かつて存在したオープンソースのソーシャルネットワーク[[Mastodon]]の日本語向けインスタンスである。
+
+{{Infobox instance
+| Name          = [[Mostodon.net]]
+| Domain        = <s><nowiki>https://mostodon.net</nowiki></s>
+| Admin         = [http://mostodon.net/@Atsuking Atsuking]
+| Country       = 日本
+| Start         = 2017年4月14日
+| Kifu          = Bitcoin
+| Alias         = モストドン
+}}
+
+== 概要 ==
+日本人向けという名目で、”実験的な遊びをしたいというユーザー„へ向け立てられたインスタンス。{{CURRENTYEAR}}年{{CURRENTMONTH1}}月{{CURRENTDAY}}日現在、消滅している。
+
+{{DEFAULTSORT:mostodonnet}}

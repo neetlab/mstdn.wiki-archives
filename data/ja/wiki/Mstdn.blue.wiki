@@ -1,0 +1,15 @@
+{{Infobox instance
+| Name          = mstdn.blue
+| Domain        = https://mstdn.blue/
+| Admin         = [https://mstdn.blue/@noripoco noripoco]
+| Country       = 日本
+| Start         = 2017年4月14日
+| Kifu          = [https://enty.jp/noripoco Enty]<br />bitcoin
+| Alias         = なし
+}}'''mstdn.blue'''は、オープンソースのソーシャルネットワーク[[Mastodon]]のインスタンス。
+
+== ローカルルール ==
+2条項から成るシンプルなローカルルールを持ち、「けんかはやめましょう。いじめ反対！」というユニークな表現も見られる。
+
+{{DEFAULTSORT:blue}}
+[[category:日本のインスタンス]]

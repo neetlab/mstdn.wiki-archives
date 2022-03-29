@@ -1,0 +1,36 @@
+{{Infobox instance
+| Name = <ruby>mastodon.juggler.jp<rt>マストドン ドット ジャグラー ドット ジェーピー</rt></ruby>
+| Domain = https://mastodon.juggler.jp
+| Admin =  [https://mastodon.juggler.jp/@tateisu tateisu]
+| Country = 日本国
+| Start = 2017年4月12日
+| Kifu = https://enty.jp/3WtlzHG10wZv
+| Alias = ジャグ鯖
+}}mastodon.juggler.jpとは、オープンソースのソーシャルネットワークであるMastodonのインスタンスである。
+
+==概要==
+[https://mastodon.juggler.jp/@tateisu tateisu]氏によって2017年4月12日に開設された日本国内にサーバが所在するインスタンスである。[[mstdn.jp]]の新規登録が停止した際にユーザー数が急上昇したものの、同インスタンスの新規登録再開後にはアクティブユーザー数は200
+前後を保っている。アクティブユーザーは他のインスタンスに劣る一方で、プライムタイムの時間帯には10位台をinstances.mastodon.xyzによるステータス値で出すほどのインスタンス内のユーザーの活発な交流が見られるのが特徴のインスタンスである。
+他のインスタンスと同様、広告や利用料が存在していないためにentyによって寄付を募っている。
+
+==ローカルルール==
+以下の規定がローカルルールとして定められている<ref>https://mastodon.juggler.jp/about/more</ref>。
+*なりすまし
+*サーバに負荷をかける行為、サーバ運営を妨害する行為(これはアカウント大量作成、無差別フォロー、無差別ブースト、無差別ファボを含みます)。
+*その他、日本の法律で禁止されている行為。
+その他いくつかの免責事項が定められている。
+
+==歴史==
+下記の情報はサーバー情報に記載されている情報に基づく<ref>https://mastodon.juggler.jp/about/more</ref>。
+*2017年4月12日にサービスが開始される。
+*4月14日には自宅サーバーからさくらインターネットのVPSサービスへ移行する。
+
+== 関連項目 ==
+* [[Subway Tooter]]
+
+==出典==
+<references />
+
+{{DEFAULTSORT:jugglerjp}}
+[[category: 日本のインスタンス]]
+[[カテゴリ:mstdnかmastodonから始まるサイト]]

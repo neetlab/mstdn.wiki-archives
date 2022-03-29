@@ -1,0 +1,45 @@
+{{Infobox software
+| Name = Fedilab
+| Image = [[ファイル:Fedilab.png|120px]]
+| Developer = [https://mastodon.social/@tom79 tom79]
+| SourceCode = https://gitlab.com/tom79/mastalab
+| Platform = Android
+| ProgrammingLanguage = Java
+| Launch = 2017年7月8日
+| Kifu = https://liberapay.com/tom79/donate
+| License = [[GNU General Public License]]3.0
+| Web = https://fedilab.app/
+| Download = [https://play.google.com/store/apps/details?id=fr.gouv.etalab.mastodon&hl=ja Google Play]<br />[https://f-droid.org/app/fr.gouv.etalab.mastodon F-Droid]
+}}'''Fedilab'''は、[[Mastodon]]をはじめとした多くの[[オープンソース]]の[[分散SNS]]用の、Android向け[[クライアント]]である。開発はtom79氏。当初はMastodonにのみ対応していたため'''Mastalab'''という名称だったが、多数の分散SNSに対応したのに沿い'''Fedilab'''に名称が変更された。
+
+== 概要 ==
+2017年7月8日よりGooglePlayでリリースされているクライアントアプリケーション。
+
+[[Twitter]]のクライアントに類似したUIが特徴で、{{Jawp|ヤンデックス翻訳}}によるトゥートの翻訳や、ブックマーク機能（相手に通知させずに[[お気に入り]]する機能）、時間を指定して自動的にトゥートできるスケジュール機能などを備える。
+
+UIの言語は、英語や日本語など16ヶ国語に対応している。
+
+当初はGitHubでソースコードを公開していたが、2018年6月6日からGitLabに移行している<ref>{{toot|mastodon.social|tom79|100154140978056529}}</ref>。
+
+== 主な機能 ==
+* マルチアカウントのログイン、切り替え
+* 各種[[タイムライン]]の表示
+* トゥートの翻訳（ヤンデックス翻訳API使用）
+* トゥートのブックマーク
+* トゥートの予約投稿（スケジュール）
+* トゥートの下書き保存
+ほか
+
+==ユーザーレコメンデーション==
+Mastalabの[[ユーザーレコメンデーション]]はパーソナライズされておらず、カテゴリーに分類されている。日本語の文言は'''おすすめのアカウント'''である。データはTrunk for Mastodon<ref>https://alexschroeder.ch/wiki/2018-08-12_Trunk_for_Mastodon</ref><ref>https://communitywiki.org/trunk</ref>のAPIから取得している。
+
+== 関連項目 ==
+* [[クライアント]]
+
+== 脚注 ==
+<references />
+
+{{DEFAULTSORT:fedilab}}
+[[Category:Android用クライアント]]
+[[Category:GNU General Public License]]
+[[category:ユーザーレコメンデーション]]

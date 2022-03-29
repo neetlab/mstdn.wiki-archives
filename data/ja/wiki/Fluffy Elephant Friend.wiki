@@ -1,0 +1,41 @@
+{{Infobox person
+| Name = <ruby>Fluffy Elephant Friend<rt>フラッフィー エレファント フレンド</rt></ruby>
+| Image = [[ファイル:Fluffy elephant friend.png|300px|Fuluffy elephant friend]]
+| Color = ##555454
+| Instance = [[Mastodon.social]]
+| Link = なし
+| Else = パオーン
+}}
+<ruby>Fluffy Elephant Friend<rt>フラッフィー エレファント フレンド</rt></ruby>とは、[[Mastodon]]のイメージキャラクターでもある'''マストドン'''である。当Wikiで紹介する「[[Mastodon|マストドン]]」は基本的にオープンソースソフトウェアのことであるが、当記事では例外的にゾウ目マムート科マムート属のマストドンを紹介する。
+
+== 概要 ==
+[[Mastodon.social]]で誕生したマストドン。見た目は象やエレファントと似ているが'''非なるもの'''である。執筆時点から約4000万年前から11000年前ほど前に生息したとされていたが、現在もaboutページで[[Mastodon]]の案内をしている<ref>https://mastodon.social/about</ref>。同マストドンがこの名前であることは同イラストのファイル名で判明し、開発者の[[Eugen Rochko]]氏もこの名称で呼んでいる<ref>https://mastodon.social/users/Gargron/updates/1901310</ref>。
+
+名前の意味は直訳すると「ふわふわしたゾウのともだち」である<ref>[https://translate.google.co.jp/?hl=ja&tab=wT&authuser=0#en/ja/Fluffy%20elephant%20friend Google翻訳「Fluffy elephant friend」]</ref>が、ゾウではなく正真正銘の'''マストドン'''である<ref>[https://mastodon.social/users/Gargron/updates/1901310 開発者のEugen氏にはMastodon(の)Fluffy elephant friendと紹介される。]</ref>。
+
+日本人コミュニティ内での主な愛称は[[象]]。
+
+== 外見 ==
+[[ファイル:Fluffy elephant friend.png|200px|thumb|right]]
+Mastodon内で登場するFluffy Elephant Friendの外見は現時点で４種類ある。
+
+=== 1.トップページ（旧） ===
+バージョン1.5以前のトップページに登場するFluffy Elephant Friend、両前足でスマートフォンのような物を持ち、笑みを浮かべているイラストである。このイラストは開発者によってステッカーとしてグッズ化されていて、[https://www.stickermule.com/marketplace/17956-mastodon-fluffy-elephant-friend stickermule]から購入することができた(現在は販売終了)<ref>https://www.stickermule.com/marketplace/17956-mastodon-fluffy-elephant-friend</ref>。
+
+=== 2.メインページ３カラム目 ===
+[[ファイル:Mastodon-getting-started-a6f485964e4d4e5e51c3ba82d65e9a3017e85543cc14d7e7e8d622234a1930e0.png|200px|thumb|right]]
+ログイン後のメインページの最右部分に表示されるFluffy Elephant Friend、鼻で器用に紙飛行機を持ち、飛ばそうとしているイラストである。
+
+=== 3.サーバー障害時 ===
+[[ファイル:E654d8ad5d5c14dd.png|200px|thumb|right]]
+サーバーに高負荷などなんらかの障害が発生した際に表示されるFluffy Elephant Friend、自分では起き上がれないためか[[鳥]]に紐で括られて飛んでいるイラストである。
+
+=== 4.トップページ（新） ===
+[[ファイル:Elephant-fren-d16fd77f9387e7d1465f9d4dc1e7f.png|200px|thumb|right]]
+バージョン1.5以降にトップページに登場したFliffy Elephant Friend。どこか塀の向こうからひょっこりと顔を出し前脚を出しているイラストである。
+
+==出典==
+<references/>
+
+{{DEFAULTSORT:fluffyelephantfriend}}
+[[category:人物]]

@@ -1,0 +1,19 @@
+{{Infobox instance
+| Name = {{Ruby|'''Twingyeo'''|トゥインヨ}}(트잉여)
+| Domain = https://twingyeo.kr
+| Admin = [https://twingyeo.kr/@cheesekun 치즈군★(チーズくん★)]<br />[https://twingyeo.kr/@Serazard Serazard]
+| Country = 大韓民国
+| Start = 2017年4月19日<ref name="start">https://twingyeo.kr/@cheesekun/1</ref>
+| SourceCode = https://github.com/tootsuite/mastodon
+}}
+{{Ruby|'''Twingyeo'''|トゥインヨ}}(트잉여)とは、[[オープンソース]]の[[ソーシャル・ネットワーキング・サービス]][[Mastodon]]の[[インスタンス]]である。
+
+== 概要 ==
+韓国語話者のユーザーを対象に、2017年4月19日<ref name="start" />、치즈군★(チーズくん★)氏によって立ち上げられたインスタンス。
+
+韓国人でなくとも、韓国語を解するユーザーであれば誰でも利用できる。
+
+== 出典 ==
+<references />
+
+[[Category:韓国のインスタンス]]

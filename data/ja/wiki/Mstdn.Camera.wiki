@@ -1,0 +1,18 @@
+{{infobox instance
+|Name = '''mstdn.Camera
+|Domain = https://mstdn.camera
+|Country = 日本
+|Admin = [https://mstdn.camera/@isamu すぎうらイサム]
+|Start = 2017年4月20日
+|Kifu = なし
+|Alias = なし
+}}'''mstdn.Camera'''は、オープンソースのソーシャルネットワークMastodonの[[インスタンス]]。
+
+== 概要 ==
+2017年4月20日、すぎうらイサム氏によって写真やカメラに関するユーザーに向け立ち上げられたインスタンス。
+
+== 関連項目 ==
+* [[photodn.net]]
+* [[Mastodon.ART]]
+
+[[Category:日本のインスタンス]]

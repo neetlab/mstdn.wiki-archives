@@ -1,0 +1,25 @@
+{{Otheruses|Linuxのアプリケーション|iOS向けのクライアント|Tootle for Mastodon}}
+{{Infobox software
+| Name = Tootle
+| Image = [[File:tootle.png]]
+| Developer = [https://mastodon.social/@bleakgrey Bleak Grey]
+| SourceCode = [https://github.com/bleakgrey/tootle GitHub]
+| Platform = {{Jawp|Linux}}
+| ProgrammingLanguage = Vala
+| Launch = 2018年4月18日
+| Kifu = [https://liberapay.com/bleakgrey/donate LiberaPay]
+| License = [[GNU General Public License|GNU General Public License 3.0]] 
+<!-- | Web = -->
+| Download = [https://appcenter.elementary.io/com.github.bleakgrey.tootle.desktop elementary OS AppCenter]
+}}'''Tootle'''は、[[オープンソース]]の[[分散SNS]]、[[Mastodon]]の{{Jawp|Linux}}向けデスクトップクライアントである。
+
+== 概要 ==
+Bleak Grey氏により開発されている、Linux向けのデスクトップクライアント。GTK3を用いて開発されており、モバイル表示のようにシングルカラムである点などが特徴である。
+
+2018年6月にはelementary OSのAppCenterで配信を開始している<ref>https://mastodon.social/@bleakgrey/100141973179258384</ref>。
+
+== 出典 ==
+<references />
+
+[[Category:デスクトップクライアント]]
+[[Category:GNU General Public License]]

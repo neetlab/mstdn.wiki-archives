@@ -1,0 +1,24 @@
+{{Infobox software
+| Name    = Fediverse.Party
+| Image               = 
+| Developer           = Feneas
+| SourceCode          = https://git.feneas.org/feneas/fediverse
+| Platform            = ウェブ
+| ProgrammingLanguage = JavaScript
+| Launch              = 不明
+| Kifu                = 不明
+| License             = [[GNU Affero General Public License]]
+| Web                 = https://fediverse.party/
+}}
+
+'''Fediverse.Party'''は、[[分散SNS]]を紹介しているウェブサイト。
+
+==インスタンス一覧==
+
+Fediverse.Partyにはインスタンスの一覧が含まれている<ref>https://fediverse.party/en/portal/servers</ref>。リストは分野別に分類されている。インスタンスを登録するには、作者にマージリクエストまたはメンションを送る。リストは作者の考えにより選別されている。ユーザー数が5000を超えるインスタンスは掲載されないなどの工夫がある。
+
+==脚注==
+<references />
+
+{{DEFAULTSORT:fediverseparty}}
+[[category:インスタンスの一覧を提供するウェブサイト]]

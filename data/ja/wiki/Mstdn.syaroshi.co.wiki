@@ -1,0 +1,17 @@
+{{Infobox instance
+| Name          = mstdn.syaroshi.co
+| Domain        = https://mstdn.syaroshi.co/
+| Admin         = sudo
+| Country       = 日本
+| Start         = 不明
+| Kifu          = 不明
+| Alias         = シャロシコ
+}}'''mstdn.syaroshi.co'''は、オープンソースのソーシャルネットワークMastodonの[[インスタンス]]。
+
+== 概要 ==
+「'''[[wikipedia:ja:ご注文はうさぎですか?|ご注文はうさぎですか？]]'''」のキャラクター'''シャロ'''が好きなユーザーに向け立ち上げられたインスタンス。
+
+2017年12月現在、消滅状態となっている。
+
+{{DEFAULTSORT:syaroshico}}
+[[category:消滅したインスタンス]]

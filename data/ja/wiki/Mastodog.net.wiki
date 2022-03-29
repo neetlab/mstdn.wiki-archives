@@ -1,0 +1,20 @@
+{{unreachable|year=2019|month=3|day=16}}
+{{Infobox instance
+| Name          = Mastodog
+| Domain        = https://mastodog.net/
+| Country       = 日本
+| Start         = 2018年11月22日
+| Kifu          = なし
+| Alias         = なし
+}}
+Mastodog.netは、オープンソースのソーシャルネットワークMastodonのインスタンスである。
+
+==概要==
+2018年11月22日に立ち上げられた、犬が好きなユーザーが対象のインスタンス。
+
+2019年3月16日時点で接続できなくなっている。
+
+
+{{DEFAULTSORT:mastodog}}
+[[category:日本のインスタンス]]
+[[category:消滅したインスタンス]]

@@ -1,0 +1,28 @@
+{{Infobox instance
+| Name          = <ruby>'''nekotodon'''<rt>ねことどん</rt></ruby>
+| Domain        = https://www.nekotodon.com/
+| Admin         = [https://www.nekotodon.com/@nekokurumihime @nekokurumihime]
+| Country       = 日本
+| Start         = 2017年4月22日
+| Alias         = ねことどん
+}}
+<ruby>'''nekotodon'''<rt>ねことどん</rt></ruby>とは、オープンソースのソーシャルネットワーク[[Mastodon]]のインスタンスである。
+
+== 概要 ==
+[[:wikipedia:ja:ネコ|ねこ]]が大好きだという[https://www.nekotodon.com/@nekokurumihime @nekokurumihime]氏が開設した[[インスタンス]]。
+
+
+ねこの話題のほか、おいしいもの（ご飯／お酒／旅先の料理）、地元、文学、落語、音楽の話題が好まれている。
+
+ねこ／丼（おいしいごはん）／船橋／人文／古典／落語／ジャズなど
+
+== ローカルルール ==
+管理人は[https://www.nekotodon.com/@nekokurumihime @nekokurumihime]氏他、ねこ3匹。
+
+管理人の一員であるねこのくるみちゃんが悲しむような事や写真は投稿しないこと。
+
+== 出典 ==
+<references/>
+
+{{DEFAULTSORT:nekotodon}}
+[[category:日本のインスタンス]]

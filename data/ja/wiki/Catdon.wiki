@@ -1,0 +1,21 @@
+{{Infobox instance
+| Name          = Catdon
+| Image         = [[ファイル:Catdon.png|300px]]
+| Domain        = https://catdon.life/
+| Admin         = [https://catdon.life/@sib sib]
+| Country       = 日本
+| Start         = 2017年4月19日
+| Kifu          = なし
+| Alias         = なし
+}}Catdonは、オープンソースのソーシャルネットワークMastodonのインスタンスである。
+
+== 概要 ==
+[[foodon]]管理人でもあるsib氏によって2017年4月19日に立ち上げられた、猫が好きなユーザーが対象のインスタンス。
+
+== 関連項目 ==
+* [[foodon]]
+* [[Catgram]]
+* [[Mao.daizhige.org]]
+
+{{DEFAULTSORT:catdon}}
+[[category:日本のインスタンス]]

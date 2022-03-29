@@ -1,0 +1,14 @@
+{{Infobox instance|Domain=https://mastodon.kitchen|Name=mastodon.kitchen|Admin=[https://mastodon.kitchen/@estpls estpls]|Country=日本|Start=2018年8月4日|Alias=キッチン鯖, キチ鯖}}
+'''mastodon.kitchen'''は、[[オープンソース]]の[[分散SNS]]、[[Mastodon]]の[[インスタンス]]。
+
+== 概要 ==
+2018年8月4日、[[mstdn.beer]][[管理者]]のestpls氏によって立ち上げられたインスタンス。レシピや料理器具など、料理に関する話題がテーマとなっている<ref>{{toot|mstdn.beer|estpls|100489706556146973}}</ref>。
+
+== 脚注 ==
+<references />
+
+== 関連項目 ==
+* [[クック丼]]
+* [[mstdn.beer]]
+
+[[Category:日本のインスタンス]]
