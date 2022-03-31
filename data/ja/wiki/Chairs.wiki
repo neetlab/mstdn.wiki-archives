@@ -1,0 +1,32 @@
+{{Infobox software
+| Name = {{Ruby|Chairs|チェアーズ}}
+| Developer = [https://mstdn.jp/@meronmks meron]
+| SourceCode = [https://github.com/meronmks/Chairs GitHub]
+| Platform = Android
+| ProgrammingLanguage = Kotlin
+| Launch = 2018年2月28日<ref>{{toot|mstdn.jp|meronmks|99597978302946945}}</ref>
+| Kifu = 
+| License = [[MITライセンス]]
+| Web = 
+| Download = [https://dply.me/g06yf0#install DeployGate]
+}}'''Chairs'''は、[[Mastodon]]のAndroid用[[クライアント]]。
+
+==概要==
+meron（meronmks）によって開発され、2018年2月28日よりDeployGateで公開されているクライアント。
+
+[[ホーム]]や[[公開タイムライン]]、[[リスト]]などの[[タイムライン]]の表示、[[トゥート]]の投稿といった基本的機能を備えている。
+
+タイムラインは文字が小さく表示されトゥートが多く見えるようになっている。お気に入り・ブーストといったボタンはタイムラインから廃され、トゥートをタップすることで表示されるようになっている。
+
+また投稿欄は下部に置かれ、タイムラインを閲覧しながら書き込みを行えるようになっている。
+
+一方で、トゥートのURL共有機能や、ユーザーページの表示には非対応である。また設定という項目があるが設定項目を選択して変更することは不可である。
+
+==関連項目==
+*[[クライアント]]
+
+==脚注==
+<references />
+
+[[Category:Android用クライアント]]
+[[Category:MITライセンス]]

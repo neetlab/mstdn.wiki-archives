@@ -1,0 +1,30 @@
+{{Infobox software
+| Name                = {{Ruby|BirdKiller|バードキラー}}
+| Developer           = [[THE BOSS]]
+| SourceCode          = https://github.com/theboss/luckyapps{{リンク切れ|date=2019年10月}}
+| Platform            = ウェブ
+| ProgrammingLanguage = Javascript
+| License             = MIT License
+| Web                 = https://luckyapps.herokuapp.com/{{リンク切れ|date=2019年10月}}
+}}
+'''BirdKiller'''は、[[THE BOSS]]氏により公開されているウェブアプリケーションの一つで、[[Twitter→Mastodonトゥート同期アプリ|sync.twi2mstdn.space]]をはじめ特定クライアントでトゥートしているユーザーを自動的にミュートする。
+
+== 概要 ==
+Mastodon上では、[[Twitter]]と連携するツールを用いてTwitter側の書き込みをそのままトゥートに同期しているユーザーが少なくなかった。
+
+しかしこれは、Twitter上でのやり取りなどをそのまま同期してしまうため、Mastodon上では意味不明であることがしばしばあった。
+
+これを煩わしく感じていたユーザーに向け、自動で連携ユーザーを[[ミュート]]するツールとして公開されたのがBirdKillerである。
+
+仕組みとしては、[[ローカルタイムライン]]を取得・ストリーミングし、流れてきたトゥートの中で特定のクライアントから投稿されたトゥートを検出、自動的にユーザーをミュートするというもの。
+
+ミュートする対象は、当初は「'''sync.twi2mstdn.space'''」のみであったが、現在では自由にミュートする対象クライアントを追加・変更することが可能となっている。
+
+== 外部リンク ==
+* [https://luckyapps.herokuapp.com/ BirdKiller]{{リンク切れ|date=2019年10月}}
+* https://github.com/theboss/luckyapps{{リンク切れ|date=2019年10月}}
+
+{{DEFAULTSORT:birdkiller}}
+[[Category:ウェブサイト]]
+[[Category:MITライセンス]]
+[[Category:運用が放棄されたウェブサイト]]

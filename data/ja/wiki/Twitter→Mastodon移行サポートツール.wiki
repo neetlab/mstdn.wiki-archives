@@ -1,0 +1,19 @@
+{{Infobox software
+| Name                = {{Ruby|Twitter->Mastodon移行サポートツール|ツイッターマストドンいこうサポートツール}}
+| Developer           = [https://twitter.com/twit_hitter TwitHitter]
+| Platform            = ウェブ
+| License             = プロプライエタリ
+| Web                 = <nowiki>http://twi2mstdn.space</nowiki> (リンク切れ)
+}}'''Twitter->Mastodon移行サポートツール'''は、[[Twitter]]から[[マストドン]]への移行を支援するウェブアプリケーション。ユーザーはTwitterアカウントとマストドンアカウントを組にして登録する必要がある。Twitterでフォローしているユーザーがマストドンを使用していれば、それを検索することができる。
+
+マストドンのインスタンスは[[mstdn.jp]]ただ1個だけ対応している。
+
+2018年4月頃からアクセスできなくなっている。2018年8月時点では、ドメイン名twi2mstdn.spaceはアダルトサイトに取得されている。
+
+==関連項目==
+* [[Mastodon Bridge]]
+* [[Twitter→Mastodonトゥート同期アプリ]]
+
+{{DEFAULTSORT:twittermastodonいこうさほおとつうる}}
+[[category:ウェブサイト]]
+[[category:運用が放棄されたウェブサイト]]

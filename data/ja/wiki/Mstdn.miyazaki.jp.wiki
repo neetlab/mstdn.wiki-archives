@@ -1,0 +1,21 @@
+{{小文字}}
+{{Infobox instance
+| Name          = MastoDongene 宮崎
+| Domain        = https://mstdn.miyazaki.jp/
+| Admin         = [https://mstdn.miyazaki.jp/@sabazo さばぞう]
+| Country       = 日本
+| Start         = 2017年6月29日
+| Kifu         = なし 
+}}'''MastoDongene 宮崎'''は、オープンソースのソーシャルネットワークMastodonの[[インスタンス]]。
+
+== 概要 ==
+宮崎に関係があったり、興味があるユーザーに向け立てられたインスタンス。
+
+2021年現在、アクセスできなくなっている。
+
+== 関連項目 ==
+* [[都道府県のインスタンス一覧]]
+
+{{DEFAULTSORT:みやざき}}
+[[category:日本のインスタンス]]
+[[category:消滅したインスタンス]]

@@ -1,0 +1,20 @@
+{{infobox instance
+|Name = {{Ruby|Pokémastodon.net|ポケマストドンドットネット}}
+|Image = [[ファイル:pokemastodon.png|300px]]
+|Domain = <s>https://pokemastodon.png</s>
+|Country = アメリカ
+|Admin = Pokéchange
+|Start = 2017年4月10日
+|End = 不明
+}}'''Pokémastodon.net'''は、[[オープンソース]]の[[ソーシャル・ネットワーキング・サービス]][[Mastodon]]の[[インスタンス]]。
+
+== 概要 ==
+ポケモンカードの売買サイトを運営するPokéchangeが運営するインスタンスで、ロールプレイングゲーム及びカードゲーム、テレビアニメを展開する「{{Jawp|ポケットモンスター}}」に関する話題を中心としていた。
+
+2018年1月現在インスタンスにアクセスすると運営元のPokéchangeにジャンプする状態となっており、インスタンスは消滅状態となっている。消滅時期は不明。
+
+== 関連項目 ==
+* [[ポケマス]]
+* [[donphan.social]]
+
+[[Category:ポケットモンスターに関するインスタンス]]

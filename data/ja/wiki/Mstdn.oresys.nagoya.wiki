@@ -1,0 +1,44 @@
+{{Infobox instance
+| Name          = mstdn.oresys.nagoya
+| Domain        = https://mstdn.oresys.nagoya/
+| Admin         = https://mstdn.oresys.nagoya/@admin
+| Country       = 日本
+| Start         = 2017年4月20日
+| End = 2017年8月2日
+}}'''mstdn.oresys.nagoya'''は、[[オープンソース]]の[[分散SNS]]、[[Mastodon]]の[[インスタンス]]。
+
+== 概要 ==
+<blockquote>
+Mastodon名古屋サーバです。
+名古屋市民限定、名古屋の話題限定、というわけではありません。どなたでもご利用いただけます
+</blockquote>
+
+[https://mstdn.oresys.nagoya/@kumasun kumasun]氏によって2017年4月20日に開設された日本向けの[[インスタンス]]である。
+
+のちに、[https://www.oresys.nagoya/ オレシス・ラボ]（技術系同人サークル）に運営が引き継がれた。<ref>[https://nagoyadon.jp/about/more 「このインスタンスについて」より。6/17閲覧。]</ref>
+
+2017年8月2日、 閉鎖された。
+
+== ルール ==
+2017年5月時点では以下のルールがある<ref>[https://mstdn.oresys.nagoya/about/more 「このインスタンスについて」より。]</ref>。
+
+* 年齢制限：17+
+* いい感じに、仲良く使ってね
+
+
+また、別途 Bot関連の規約が設けられている。
+
+* ユーザー名にBotであることを明記し、プロフィール欄に運用目的及び運用者の連絡先を記載してください。
+* 自動トゥートの公開範囲は非収載・非公開・ダイレクトのみとし、ユーザーの自動フォローは禁止します。
+* 頻繁なトゥート等、サーバに負荷をかける行為は禁止します。
+* 営利目的での使用は禁止します。
+* ただし、ユーザーにとって有益なものに関してはこの限りではありません。まずはご相談ください。
+
+== 出典 ==
+<references />
+
+== 関連項目 ==
+* [[名古屋丼]]
+* [[都道府県のインスタンス一覧]]
+
+{{DEFAULTSORT:oresysnagoya}}

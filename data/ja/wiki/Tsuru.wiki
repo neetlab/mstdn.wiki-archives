@@ -1,0 +1,31 @@
+{{Infobox software
+| Name = Tsuru
+| Image = [[ファイル:Tsuru.png|300px|Tsuru]]
+| Developer = [https://mstdn.jp/@lisp スキームリスプ]
+| Platform = Linux, Windows, macOS
+| Launch = 開発中
+| Web = https://tsuruclient.github.io/
+}}{{Ruby|Tsuru|ツル}}とは、オープンソースのソーシャルネットワーク[[Mastodon]]やその他SNS向けに開発中のデスクトップ向けクライアントである。
+
+== 概要 ==
+
+2017年11月に[https://mstdn.jp/@lisp スキームリスプ]氏によって開発が開始された<ref>https://twitter.com/arclisp/status/934677247297953792</ref>デスクトップ向けクライアント。フレームワークに[https://github.com/electron Electron]を使用しているため、WindowsやmacOSなどのプラットホームに囚われずに利用が可能。
+
+[[GNU social]], [[Mastodon]], [[Twitter]]に対応<ref>[https://twitter.com/arclisp/status/934664066785714176 TwitterとGNU SocialとMastodonをTweetdeck風の画面で見れる]</ref>。ただし、ソースコードを公開する際にはTwitterに関連する機能が削除され<ref>https://mstdn.jp/@lisp/99178433365684911</ref><ref>https://twitter.com/arclisp/status/941654891029606402</ref>、バイナリで配布されるプログラムのみTwitterを利用できる<ref>https://twitter.com/arclisp/status/948931440443404290</ref>。
+
+== 特徴 ==
+
+* [[GNU social]], [[Mastodon]], [[Twitter]]に対応
+* マルチカラムでTweetDeck風の画面を再現
+* Linux, Windows, macOS上で動作
+* [[オープンソース|MITライセンス]]<ref>https://github.com/tsuruclient/tsuru</ref>
+
+==外部リンク==
+* [https://www.moongift.jp/2018/02/tsuru-twittermastodongnu-social%E5%AF%BE%E5%BF%9C%E3%81%AEtweetdeck%E9%A2%A8%E3%82%AF%E3%83%A9%E3%82%A4%E3%82%A2%E3%83%B3%E3%83%88/ Tsuru - Twitter/Mastodon/GNU Social対応のTweetdeck風クライアント]
+* [https://medium.com/@schemelisp/tsuru%E3%81%AE%E3%81%93%E3%82%8C%E3%81%8B%E3%82%89-adf269b4e97 Tsuruのこれから]
+
+== 出典 ==
+<references/>
+
+[[category:デスクトップクライアント]]
+[[category:MITライセンス]]

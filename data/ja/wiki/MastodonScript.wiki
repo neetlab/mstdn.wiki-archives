@@ -1,0 +1,27 @@
+{{Infobox software
+| Name                = Mastodon Script
+<!-- | Image               = [[ファイル:Amaroq.jpg|120px|Amaroq]] -->
+| Developer           = [[SH|S.H.]]
+| SourceCode          = [https://github.com/S-H-GAMELINKS/MastodonScript GitHub]
+<!-- | Platform            =  -->
+| ProgrammingLanguage = Shell
+| Launch              = 2018年7月27日
+<!-- | Kifu                = [https://paypal.me/floofdog PayPal] -->
+| License             = CC0-1.0
+<!-- | Download            = [https://itunes.apple.com/us/app/amaroq-for-mastodon/id1214116200 AppStore] -->
+}}'''Mastodon Script'''は、Mastodonインスタンスを設置するためのシェルスクリプト。
+
+== 概要 ==
+ゲームリンクス代表であり[[Creatodon]]管理人のS.H.氏により2018年7月27日に公開されたシェルスクリプト。
+
+コンソール画面上で実行する処理を、シェルスクリプトで自動化している。
+
+== 関連項目 ==
+* [[Creatodon]]
+
+==脚注==
+<references />
+
+[[category:CC0-1.0]]
+[[Category:ソフトウェア]]
+{{DEFAULTSORT:mastodonscript}}

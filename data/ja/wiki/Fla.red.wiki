@@ -1,0 +1,26 @@
+{{小文字}}
+{{infobox instance
+|Name = Fla.red
+|Image = [[ファイル:flared.png|300px]]
+|Domain = https://fla.red
+|Country = 日本
+|Admin = [https://fla.red/@yantene やんてね]
+|Start = 2017年10月10日
+|Alias = フレアドン
+}}'''Fla.red'''は、オープンソースのソーシャルネットワークMastodonの[[インスタンス]]。
+
+== 概要 ==
+やんてね氏により、2017年10月10日に立ち上げられた。
+
+当初は豊橋技術科学大学の学生のみに向けられていたが、途中で方針転換がなされ、一般のユーザも利用できるようになった。
+
+K<span style="text-transform: uppercase; font-size: 70%; margin-left: -0.36em; vertical-align: 0.3em; line-height: 0; margin-right: -0.15em">a</span>T<span style="text-transform: uppercase; margin-left: -0.1667em; vertical-align: -0.5ex; line-height: 0; margin-right: -0.125em">e</span>X<noinclude>により数式を記述できたり、「'''```'''」で囲むことによってコードスニペットを投稿中に含むことができることが特徴。
+
+コードスニペットが対応している言語は2017年12月現在、Apache、Bash、CoffeeScript、C++、C#、CSS、D、Diff、 Go、Haskell、HTML、HTTP、Ini、Java、JavaScript、JSON、Julia、Kotlin、Lisp、 Makefile、Markdown、Nginx、Objective-C、OCaml、Perl、PHP、Python、 R、Ruby、Rust、Scala、Shell Session、SQL、TeX、XMLとなっている。
+
+== 関連項目 ==
+* [[Mathtodon]] - 数式を投稿できるインスタンス。
+* [[Qiitadon]] - コードスニペットを投稿できるインスタンス。
+
+[[Category:日本のインスタンス]]
+[[Category:独自機能が実装されたインスタンス]]

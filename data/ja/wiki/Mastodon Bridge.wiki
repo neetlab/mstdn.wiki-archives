@@ -1,0 +1,36 @@
+{{Infobox software
+| Name                = Mastodon Bridge
+| Image               = [[ファイル:MastodonBridge.png|300px|Mastodon Bridge]]
+| Developer           = [[Eugen Rochko]]（Gargron）
+| SourceCode          = https://source.joinmastodon.org/mastodon/bridge
+| Platform            = ウェブ
+| ProgrammingLanguage = Ruby, JavaScript
+| Launch              = 不明
+| License             = [[GNU Affero General Public License]]<ref>https://source.joinmastodon.org/mastodon/bridge/merge_requests/3</ref>
+| Web                 = https://bridge.joinmastodon.org/
+}}
+'''Mastodon Bridge'''は、[[Twitter]]から[[マストドン]]への移行を支援するウェブアプリケーション。
+
+== 概要 ==
+大手[[ソーシャル・ネットワーキング・サービス]]TwitterのユーザーのMastodonへの移行を支援する目的で公開された。
+
+Twitterアカウントとマストドンアカウントを組にして登録することで、Twitterでフォローしているユーザーがマストドンを使用していればそれを検索することができる。
+
+2018年6月19日<ref>https://source.joinmastodon.org/mastodon/bridge/merge_requests/1</ref><ref>https://source.joinmastodon.org/mastodon/bridge/merge_requests/5</ref>に日本語に対応した。
+
+2018年12月20日<ref>https://mastodon.social/users/Gargron/statuses/101271193168645269</ref>より利用できなくなった。また、マストドン本体からMastodon Bridgeへのリンクは削除されている<ref>https://github.com/tootsuite/mastodon/pull/9608</ref>。
+
+== 関連項目 ==
+* [[joinmastodon.org]]
+* [[Twitter→Mastodon移行サポートツール]]
+
+== 外部リンク ==
+* [https://bridge.joinmastodon.org/ Mastodon Bridge]
+* https://source.joinmastodon.org/mastodon/bridge
+
+==脚注==
+<references />
+
+[[Category:マストドン公式ウェブサイト]]
+[[category:運用が放棄されたウェブサイト]]
+[[Category:GNU Affero General Public License]]

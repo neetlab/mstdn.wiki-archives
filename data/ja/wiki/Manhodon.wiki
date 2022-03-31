@@ -1,0 +1,15 @@
+{{infobox instance
+|Name = {{Ruby|Manhodon|マンホドン}}
+|Image = [[ファイル:Manhodon.png|300px]]
+|Domain = https://manhole.club
+|Country = 日本
+|Admin = [https://manhole.club/@shunnag S．Nagashima]
+|Start = 2017年10月5日
+|Kifu = なし
+|Alias = なし
+}}{{Ruby|'''Manhodon'''|マンホドン}}は、オープンソースのソーシャルネットワークMastodonの[[インスタンス]]。
+
+== 概要 ==
+マンホールの蓋が好きなユーザーに向け立てられたインスタンス。
+
+[[Category:日本のインスタンス]]

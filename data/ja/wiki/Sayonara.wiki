@@ -1,0 +1,19 @@
+{{Infobox software
+| Name                = Sayonara
+<!-- | Image               = [[ファイル:Amaroq.jpg|120px|Amaroq]] -->
+| Developer           = [[山岸和利]]
+| SourceCode          = https://github.com/ykzts/mastodon-following-list
+| Platform            = ウェブ
+| ProgrammingLanguage = JavaScript
+<!-- | Launch              = 2017年3月17日 -->
+<!-- | Kifu                = [https://paypal.me/floofdog PayPal] -->
+| License             = [[MITライセンス]]
+| Web                 = https://sayonara.social
+<!-- | Download            = [https://itunes.apple.com/us/app/amaroq-for-mastodon/id1214116200 AppStore] -->
+}}'''Sayonara'''または'''Mastodon Following List'''とは、[[フォロー]]を整理するウェブアプリケーション。フォローしているユーザーのリストが表示され、その画面からフォローを外すことができる。そのユーザーが最後にトゥートした日時も表示されるため、長らく活動していないユーザーを[[リムーブ]]するという使い方も可能である。
+
+当初は https://sayonara.omanko.porn に置かれていたが、現在は https://sayonara.social にリダイレクトされる。
+
+[[category:ウェブサイト]]
+[[category:MITライセンス]]
+{{DEFAULTSORT:sayonara}}

@@ -1,0 +1,16 @@
+{{Infobox software
+| Name = {{Ruby|Mastonaut|マストノート}}
+| Developer = [https://bruno.ph/ Bruno Philipe]
+| SourceCode = プロプライエタリ
+| Platform = macOS
+| ProgrammingLanguage = Swift
+| Launch = 不明
+| Kifu = 
+| License = 
+| Web = [https://mastonaut.app 公式サイト]
+| Download = [https://itunes.apple.com/us/app/mastonaut/id1450757574 AppStore]<br />
+}}
+'''Mastonaut'''（'''マストノート'''）は、macOS用に開発されている[[マストドン]][[クライアント]]アプリケーションである。
+{{stub}}
+[[category:デスクトップクライアント]]
+[[category:プロプライエタリ]]

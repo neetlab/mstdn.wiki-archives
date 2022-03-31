@@ -1,0 +1,36 @@
+{{Infobox software
+| Name = MastodonRater
+| Developer = [[ProgrammerGenboo]]
+| SourceCode = [https://github.com/GenbuProject/MastodonRater Github - MastodonRater]<Br />[https://github.com/GenbuProject/MastodonRater-Nodejs Github - MastodonRater-Nodejs]
+| Platform = WebApp
+| ProgrammingLanguage = JavaScript
+| Launch = 2018年1月2日
+| License = [[MITライセンス]]
+| Web = https://genbuproject.github.io/MastodonRater/ https://mastodon-rater.herokuapp.com/
+}}'''MastodonRater'''は、[[オープンソース]]の[[分散SNS]]、[[Mastodon]]のユーザー向けのウェブアプリケーション。
+
+== 概要 ==
+[[ProgrammerGenboo]]氏により開発されているウェブアプリケーション。MastodonAPIを利用して様々な指標を算出し、トゥートとして出力する。
+
+2018年5月2日に後継バージョンがリリースされた<ref>https://genbuproject.github.io/MastodonRater/</ref>。
+
+機能は以下の通り。
+
+; Toot Rater
+: サーバー全体とのトゥート数比を算出する。
+
+; TPD(Toots Per Day)
+: 1日の平均トゥート数を算出する。
+
+; Relevance Analyzer(統計さん)
+: 指定範囲のトゥートから親しいユーザーを算出し、ランキング形式で出力する。
+
+
+== 出典 ==
+<references />
+
+== 関連項目 ==
+* [[Mastodon on Email]]
+
+[[Category:ウェブサイト]]
+[[Category:MITライセンス]]

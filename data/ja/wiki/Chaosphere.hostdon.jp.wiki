@@ -1,0 +1,99 @@
+{{小文字}}
+{{Infobox instance
+| Name = カオスフィア
+| Image = [[File:chaosphere.jpg|240px]]
+| Domain = https://chaosphere.hostdon.jp
+| Admin = [https://chaosphere.hostdon.jp/@centumix 百川合瀬]
+<!--| Moderator = -->
+| Country = 日本国
+| Start = [[2017年]]9月18日<ref>[https://chaosphere.hostdon.jp/@centumix/2 百川合瀬氏のトゥート]</ref>
+<!--| End = 
+| Kifu = 
+| SourceCode = 
+| Alias = -->
+}}'''カオスフィア'''（'''chaosphere.hostdon.jp'''）とは、[[オープンソース]]の[[分散SNS]]、[[Mastodon]]の[[ホスティングサービス]]である[[Hostdon]]で立てられた[[インスタンス]]。
+
+== 概要 ==
+[https://sabakan.hostdon.jp 鯖缶丼]（閉鎖）や[https://gldon.hostdon.jp GL丼]の管理人でもある百川合瀬氏によって、[[2017年]]9月18日よりMastodonのホスティングサービスのHostdonを利用して公開されているインスタンスである。
+
+インスタンスの説明文には<blockquote>
+雑学 / フィクション / 食 / ガジェット / ニュース / Mastodonなどの感想をトゥートする混沌領域です。トゥートには必ず何らかのハッシュタグを付けてください。</blockquote>とあり、話題は自由だが、[[トゥート]]する場合にはその話題に関する[[ハッシュタグ]]を付けることが必要としている<ref>[https://chaosphere.hostdon.jp/about/more インスタンス説明文]</ref>。
+
+== RSSフィードbot ==
+カオスフィアでは、[https://chaosphere.hostdon.jp/@mstdn_wiki マストドン日本語ウィキのRRSフィードをトゥートするbot]など、ニュースサイトやMastodon関連のウェブサイトから提供されるRSSフィードをトゥートする[[bot]]が、2018年5月現在43[[アカウント]]稼働している<ref>https://chaosphere.hostdon.jp/@chaosphere_info/99966671895856329</ref>。
+
+=== Mastodon関連 ===
+* [https://chaosphere.hostdon.jp/@mstdn_wiki @mstdn_wiki] - [[マストドン日本語ウィキ]]
+* [https://chaosphere.hostdon.jp/@mastportal @mastportal] - [[マストポータル]]
+* @mstdn_discourse - [[Mastodon日本語メタフォーラム]] （2019年10月18日現在消滅済）
+* [https://chaosphere.hostdon.jp/@pixiv_checker @pixiv_checker] - pixiv
+* [https://chaosphere.hostdon.jp/@nico_checker @nico_checker] - ニコニコニュース
+
+=== ニュースサイト ===
+* [https://chaosphere.hostdon.jp/@4gamer @4gamer] - 4Gamer.net
+* [https://chaosphere.hostdon.jp/@all_about @all_about] - All About
+* [https://chaosphere.hostdon.jp/@animeanime @animeanime] - アニメ！アニメ！
+* [https://chaosphere.hostdon.jp/@atmarkit @atmarkit] - ＠IT
+* [https://chaosphere.hostdon.jp/@automaton @automaton] - AUTOMATON
+* [https://chaosphere.hostdon.jp/@bunshun @bunshun] - 文春オンライン
+* [https://chaosphere.hostdon.jp/@buzzap @buzzap] - BUZZAP！
+* [https://chaosphere.hostdon.jp/@buzzfeed @buzzfeed] - BuzzFeed
+* [https://chaosphere.hostdon.jp/@cinematoday @cinematoday] - シネマトゥデイ
+* [https://chaosphere.hostdon.jp/@cnet @cnet] - CNET Japan
+* [https://chaosphere.hostdon.jp/@dpz @dpz] - デイリーポータルＺ
+* [https://chaosphere.hostdon.jp/@engadget @engadget] - Engadget
+* [https://chaosphere.hostdon.jp/@forest @forest] - 窓の杜
+* [https://chaosphere.hostdon.jp/@gendaibiz @gendaibiz] - 現代ビジネス
+* [https://chaosphere.hostdon.jp/@gigazine @gigazine] - GIGAZINE
+* [https://chaosphere.hostdon.jp/@gizmodo @gizmodo] - GIZMODO
+* @hbol - ハーバー・ビジネス・オンライン （2019年10月18日現在消滅済）
+* [https://chaosphere.hostdon.jp/@impress_watch @impress_watch] - Impress Watch
+* [https://chaosphere.hostdon.jp/@internetcom @internetcom] - インターネットコム
+* @itmediabol - ITmedia ビジネスオンライン （2019年10月18日現在消滅済）
+* [https://chaosphere.hostdon.jp/@jcast @jcast] - J-CASTニュース
+* [https://chaosphere.hostdon.jp/@karapaia @karapaia] - カラパイア
+* [https://chaosphere.hostdon.jp/@kyoko @kyoko] - 虚構新聞
+* [https://chaosphere.hostdon.jp/@lifehacker @lifehacker] - ライフハッカー
+* [https://chaosphere.hostdon.jp/@litera @litera] - LITERA
+* [https://chaosphere.hostdon.jp/@mantanweb @mantanweb] - MANTANWEB
+* [https://chaosphere.hostdon.jp/@natalie @natalie] - ナタリー
+* [https://chaosphere.hostdon.jp/@netlab @netlab] - ねとらぼ
+* @osdn - OSDN Magazine （2019年10月18日現在消滅済）
+* @panora - PANORA （2019年10月18日現在消滅済）
+* [https://chaosphere.hostdon.jp/@srad @srad] - スラド
+* [https://chaosphere.hostdon.jp/@techcrunch @techcrunch] - TechCrunch
+* [https://chaosphere.hostdon.jp/@thinkit @thinkit] - Think IT
+* [https://chaosphere.hostdon.jp/@tocana @tocana] - TOCANA
+* [https://chaosphere.hostdon.jp/@toyokeizai @toyokeizai] - 東洋経済オンライン
+* [https://chaosphere.hostdon.jp/@vector @vector] - Vector
+* [https://chaosphere.hostdon.jp/@wired @wired] - WIRED.jp
+* [https://chaosphere.hostdon.jp/@zdnet @zdnet] - ZDNet Japan
+
+=== [[2019年]]9月10日追加分 ===
+このインスタンス内の[[アカウント]]「RSSフィード案内」の[[トゥート]]<ref>https://chaosphere.hostdon.jp/@rssfeed/102763176858773495</ref>によれば下記が追加された。
+
+* [https://chaosphere.hostdon.jp/@moneyplus @moneyplus] - MONEY PLUS
+* [https://chaosphere.hostdon.jp/@entabeuchi @entabeuchi] - えん食べ/えんウチ
+* [https://chaosphere.hostdon.jp/@jtownnet @jtownnet] - Jタウンネット
+* [https://chaosphere.hostdon.jp/@irorio @irorio] - IRORIO
+* [https://chaosphere.hostdon.jp/@mesitsu @mesitsu] - メシ通
+* [https://chaosphere.hostdon.jp/@zakzak @zakzak] - zakzak
+
+また「RSSフィード案内」のフォロー一覧<ref>https://chaosphere.hostdon.jp/users/rssfeed/following</ref>によれば、以下のアカウントも確認できる。
+* [https://chaosphere.hostdon.jp/@kakakumag @kakakumag] - 価格.comマガジン
+* [https://chaosphere.hostdon.jp/@togetter @togetter] - Togetter
+* [https://chaosphere.hostdon.jp/@sumahon @sumahon] - すまほん!!
+* [https://chaosphere.hostdon.jp/@otapol @otapol] - おたぽる
+* [https://chaosphere.hostdon.jp/@otakumakeizai @otakumakeizai] - おたくま経済新聞
+* [https://chaosphere.hostdon.jp/@famitsu @famitsu] - ファミ通.com
+* [https://chaosphere.hostdon.jp/@bizjournal @bizjournal] - ビジネスジャーナル
+* [https://chaosphere.hostdon.jp/@gamespark @gamespark] - Game*Spark
+
+== 脚注 ==
+<references />
+
+== 関連項目 ==
+* [[gldon.hostdon.jp|GL丼]]
+* [[sabakan.hostdon.jp|鯖缶丼]]
+
+[[Category:日本のインスタンス]]

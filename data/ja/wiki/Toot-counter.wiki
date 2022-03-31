@@ -1,0 +1,21 @@
+{{小文字}}
+{{Infobox software
+| Name                = toot-counter
+| Developer           = [https://mstdn.maud.io/@MulticolorWorld @MulticolorWorld@mstdn.maud.io]
+| SourceCode          = プロプライエタリ
+| Platform            = Web
+| Launch              = 2017年12月18日<ref>https://mstdn.maud.io/@MulticolorWorld/99246195392670810</ref>
+| Web                 = https://toot-counter.net
+}}'''toot-counter'''は、マストドンの一日のトゥート数を自動でトゥートするウェブアプリケーション。開発者は、Twitter向けアプリケーション「ツイ廃あらーと」の作者でもある[https://mstdn.maud.io/@MulticolorWorld @MulticolorWorld@mstdn.maud.io]氏。
+
+登録すると、JST（日本標準時）0時に自動で1日のトゥート数をトゥートする。
+
+==関連項目==
+*[[ドン廃あらーと]]
+*[[トゥート数カウントくん]]
+
+==出典==
+<references />
+
+[[category:ウェブサイト]]
+[[category:プロプライエタリ]]

@@ -1,0 +1,20 @@
+{{Infobox instance
+| Name          = 佐賀トドン
+| Domain        = https://mstdn.saga.jp/
+| Admin         = [https://mstdn.jp/@takurock takurock]
+| Country       = 日本
+| Start         = 2017年5月7日
+| Kifu          = なし
+| Alias         = なし
+}}'''佐賀トドン'''は、オープンソースのソーシャルネットワークMastodonの[[インスタンス]]。
+
+== 概要 ==
+佐賀県に関する話題を中心としたインスタンス。
+
+2017年10月現在、[[セキュリティ証明書]]が期限切れとなっている。
+
+== 関連項目 ==
+* [[都道府県のインスタンス一覧]]
+
+{{DEFAULTSORT:さが}}
+[[category:消滅したインスタンス]]

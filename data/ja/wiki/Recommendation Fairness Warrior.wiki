@@ -1,0 +1,27 @@
+{{Infobox software
+| Name                = Recommendation Fairness Warrior
+| Image               = [[ファイル:Naraha.png|120px]]
+| Developer           = [[墓場人夜]]
+| Platform            = ウェブ
+| ProgrammingLanguage = JavaScript
+| Launch              = 2019年7月3日
+| License             = [[GNU Affero General Public License]]
+| Web                 = <nowiki>https://distsn.org</nowiki>
+}}
+
+'''Recommendation Fairness Warrior'''は、[[分散SNSフォーラム]]と[[マストドンユーザーマッチング]]の機能を引き継いだウェブサイト。これらのウェブサイトは、構成と名称に紆余曲折があったものの、2019年7月3日より、'''Recommendation Fairness Warrior'''の名称を用いている。
+
+Recommendation Fairness WarriorはウェブサイトとウェブUIを提供し、[[分散SNSフォーラム]]と[[マストドンユーザーマッチング]]はAPIを提供するという構成になっている。
+
+2020年2月23日に閉鎖され、[[Fediverse Observer (墓場人夜)|Fediverse Observer]]に移行した。
+
+==名称について==
+[[レコメンデーション・フェアネス]]のために戦う戦士を意味する。
+
+==関連項目==
+* [[libsocialnet]]
+
+{{DEFAULTSORT:recommendationfairnesswarrior}}
+[[category:ウェブサイト]]
+[[category:ユーザーレコメンデーション]]
+[[category:GNU Affero General Public License]]

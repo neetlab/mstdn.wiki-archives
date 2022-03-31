@@ -1,0 +1,15 @@
+{{Infobox instance
+| Name = {{Ruby|Mastodon.ART|マストドン ドット アート}}
+| Domain = https://mastodon.art
+| Admin = [https://mastodon.art/@Curator @Curator]
+| Country = アメリカ
+| Start = 2017年4月15日
+| Kifu = [https://www.patreon.com/glocal Patreon]
+| Alias =
+}}'''Mastodon.ART'''は、オープンソースのソーシャルネットワークMastodonの[[インスタンス]]。
+
+== 概要 ==
+インスタンス名にあるように、イラスト、写真、造形、音楽、文章など、あらゆる「アート」がテーマのインスタンス。
+
+{{DEFAULTSORT:art}}
+[[Category:アメリカのインスタンス]]

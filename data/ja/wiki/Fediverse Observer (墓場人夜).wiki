@@ -1,0 +1,47 @@
+[[Fediverse Observer|Fediverse Observer (曖昧さ回避)]]
+
+{{Infobox software
+| Name                = Fediverse Observer
+| Image               = [[ファイル:Naraha.png|120px]]
+| Developer           = [[墓場人夜]]
+| Platform            = ウェブ
+| ProgrammingLanguage = C++, JavaScript
+| Launch              = 2020年2月23日
+| License             = [[GNU Affero General Public License]]
+| Web                 = <nowiki>https://fediverse-observer.tk</nowiki>
+}}
+
+'''Fediverse Observer'''は、[[分散SNSフォーラム]]、[[マストドンユーザーマッチング]]、[[Recommendation Fairness Warrior]]の後継となるウェブサイト。
+
+==機能==
+
+===新規ユーザーリスト===
+観測可能なインスタンスに属する新しいユーザーを表示する。[[マストドンユーザーマッチング]]から引き継がれた機能である。
+
+===流速順インスタンス一覧===
+さまざまな[[分散SNS]]実装のインスタンスを流速順に配列したリスト。[[分散SNSフォーラム]]から引き継がれた機能であるが、ユーザー登録が開放されているかどうかを表示する機能が追加された。また、ユーザー登録が開放されているインスタンスについては、メールアドレスのバリデーション<ref>メールアドレスのバリデーションについての議論は、[[メールアドレス不要でユーザー登録]]の項を参照。</ref>が必要であるかどうかも表示される。
+
+==沿革==
+
+これ以前の沿革は、[[分散SNSフォーラム]]、[[マストドンユーザーマッチング]]、[[Recommendation Fairness Warrior]]の各項目を参照。
+
+[[2020年]]2月23日、供用を開始。
+
+2020年2月27日頃、[[Friendica]]に対応。
+
+2020年3月頃、[[Socialhome]]に対応。
+
+2020年3月頃、閉鎖。
+
+[[2021年]]12月4日、[[Who To Follow For Mastodon & Pleroma]]の供用を開始。以降の沿革は当該項目を参照。
+
+==関連項目==
+* [[libsocialnet]]
+
+==脚注==
+<references />
+
+{{DEFAULTSORT:fediverseobserver}}
+[[category:ユーザーレコメンデーション]]
+[[category:インスタンスの一覧を提供するウェブサイト]]
+[[category:GNU Affero General Public License]]

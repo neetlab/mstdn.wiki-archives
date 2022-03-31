@@ -1,0 +1,30 @@
+{{Infobox website
+| Name = {{Ruby|TootCloud|トゥートクラウド}}
+| Image = [[ファイル:TootCloud.png|300px]]
+| URL = https://tootcloud.ml/
+| Admin = [[ておりあ]]
+| Country = 日本
+| Start = 2017年10月6日
+}}
+{{Ruby|'''TootCloud'''|トゥートクラウド}}とは、[[マストドン]]の[[アカウント|ユーザー]]の[[トゥート]]を分析して[[ワードクラウド]]にする、[[オープンソース]]の[[ツール]]である。
+
+== 概要 ==
+[[ファイル:TootCloud_WordCloud.png|thumb|250px|TootCloudで生成されたワードクラウド]]
+[[Wugtodon]]管理人でもある[https://wug.fun/@theoria ておりあ]氏により、2017年10月6日に公開された<ref>https://wug.fun/@theoria/144560</ref>。
+
+ワードクラウドとは、出現頻度の高い単語を、その頻度に応じた大きさや色で図示したもののこと。マストドンにおいては他に[[MASTMAN]]、[[トレンドン]]などのウェブサービスで出力することができる。
+
+マストドンの[[アカウント]]で[[ログイン]]し、設定項目を弄り「この設定でワードクラウドを作成」を押すと、取得トゥートに頻出するワードを分析し、「ワードクラウド」の画像として出力する。出力した画像はその場でトゥートすることができる。設定では、取得するトゥート数やトゥートの公開範囲、除外する単語を設定できる。
+
+ソースコードは[[MIT]]ライセンス<ref>[https://opensource.org/licenses/mit-license.php The MIT License - Open Source Initiative]</ref>の下、[[GitHub]]で公開されている<ref>https://github.com/theoria24/TootCloud</ref>。
+
+2017年12月21日、tc.theoria.work から tootcloud.ml に移転した<ref>https://wug.fun/@theoria/99209710797923821</ref>。また、ソースコードのレポジトリが https://github.com/theoria24/MstdnWordCloud から https://github.com/theoria24/TootCloud に変更された。
+
+== 関連項目 ==
+* [[Wugtodon]]
+
+== 出典 ==
+<references />
+
+[[Category:ウェブサイト]]
+[[category:MITライセンス]]

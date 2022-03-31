@@ -1,0 +1,110 @@
+{{Infobox instance
+| Name = {{Ruby|Abyss.fun|アビス ドット ファン}}
+| Image = [[ファイル:Abyss_fun_logo.png|300px]]
+| Domain = https://abyss.fun
+| Admin = [[ぐすくま]]
+| Country = 日本
+| Start = 2017年11月19日
+| Kifu = なし
+| Alias = アビスドン、アビス鯖
+}}'''Abyss.fun'''（アビスドン）とは、オープンソースのソーシャルネットワーク[[Mastodon]]で立ち上げられた[[インスタンス]]。
+
+== 概要 ==
+漫画「[[:wikipedia:ja:メイドインアビス|メイドインアビス]]」のファンであることで有名な[[ぐすくま]]氏が「メイドインアビス」のファン向けに立ち上げたインスタンス。
+
+独自機能として、トゥートの内容をメイドインアビスの作中に登場する「奈落文字」に変換する機能がある（後述）。
+
+また、2017年12月12日にはAbyss.fun専用のWikiサイト「[[abyss:メインページ|メイドインアビス非公式wiki]]」が立ち上げられた。
+
+== 独自機能 ==
+
+=== 奈落文字変換 ===
+[[theboss.tech]]より移植された機能で、Mastodonの[[カスタム絵文字]]の機能を利用して、トゥートの内容をメイドインアビス作中に登場する文字である「奈落文字」に変換する。また、トゥートの「もっと見る」（…のマーク）のメニュー内に「奈落文字を解読」という項目があり、ここをクリックすると奈落文字の上にふりがなが振られる。
+
+登録されている奈落文字は以下の通り。ショートコードの「nrk」以降のコードはUnicodeの片仮名の番号と対応する奈落文字で一致させられている。
+
+{| class="wikitable" style="text-align: center; font-size: 125%; line-height: 140%;"
+!
+! 0 !! 1 !! 2 !! 3 !! 4 !! 5 !! 6 !! 7
+! 8 !! 9 !! a !! b !! c !! d !! e !! f
+|-
+!:nrk30ax:
+| style="background: #ddd;" | ||[[ファイル:Nrk30a1.png|32px]]
+|[[ファイル:Nrk30a2.png|32px]]||[[ファイル:Nrk30a3.png|32px]]
+|[[ファイル:Nrk30a4.png|32px]]||[[ファイル:Nrk30a5.png|32px]]
+|[[ファイル:Nrk30a6.png|32px]]||[[ファイル:Nrk30a7.png|32px]]
+|[[ファイル:Nrk30a8.png|32px]]||[[ファイル:Nrk30a9.png|32px]]
+|[[ファイル:Nrk30aa.png|32px]]||[[ファイル:Nrk30ab.png|32px]]
+|[[ファイル:Nrk30ac.png|32px]]||[[ファイル:Nrk30ad.png|32px]]
+|[[ファイル:Nrk30ae.png|32px]]||[[ファイル:Nrk30af.png|32px]]
+|-
+!:nrk30bx:
+|[[ファイル:Nrk30b0.png|32px]]||[[ファイル:Nrk30b1.png|32px]]
+|[[ファイル:Nrk30b2.png|32px]]||[[ファイル:Nrk30b3.png|32px]]
+|[[ファイル:Nrk30b4.png|32px]]||[[ファイル:Nrk30b5.png|32px]]
+|[[ファイル:Nrk30b6.png|32px]]||[[ファイル:Nrk30b7.png|32px]]
+|[[ファイル:Nrk30b8.png|32px]]||[[ファイル:Nrk30b9.png|32px]]
+|[[ファイル:Nrk30ba.png|32px]]||[[ファイル:Nrk30bb.png|32px]]
+|[[ファイル:Nrk30bc.png|32px]]||[[ファイル:Nrk30bd.png|32px]]
+|[[ファイル:Nrk30be.png|32px]]||[[ファイル:Nrk30bf.png|32px]]
+|-
+!:nrk30cx:
+|[[ファイル:Nrk30c0.png|32px]]||[[ファイル:Nrk30c1.png|32px]]
+|[[ファイル:Nrk30c2.png|32px]]||[[ファイル:Nrk30c3.png|32px]]
+|[[ファイル:Nrk30c4.png|32px]]||[[ファイル:Nrk30c5.png|32px]]
+|[[ファイル:Nrk30c6.png|32px]]||[[ファイル:Nrk30c7.png|32px]]
+|[[ファイル:Nrk30c8.png|32px]]||[[ファイル:Nrk30c9.png|32px]]
+|[[ファイル:Nrk30ca.png|32px]]||[[ファイル:Nrk30cb.png|32px]]
+| style="background: #ddd;" | ||[[ファイル:Nrk30cd.png|32px]]
+|[[ファイル:Nrk30ce.png|32px]]||[[ファイル:Nrk30cf.png|32px]]
+|-
+!:nrk30dx:
+|[[ファイル:Nrk30d0.png|32px]]||[[ファイル:Nrk30d1.png|32px]]
+|[[ファイル:Nrk30d2.png|32px]]||[[ファイル:Nrk30d3.png|32px]]
+|[[ファイル:Nrk30d4.png|32px]]||[[ファイル:Nrk30d5.png|32px]]
+|[[ファイル:Nrk30d6.png|32px]]||[[ファイル:Nrk30d7.png|32px]]
+|[[ファイル:Nrk30d8.png|32px]]||[[ファイル:Nrk30d9.png|32px]]
+|[[ファイル:Nrk30da.png|32px]]||[[ファイル:Nrk30db.png|32px]]
+|[[ファイル:Nrk30dc.png|32px]]||[[ファイル:Nrk30dd.png|32px]]
+|[[ファイル:Nrk30de.png|32px]]||[[ファイル:Nrk30df.png|32px]]
+|-
+!:nrk30ex:
+|[[ファイル:Nrk30e0.png|32px]]||[[ファイル:Nrk30e1.png|32px]]
+|[[ファイル:Nrk30e2.png|32px]]||[[ファイル:Nrk30e3.png|32px]]
+|[[ファイル:Nrk30e4.png|32px]]||[[ファイル:Nrk30e5.png|32px]]
+|[[ファイル:Nrk30e6.png|32px]]||[[ファイル:Nrk30e7.png|32px]]
+|[[ファイル:Nrk30e8.png|32px]]||[[ファイル:Nrk30e9.png|32px]]
+|[[ファイル:Nrk30ea.png|32px]]||[[ファイル:Nrk30eb.png|32px]]
+|[[ファイル:Nrk30ec.png|32px]]||[[ファイル:Nrk30ed.png|32px]]
+|[[ファイル:Nrk30ee.png|32px]]||[[ファイル:Nrk30ef.png|32px]]
+|-
+!:nrk30fx:
+| style="background: #ddd;" | || style="background: #ddd;" |
+|[[ファイル:Nrk30f2.png|32px]]||[[ファイル:Nrk30f3.png|32px]]
+| style="background: #ddd;" | || style="background: #ddd;" |
+| style="background: #ddd;" | || style="background: #ddd;" |
+| style="background: #ddd;" | || style="background: #ddd;" |
+| style="background: #ddd;" | || style="background: #ddd;" |
+|[[ファイル:Nrk30fc.png|32px]]|| style="background: #ddd;" |
+| style="background: #ddd;" | || style="background: #ddd;" |
+|}
+
+=== 考察班TL ===
+2017年12月22日にリリースした機能で、CWに【考察】を加えることにより考察班TLにトゥートを表示することができる。
+考察班TLについてはWebクライアントのスタートページにリンクが存在する他、ハッシュタグ #メイドインアビス考察班 を検索することでも表示することができる。
+この機能は[[friends.nico#動画タイムライン・生放送タイムライン]]に着想を得て実装された。
+
+===奈落文字フォントテーマ===
+2017年1月11日<ref>https://abyss.fun/@guskma/99330261411340317</ref>、奈落文字フォントテーマが導入された。サイトテーマを切り替えることで、UIの文字が奈落文字として表示される。同様に、2017年1月12日<ref>https://abyss.fun/@guskma/99335782267233848</ref>には少女終末旅行フォントのサイトテーマが導入された。
+
+===[[ローカルタイムラインをデフォルトタグタイムラインに置き換える]]===
+abyss.funでは「デフォルトハッシュタグ」と説明している。
+
+== 関連項目 ==
+* [[theboss.tech]]
+
+== 外部リンク ==
+* [https://twitter.com/abyss_fun @abyss_fun] - 宣伝用Twitterアカウント
+
+[[Category:日本のインスタンス]]
+[[category:独自機能が実装されたインスタンス]]

@@ -1,0 +1,14 @@
+{{小文字}}
+{{stub}}
+'''simple HTML client'''または'''simplehtmlclient'''は、テキストブラウザやkindle PaperWhiteなどJavaScriptの使用に制限のあるブラウザからアクセスすることを目的としたWebクライアント。
+
+==外部リンク==
+* https://simplehtmlclient.app
+* https://develop.simplehtmlclient.app
+
+==関連項目==
+* [[Brutaldon]]
+
+{{DEFAULTSORT: simplehtmlclient}}
+[[category:ウェブクライアント]]
+[[category:プロプライエタリ]]

@@ -1,0 +1,46 @@
+{{Infobox instance
+| Name          = [[mastodon.tokyo]]
+| Domain        = https://mastodon.tokyo/
+| Admin         = <s>[https://mastodon.tokyo/@nobuf Nobu]</s> (初代)
+[https://mastodon.tokyo/@h12o Hidetomo Hosono] (2代目)
+| Country       = 日本
+| Start         = 2017年4月8日 (初代)
+2021年4月8日 (2代目)
+| Kifu          = なし
+| Alias         = 東京鯖
+}}
+'''<ruby>mastodon.tokyo<rt>ますとどん どっと とうきょう</rt></ruby>''' とは、日本の[[マストドン]][[インスタンス]]の1つである。
+
+==概要==
+
+===初代===
+2017年4月8日<ref><s>https://mastodon.tokyo/@nobuf/1</s>(リンク切れ)</ref>に[https://mastodon.tokyo/@nobuf Nobu]氏によって開設されたインスタンスであり、当初日本人ユーザーは[[Mastodon.cloud]]かこちらかに二分していた。
+
+[[mastodon.nil.nu]]よりも前に開設された'''最古の日本語向けインスタンス'''で、日本の話題について扱うインスタンスとしては[[niu.moe]]に次いで2番目であったため多くのユーザーが参加していたものの、日本語化アップデートが行われなかったことなどが原因となり最終的に多くのユーザーが[[mstdn.jp]]([[mastodon.nil.nu]])に移っていったとされる。
+
+===2代目===
+初代の開設日からちょうど4年の同日(2021年4月8日)に初代とは無関係で別人の鯖缶（ [https://blessedgeeks.org blessedgeeks.org] を運営している [https://mastodon.tokyo/@h12o Hidetomo Hosono] 氏）によってドメインが買い戻され、復活が実現することとなった<ref>https://mastodon.tokyo/@h12o/106029041650453943</ref>。
+
+[https://mastodon.tokyo/@h12o Hidetomo Hosono] 氏 は、これを「2代目 Mastodon.tokyo」と称しており、詳細情報ページは初代よりもルールの明確化がなされ、「電気通信事業者届出番号」の記載もしている<ref>https://mastodon.tokyo/about/more</ref>。
+
+[[Mastodon]] オリジナルソースとの差分リポジトリを公開している<ref>https://github.com/mastodon-tokyo/mastodon/compare/v3.4.0...mastodon-tokyo:v3.4.0%23mastodon-tokyo</ref>。
+
+==ルール==
+
+===初代===
+<blockquote>
+*Be nice.
+*もちろん日本語 OK
+</blockquote>
+
+===2代目===
+[https://mastodon.tokyo/about/more 詳細情報ページ]を参照。
+
+==出典==
+<references />
+
+==関連項目==
+
+*[[都道府県のインスタンス一覧]]
+
+{{DEFAULTSORT:とうきょう}}

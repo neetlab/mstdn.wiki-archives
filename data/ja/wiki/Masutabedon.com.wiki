@@ -1,0 +1,30 @@
+{{小文字}}
+{{Infobox instance
+| Name = マスタベドン
+<!--| Image = -->
+| Domain = <s>https://masutabedon.com</s>
+| Admin = マスタベ
+| Country = アメリカ
+| Start = 不明（2017年4月21日以前<ref>https://twitter.com/michi_036/status/855416394287955971</ref>）
+| End = 2017年6月27日
+<!--| Kifu = -->
+<!--| SourceCode = -->
+<!--| Alias = -->
+}}'''マスタベドン'''とは、[[オープンソース]]の[[分散SNS]]、[[Mastodon]]の[[インスタンス]]の一つ。
+
+== 概要 ==
+成人向けの動画を扱うアダルトサイトである「マスタベ」によるインスタンス。
+
+その為、インスタンスのテーマは、一般ユーザーによる成年向けの動画に関する情報交換など、アダルト関連の話題が主とされた。
+
+公開されてから消滅するまでに約5500人ものユーザー数を集めた<ref>https://dashboards.mnm.social/d/000000005/instance-detail?var-instance=masutabedon.com&refresh=30m&orgId=1</ref>が、次第にユーザーによる投稿は減少、パブリックタイムラインはbotによる投稿が大半を占める状態となっていった<ref>https://hakabahitoyo.wordpress.com/2017/07/25/ruins-with-many-users/</ref>。そして2017年6月27日、アクセスが不可となり、消滅した<ref>https://masto.news/2017/07/04/masutabedon/</ref>。消滅に関するアナウンスはされていなかった。
+
+== 関連項目 ==
+* [[mstdn18.jp]]
+* [[preteengirls.biz]]
+* [[Switter]]
+
+== 出典 ==
+<references />
+
+[[Category:日本のインスタンス]]

@@ -1,0 +1,16 @@
+[[File:Feed-icon.svg|thumb|right|120px]]
+'''RSS'''（Rich Site Summary、RDF Site Summary、Really Simple Syndication）は、ウェブサイトの更新情報を配信することができる文書フォーマットの総称。
+
+== 概要 ==
+ブログやニュースサイトなどといったウェブサイトにおいて、更新情報を<code>.rss、.xml、.rdf</code>の文書フォーマットのもとに配信することを可能とする技術。ユーザーがRSSリーダーを用いて購読することで、更新情報を受信することができる。多くのバージョンが存在しており、例えば分散型動画配信サービスの[[PeerTube]]では動画の新着情報などをrss2.0、json1.0、atom2.0の形式から取得できる。
+
+[[IFTTT]]を用いることで[[Mastodon]]や[[Twitter]]などの[[SNS]]にRSSフィードを配信することも可能であり、Mastodonでは[[chaosphere.hostdon.jp]]などの[[インスタンス]]でRSSフィード配信botが稼働している。
+
+Mastodonでは、<code>@ユーザーID</code>から始まるユーザーページの末尾に<code>.atom</code>を追加したURL（<code>インスタンスURL/@ユーザーID.atom</code>）から、[[w:Atom (ウェブコンテンツ配信)|Atom配信フォーマット]]で任意の[[アカウント]]の[[トゥート]]情報を出力することができたが、これはバージョン3.0.0rc1以降では廃止された<ref>https://github.com/tootsuite/mastodon/pull/11247</ref>、Pleromaの場合は<code>インスタンスURL/users/ユーザーID/feed.atom</code>で取得できる{{要出典}}。）
+
+また、バージョン2.4.0以降では、ユーザーページ及び、<code>/tags/</code>から始まる[[ハッシュタグ]]ページのURLの末尾に<code>.rss</code>を追加したURL（ユーザーページ：<code>インスタンスURL/@ユーザーID.rss</code>、ハッシュタグ：<code>インスタンスURL/tags/ハッシュタグ.rss</code>）から、[[w:RSS|RSS]]2.0形式でトゥートを取得することが可能となった。
+
+==脚注==
+<references />
+
+[[Category:マストドンの機能]]

@@ -1,0 +1,20 @@
+{{infobox instance
+|Name = {{Ruby|'''KADOKAWA丼'''|かどかわどん}}
+|Domain = https://kadokawadon.jp
+|Country = 日本
+|Admin = [[株式会社KADOKAWA]]
+|Start = 2017年8月17日
+|End = 2019年4月26日
+}}'''KADOKAWA丼'''は、オープンソースのソーシャルネットワークMastodonで立てられた[[インスタンス]]。
+
+== 概要 ==
+出版・映画大手のKADOKAWAが、2017年8月23日開催のイベント「坂村 健×角川歴彦：IoTによりコンテンツはどう再定義されるのか？」に合わせて立ち上げたインスタンス。
+
+2019年4月26日、サービスを終了した。
+
+== 関連項目 ==
+* [[friends.nico]]
+* [[S&II Mastodon]]
+
+[[Category:日本のインスタンス]]
+[[Category:企業が運用しているインスタンス]]

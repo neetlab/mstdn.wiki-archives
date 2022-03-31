@@ -1,0 +1,26 @@
+{{Infobox software
+| Name                = Gallery
+<!-- | Image               = [[ファイル:Amaroq.jpg|120px|Amaroq]] -->
+| Developer           = [[Gargron]]
+| SourceCode          = https://source.joinmastodon.org/Gargron/gallery
+| Platform            = ウェブ
+| ProgrammingLanguage = JavaScript
+| Launch              = 2018年11月4日<ref>https://mastodon.social/@Gargron/101009289622106852</ref>
+<!-- | Kifu                = [https://paypal.me/floofdog PayPal] -->
+| License             = [[MITライセンス]]
+<!-- | Web                 = [https://github.com/ReticentJohn/Amaroq/blob/master/README.md GitHub Readme] -->
+<!-- | Download            = [https://itunes.apple.com/us/app/amaroq-for-mastodon/id1214116200 AppStore] -->
+}}'''Gallery'''は、[[Mastodon|マストドン]]関連ソフトウェアの一つ。[[インスタンス]]の画像を敷き詰めて表示する。
+
+==関連項目==
+* [[tusktowall]]
+* [[Artodon]]
+* [[illustail]]
+* [[Pictdon for Mastodon]]
+
+==脚注==
+<references />
+
+{{DEFAULTSORT:gallery}}
+[[category:タイムラインビューア]]
+[[category:MITライセンス]]

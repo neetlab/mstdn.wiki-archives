@@ -1,0 +1,19 @@
+{{infobox instance
+|Name = {{Ruby|Foodon|フードン}}
+|Domain = https://foodon.jp
+|Country = 日本
+|Admin = [https://foodon.jp/@sib sib]
+|Start = 2017年5月6日
+|Kifu = なし
+|Alias = なし
+}}'''Foodon'''は、オープンソースのソーシャルネットワークMastodonの[[インスタンス]]。
+
+== 概要 ==
+[[Catdon]]管理者でもあるsib氏によって2017年5月6日に立てられた、食べ物の話題がテーマのインスタンス。
+
+書き込まれるトゥートの内容がほとんど食べ物の写真トゥート、いわゆる「[[飯テロ]]」のトゥートなのが特徴。
+
+== 関連項目 ==
+* [[Catdon]]
+
+[[Category:日本のインスタンス]]

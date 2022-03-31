@@ -1,0 +1,14 @@
+{{infobox instance
+|Name = soscet.network
+|Domain = https://soscet.network
+|Country = 台湾
+|Admin = SOSCET
+|Start = 2017年9月20日
+|Kifu = 不明
+|Alias = 不明
+}}'''soscet.network'''は、オープンソースのソーシャルネットワークMastodonの[[インスタンス]]。
+
+== 概要 ==
+台湾東部の学生のオープンソースコミュニティ「SOSCET」の立てたインスタンス。
+
+[[Category:台湾のインスタンス]]

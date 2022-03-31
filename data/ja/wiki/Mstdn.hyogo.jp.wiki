@@ -1,0 +1,31 @@
+{{Infobox instance
+| Name          = <ruby>mstdn.hyogo.jp<rt>マストドン ドット ヒョウゴ ドット ジェーピー</rt></ruby>
+| Image = [[file:hyogo.png|180px]]
+| Domain        = https://mstdn.hyogo.jp/
+| Admin         = [https://mstdn.hyogo.jp/web/accounts/1 pinfort]
+| Country       = 日本(兵庫)
+| Start         = 2017年4月22日<ref>https://mstdn.hyogo.jp/@pinfort/1</ref>
+| Kifu          = [https://enty.jp/pinfort Enty]
+| Alias         = 兵庫丼
+}}
+'''Mstdn.hyogo.jp'''とは、[[オープンソース]]の[[分散SNS]]、[[Mastodon]]の[[インスタンス]]。
+
+==概要==
+兵庫県をテーマにした地域インスタンス。
+
+[[ローカルタイムライン]]の代わりに地域インスタンス限定でトゥートを表示する「地域タイムライン」という[[独自カラム]]を実装しているのが特徴。地域タイムラインは、兵庫県内を対象とするインスタンス限定の兵庫タイムラインと、関西の地域インスタンス（[[関西広域連合]]）限定の関西タイムラインが選択できる。
+
+==ローカルルール==
+[[jp-mstdn.com]]と同一のローカルルールを採用している。
+
+==出典==
+<references />
+
+==関連項目==
+
+*[[jp-mstdn.com]]
+*[[関西広域連合]]
+
+{{DEFAULTSORT:ひょうご}}
+[[category:日本のインスタンス]]
+[[Category:独自機能が実装されたインスタンス]]

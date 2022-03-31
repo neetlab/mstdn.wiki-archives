@@ -1,0 +1,38 @@
+<blockquote>
+'''アイテム番号:''' SCP-Mastodon
+
+'''オブジェクトクラス:''' SNS
+
+'''特別収容プロトコル:''' SCP-Mastodonはムトー★無料マストドンのフリープランによって運営されます。過度に暴力的、性的、公序良俗に反する内容は投稿しないでください。
+
+'''説明:''' SCP-MastodonはMastodonと呼ばれる形式によって作られているSNSです。財団のファンのためのSNSを謳っていますが、財団のデータベース内にはそのようなサイトを運営している事実は確認されませんでした。
+
+SCP-Mastodonのサーバーの容量は1GBです。1GBを超過した場合は、古いデータから順に削除されます。
+
+'''補遺:''' 楽しもうね！
+</blockquote>
+{{Infobox instance
+| Name = {{Ruby|SCP-Mastodon|エスシーピー　マストドン}}
+| Image = [[ファイル:SCP-Mastodon.png|200px]]
+| Domain = https://scp.m.to
+| Admin = [https://scp.m.to/@adminagi サイト-マストドン管理者]
+| Country = 日本
+| Start = 2017年10月18日
+| Kifu = なし
+| Alias = SCP鯖, SCP丼
+}}'''SCP-Mastodon'''とは、オープンソースのソーシャルネットワーク[[Mastodon]]で立ち上げられた[[インスタンス]]である。 
+
+== 概要 ==
+共同創作サイト「[[w:SCP Foundation|SCP Foundation]]」で活動している[[利用者:Иagi|Иagi]]氏が建てた非公式のSCP Foundation関連のインスタンス。「[[ムトー★マストドンホスティング]]」のフリープランを用いて建てられた。
+
+インスタンスの説明文はSCP財団においてよく用いられる形式の文章のオマージュになっている。
+
+2018年8月7日、多くのスパム流入と利用者の少なさから閉鎖し、別のインスタンスになった。
+
+2018年9月14日、ムトーの無料プラン終了に伴って消滅した。
+
+== 外部リンク ==
+* [http://www.scp-wiki.net SCP Foundation]
+* [http://ja.scp-wiki.net SCP財団]
+
+[[カテゴリ:日本のインスタンス]]

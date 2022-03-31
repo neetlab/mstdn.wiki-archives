@@ -1,0 +1,20 @@
+{{Infobox instance
+| Name = kemonodon.club
+| Domain = https://kemonodon.club
+| Admin = [https://kemonodon.club/@aotokage とか]
+| Country = 日本国
+| Start = 2017年4月15日<ref>{{toot|kemonodon.club|aotokage|1|2017年4月15日}}</ref>
+| Kifu = [https://www.pixiv.net/fanbox/creator/2377149 pixivFANBOX]
+| Alias = kemonodon, ケモノドン, 獣丼
+}}'''kemonodon.club'''は、[[オープンソース]]の[[分散SNS]]、[[Mastodon]]の[[インスタンス]]。
+
+==概要==
+2017年4月15日、とか氏によって立ち上げられたインスタンス。
+
+ケモノ系の分野に興味のあるユーザー、理解のあるユーザーであれば誰でも参加できるとしている。
+
+==脚注==
+<references />
+
+{{小文字}}
+[[Category:日本のインスタンス]]

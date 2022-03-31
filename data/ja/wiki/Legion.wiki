@@ -1,0 +1,20 @@
+{{Infobox software
+| Name                = {{Ruby|Legion|レギオン}}
+<!-- | Image               = [[ファイル:Amaroq.jpg|120px|Amaroq]] -->
+| Developer           = [[SH|S.H.]]
+| SourceCode          = https://github.com/S-H-GAMELINKS/Legion
+| Platform            = PC
+| ProgrammingLanguage = Ruby/Tk
+| Launch              = 2018年6月18日<ref>https://github.com/S-H-GAMELINKS/Legion/releases/tag/0.0.1</ref>
+<!-- | Kifu                = [https://paypal.me/floofdog PayPal] -->
+| License             = [[MITライセンス]]
+<!-- | Web                 = https://github.com/S-H-GAMELINKS/Legion -->
+<!-- | Download            = [https://itunes.apple.com/us/app/amaroq-for-mastodon/id1214116200 AppStore] -->
+}}'''Legion'''はマストドンクライアント。Ruby/Tkで作られている。
+
+==脚注==
+<references />
+
+{{DEFAULTSORT:legion}}
+[[category:デスクトップクライアント]]
+[[category:MITライセンス]]

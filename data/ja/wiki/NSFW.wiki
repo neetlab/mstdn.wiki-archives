@@ -1,0 +1,23 @@
+{{Infobox word
+| Name          = NSFW
+| Hinshi        = 形容詞/動詞
+}}NSFWとは職場での閲覧注意(英:Not Safe for Work)を意味するインターネットスラングであり、Mastodonにおいては[[トゥート]]内の画像に警告文を表示し一時的に非表示にする機能のことである。
+
+== 概要 ==
+[[ファイル:スクリーンショット 2017-04-16 7.58.15.png|right|thumb|300px|Not Safe for Work]]
+
+MastodonにおいてNSFWとは、いわゆる「18禁」であったり「グロ」であったりする画像に対して「不適切なコンテンツ」として設定することで、Mastodonの機能としては画像をNSFWとして設定することでユーザーはクリックしないと画像を閲覧できないようになり、ワンクッション置くことができるようになっている。
+
+尚、NSFWの設定方法は画像の'''アップロード後に'''設定ボタンが出現するため、初期の[[トゥート]]画面では表示されない。
+
+また、バージョン1.5.0以降であれば画像投稿時に自動的にNSFW出来るように設定が可能である。
+
+NSFWとマークされているものも含め、すべての画像を表示する機能は、2018年2月にマージされ<ref>[https://github.com/tootsuite/mastodon/pull/6448 Add preference to always display sensitive media #6448]</ref>、バージョン2.3.0<ref>https://github.com/tootsuite/mastodon/releases/tag/v2.3.0</ref>から利用できるようになった。それ以前には、すべての画像を表示するChrome拡張<ref>[https://chrome.google.com/webstore/detail/pawoonet%E3%81%AE%E7%94%BB%E5%83%8F%E5%85%A8%E9%83%A8%E8%A1%A8%E7%A4%BA%E3%81%99%E3%82%8B%E3%82%84%E3%81%A4/hhfebcpaahgegnabkmhohnfochmbjjfd pawoo.netの画像全部表示するやつ - Chrome ウェブストア]</ref>などを利用する必要があった。
+
+これとは逆に、NSFWとマークされていないものも含め、すべての画像を非表示にする機能は、2018年9月25日<ref>[https://github.com/tootsuite/mastodon/pull/8569 Add a new preference to always hide all media #8569]</ref>に[[マストドン公式リポジトリ]]にマージされ、リリースを待っている状態である。
+
+== 出典 ==
+<references/>
+
+{{DEFAULTSORT:nsfw}}
+[[Category:マストドンの機能]]

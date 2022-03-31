@@ -1,0 +1,28 @@
+''<small>Facebook, Inc.が運営しているSNSについては「[[Facebook]]」をご覧ください。</small>''
+--------
+{{Infobox instance
+| Name = {{Ruby|Facebook|フェイスブック}}
+| Domain = https://tebukuro.m.to
+| Admin = [https://tebukuro.m.to/@te てぶくろ]
+| Country = 日本
+| Start = 2017年9月12日
+| Kifu = なし
+| Alias = てぶくろインスタンス, てぶくろ丼
+}}'''Facebook'''とは、オープンソースのソーシャルネットワーク[[Mastodon]]のホスティングサービス「[[ムトー★マストドンホスティング]]」で立ち上げられた[[インスタンス]]である。 
+
+== 概要 ==
+[[Pawoo]]の利用者である、[https://pawoo.net/@tebukuro てぶくろ]氏が建てたインスタンス。Mastodonのインスタンスであるが、インスタンス名は「Facebook」になっている。
+
+しかし、Facebook, Inc.や同社運営のSNS「Facebook」とは'''一切関係ない'''ので注意。
+
+== ローカルルール ==
+<blockquote>
+みんななかよく。建前は無し。
+
+タイトルがFacebookだから職場で開いていても怒られないかもしれない。 
+</blockquote>
+
+== 関連項目 ==
+* [[ムトー★マストドンホスティング]]
+
+[[Category:日本のインスタンス]]

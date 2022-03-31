@@ -1,0 +1,21 @@
+{{小文字}}
+{{Infobox instance
+| Name = babymetal.party
+| Domain = https://babymetal.party
+| Admin = [https://babymetal.party/@mamma mamma]
+| Country = 日本
+| Start = 2017年4月25日<ref>https://babymetal.party/@mamma/10</ref>
+| Kifu = ビットコイン
+}}'''babymetal.party'''は、[[オープンソース]]の[[分散SNS]]、[[Mastodon]]の[[インスタンス]]。
+
+== 概要 ==
+2017年4月26日、mamma氏により立ち上げられたマストドンインスタンス。
+
+メタルダンスユニット「{{Jawp|BABYMETAL}}」のファンに向けられたインスタンスで、話題も同ユニットに関する話題が主である。
+
+インスタンスのカラーテーマが赤を基調としたものに変更されているのが特徴。
+
+== 出典 ==
+<references />
+
+[[Category:日本のインスタンス]]

@@ -1,0 +1,32 @@
+{{Infobox website
+| Name    = Gab
+| Image   = [[ファイル:Gab.svg|120px]]
+| URL     = https://gab.com
+<!-- | Admin   = [[Eugen Rochko]] -->
+<!-- | Country = ドイツ連邦 -->
+<!-- | Start   = 2017年5月20日 -->
+}}
+
+'''Gab'''は、[[ミニブログ]]。当初は独自のシステムを用いていたが、2019年7月にMastodonのフォークへ移行した。英語圏ではオルトライトのウェブサイトとして知られている。日本語圏ではペドフィリアの交流の場として受容された<ref>[https://silossowski.hatenablog.com/entry/20171225/1514134770 GABにアカウントつくった]</ref>。
+
+==マストドンのフォークに移行==
+2019年5月30日、Gabが[[Mastodon|マストドン]]のフォークに移行する<ref>https://gab.com/gab/posts/VnZRendFcDM1alBhNm9QeWV4d0xidz09</ref><ref>https://news.ycombinator.com/item?id=20051043</ref>ことが発表された。[[Gargron|Gargron]]はこれに批判的であり、マストドンの[[インスタンス]]<ref>ただし、もしGabが[[連合]]に参加しないことを選択するならば、マストドンのインスタンスがGabをブロックする必要はなくなる。[[トーク:Gab]]も参照。</ref>およびアプリがGabのドメインをブロックする<ref>https://mastodon.social/@Gargron/102184195834215862</ref>ことを呼び掛けた。これを受けて、[[Toot!]]の作者はGabのドメインをブロックする<ref>https://mastodon.social/@tootapp/102185365923885685</ref>ことを表明した。Gabをブロックしないアプリはストアの審査で落とされる<ref>https://mastodon.social/users/eurasierboy/statuses/102185437507600416</ref>という主張もあるが、複数の反論が寄せられている。
+
+develop.gab.comとnot-develop.gab.comでのテストを経て、2019年7月4日頃、主力のgab.comがマストドンのフォークに移行した。ユーザーのアカウントとデータは旧Gabのものが引き継がれた。ただし、同年7月4日時点では、重くて使い物にならなかった<ref>記事執筆者による独自調査</ref>ようである。懸念されていた連合への接続も実施されている。
+
+2019年7月12日には、英語圏のネットメディアで「ナチスなしのツイッター代替、最大の極右サイトの安住の地に<ref>[https://www.vice.com/en_us/article/mb8y3x/the-nazi-free-alternative-to-twitter-is-now-home-to-the-biggest-far-right-social-network The Nazi-Free Alternative to Twitter Is Now Home to the Biggest Far Right Social Network]</ref><ref>記事のタイトルの日本語訳は、マストドン日本語ウィキの執筆者による。</ref>」という記事が出されるなど、騒動が広がっている。その後、別の英語圏のメディア<ref>[https://www.theverge.com/2019/7/12/20691957/mastodon-decentralized-social-network-gab-migration-fediverse-app-blocking How the biggest decentralized social network is dealing with its Nazi problem - The Verge]</ref><ref>[https://blog.crazynewworld.net/2019/07/14/%e6%9c%80%e5%a4%a7%e3%81%ae%e9%9d%9e%e4%b8%ad%e5%a4%ae%e9%9b%86%e6%a8%a9%e7%9a%84%e3%82%bd%e3%83%bc%e3%82%b7%e3%83%a3%e3%83%ab%e3%83%8d%e3%83%83%e3%83%88%e3%83%af%e3%83%bc%e3%82%af%e3%81%af%e3%80%8c/ 最大の脱中央集権的ソーシャルネットワークは「ナチズム問題」にどう対処しているか]</ref>が複数のクライアントアプリの作者にインタビューするなど、多面的な理解のための努力がなされている。F-Droidは声明<ref>https://f-droid.org/en/2019/07/16/statement.html</ref>を出し、[[Tusky]]がGab<ref>もとの声明文ではGabを名指しすることを避け、''free speech zone''などの用語を用いている。</ref>をブロックしていることと、[[Fedilab]]がGabをブロックしていないことに言及したうえで、F-Droidはどちらの対応も支持するとしている。
+
+==マストドンのフォークに移行の発表から2年後==
+2021年5月の時点で、Gab Social は、マストドン 互換API および ActivityPub を使用していないようである<ref>記事執筆者による独自調査。</ref>。
+
+この影響で、 [[Soapbox]] は、当初 Gab Social からのフォークとして開発していたが、[[Pleroma]] のフロントエンド移行に至ったとされる。
+
+==外部リンク==
+
+*https://code.gab.com/gab/social/gab-social
+
+==脚注==
+<references />
+
+{{DEFAULTSORT:gab}}
+[[category:ミニブログ]]

@@ -1,0 +1,16 @@
+{{stub}}
+'''Mastodonおひっこしチェッカー'''は、ウェブアプリケーション。フォローしているユーザーが、マストドンの[[アカウントの引っ越し]]機能で移転を表明している場合、そのようなユーザーの一覧を表示することができる。
+
+==他の分散SNSとの関係==
+[[Pleroma]]で動作する<ref>記事執筆者による独自調査。</ref>。
+
+==外部リンク==
+* https://don-moved-account-check.herokuapp.com
+* https://github.com/shibafu528/mastodon-moved-account-check
+
+==脚注==
+<references />
+
+{{DEFAULTSORT:mastodonおひつこしちえつかあ}}
+[[category:ウェブサイト]]
+[[category:MITライセンス]]

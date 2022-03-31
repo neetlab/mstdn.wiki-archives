@@ -1,0 +1,21 @@
+{{infobox instance
+|Name = S&II Mastodon
+|Image = [[ファイル:S&IIMastodon.png|300px]]
+|Domain = https://siidon.lab-kadokawa.com
+|Country = 日本
+|Admin = GRIPS<br />株式会社HEAT CATCH <br />株式会社スーパーステーション<br />株式会社角川アスキー総合研究所<br />内閣府
+|Start = 2017年7月27日
+|Kifu = 
+|Alias = S&II丼
+}}'''S&II Mastodon'''は、オープンソースのソーシャルネットワークMastodonで立てられた[[インスタンス]]。
+
+== 概要 ==
+内閣府が「サイエンス＆イノベーション・インテグレーション（S&II）協議会」を立ち上げるのに際して関係各社により立てられた。
+
+日本政府が関わる初のインスタンス。
+
+2019年10月現在、エラー画面が表示されたままになっている。
+
+[[category:日本のインスタンス]]
+[[Category:企業が運用しているインスタンス]]
+[[category:一時的に利用できなくなっているインスタンスまたはウェブサイト]]

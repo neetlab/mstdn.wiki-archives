@@ -1,0 +1,34 @@
+{{小文字}}
+{{Infobox software
+| Name                = tootlog
+<!-- Image -->
+| Developer           = kawax
+| SourceCode = [https://github.com/kawax/tootlog GitHub]
+| Platform            = ウェブ
+| ProgrammingLanguage = PHP
+| Launch              = 2017年05月25日<ref>バージョンが1.0.0になった日。[https://enty.jp/posts/50927 tootlog v1.0.0]</ref>
+| Kifu                = [https://enty.jp/kawax Enty]
+| License             = MITライセンス
+| Web                 = https://tootlog.net
+}}'''tootlog'''は、[[オープンソース]]の[[分散SNS]]、[[Mastodon]]のユーザー向けに提供されているウェブアプリケーション。
+
+== 概要 ==
+[[chitose.moe]]管理者のkawax氏により開発され、2017年4月24日より公開<ref>https://web.archive.org/web/20180706164133/https://chitose.moe/@kawax/24915</ref>されているウェブアプリケーションで、登録するとMastodon上のトゥートを保存し管理することができる。
+
+アカウント作成はOAuth認証でなく新規に行う必要がある。登録を行った後、「Add Account」から所属する[[インスタンス]]のURLを入力し、OAuth認証を行うことで、トゥートのログを取得する。Mastodonアカウントは複数登録することができ、複数のインスタンスの書き込みを一箇所で見ることができる。Mastodonは「トゥートの読み取り権限」の許可を行うと「ダイレクト」の公開範囲のトゥートも読み取られてしまう仕様だが、tootlogでは除外されるようになっている。
+
+現在は英語版のみが公開されているが、ユーザーが増加した場合日本語版の提供も検討されるという。
+
+==関連項目==
+* [[Logdon]]
+* [[notestock]]
+
+==外部リンク==
+* [https://tootlog.net tootlog]
+
+==脚注==
+<references />
+
+[[category:ウェブサイト]]
+[[category:MITライセンス]]
+{{DEFAULTSORT:tootlog}}

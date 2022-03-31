@@ -1,0 +1,20 @@
+{{Infobox instance
+| Name          = Mstdn.fukuoka.jp
+| Domain        = https://mstdn.fukuoka.jp/
+| Admin         = [https://mstdn.fukuoka.jp/@usimaru うしまる✅]
+| Country       = 日本
+| Start         = 2017年4月23日
+| Kifu          = なし
+| Alias         = なし
+}}'''mstdn.fukuoka.jp'''は、オープンソースのソーシャルネットワークMastodonのインスタンス。
+
+== 概要 ==
+福岡地域に縁のあるユーザーに向けた地域密着型インスタンスの一つ。
+
+2019年11月時点でユーザー数は370人となっている。
+
+== 関連項目 ==
+* [[都道府県のインスタンス一覧]]
+
+{{DEFAULTSORT:fukuokajp}}
+[[category:日本のインスタンス|ふくおか]]

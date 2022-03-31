@@ -1,0 +1,17 @@
+{{Infobox software
+| Name = Mastodon Glitch Edition
+| SourceCode = [https://github.com/glitch-soc/mastodon/ GitHub]
+| Developer  = [https://glitch.social/@kibi Kibi]
+| Platform   = Linux
+| ProgrammingLanguage = Ruby, JavaScript
+| License    = [[GNU Affero General Public License]]
+| Web = [https://glitch-soc.github.io/docs/ 公式ドキュメント]
+}}'''Mastodon Glitch Edition'''または'''glitch-soc'''とは、[[マストドン]]に独自機能を追加したフォーク。
+
+== 関連項目 ==
+* [[glitch.social]]: '''glitch.social'''は通常のマストドンであるが、サブドメインの [https://dev.glitch.social dev.glitch.social] はMastodon Glitch Editionを運用している。
+* [[donphan.social]]
+
+[[category:分散SNS]]
+[[category:GNU Affero General Public License]]
+{{DEFAULTSORT:glitchedition}}

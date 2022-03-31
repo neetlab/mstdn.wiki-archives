@@ -1,0 +1,20 @@
+{{infobox instance
+|Name = '''mstdn.io'''
+|Image = [[ファイル:mstdn io.png|300px]]
+|Domain = https://mstdn.io
+|Country = フランス
+|Admin = [https://mstdn.io/@angristan @angristan]
+|Start = 2017年4月5日
+|Kifu = [https://www.paypal.com/cgi-bin/webscr?cmd=_s-xclick&hosted_button_id=84V6984BN44F6 Paypal]<br />[https://www.patreon.com/Angristan Patreon]<br />[https://liberapay.com/Angristan/ Liberapay]<br />[https://mstdn.io/about/more ほか]
+|Alias = 
+}}'''mstdn.io'''は、オープンソースのソーシャルネットワークMastodonの[[インスタンス]]。
+
+== 概要 ==
+4月5日に立ち上げられたフランス所在のインスタンス。
+
+特定のテーマ、国、言語などが定まっているわけではなく、どのようなユーザーも許容されている。
+
+[[ブラジルにおけるマストドンブーム]]以降はポルトガル語のトゥートが多い。
+
+{{DEFAULTSORT:io}}
+[[Category:フランスのインスタンス]]

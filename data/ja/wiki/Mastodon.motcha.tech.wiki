@@ -1,0 +1,18 @@
+{{小文字}}
+{{Infobox instance
+| Name          = Mastodon JP Tech
+| Domain        = https://mastodon.motcha.tech/
+| Admin         = [https://mastodon.motcha.tech/@mot motcha]
+| Country       = 日本
+| Start         = 2017年4月
+| Kifu          = なし
+| Alias         = 避暑地鯖
+}}'''Mastodon JP Tech'''は、オープンソースのソーシャルネットワークMastodonの[[インスタンス]]。
+
+== 概要 ==
+2017年4月、motcha氏によって技術者ユーザーに向け立ち上げられたインスタンス。現在は他インスタンスの避暑地インスタンスとして運用されている。
+
+2017年4月25日にはmotcha氏による操作ミスが原因でインスタンスのデータが全リセットされている。
+
+{{DEFAULTSORT:jptech}}
+[[category:日本のインスタンス]]

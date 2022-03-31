@@ -1,0 +1,25 @@
+{{Infobox software
+| Name                = Cuckoo.Plus
+| Image               = [[ファイル:Cuckooplus-favicon-96x96.png|120px]]
+| Developer           = Morse_Guo
+| SourceCode          = https://github.com/NanaMorse/Cuckoo.Plus
+| Platform            = ウェブ
+| ProgrammingLanguage = TypeScript
+| Launch              = 2018年10月
+<!-- | Kifu                = [https://paypal.me/floofdog PayPal] -->
+| License             = [[MITライセンス]]
+| Web                 = https://www.cuckoo.social
+}}
+'''Cuckoo.Plus'''または'''Cuckoo+'''は、[[Mastodon|マストドン]]と[[Pleroma]]<ref>https://github.com/NanaMorse/Cuckoo.Plus/pull/94</ref>のウェブクライアント。[[Google+]]のサービス終了を受けて、Google+に似た外見のクライアントとして開発された。
+
+UIの言語は英語と日本語<ref>https://github.com/NanaMorse/Cuckoo.Plus/pull/123</ref>と中国語であり、中国語は簡体、香港繁体、台湾繁体から選択できる。
+
+==関連項目==
+* [[G+Don]]
+
+==脚注==
+<references />
+
+{{DEFAULTSORT:cuckooplus}}
+[[category:ウェブクライアント]]
+[[category:MITライセンス]]

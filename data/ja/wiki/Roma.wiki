@@ -1,0 +1,35 @@
+{{stub}}
+'''Roma'''とは、[[Mastodon]]並びに[[Pleroma]]の一連のクライアント群である。
+
+[https://pleroma.com 公式サイト]によると、Android, iOS, デスクトップ向けのもののリンクが張られている。
+
+Pleromaクライアントとされているが、Pleroma APIはMastodon APIとの一定の互換性を持ち、また後述の通りMastodonクライアントのフォークであるので、Mastodonでも使用することができる。
+
+==製品==
+
+===Android向け===
+ソースコードは[[Tusky]]からフォークされている。アプリの説明では明記されていない。
+
+===iOS向け===
+説明欄に[[Mast]]のフォークであると記載されている。[[Mast]]は有料アプリケーションであるが、これは無料で提供されている。Mastは[[GPL]]でソースコードが公開されており、またRomaのソースコードも公開されているためライセンス違反ではない。
+
+===デスクトップ向け===
+説明欄に[[Whalebird]]のフォークであると記載されている。macOSとWindows向けに提供され、WhalebirdにあるようにmacOS版のAppStoreでの提供や、Linux版の配布、Snapcraftでの提供などはない。
+
+==ソースコード==
+明言されていないが、ソースコードは以下のリポジトリで公開されている。
+* https://github.com/roma-apps/roma-android
+* https://github.com/roma-apps/roma-ios
+* https://github.com/roma-apps/roma-desktop （←のリンク先のリンクが古そうで2022年1月25日現在 https://whalebird.social/ が新しい。）
+
+==関連項目==
+* [[Librem Social]]
+* [[Hiveway]]
+
+{{DEFAULTSORT:roma}}
+
+[[Category:IOS用クライアント]]
+[[Category:Android用クライアント]]
+[[Category:デスクトップクライアント]]
+[[category:GNU General Public License]]
+[[category:MITライセンス]]

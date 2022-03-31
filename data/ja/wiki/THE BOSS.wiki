@@ -1,0 +1,19 @@
+{{Infobox person
+| Name     = {{Ruby|THE BOSS|ザ ボス}}
+| Image    = [[ファイル:The-boss-2017-12-20.png|120px|theboss.tech/@the_boss内でのアバター]]
+| Instance = [[theboss.tech]]
+| Link     = https://theboss.tech/@the_boss
+}}'''THE BOSS'''はインスタンス運営者、プログラマー。
+
+==インスタンス==
+* [[theboss.tech]]
+
+==ウェブアプリケーション==
+* [[BirdKiller]]
+* [[TootStar]]
+
+==外部リンク==
+* [https://blog.theboss.tech #thebossblog]
+
+[[category:人物]]
+{{DEFAULTSORT:theboss}}

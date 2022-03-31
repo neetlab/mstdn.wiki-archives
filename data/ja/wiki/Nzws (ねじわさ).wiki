@@ -1,0 +1,46 @@
+{{小文字}}
+{{Infobox person
+| Name = nzws (ねじわさ)<br/>（ねじりわさび）
+| Image = [[file:nzws.png|120px]]
+| Color = #6c4e4c
+| Country = 日本
+| Instance = [[Knzk.me]], [[mastodon.cloud]], 他
+| Link = [https://knzk.me/@y @y@knzk.me]<br />[http://nzws.me nzws.me]<br />[https://github.com/yuzulabo GitHub]
+| Else = Knzk.me管理者<br />Mastodon.cloud管理者<br />アプリケーション開発者
+}}'''nzws（ねじわさ）'''または'''ねじりわさび'''は、日本のアプリケーション開発者、[[Mastodon]][[インスタンス]]管理者。[[Mastodon]]に関する多数の貢献で知られる。
+
+== プロダクト ==
+
+=== アプリケーション ===
+* [[Drawdon]] <small>[[https://github.com/DrawSuite/Drawdon GitHub]]</small>
+: ウェブ上で絵を描画し、Mastodon上に投稿できるウェブアプリケーション。
+* [[Mastodon Archive Viewer]] <small>[[https://github.com/yuzulabo/Mastodon-Archive-Viewer GitHub]]</small>
+: Mastodonでエクスポートできるトゥートのアーカイブデータを見やすくするウェブアプリケーション。
+* [[Mastodon Activity Embed]] <small>[[https://github.com/yuzulabo/Mastodon-Activity-Embed GitHub]]</small>
+: Mastodonインスタンスの説明欄に貼り付けると、詳細な週統計の情報を表示することができる。
+* [https://knzkapp.nzws.me/ KnzkApp] <small>[[https://github.com/KnzkDev/KnzkApp GitHub]]</small>
+: Knzk.meの公式アプリで、多数の独自機能を備えたMastodonのクライアント。iOS版とAndroid版がリリースされている。
+* [https://hacker.nzws.me/ Hacker Emoji Generator]
+: アルファベットの文字列を、Knzk.meなどで採用されているHackerという絵文字に変換するジェネレーター。
+* [https://github.com/yuzulabo/KnzkLive KnzkLive]
+: リアルタイムで映像を配信できるウェブアプリケーション。コメントをActivityPubの分散SNSインスタンス上の[[ハッシュタグ]]から取得するため、Mastodon等の対応SNSからハッシュタグを付けることでコメントが可能である特徴を持つ。
+ほか
+
+=== bot ===
+* [https://knzk.me/@yuzu AkariBot] <small>[[https://github.com/BotGirls/AkariBot-Core GitHub]]</small>
+: チャット[[bot]]。Knzk.meインスタンス内、もしくはフォローしているユーザーの様々なメッセージに反応する。2018年1月4日時点で<ref>{{toot|knzk.me|yuzu|99291374510852796|2018年1月4日}}</ref>、URL短縮サービスなどの機能を利用できる。
+* [https://knzk.me/@EffectBot EffectBot] <small>[[https://github.com/yuzulabo/EffectBot GitHub]]</small>
+: 特定のキーワードを含めたリプライを送ることで、ユーザーアイコンもしくは添付画像を自動で加工するbot。加工の内容は、シンメトリー加工など約30のバリエーションから選択できる<ref>{{toot|knzk.me|EffectBot|100382596134581847}}</ref>。
+
+== インスタンス ==
+* [[Knzk.me]]（[[管理者]]）
+* [[Mastodon.cloud]]（管理者）
+
+== マストドン日本語ウィキ編集者として ==
+* [[特別:投稿記録/nzws|利用者:nzws]]
+
+== 出典 ==
+<references />
+
+{{DEFAULTSORT:ねしわさ}}
+[[Category:人物]]

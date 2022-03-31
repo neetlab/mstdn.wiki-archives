@@ -1,0 +1,13 @@
+{{stub}}
+'''Schnack'''は、ウェブサイトにコメントシステムを挿入するウェブアプリケーション。[[Mastodon|マストドン]]を含む複数のウェブサイトのアカウントで利用できる。
+
+Lilライセンスという新興の[[オープンソース]]ライセンスで提供されている。
+
+==外部リンク==
+* https://schnack.cool
+* https://github.com/schn4ck/schnack
+* [https://github.com/jashkenas/lil-license Lilライセンス]
+* [https://code.cutls.com/the-lil-license/ Lilライセンスの参考日本語訳]
+{{DEFAULTSORT:schnack}}
+[[category:ソフトウェア]]
+[[category:オープンソース]]

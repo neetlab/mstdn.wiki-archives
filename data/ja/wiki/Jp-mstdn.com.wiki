@@ -1,0 +1,21 @@
+[[jp-mstdn.com]]とは、オープンソースのソーシャルネットワークMastodonの日本語向け[[インスタンス]]の一つである。
+
+{{Infobox instance
+| Name          = [[jp-mstdn.com]]
+| Domain        = https://jp-mstdn.com
+| Admin         = [https://jp-mstdn.com/@pinfort pinfort]
+| Country       = 日本国
+| Start         = 2017年4月16日
+| End           = 2019年1月17日
+| Kifu          = https://enty.jp/pinfort
+| Alias         = 
+}}
+
+==ローカルルール==
+
+2017年4月16日、ローカルルールが制定された。その後何度か改定されている。
+
+[[mstdn.hyogo.jp]]と[[don.akashi.cloud]]はjp-mstdn.comと同一のローカルルールを採用している。
+
+{{DEFAULTSORT:jpmstdncom}}
+[[category:日本のインスタンス]]

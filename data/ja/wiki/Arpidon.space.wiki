@@ -1,0 +1,19 @@
+{{DISPLAYTITLE:Ar:pidoN}}
+{{Infobox instance
+| Name = {{Ruby|Ar:pidoN|アルピドン}}
+<!--| Image = -->
+| Domain = https://arpidon.space
+| Admin = [https://arpidon.space/@saxifen Saxifen]
+| Country = 日本
+| Start = 2018年4月15日
+|End=2018年12月30日}}{{Ruby|Ar:pidoN|アルピドン}}とは、[[オープンソース]]の[[分散SNS]]、[[Mastodon]]の[[インスタンス]]である。
+
+==概要==
+2018年4月15日、Saxifen氏によって立ち上げられたインスタンス。
+
+オンラインゲーム「Ar:pieL」（アルピエル）がテーマで、同ゲームに関する書き込みが主である。
+
+2018年4月17日に一度インスタンスが初期化されている。
+
+[[Category:日本のインスタンス]]
+[[Category:ゲームに関するインスタンス]]

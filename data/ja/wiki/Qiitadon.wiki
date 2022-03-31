@@ -1,0 +1,26 @@
+{{Infobox instance
+| Name          = {{Ruby|[[Qiitadon]]|キータドン}}
+| Image         = [[ファイル:Qiitadon.png|300px|Qiitadon]]
+| Domain        = https://qiitadon.com
+| Admin         = [https://qiitadon.com/@qiitadon @qiitadon]
+| Country       = 日本
+| Start         = 2017年5月19日
+| End = 
+| Kifu          = 
+| Alias         = 
+}}Qiitadonは、オープンソースのソーシャルネットワークMastodonの[[インスタンス]]。
+
+== 概要 ==
+プログラマー向けの情報共有サービス「Qiita」発のインスタンスで、色調が白と緑というQiitaのものになっており、Qiitaのアカウントでのログインができるのが特徴。
+
+現在はこのQiitaアカウント以外での新規登録は停止されている。
+
+また「コードハイライト」に対応しており、プログラムのコードを記述することができる。
+
+2022年2月1日に、2月28日付けでサービスが終了する予定であることが発表された<ref>https://blog.qiita.com/terminate-provision-of-qiitadon/</ref>。
+==関連項目==
+* [[連携ログイン]]
+
+{{DEFAULTSORT:qiitadon}}
+[[Category:日本のインスタンス]]
+[[Category:独自機能が実装されたインスタンス]]

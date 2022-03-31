@@ -1,0 +1,27 @@
+{{Stub}}
+{{Infobox software
+| Name                = Write Freely
+| Image               = [[ファイル:Write Freelyのロゴ.png|270px|Write Freely]]
+| Developer           = [https://github.com/thebaer Matt Baer]
+| SourceCode          = [https://github.com/writeas/writefreely GitHub]
+| Platform            = Linux互換OS (サーバーサイド)<br />ウェブ (クライアントサイド)
+| ProgrammingLanguage = Go, JavaScript
+| Launch              = 2018年11月10日<ref>[https://github.com/writeas/writefreely/releases/tag/v0.1.0 GitHub上での最初のバージョンのリリース]</ref>
+| Kifu                = [https://www.producthunt.com/posts/write-as Product Hunt]
+| License             = [[GNU Affero General Public License]] v3
+| Web                 = https://writefreely.org/
+}}{{Ruby|Write Freely|ライト フリーリー}}とは、オープンソースの[[分散SNS]]プラットフォーム。ブログサービスを提供する。
+
+== 概要 ==
+[[Write Freely]]は[[Write.as]]の開発者Matt Baer氏によって開発されたブログプラットフォームで[[Write.as]]と同様のブログの公開・閲覧ができる機能を備えているが、[[Write.as]]と異なりすべての機能が自由に利用でき、WordPressのようなセルフホストを前提としたオープンソースソフトウェアである。
+
+== 関連項目 ==
+* [[Write.as]]
+* [[Plume]]
+
+== 出典 ==
+<References />
+
+{{DEFAULTSORT:writefreely}}
+[[category:分散SNS]]
+[[category:GNU Affero General Public License]]

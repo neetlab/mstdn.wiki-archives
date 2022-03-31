@@ -1,0 +1,29 @@
+{{Infobox instance
+| Name          = <ruby>大阪丼<rt>オオサカドン</rt></ruby>
+| Image         = [[ファイル:Osaka.png|300px|大阪丼]]
+| Domain        = https://mstdn.osaka
+| Admin         = [https://mstdn.osaka/@alarky @alarky@mstdn.osaka]
+| Country       = 日本国
+| Start         = 2017年4月17日
+| Kifu = [https://kyash.co/ Kyash（@alarky）]<br />[https://anypay.jp/shops/K1i65osynP AnyPay]
+| Alias = 大阪丼
+}}'''mstdn.osaka'''（'''大阪丼'''）とは、オープンソースのソーシャルネットワークMastodonの[[インスタンス]]。
+
+== 概要 ==
+大阪弁・関西弁がテーマというマストドンインスタンス。
+
+「お気に入り」が「ええやん」、「ブースト」が「ツルむ」になっているなど、マストドンの多くの機能の名称が大阪風に変えられている。
+
+== 歴史 ==
+=== 2017年 ===
+*4月17日、インスタンスがスタートする。
+*5月17日、ヴァーチャルリアリティ風に近所([[ローカルタイムライン]])を表示する[https://mstdn.osaka/osakadonvr/ VR大阪丼]が公開される。
+*7月11日、iOSの大阪丼公式アプリがリリースされる。
+
+== 関連項目 ==
+* [[都道府県のインスタンス一覧]]
+* [[関西広域連合]]
+
+{{DEFAULTSORT:おおさか}}
+[[category:日本のインスタンス]]
+[[category:関西広域連合]]

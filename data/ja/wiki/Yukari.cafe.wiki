@@ -1,0 +1,25 @@
+{{小文字}}
+{{Infobox instance
+| Name          = {{Ruby|'''結月ゆかりカフェ'''|ゆづきゆかりカフェ}}
+<!-- | Image         = [[ファイル:Mastodon_logo.png|120px|Mastodon]] -->
+| Domain        = https://yukari.cafe
+| Admin         = Y.Yamashiro
+<!-- | Moderator     = モデレーター, モデレーター, モデレーター -->
+| Country       = 日本
+| Start         = 2018年3月14日<ref>https://yukari.cafe/@shukukei/99677511765685147</ref>
+<!-- | Kifu          = 寄付URL -->
+<!-- | SourceCode    = https://github.com/tootsuite/mastodon -->
+<!-- | Alias         = 愛称, 愛称, 愛称 -->
+}}'''yukari.cafe'''または'''結月ゆかりカフェ'''は、結月ゆかりをテーマとするインスタンス。[[yukari.cloud]]の閉鎖と同時期に開設されたが、両者の関係は明言されていない。
+
+==独自機能==
+ユーザー登録をreCAPTCHAで保護している。
+
+==関連するインスタンス==
+'''kotonoha.cafe'''または'''琴葉カフェ'''<ref>https://kotonoha.cafe</ref>は「姉妹インスタンス」としてアナウンスされている。ユーザー登録をreCAPTCHAで保護する機能も共通である。
+
+==脚注==
+<references />
+
+[[category:日本のインスタンス]]
+{{DEFAULTSORT:yukaricafe}}

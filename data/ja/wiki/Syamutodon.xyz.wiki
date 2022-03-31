@@ -1,0 +1,26 @@
+{{Infobox instance
+| Name          = {{Ruby|'''Syamutodon.xyz'''|シャムトドン エクスワイジー}}
+| Image         = [[ファイル:Syamutodon logo.png|120px|Syamutodon]]
+| Domain        = https://syamutodon.xyz
+| Admin         = {{Account|instance=syamutodon.xyz|user=syamutodon}}
+| Country       = 日本
+| Start         = 2018年月17日
+| Kifu          = https://enty.jp/nieein56
+| Alias         = シャムトドン
+}}
+'''Syamutodon.xyz'''は、オープンソースのソーシャルネットワークMastodonの[[インスタンス]]。
+
+==概要==
+Syamuさんに関する話題を取り扱うインスタンス。お絵かきやシバシャムSSなど、多様なコンテンツが存在する。
+
+現在エモートの移植やその他の機能追加に関して議論が行われている。
+
+2019年に閉鎖済
+
+==ローカルルール==
+{{Blockquote|当インスタンスはSyamuさんに関する話題を主に取り扱うインスタンスだで。<br>
+雑談をして楽しむのもよし、お絵かき、シバシャムSSなどを投稿して楽しむのもよしかもしれへんわ。<br>
+ただし、ﾋﾟｯﾋﾟｰやｸﾞﾛｲﾖｺﾚ~な内容を含むトゥートは「必ず」NSFW指定を行ってほしいだで。}}
+
+[[Category:日本のインスタンス]]
+[[Category:消滅したインスタンス]]

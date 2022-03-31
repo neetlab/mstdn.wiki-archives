@@ -1,0 +1,30 @@
+{{小文字}}
+{{Infobox person
+| Name          = maloki
+| Image         = [[ファイル:Maloki-2017-12.jpeg|200px|Maloki]]
+| Color         = #692FB2
+| Font          = #fff
+| Instance      = [[Mastodon.social]]→[[elekk.xyz]]
+| Link          = https://elekk.xyz/@maloki
+| Else          = Mastodon元プロジェクトマネージャー<br />ブロガー<br />ゲームストリーマー
+}}'''maloki'''とは、[[Mastodon]]の元プロジェクトマネージャーであり、ゲームストリーマー、ゲーマー、ブロガー。
+
+== 概要 ==
+[[Mastodon]]開発開始当初からプロジェクトに携わっているほか、Twtichでゲームプレイを配信するストリーマー、ブログの記事を投稿するブロガーでもあるスウェーデン人の女性<ref>[https://twitter.com/kinkymal maloki (@kinkymal) | Twitter]</ref>。Twitch及びYouTubeでゲームに関する投稿をする際には'''kinkymal'''というハンドルネームを用いる場合もある<ref>[https://www.youtube.com/user/kinkymal maloki _ kinkymal - YouTube]</ref><ref>[https://www.twitch.tv/kinkymal Twitch]</ref>。
+
+Mastodonでは英語版のDiscourseである[https://discourse.joinmastodon.org/ Mastodon Meta Discussion Board]で議論を行ったり、ユーザー同士の交流を奨励したり、プロジェクトに関しての情報をまとめるWikiを開設したりと積極的にプロジェクトの発展に貢献している。
+
+2017年1月に療養により一時的にプロジェクトマネージャーを辞退<ref>[https://discourse.joinmastodon.org/t/hi-im-back-i-missed-you/923 Disourseより "I ended up getting a month and a half of sick-leave"]</ref>、数ヶ月の空白を経て無事回復し2018年4月に復帰した<ref>[https://discourse.joinmastodon.org/t/hi-im-back-i-missed-you/923 公式Discorse "Hi I'm back I missed you"]</ref>。しかしながら翌月5月、開発者である[[Eugen Rochko]]とプロジェクトマネージャの契約更新について話し合いが行われ、[[Eugen Rochko|Eugen]]自身の経済状況からプロジェクトマネージャーから降りることになった<ref>[https://mastodon.social/@maloki/100067035040578964 Mastodon.socialでのトゥート] [https://discourse.joinmastodon.org/t/mastodon-project-governance/215/21 Sylvhem氏によるDiscourseでの投稿]</ref>。しかし2018年8月現在も[[Mastodon]]にアカウントを持っており<ref>[https://elekk.xyz/@maloki elekk.xyzインスタンスの@malokiアカウント]</ref>、分散SNSの魅力などには好意的なようである。
+
+=== MastoWikiについて ===
+当サイト「マストドン日本語Wiki」は本来[[Mastodon]]プロジェクトとの直接的な関係は無かったものの、氏によって別に開設されていた上記の英語版Wiki（MastoWikiと呼称される）の記事が合併されたことでMastodonプロジェクトが公認するWikiになった<ref>[https://mastodon.social/@maloki/9743269 「Yes! We do have a #MastoWiki」とトゥート]</ref><ref>[https://mastodon.social/@Mastodon/10833910 「We also have a wiki project, which could definitely use more people working on it.」とトゥート]</ref>。
+
+== 関連項目 ==
+* [[Eugen Rochko]]
+* [[emelie]]
+
+== 出典 ==
+<references/>
+
+{{DEFAULTSORT:maloki}}
+[[category: 人物]]

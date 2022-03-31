@@ -1,0 +1,37 @@
+{{Infobox software
+| Name = {{Ruby|E_z2e|えぜ}}
+| Image = [[ファイル:Ez2e.png|300px]]
+| Developer = [https://mstdn.jp/@um3 うめっち]
+| Platform = Android
+| Launch =不明
+| License = 不明
+| Web = [https://umecchi.github.io/E_z2e-WebPage/ E_z2e for Mastodon]
+| Download = [https://deploygate.com/distributions/bdbd400b84a7bd78bfba48e825dfb50328cc295a deploygate]
+}}
+'''E_z2e'''（'''えぜ'''）は、[[オープンソース]]の[[分散SNS]][[Mastodon]]のAndroid用クライアントである。開発者は[https://mstdn.jp/@um3 うめっち]。現在は提供が終了している。
+
+== 概要 ==
+E_z2eはAndroid用のクライアントであるが、GooglePlay等のアプリストアではなく、deploygateより配信されているクライアントであり、同アプリケーションを経由してダウンロードする必要がある。2018年4月頃から開発が開始されているとみられ<ref>https://mstdn.jp/@um3/99888591296027114</ref>、開発中でありながら、基本的機能はもちろん、一部のクライアントにしか実装されていないような発展的機能まで網羅している。例えば、カスタム絵文字の表示やカラーテーマ、デフォルトの投稿設定などが実装されている。
+
+[[Twitter]]クライアントであるShootingStarの機能を踏襲しているのが特徴で、トゥートをパクる機能や、お気に入りなどの操作を行うと「exp」が蓄積していき、上部の「レベル」という数字が増えていくという機能、タイムライン上のトゥートを縦に三分割して、左、中、右ごと、また単押し、長押しごとに(つまり6通り)様々な操作を割り当てられる機能が挙げられる。また、UIのテキストにくだけた言葉を多用しているのも特徴である。
+
+ソースコードは公開されていない。開発者であるうめっちの[[GitHub]]上には[https://github.com/umecchi/Android-E_z2e-Mastodon Android-E_z2e-Mastodon]というリポジトリが存在するが、中身は何もない状態であった。
+
+2019年4月8日に提供が終了され、アプリの使用も不可となった<ref>{{toot|kirishima.cloud|ume|101888912471045438}}による。</ref>。それ以降は、ダウンロード自体は可能であるが合言葉が要る状態となっている。
+
+== 公開状況 ==
+2018年10月24日時点で、deploygateからのインストールに合言葉が必要となった。
+
+2018年12月18日時点で、deploygateでの配布デバイス数の上限に達しましたと表示されインストール不能となった。。
+
+2019年4月9日時点で、「公開は終了しました」ということになった<ref>[https://umecchi.github.io/E_z2e-WebPage/ 公式サイト] - 2019年4月11日閲覧</ref>。また、アプリを開いても、アプリケーションの終了として利用ができない状態となっている。
+
+== 関連サイト ==
+* [https://umecchi.github.io/E_z2e-WebPage/ 公式サイト]
+
+== 脚注 ==
+<References />
+
+[[Category:Android用クライアント]]
+[[Category:プロプライエタリ]]
+{{DISPLAYTITLE:E_z2e}}

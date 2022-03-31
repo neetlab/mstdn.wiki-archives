@@ -1,0 +1,33 @@
+{{stub}}
+{{Infobox software
+| Name = {{Ruby|GNU social|グヌー ソーシャル}}
+| Image = [[File:GNU-social-logo.png|GNU social]]
+| Developer = Evan Prodromou
+| SourceCode = https://git.gnu.io/gnu/gnu-social.git
+| Platform = Linux (サーバーサイド)<br />ウェブ (クライアントサイド)<br />iOS、Android、ウェブなど (サードパーティーのクライアント)
+| ProgrammingLanguage = PHP
+| Launch = 
+| Kifu = 
+| License = Affero General Public License
+| Web = https://gnu.io/social/
+}}'''GNU social'''（グヌーソーシャル、旧称：'''StatusNet'''、'''Laconica'''という時期もあった<ref name=laconica-is-now-statusnet>Laconica is now StatusNet [http://status.net/2009/08/28/laconica-is-now-statusnet/], retrieved 2009-10-04</ref>）は、PHPで書かれたミニブログサーバーのフリーオープンソフトウェアである<ref>{{jawp|GNU social}}より引用</ref>。分散型ミニブログのオープン基準である[[OStatus]]に準拠しており、GNU socialサーバー間に限らず、OStatusに準拠した別の分散型SNSソフトウェアを使ったサーバーとも相互運用が可能である。さらに、2018年にはOStatusの後継プロトコルである[[ActivityPub]]に対応しており、[[PeerTube]]や[[Pleroma]]、[[Misskey]]、[[Mastodon]]などのActivityPubに準拠したサーバー間の通信も可能となっている。
+機能としては[[Twitter]]に似ているが、GNU socialはミニブログの連合を形成し、オープンで分散したコミュニケーションを目指している点で異なる。
+
+==主要なインスタンス==
+* FreezePeach - freezepeach.xyzに設置されていたが、2019年10月時点でアクセスできなくなっている。
+* [https://shitposter.club Shitposter Club] - 2019年10月時点で[[Pleroma]]に移行している。
+* [https://social.pzn.lgbt LGBTPZN social] - [[LGBTPZN]]も参照。
+
+==インスタンス一覧==
+[[Fediverse Network]]はGNU socialのインスタンス一覧を提供している。
+
+== 出典 ==
+<references />
+
+==関連項目==
+* [[GNUsocial Axis]]
+* [[postActiv]]
+
+[[Category:分散SNS]]
+[[category:GNU Affero General Public License]]
+{{DEFAULTSORT:gnusocial}}

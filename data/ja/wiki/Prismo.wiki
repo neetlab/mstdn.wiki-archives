@@ -1,0 +1,23 @@
+{{Stub}}
+{{Infobox software
+| Name                = Prismo
+| Image               = [[ファイル:Prismo.png|200px|Prismo]]
+| Developer           = [https://mastodon.social/@mbajur Michał Bajur]
+| SourceCode          = [https://gitlab.com/mbajur/prismo GitLab.com]
+| Platform            = Unix互換OS (サーバーサイド)<br />ウェブ (クライアントサイド)
+| ProgrammingLanguage = Ruby, JavaScript
+| Launch              = 開発中
+| Kifu                = [https://www.buymeacoffee.com/mxb Buy me a coffee]
+| License             = [[GNU Affero General Public License]] v3
+}}{{Ruby | Prismo | プリズモ }}とは、[[ActivityPub]]によって実装された[[分散SNS]]の一つ。電子掲示板のサービスを提供する。
+
+== 概要 ==
+[[Prismo]]は[https://mastodon.social/@mbajur Michał Bajur]によって開発されている[[分散SNS]]。Redditや5ちゃんねる掲示板のような電子掲示板（BBS）を提供するソフトウェアで、[[ActivityPub]]によって実装されているため[[Mastodon]]やその他同様のプロトコルを用いる[[分散SNS]]で投稿を閲覧できる。
+
+2018年8月時点ではまだ安定版はリリースされていないが、[https://gitlab.com/mbajur/prismo GitLab]上では既にほぼ動作するコードが公開されているため、ホストすることは可能である。
+
+==日本語圏での受容==
+2019年6月ごろ、https://prismo.fedibird.com のユーザーが増加した。
+
+[[Category:分散SNS]]
+[[category:GNU Affero General Public License]]

@@ -1,0 +1,53 @@
+[[Join the Fediverse|Join the Fediverse (曖昧さ回避)]]
+
+{{Infobox website
+| Name    = Join the Fediverse
+| Image   = [[ファイル:Fediverse_logo.png|120px]]
+| URL     = https://joinfediverse.wiki/
+| Start   = 2022年1月1日
+}}
+
+'''Join the Fediverse'''は、[[Fediverse]]の初心者に向けた[[Wiki]]。
+
+== 言語 ==
+
+言語は英語、ドイツ語、日本語である。ただし、2022年1月時点で、ドイツ語と日本語は初心者向けの記事のみ翻訳されている。
+
+==インスタンス一覧==
+
+地域別<ref>[https://joinfediverse.wiki/index.php?title=Local_instances Local instances]</ref>と分野別<ref>[https://joinfediverse.wiki/index.php?title=Special_interest_instances Special interest instances]</ref>の2種類のインスタンス一覧が付属している。
+
+分野別のインスタンス一覧では、以下の条件を満たすものが掲載されている。
+
+* ユーザー数が2000未満。
+* 他に同様のテーマのインスタンスが少ない。
+* [[A rather safe space]]のブロックリストに掲載されていない。
+
+==フォローレコメンデーション==
+
+Follow recommendationsカテゴリー<ref>https://joinfediverse.wiki/Category:Follow_recommendations</ref>にユーザーの一覧がある。並び順は名称のアルファベット順である。以下の3分野のリストがある。
+
+* セキュリティとプライバシー
+* 気候正義運動
+* [[Fediverse]]
+
+==関連人物==
+
+主な更新者はPaula<ref>[https://joinfediverse.wiki/User:Paula User:Paula]</ref><ref>[https://paulatothepeople.eu/ PaulaToThePeople]</ref>。
+
+==障害==
+2022年2月上旬、以下のような障害が発生した。同月12日に障害が解消した。
+
+* 言語セレクタが機能しなくなる。
+* ページタイトルが'''Join;the;Fediverse'''となる。
+* サイトのロゴがMediaWikiのデフォルトに戻る。
+* 左サイドバーの言語選択がリンク切れになる。
+
+また、同時期に大量のSPAMが流入し、対処されないままになっている。
+
+==脚注==
+<references />
+
+{{DEFAULTSORT:jointhefediversewiki}}
+[[category:インスタンスの一覧を提供するウェブサイト]]
+[[category:ユーザーレコメンデーション]]

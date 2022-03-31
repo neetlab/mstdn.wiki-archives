@@ -1,0 +1,31 @@
+{{Infobox software
+| Name                = AnonyMasto
+<!-- | Image               = [[ファイル:Amaroq.jpg|120px|Amaroq]] -->
+| Developer           = [[ておりあ]]
+| SourceCode          = https://github.com/theoria24/AnonymousPost4Mstdn
+| Platform            = マストドンの[[bot]]
+| ProgrammingLanguage = Ruby
+| Launch              = 2018年1月30日
+<!-- | Kifu                = [https://paypal.me/floofdog PayPal] -->
+| License             = [[GNU Affero General Public License]]
+| Web                 = <nowiki>https://theboss.tech/@AnonymousPost</nowiki> (廃止)
+}}'''AnonyMasto'''は、匿名でトゥートするための[[bot]]。
+
+==概要==
+2018年1月30日より[[theboss.tech]]において[[ておりあ]]氏によって開発・公開されているbotアカウント。アカウントに[[メンション]]を送ると、その内容をAnonyMastoが代わりにトゥートする。当初は'''AnonymousPost'''という[[表示名]]をとっていたが、2018年7月頃に'''AnonyMasto'''に変更された。同名のフェイクニュースサイトが存在し、問題になっていたため。[[ユーザー名]]は依然として'''AnonymousPost'''である。
+
+2018年7月1日にはブースト・お気に入り機能が追加されているほか、2018年8月19日にはin_reply_to_idに対応しトゥートに返信することが可能となっている<ref>https://theboss.tech/@theoria/100576367445504908</ref>。
+
+また、2018年8月19日の23時38分頃より、ログの収集開始が発表された<ref>https://theboss.tech/@theoria/100577413649344527</ref>。その少しあとである2018年8月20日1時頃より、botを利用するにあたっての利用規約が公開された<ref>https://theboss.tech/@AnonymousPost/100577825698360128</ref>。
+
+[[theboss.tech]]の閉鎖とともに廃止された。
+
+==関連項目==
+* [[2.distsn.org]] - かつてゲストアカウントが使用可能であった。匿名トゥートというコンセプトが共通する。
+
+==脚注==
+<references />
+
+[[category:bot]]
+[[category:GNU Affero General Public License]]
+{{DEFAULTSORT:anonymasto}}

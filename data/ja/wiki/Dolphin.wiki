@@ -1,0 +1,6 @@
+{{stub}}
+'''Dolphin'''は[[Misskey]]のフォークで、[[お一人様インスタンス]]に最適化されている。複数のユーザーを作ることもできるが、ユーザー登録フォームは存在せず、管理者がユーザーを作り、ユーザー名と初期パスワードを希望者に配るという方式を取る。
+
+{{DEFAULTSORT:dolphin}}
+[[category:分散SNS]]
+[[category:GNU Affero General Public License]]

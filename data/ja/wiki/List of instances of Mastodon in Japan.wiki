@@ -1,0 +1,17 @@
+{{Infobox software
+| Name = List of instances of Mastodon in Japan
+<!--| Image = -->
+| Developer = [[h3zjp]]
+| Platform = ウェブ
+| Launch = 2017年4月15日
+| Web = <nowiki>http://h3zjp.sub.jp/mstdn</nowiki> (リンク切れ)
+}}
+
+'''List of instance of Mastodon in Japan'''は、マストドンのインスタンスの一覧を提供していたウェブサイト。最終更新日は長らく5月7日であった。2017年11月24日に公開を終了。[[Mastodon Instance List]]へのリダイレクト、[[マストドン検索ポータル]]へのリダイレクトを経て、現在は完全に消滅している。
+
+==脚注==
+<references />
+
+[[category: インスタンスの一覧を提供するウェブサイト]]
+[[category:運用が放棄されたウェブサイト]]
+{{DEFAULTSORT:listofinstancesofmastodoninjapan}}

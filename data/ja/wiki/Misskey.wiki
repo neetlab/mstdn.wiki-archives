@@ -1,0 +1,118 @@
+{{Infobox software
+| Name = {{Ruby|Misskey|ミスキー}}
+| Image = [[File:Misskey_title.png]]
+| Developer = syuilo
+| SourceCode = [https://github.com/syuilo/misskey GitHub]
+| Platform = Node.js (サーバーサイド)<br />Web (クライアントサイド)
+| ProgrammingLanguage = TypeScript, Vue
+| Launch = 2014年7月<ref>https://join.misskey.page/ja/wiki/history/</ref><ref>https://web.archive.org/web/20140911001916/http://misskey.xyz</ref>
+| Kifu = 
+| License = AGPL 3.0
+| Web = https://join.misskey.page/ja/
+}}{{Ruby|'''Misskey'''|ミスキー}}は、オープンソースの[[ソーシャル・ネットワーキング・サービス]]（SNS）の一つで、[[ActivityPub]]によりMastodonなどの分散SNSとやりとりが可能な[[分散SNS]]である。
+
+==概要==
+2014年6月よりsyuilo氏により開発されている、「Twitterライク」を謳うオープンソースのソーシャル・ネットワーキング・サービス（SNS）。
+
+Markdownにより投稿を装飾する機能や、複数のリアクションから選べるリアクション機能、10までの選択肢を登録できる投票機能、ファイルをアップロードできる「ドライブ」機能、ユーザー同士でリバーシの対戦ができる機能などが特徴。
+
+当初は[[インスタンス]]同士での相互通信が不可能であったが、2018年4月8日より[[ActivityPub]]を実装したため[[分散SNS]]となり、Misskeyをはじめ[[Mastodon]]や[[Pleroma]]などの分散SNSのインスタンスと相互通信が可能となった<ref>https://mstdn.maud.io/@syuilo/99823108784543849</ref>。
+
+なお、MastodonとAPIの互換性はないため、MastodonクライアントでMisskeyを利用するといったことはできない(ただしMisskeyに対応したMastodonクライアントも一部存在する)。
+
+==主な機能==
+===リアクション===
+ユーザーの投稿に「😆」「🤔」「👍」などの「リアクション」を付けることができる。10.97.0よりカスタム絵文字がリアクションに利用できるようになっている。
+
+Misskeyインスタンス同士でならリアクション情報が伝達されるが、それ以外の場合(MisskeyとMastodon間など)は、全てのリアクションは「いいね(管理者設定によりお気に入りに変更可能)」として扱われ、逆に外部インスタンスからの「いいね」はインスタンス設定により、全て「👍」または「⭐️」として扱われる。
+
+===デッキ===
+[[File:Deck.jpg|300px|thumb|right|Deck]]
+Mastodon風のカラムUI。カラムは自由に追加/削除/並べ替えができ、複数のカラムを上下に水平分割して表示することも可能。
+
+後述のウィジェットをカラムに配置することもできる。
+
+現時点で利用可能なカラムは、ホーム/ローカル/ソーシャル/グローバルタイムラインカラム、あなた宛て(返信)カラム、ダイレクト投稿カラム、通知カラム、ウィジェットカラム、リストカラム、ハッシュタグカラム。
+
+モバイル版には非対応であったが、10.90.0より利用できるようになっている。
+
+===ウィジェット===
+通知、アクティビティ、カレンダー、トレンドなどをウィジェットとして利用できる。
+これらのウィジェットは自由にホーム、デッキに配置してカスタマイズすることができる。モバイル版でもウィジェットは利用可能だが、一部モバイル版に対応していないウィジェットもある。
+
+特定の場所でのみ有効なウィジェットもあり、「タイムマシン」ウィジェットはホームに設置されている場合のみタイムラインを指定した日付に遡らせる。
+
+===ドライブ===
+ユーザーの投稿したファイルを管理する機能。
+投稿に添付したりアカウントのアイコンに設定するなどしたファイルは自動でドライブに追加される。直接ファイルをドライブにアップロードすることも可能。
+
+===アンケート===
+投稿にアンケートを添付することができる。選択肢を2〜10個設定し、ユーザーがどれか１つまたは複数の項目に投票する。
+アンケートの期限を設定することはできなかったが、10.92.0より自由に設定できるようになっている。
+
+他のインスタンスに対しては、アンケートへのリンクに変換されて表現される。10.92.0よりMastodon 2.8から搭載されたアンケートに対応した。
+
+===リバーシ===
+Misskeyユーザー同士で[https://ja.wikipedia.org/wiki/%E3%82%AA%E3%82%BB%E3%83%AD_(%E9%81%8A%E6%88%AF) リバーシ]で遊ぶことができる。現時点では別のインスタンスのユーザーとの対局は不可。
+変則ルールや、カスタムマップに対応している。
+他のユーザーの対局を観戦したり、過去の対局をリプレイすることもできる。
+
+AI開発のためのAPIが用意されており<ref>https://gist.github.com/syuilo/210c2ce0f823e8a2fe20ad3f0c18b727</ref>、実際にいくつかのBotが存在する<ref>https://github.com/syuilo/ai</ref>。
+
+===Cat===
+ジョーク機能。この設定を有効にすると、自分の全ての投稿の本文に存在する「な」又は「ナ」が「にゃ」「ニャ」に変換される。
+
+この変換はMisskeyや、その他Cat機能に対応するインスタンスを除きリモートには適用されない。
+設定を無効に戻すと投稿も元に戻る。
+
+===MFM===
+MFM(Misskey Flavored Markdown)と呼ばれるMarkdown風の構文を投稿やプロフィールに使うことができ、テキストの一部を太字にしたりすることができる。
+
+==ライセンス==
+2018年3月28日<ref>https://github.com/syuilo/misskey/commit/d792de9a7fe3067a5b49e405c02e7eb71a60bd92</ref>に、[[MITライセンス]]から[[GNU Affero General Public License|AGPL]]に変更された。  
+ロゴはMisskeyに関係する用途<ref>https://github.com/joinmisskey/mk-assets/blob/master/icons/README.md</ref>であれば自由に利用可能である。
+
+==主なインスタンス==
+[https://join.misskey.page/ja/ joinmisskey]に記載されているインスタンス。
+
+*[https://misskey.io misskey.io] - 現在の公式インスタンス。
+**misskey.xyz - 旧公式インスタンス。
+*[https://misskey.m544.net misskey.m544.net] - [[めいめい]]氏が運営するインスタンス。
+*[https://twista.283.cloud twista] - 硫酸鶏氏が運営するインスタンス。
+*[https://misskey.dev misskey.dev] - [[takimura]]氏が運営するインスタンス。
+*[https://yuzulia.xyz yuzulia.xyz] - ゆずりょー氏が運営するインスタンス。
+*[https://msk.kirigakure.net 霧sskey] - 霧隠懐希氏が運営するインスタンス。
+*[https://groundpolis.app groundpolis.app]- Xeltica氏が運営するインスタンス。
+
+==インスタンス一覧==
+https://join.misskey.page/ja/wiki/instances はMisskeyのインスタンス一覧である。更新は手動。言語別に分類されており、ウェブサイトの言語設定に応じて表示が切り替わる。
+
+[[Fediverse Network]]は2018年5月6日<ref>https://pleroma.fr/notice/70601</ref>よりMisskeyインスタンス一覧を運用している。
+
+==関連項目==
+
+;Misskeyに対応したクライアント
+
+*[[TheDesk]]
+*[[Subway Tooter]]
+*MissCat - iOS用 Misskey特化クライアント
+*MilkTea - Android用 Misskey特化クライアント
+*SocialHub
+*WhaleBird
+*Marindiver
+
+==外部リンク==
+
+;公式
+
+*[https://join.misskey.page Misskeyをはじめよう (joinmisskey)]
+*{{Twitter|misskey_io|misskey.ioの公式アカウント|lang=ja}}
+*[https://misskey.io/docs Misskey Docs] - misskey.ioの公式ドキュメント。
+
+==出典==
+<references />
+
+[[Category:分散SNS]]
+[[Category:ActivityPub]]
+[[category:ユーザーレコメンデーション]]
+[[Category:GNU Affero General Public License]]

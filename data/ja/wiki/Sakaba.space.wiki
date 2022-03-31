@@ -1,0 +1,20 @@
+{{Infobox instance
+| Name = sakaba.space
+| Image = [[ファイル:sakaba.jpg|120px|sakaba.space]]
+| Domain = https://sakaba.space
+| Admin = [https://sakaba.space/@master master]
+| Country = 日本国
+| Start = 2017年4月26日
+| Kifu = [https://www.amazon.co.jp/hz/wishlist/ls/11L72U5XKTWFB Amazon ほしい物リスト]
+| Alias = マストドン酒場
+}}'''sakaba.space'''、'''マストドン酒場'''とは、[[マストドン]]のサーバーの一つ。
+
+==概要==
+2017年4月26日に公開された。
+
+ロールプレイングゲームに登場する「'''酒場'''」を模しており、[[ユーザー]]は「'''冒険者'''」またはその世界観に付随する存在として扱われ、多くのユーザーがそれに準じた「ロールプレイ」を行っている。
+
+サーバー内には「'''モンスター'''」と呼ばれる[[bot]]アカウントが存在し、不定期に投稿が行われる。投稿で出没したモンスターに対しユーザーが[[リプライ]]をすることで「攻撃」となり、何度かリプライを送ると倒すことができる。倒すと「酒場の記録」というbotがモンスター討伐時の情報をアナウンスするようになっている。
+
+{{DEFAULTSORT:sakabaspace}}
+[[category:日本のインスタンス]]

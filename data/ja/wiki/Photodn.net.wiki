@@ -1,0 +1,19 @@
+{{Infobox instance
+| Name          = photodn.net 
+| Domain        = https://photodn.net/
+| Admin         = [https://photodn.net/@satoshi satoshi]
+| Country       = 日本
+| Start         = 2017/04/21
+| Kifu          = なし
+| Alias         = ふぉとどん, 写真インスタンス
+}}'''photodon.net'''とは、オープンソースのソーシャルネットワークMastodonの[[インスタンス]]。
+
+== 概要 ==
+写真やカメラ関係のユーザーを対象に立てられたインスタンス。
+
+== 関連項目 ==
+* [[mstdn.Camera]]
+* [[Mastodon.ART]]
+
+{{DEFAULTSORT:photodn}}
+[[category:日本のインスタンス]]

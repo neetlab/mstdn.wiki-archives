@@ -1,0 +1,30 @@
+{{DISPLAYTITLE:THINKERS.AC}}
+{{infobox instance
+|Name = {{Ruby|THINKERS|シンカーズ}}.AC
+|Image = [[ファイル:THINKERS.png|300px]]
+|Domain = https://thinkers.ac
+|Country = 日本
+|Admin = [http://www.thinkers.jp THINKERS]
+|Start = 2017年5月25日<ref>https://thinkers.ac/@THINKERS/6{{リンク切れ|date=2018年7月|archiveurl=http://web.archive.org/web/20180706170317/https://thinkers.ac/@THINKERS/6}}</ref>
+|End = 2018年7月3日
+|Kifu = なし
+|SourceCode = [https://github.com/thnkrs/mastodon GitHub]
+|Alias = なし
+}}'''{{Ruby|THINKERS|シンカーズ}}.AC'''は、オープンソースのソーシャルネットワークMastodonの[[インスタンス]]。
+
+== 概要 ==
+元々は2015年8月より同社開発されていた学習コミュニティを運用していた株式会社THINKERSが、2017年6月1日に同コミュニティを完全移行し生まれたインスタンス。
+
+学習コミュニティがコンセプトで、対象となるユーザーは中高生、大学生、大学院生、大学の教職員などのみ。
+
+その特性上アカウント登録が独自のものになっており、10代の学生は[[Facebook]]アカウントによる[[連携ログイン]]で年齢確認を行う。また、教職員の場合は所属している組織のメールアドレスが必要である。
+
+投稿が「[[トゥート]]」ではなく「Think!」になっており、また配色は全体的に明るいカラーテーマとなっているなど、独自性の強いインスタンスとなっている。しかし、バージョンは1.3.3のままであり、更新は停滞していた。
+
+2018年5月28日、[https://thinkers.ac/@gaku 山内学]氏による株式会社THINKERSから[https://twitter.com/mamiwt 渡辺麻実]氏による一般社団法人THINKERS NEOへの運営主体の変更と、チャットツール「Slack」への移行が発表され<ref>https://twitter.com/jp_thinkers/status/1001304839861690369</ref><ref>https://thinkers.ac/@gaku/219201{{リンク切れ|date=2018年7月|archiveurl=http://web.archive.org/web/*/https://thinkers.ac/@gaku/219201}}</ref>、インスタンスは2018年6月をもっての閉鎖が予告されていた<ref>https://thinkers.ac/@THINKERS/226281{{リンク切れ|date=2018年7月|archiveurl=http://web.archive.org/web/20180706170322/https://thinkers.ac/@THINKERS/226281}}</ref>。その後、2018年7月3日頃に消滅した。
+
+== 出典 ==
+<references />
+
+[[Category:企業が運用しているインスタンス]]
+[[Category:独自機能が実装されたインスタンス]]

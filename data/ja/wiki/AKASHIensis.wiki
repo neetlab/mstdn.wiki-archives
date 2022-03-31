@@ -1,0 +1,19 @@
+{{Infobox instance
+| Name          = {{Ruby|'''AKASHIensis'''|アカシエンシス}}
+| Image         = [[ファイル:AKASHIensis.png|300px]]
+| Domain        = https://akashiensis.com/
+| Admin         = [https://akashiensis.com/@akashipress akashi.press]
+| Country       = 日本
+| Start         = 不明
+| Kifu          = なし
+| Alias         = なし
+}}'''AKASHIensis'''は、オープンソースのソーシャルネットワークMastodonの[[インスタンス]]。
+
+== 概要 ==
+兵庫県明石市に関連するユーザーに向けたインスタンス。インスタンス名はアカシゾウの学名に由来している。 
+
+== 関連項目 ==
+* [[都道府県のインスタンス一覧]]
+
+{{DEFAULTSORT:あかし}}
+[[category:日本のインスタンス]]

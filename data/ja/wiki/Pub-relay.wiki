@@ -1,0 +1,33 @@
+{{小文字}}
+{{Infobox software
+| Name                = pub-relay
+<!-- | Image               = [[ファイル:Amaroq.jpg|120px|Amaroq]] -->
+| Developer           = [https://source.joinmastodon.org/RX14 Chris Hobbs]
+| SourceCode          = https://source.joinmastodon.org/mastodon/pub-relay
+<!-- | Platform            = iOS -->
+| ProgrammingLanguage = Crystal
+<!-- | Launch              = 2017年3月17日 -->
+<!-- | Kifu                = [https://paypal.me/floofdog PayPal] -->
+| License             = [[GNU Affero General Public License]]
+<!-- | Web                 = [https://github.com/ReticentJohn/Amaroq/blob/master/README.md GitHub Readme] -->
+<!-- | Download            = [https://itunes.apple.com/us/app/amaroq-for-mastodon/id1214116200 AppStore] -->
+}}'''pub-relay'''は、[[ActivityPub]]のアクションを中継するサーバー。pub-relayのinboxにActivityPubのアクション (Create, Update, Delete, Announce, Undo) を送ると、pub-relayのフォロワーにそのアクションが送られる。pub-relayをフォローするには、<code><nowiki>https://www.w3.org/ns/activitystreams#Public</nowiki></code>をsubscribeするアクションを送ればよい。
+
+マストドンの公式プロジェクトとみなされており、[[マストドン公式リポジトリ]]に置かれている。
+
+==インスタンス==
+* [https://relay.toot.yukimochi.jp/ YUKIMOCHI Toot Relay Service] ([[雪餅]]が運営しているインスタンス。現在は[[Activity-Relay]]に変更されている。)
+* [https://pub-relay.hama3.net/ h3zjp pub-relay Server] ([[h3zjp]]が運営しているインスタンス)
+* [https://relay.mstdn-jp.site/ Enjoy Fediverse] (ランランが運営しているインスタンス)
+* [https://relay.taruntarun.net/ taruntarun relay] (mayaehが運営しているインスタンス)
+
+==ハッシュタグリレー==
+'''ハッシュタグリレー'''は、pub-relayのフォーク。[[ハッシュタグ]]が付いた投稿のみをリレーするよう改造されている。インスタンスは https://hashtag-relay.dtp-mstdn.jp に置かれている。
+
+==外部リンク==
+* https://source.joinmastodon.org/mastodon/pub-relay
+
+{{DISPLAYTITLE:pub-relay}}
+{{DEFAULTSORT:pubrelay}}
+[[category:リレーサーバー]]
+[[Category:GNU Affero General Public License]]

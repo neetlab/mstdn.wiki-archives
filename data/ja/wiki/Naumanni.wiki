@@ -1,0 +1,36 @@
+{{Infobox software
+| Name = <ruby>naumanni<rt>ナウマン</rt></ruby>
+| Image = [[ファイル:Naumanni.png|300px|Naumanni]]
+| Developer = shi3z
+| SourceCode = [https://github.com/naumanni/naumanni/ GitHub]
+| Platform = Webブラウザー/Docker
+| ProgrammingLanguage = JavaScript, Python
+| Launch = 2017年5月17日
+| License = [[GNU Affero General Public License]]
+<!-- | Web = https://naumanni.com -->
+}}naumanniとは、オープンソースのソーシャルネットワーク[[Mastodon]]のWebブラウザー・Docker向けクライアントである。
+
+== 概要 ==
+2017年5月にshi3z氏によってリリースされた<ref>http://internet.watch.impress.co.jp/docs/news/1059998.html</ref>オープンソースのクライアント。Dockerイメージ上で起動でき、[[Halcyon]]など他のWebクライアント同様に[[Mastodon]]アカウントと連携し利用することができる。
+
+== 特徴 ==
+
+*複数インスタンスの同時ログインが可能で、それぞれのタイムラインを同時に並べて表示できる。<br />また、複数インスタンスの内容を同時に流す統合連合タイムライン・ローカルタイムラインや統合通知タイムラインなどがある。
+*ダイレクトメッセージがSMSライクなUIになっている。
+*ディープラーニング技術でスパム発言を自動判別し、非表示にする。また、ユーザー側でスパム報告すると定期的に再学習され精度を上げる事ができる。
+
+==開発の停滞==
+開発者により公開されていたnaumanni.comは2017年12月11日現在、エラーにより使用できなくなっている。そのため、https://naumanni.pptdn.jp<ref>2017年12月22日から2018年11月17日までnaumanni.popnja.comに移転していた。</ref>など、有志により運用されているサーバーを使用する必要がある。
+
+GitHubレポジトリのコミットは2017年11月に途絶えている<ref>https://github.com/naumanni/naumanni/commits/master</ref>。
+
+== 関連リンク ==
+* [https://naumanni.pptdn.jp naumanni.pptdn.jp]
+* https://github.com/naumanni/naumanni
+
+== 出典 ==
+<references/>
+
+[[category:ウェブクライアント]]
+[[category:GNU Affero General Public License]]
+{{DEFAULTSORT:naumanni}}

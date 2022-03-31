@@ -1,0 +1,31 @@
+{{小文字}}
+{{Infobox person
+| Name          = <ruby>nullkal<rt>ぬるかる</rt></ruby>
+| Image         = [[ファイル:Nullkal.jpg|300px|Nullkal]]
+| Color         = #319D32
+| Instance      = [[Mastodon.cloud]], [[mastodon.nil.nu]], [[mstdn.jp]]、[[mstdn.nil.nu]]
+| Link          = https://mstdn.nil.nu/@nullkal
+| Else          = [[mstdn.jp]]元管理人(設立者)
+}}{{Ruby|nullkal|ぬるかる}}とは、[[Mastodon]]のユーザーであり、日本向けMastodon[[インスタンス]]「[[mstdn.jp]]」の設立者である。
+
+== 概要 ==
+2017年4月11日に実家[[サーバー]]に[[mastodon.nil.nu]]([[Mstdn.jp]])を設立。4月14日、[[さくらインターネット]]からの支援を受けてさくらのクラウドへの[[mstdn.jp]]の移転を行った。2017年4月21日に株式会社ドワンゴへの入社を発表<ref>https://mstdn.jp/@nullkal/2259219</ref>。
+
+その後も度々メディアに出演し、1文字インスタンス「[[マ]]」を立てるなど、積極的に活動していた。
+
+2018年9月、[[mstdn.jp]]が[[合同会社きぼうソフト]]に譲渡されることが発表され、2018年10月1日0時をもって、譲渡が完了した。
+
+== 運営するマストドンインスタンス ==
+* [[mastodon.nil.nu]]（[[mstdn.jp]]に移転）
+* [[mstdn.jp]] ([[合同会社きぼうソフト]]に移管)
+* [[マ]] (消滅)
+* [[edge.mstdn.jp]]（消滅）
+* https://mstdn.nil.nu ([[2018年]]10月1日に個人運営のインスタンスとして実家サーバーに開設。ユーザー登録は開放されていない。)
+
+== その他運営するウェブサービス ==
+* kyubitter - [[GNU social]]のインスタンス。<nowiki>https://kyubitter.xyz</nowiki>で運用されていたが、現在は消滅している。
+
+== 出典 ==
+<references/>
+
+[[category: 人物]]

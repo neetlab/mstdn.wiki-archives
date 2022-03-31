@@ -1,0 +1,26 @@
+{{小文字}}
+{{Infobox person
+| Name     = takimura, cv_k
+| Image    = [[ファイル:Takimura.png|120px]]
+<!-- | Color    = #319D32 -->
+| Country  = 日本
+| Link     = https://coron.tech/
+}}'''takimura'''または'''cv_k'''は、Web製作者及びデザイナー、[[Misskey]]インスタンス運営者。[[Mastodon]]では、[[労働者たちのMastodon]]で活動しているほか、Mastodonに関する情報を発信する個人アカウントの運用を行っている。
+
+==マストドンのアカウント==
+* [https://mstdn-workers.com/@cv_k takimura] - 労働者のためのマストドンにある個人アカウント
+* [https://mstdn.jp/@mastodon Mastodon(非公式)] - mstdn.jp上でtakimura氏が管理するアカウント。Mastodon関連の情報を発信しているが誤報や不正確な情報の発信が行われることもある。mstdn.jpを運営するきぼうソフトやMastodonProjectとは一切無関係である。
+
+== Mastodonに関するウェブサイト ==
+* [https://mstdn-workers.coron.tech/ 社畜丼wiki] - [[労働者たちのMastodon]]の非公式なWikiサイト
+* [[Mastodon(マストドン)のインスタンス一覧_(coron)|Mastodon(マストドン)のクライアント一覧]] - Mastodonのクライアント一覧を掲載しているページ、現在は更新停止中。
+* [https://coron.tech/mastodon/instance/ Mastodon(マストドン)のインスタンス一覧] - Mastodonのインスタンス一覧を掲載しているページ、現在は更新停止中。
+
+==ウェブサイト==
+* [https://coron.tech/ coron]
+
+==分散SNSのインスタンス==
+* https://misskey.dev ([[Misskey]])
+
+{{DEFAULTSORT:takimura}}
+[[category:人物]]

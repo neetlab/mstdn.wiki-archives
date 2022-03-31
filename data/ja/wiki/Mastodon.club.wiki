@@ -1,0 +1,19 @@
+
+<ruby>[[Mastodon.club]]<rt>マストドン ドット クラブ</rt></ruby>とは、オープンソースのソーシャルネットワーク[[Mastodon]]の[[インスタンス]]である。
+
+{{Infobox instance
+| Name          = <ruby>[[Mastodon.club]]<rt>マストドン ドット クラブ</rt></ruby>
+| Image         = [[ファイル:Mastodon club.png|300px|Mastodon.club]]
+| Domain        = https://mastodon.club
+| Admin         = [https://mastodon.club/@thurloat thurloat]
+| Country       = カナダ連邦
+| Start         = 2017年4月4日<ref>https://mastodon.club/@thurloat/1</ref>
+| Kifu          = PayPal: thurloat@PayPal.me, <br />bitcoin:39gkNYdkm1u2kUqpkFFAtbjJ4c9MRjvnE5
+| Alias         = .club
+}}
+
+== 出典 ==
+<references/>
+
+{{DEFAULTSORT:club}}
+[[category:カナダのインスタンス]]

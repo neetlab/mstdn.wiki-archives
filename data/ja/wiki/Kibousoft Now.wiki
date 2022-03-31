@@ -1,0 +1,50 @@
+'''Kibousoft Now'''とは、オープンソースのソーシャルネットワーク[[Mastodon]]の日本の[[インスタンス]]である。
+
+{{Infobox instance
+| Name          = [[Kibousoft Now]]
+| Image         = [[ファイル:Fluffy elephant friend.png|300px]]
+| Domain        = https://now.kibousoft.co.jp
+| Admin         = [[合同会社きぼうソフト]]
+| Country       = 日本国
+| Start         = 2017年4月16日
+| End           = 2019年7月1日
+}}
+
+== 概要 ==
+[[合同会社きぼうソフト]]が運営するインスタンスであり、'''.co.jp'''ドメイン下のインスタンスの一つである。
+
+PostgreSQL用に開発されている[[Mastodon]]のコードを修正することで、（恐らく初めて）Amazon Aurora DBに載せて運用している。
+修正したコードは、AGPLに基づき [https://github.com/kibousoft/mastodon Github] で公開されている。
+
+2019年6月4日<ref>https://now.kibousoft.co.jp/users/kibousoft/statuses/102212152523353838</ref>、サービス終了の予定が公表された。サービス終了の日は同年6月30日と予告されていたが、実際には翌7月1日に停止されたようである。
+
+== 独自機能 ==
+
+=== Facebookログイン ===
+2017年4月19日、独自の拡張実装により対応した機能。[[Facebook]]のアカウントでログインができる。
+
+=== BBCode ===
+同じく独自の拡張実装により対応。角括弧で囲まれたタグを使い、「文字の色を変える」「文字の大きさを変える」「文字を回転させる」などの様々な効果をトゥートに反映できる。
+
+== その他 ==
+
+=== Twitter広告 ===
+リリース初日の2017年4月16日に、他のインスタンスに先駆けて[[Twitter]]の広告による宣伝を行った。
+
+=== 利用規約 ===
+[[Mastodon.social]]を含む多くのインスタンスが利用規約を定めていない中、いち早く利用規約を定めた。
+
+=== プラチナスポンサー ===
+2017年10月に、Mastodonの募集しているスポンサー枠で、最高額であるプラチナスポンサーになった。[[Tootdon]]に次ぎ2社目である。
+
+==関連項目==
+* [[連携ログイン]]
+* [[BBCode]]
+
+==脚注==
+<references />
+
+{{DEFAULTSORT:kibousoftnow}}
+[[category: 日本のインスタンス]]
+[[Category:企業が運用しているインスタンス]]
+[[Category:独自機能が実装されたインスタンス]]

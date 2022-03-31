@@ -1,0 +1,26 @@
+{{Infobox instance
+| Name          = Saigodon
+| Image         = [[ファイル:Saigodon.png|300px]]
+| Domain        = https://saigodon.jp/
+| Admin         = [https://saigodon.jp/@saigodon @saigodon@saigodon.jp]<br />[https://saigodon.jp/@omi @omi@saigodon.jp]
+| Country       = 日本
+| Start         = 2017年4月24日
+| Kifu          = なし
+| Alias         = なし
+}}
+'''Saigodon'''は、オープンソースのソーシャルネットワークMastodonの[[インスタンス]]。
+
+==概要==
+鹿児島の話題を中心としたマストドンインスタンスとして2017年4月24日に立ち上げられた。
+
+鹿児島のインスタンスとしては他にMBC南日本放送の運営する[[Tegedon]]がある。
+
+2020-01-02現在において閲覧不可能。
+
+==関連項目==
+
+*[[都道府県のインスタンス一覧]]
+*[[Tegedon]]
+
+{{DEFAULTSORT:かごしま}}
+[[category:日本のインスタンス]]

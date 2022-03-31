@@ -1,0 +1,20 @@
+{{stub}}
+{{小文字}}
+{{Infobox instance
+| Name          = Mastodon IoT Tokyo
+| Domain        = https://mastodon.iot.tokyo/
+| Admin         = [https://mastodon.iot.tokyo/@skcjapan Shunsuke Ichihara]
+| Country       = 日本
+| Start         = 2017年4月17日
+| Kifu          = なし
+| Alias         = なし
+}}'''Mastodon IoT Tokyo'''は、オープンソースのソーシャルネットワークMastodonの[[インスタンス]]。
+
+== 概要 ==
+2017年4月17日にShunsuke Ichihara氏が立ち上げたインスタンス。
+
+2018年9月16日でSSL証明書の期限が切れており、警告を無視してのアクセスには注意が必要である。
+
+{{DEFAULTSORT:iottokyo}}
+[[category:日本のインスタンス]]
+[[category:消滅したインスタンス]]

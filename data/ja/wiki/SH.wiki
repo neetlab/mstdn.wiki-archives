@@ -1,0 +1,36 @@
+{{Infobox person
+| Name     = S.H.
+<!--| Image    = -->
+<!--| Color    = -->
+| Country  = 日本
+| Instance = Creatodon、いわみどん他
+}}'''S.H.'''は、インスタンス運営者、ウェブアプリケーション製作者、[[bot|ボット]]製作者、ノベルゲームエンジン製作者、ノベルゲーム作者。
+
+== マストドンインスタンス ==
+* [[Creatodon]]
+* [[いわみどん]] (2018年3月閉鎖)
+
+== クライアント ==
+* [[Legion]]
+
+== ウェブサイト ==
+[[Mastodon|マストドン]]に関連するウェブサイト。
+
+* [[Tootgetter]]
+* [[FoodsChecker for Mastodon]]
+
+== ボット ==
+* https://gamelinks007.net/@CreativeBooster
+
+==その他のマストドン関連ソフトウェア==
+* [[MastodonScript]]
+
+==外部リンク==
+* [https://gamelinksweb.herokuapp.com GAMELINKS]
+* http://gamelinks007.hatenablog.com/
+* https://github.com/S-H-GAMELINKS
+* https://github.com/GAMELINKS
+
+{{DISPLAYTITLE:S.H.}}
+{{DEFAULTSORT:sh}}
+[[category:人物]]

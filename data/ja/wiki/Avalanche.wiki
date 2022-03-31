@@ -1,0 +1,31 @@
+{{Infobox software
+| Name = {{Ruby|Avalanche|アバランチ}}
+| Image = [[image:avalanche.png|120px]]
+| Developer = [https://pawoo.net/@hallbin Jackson Tan]
+| SourceCode = プロプライエタリ
+| Platform = iOS, Android
+| ProgrammingLanguage = 不明
+| Launch = 2019年3月6日<ref>{{toot|pawoo.net|Hallbin|101703634501545140}}</ref>
+| Kifu = 
+| License = 
+| Web = [https://sites.google.com/view/avalanche-privacy-policy/home プライバシーポリシー]
+| Download = [https://testflight.apple.com/join/2Cv2j78K TestFlight]<br />[https://play.google.com/store/apps/details?id=com.avalanche.avalanche GooglePlay]
+}}
+'''Avalanche'''（'''アバランチ'''）は、iOS用およびAndroid用に開発されている[[マストドン]][[クライアント]]アプリケーションである。
+
+==概要==
+Jackson Tan(Hallbin)氏によって開発されているスマートフォン向けのクライアントアプリで、2019年3月6日よりAndroid版のベータテストが開始された。また2019年7月6日からはiOS版のベータテストもTestFlightで開始された。
+
+ベータ段階ではあるが、タイムラインの表示、投稿といった最低限の機能は既に実装されている。独自性の高いユーザーインターフェースが特徴で、開発者が[[Google+]]のユーザーであったためか一部機能の名称がGoogle+風になっている。また開発者はPawooユーザーでもあるため、画像が大きく表示される、メディアタイムラインを備えているなど[[Pawoo]]ライクに制作されている。
+
+開発者は英語、中国語、簡易な日本語でのフィードバックを受け付けている。ストア経由だけでなくマストドンアカウント([https://pawoo.net/@hallbin @Hallbin@pawoo.net])からフィードバックを受け付けているとしている。
+
+ソースコードは公開されていない。[[GitHub]]のavalanche-testリポジトリ<ref>https://github.com/Hallbin/avalanche-test</ref>はソースコードの公開以外の用途に使われている。一時的にAPKファイルが置かれていたほか、2019年7月7日<ref>https://pawoo.net/@Hallbin/102400247633869617</ref>時点では、イシューと翻訳を受け付けている。
+
+==脚注==
+<references />
+
+{{DEFAULTSORT:avalanche}}
+[[category:iOS用クライアント]]
+[[category:Android用クライアント]]
+[[category:プロプライエタリ]]

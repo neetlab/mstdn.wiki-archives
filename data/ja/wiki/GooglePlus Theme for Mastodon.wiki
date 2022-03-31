@@ -1,0 +1,30 @@
+{{stub}}
+{{Infobox software
+| Name                = {{Ruby|GooglePlus Theme for Mastodon|グーグルプラス テーマ フォー マストドン}}
+<!--| Image               = [[ファイル:Amaroq.jpg|120px|Amaroq]]-->
+| Developer           = [[ProgrammerGenboo]]
+| SourceCode          = [https://github.com/GenbuProject/GPlusTheme-for-Mastodon GitHub]
+<!--| Platform            = iOS-->
+| ProgrammingLanguage = CSS
+| Launch              = 2018年9月10日(新バージョン)
+| License             = Stylishでは[[クリエイティブ・コモンズ]] BY-NC-SA、GitHubでは[[MITライセンス]]と記載されている。
+<!--| Web                 = [https://github.com/ReticentJohn/Amaroq/blob/master/README.md GitHub Readme]-->
+| Download            = [https://userstyles.org/styles/164043/googleplus-theme-for-mastodon Stylish] 
+}}
+'''GooglePlus Theme for Mastodon'''は、[[分散SNS]]実装の一つである[[Mastodon]]向けのユーザースタイルシートである。
+
+==概要==
+[[itabashi.0j0.jp]]管理者であり[[Google+]]ユーザーの[[ProgrammerGenboo]]氏によって開発提供されているユーザースタイルシート。
+
+使用すると、MastodonのWebUIを開発者も利用していたSNS「Google+」に近い外見にできるのが特徴で、色合いや投稿の表示、お気に入りや共有などのアイコンや順序などが「Google+風」に変更される。
+
+==関連項目==
+*[[Cuckoo.Plus]] - Google+風の外見でMastodonを利用できる[[クライアント]]。
+*[[Google+]] - 元となったSNS。2019年4月2日に終了している。
+*[[ProgrammerGenboo]]
+**[[itabashi.0j0.jp]] - 開発者の運営するインスタンス。
+
+{{DEFAULTSORT:googleplusthemeformastodon}}
+[[category:カスタムCSS]]
+[[category:MITライセンス]]
+[[Category:クリエイティブ・コモンズ]]

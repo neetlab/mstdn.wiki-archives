@@ -1,0 +1,27 @@
+{{Infobox software
+| Name                = Numa
+<!-- | Image               = [[ファイル:Amaroq.jpg|120px|Amaroq]] -->
+| Developer           = [http://hankstoever.com/ Hank Stoever]
+| SourceCode          = https://github.com/numaverse/numaverse-gateway
+| Platform            = ウェブ
+| ProgrammingLanguage = Ruby
+| Launch              = 2018年3月28日<ref>https://numaverse.com/messages/1</ref>
+<!-- | Kifu                = [https://paypal.me/floofdog PayPal] -->
+| License             = [[MITライセンス]]
+| Web                 = https://numaverse.com/
+<!-- | Download            = [https://itunes.apple.com/us/app/amaroq-for-mastodon/id1214116200 AppStore] -->
+}}'''Numa'''は、Ethereumブロックチェーンをスマートコントラクトに用いる[[分散SNS]]。
+
+==関連項目==
+* [[Hiveway]] Ethereumをスマートコントラクトに用いる分散SNSであることを開発者らが主張していたが、実態は[[Mastodon|マストドン]]にわずかな変更を加えたフォークであった。
+
+==外部リンク==
+* [https://numaverse.com Numa]
+* [http://www.itmedia.co.jp/news/articles/1804/05/news058.html ブロックチェーンSNS「Numa」とは何か？]
+
+==脚注==
+<references />
+
+{{DEFAULTSORT:numa}}
+[[category:分散SNS]]
+[[category:MITライセンス]]

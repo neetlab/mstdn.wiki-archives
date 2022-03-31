@@ -1,0 +1,43 @@
+{{混同|Mast}}
+{{DISPLAYTITLE:iMast}}
+{{Infobox software
+| Name       = {{Ruby|iMast|アイマスト}}
+| Image      = [[ファイル:IMast_icon.png|200px]]
+| Developer  = [[りんすき]]
+| SourceCode = [https://github.com/cinderella-project/iMast GitHub]
+| Platform   = iOS
+| ProgrammingLanguage = Swift
+| Launch     = 2017年8月10日
+| License    = [[Apache License]] 2.0
+| Web        = [https://cinderella-project.github.io/iMast/ 公式サイト]
+| Download   = [https://itunes.apple.com/jp/app/imast/id1229461703?mt=8 App Store]
+}}{{Ruby|'''iMast'''|アイマスト}}は、[[オープンソース]]の[[ソーシャル・ネットワーキング・サービス|ソーシャルネットワーク]][[Mastodon]]の、iOS向けクライアントである。
+
+== 概要 ==
+2017年8月10日に[[りんすき]]氏によってリリースされたiOS向けのMastodonクライアントである。
+
+[[タイムライン]]に[[お気に入り]]や[[ブースト]]などのボタンが表示されておらず、[[トゥート]]を右スライドしてボタンを出すのが特徴。
+
+アプリ名や、作者が[[imastodon.net]]に居候していることなどからimastodon.netに関連するクライアントとして認識されがちであるが、iMast自体にはimastodon.net等の[[インスタンス]]独自拡張に対する対応は一部を除き入っていない。
+
+== 機能 ==
+* タイムラインの手動更新/ストリーミングに対応している。
+* タイムラインのアカウント名/トゥート本文/アイコン/サムネイルの大きさを自由に設定できる。
+* トゥートに表示されるクライアント名を自由に変更できる。
+* iOSの純正ミュージックアプリで再生している音楽をトゥートできる「NowPlaying」機能がある。
+* 回線によって(携帯回線/WiFi)ストリーミングのON/OFFを切り替えられる。
+* iOSの「今日」ウィジェットからMastodonにクリップボードの内容をトゥートできる機能がある。
+* アカウントを変更できる機能がある。同インスタンス/同アカウントのvia名違いでも複数登録可。作者は23アカウント登録していると語っている<ref>https://mstdn.maud.io/@rinsuki/99171595293248507</ref>。
+* [[friends.nico]]等のインスタンスで利用できるプロフィール絵文字機能(:@rinsuki: のように、メンションを:で囲むと対象ユーザーが絵文字のように表示される機能)の表示に対応している。
+
+== 関連リンク ==
+* [https://cinderella-project.github.io/iMast/ 公式サイト]
+* [https://itunes.apple.com/jp/app/imast/id1229461703?mt=8 App Storeページ]
+* [https://github.com/cinderella-project/iMast GitHubのリポジトリ]
+
+== 出典 ==
+<references />
+
+[[category:iOS用クライアント]]
+[[category:オープンソース]]
+{{DEFAULTSORT:iMast}}

@@ -1,0 +1,20 @@
+{{小文字}}
+{{Infobox instance
+| Name          = 山陰Mastodon
+| Domain        = https://mstdn.sanin.club/
+| Admin         = [https://mstdn.sanin.club/@hiroe_orz17 ひろえ]
+| Country       = 日本
+| Start         = 2017年4月16日
+| Kifu          = なし
+| Alias         = なし
+}}'''山陰Mastodon'''は、オープンソースのソーシャルネットワークMastodonの[[インスタンス]]。
+
+== 概要 ==
+山陰地方に縁のあるユーザーを対象とした地域密着型インスタンス。
+
+== 関連項目 ==
+* [[都道府県のインスタンス一覧]]
+* [[山陰交通丼]]
+
+{{DEFAULTSORT:さんいん}}
+[[category:日本のインスタンス]]

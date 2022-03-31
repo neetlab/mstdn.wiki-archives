@@ -1,0 +1,32 @@
+{{Infobox website
+| Name = {{Ruby|Quesdon|クエスドン}}
+<!--| Image = -->
+| URL = https://quesdon.rinsuki.net 他フォーク
+| Admin = [[りんすき]]
+| Country = 日本
+| Start = 2017年12月9日<ref name="start">https://mstdn.maud.io/@rinsuki/99141662586471554</ref>
+}}
+{{Ruby|'''Quesdon'''|クエスドン}}は、Mastodonユーザー向けのオープンソースの匿名質問投書サービス。
+
+== 概要 ==
+[[りんすき]]氏により公開された、匿名で登録ユーザーに質問を投書できるというウェブサービス。
+
+マストドンや多くの[[ソーシャル・ネットワーキング・サービス|SNS]]では、2017年11月前後から「{{Jawp|Sarahah}}」や「{{Jawp|Peing}}」などといった匿名で質問を送ることのできるウェブサービスが流行していた。しかし、Sarahahは質問を画像で引用する形であったり、Peingは[[Twitter]]ユーザー向けであったりと、Mastodonで利用するには難しい点も多かった。
+
+その為、Mastodonアカウントでの[[連携ログイン]]ができるQuesdonは、2017年12月9日<ref name="start" />に公開されるとすぐにマストドン上で拡散した。
+Mastodonアカウントでログインをすると、プロフィールページが生成され、質問が受け付けられる。Mastodonと連携しているため回答した際に自動で[[トゥート]]することができ、質問と回答の表示に[[Content Warning]]機能が使用されていたり、投稿の公開範囲を選択できるなど、マストドンの機能を活かしたものとなっている。
+
+また、2018年1月21日よりTwitterアカウントでの利用も可能となったが、Twitterの開発者向けポリシー改定の影響で、2018年9月30日以降は利用不可能となっている。
+
+なお、ソースコードは[[GNU Affero General Public License|AGPL-3.0]]ライセンスの元に公開されている<ref>https://github.com/rinsuki/quesdon/blob/master/LICENSE</ref>。
+
+== 終了 ==
+quesdon.rinsuki.netは2019年(平成31年)4月30日をもって終了する予定である<ref>{{toot|mstdn.rinsuki.net|quesdon|101840155554009697}}</ref>。開発は継続される。
+== Quesdon(toot.app) ==
+[https://quesdon.toot.app/ Quesdon(toot.app)]は[[Cutls P]]によるフォーク。DMによる質問時の通知や、[[Misskey]]でのログイン対応などの改造がなされている。こちらは先述のサービス終了の影響を受けない。
+== 出典 ==
+<references />
+
+[[Category:ウェブサイト]]
+[[category:GNU Affero General Public License]]
+{{DEFAULTSORT:quesdon}}

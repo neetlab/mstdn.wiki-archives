@@ -1,0 +1,8 @@
+'''#followfriday'''は、英語圏の[[Mastodon|マストドン]]で普及している[[ハッシュタグ]]。毎週金曜日に、推奨するユーザーの一覧を、このハッシュタグを付けて[[トゥート]]する。
+
+==関連項目==
+* [[Followfriday indies]]
+
+{{DEFAULTSORT:followfriday}}
+[[category:ハッシュタグ]]
+[[category:ユーザーレコメンデーション]]

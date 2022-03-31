@@ -1,0 +1,28 @@
+'''EUNOMIA'''は、EUの助成金<ref>https://cordis.europa.eu/project/rcn/220360/factsheet/en</ref>を受けた研究プロジェクトで、ソーシャルメディアの情報の信頼性を担保するための脱中央集権システムの構築を目指している。
+
+https://mastodon.eunomia.social はEUNOMIAのインスタンスである。2021年10月21日<ref>https://mastodon.social/@Eunomia/107139554401838405</ref>に開設された。[[Mastodon]]のフォークであるが、[[連合]]は無効になっている。
+
+2022年1月頃、[[セキュリティ証明書]]が壊れ、使用できなくなっている。同月29日には eunomia.social のドメイン名が失効した。2022年3月頃、再び使用できるようになった。
+
+==批判==
+
+[[Eugen Rochko]]に6万ユーロあまりの助成金が割り当てられたこと、[[Mastodon]]がEUNOMIAのテストに使われる計画があることから、アノニマス<ref>https://www.anonymous-japan.org/AnonKenkai15</ref><ref>https://peertube.anon-kenkai.com/videos/watch/1a6abb1f-6675-4855-8228-c7c5dd71394d</ref>が批判している。[[Gargron]]とEUNOMIAのプロジェクトメンバーのチャットのログとされるもの<ref>https://gnujihad.neocities.org/leak/</ref>がリークされており、[[GNUsocial Axis|GNU/Jihad]]のウェブサイトに置かれている。
+
+==名称について==
+
+EUNOMIAはギリシャ神話の神の名前であり、無関係な同名の固有名詞<ref>https://ent.zone/</ref><ref>https://www.eunomia.co.uk/</ref><ref>http://dotcolon.net/font/eunomia/</ref>が多数ある。
+
+==外部リンク==
+
+*[https://eunomia.social EUNOMIAの公式ウェブサイト]
+*[https://mastodon.social/@Eunomia EUNOMIAのマストドンアカウント]
+*[https://mastodon.eunomia.social EUNOMIAのインスタンス]
+*[https://gitlab.com/eunomia-social/dc EUNOMIAのソースコード]
+
+==脚注==
+
+<references />
+
+{{DEFAULTSORT:eunomia}}
+[[category:ミニブログ]]
+[[category:GNU Affero General Public License]]

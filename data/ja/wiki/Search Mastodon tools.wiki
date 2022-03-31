@@ -1,0 +1,28 @@
+{{Infobox software
+| Name                = Search Mastodon tools
+<!-- | Image               = [[ファイル:Amaroq.jpg|120px|Amaroq]] -->
+| Developer           = David Libeau
+| SourceCode          = https://github.com/DavidLibeau/search-mastodon-tools
+| Platform            = ウェブ
+| ProgrammingLanguage = PHP
+| Launch              = 2018年5月15日
+<!-- | Kifu                = [https://paypal.me/floofdog PayPal] -->
+| License             = [[GNU General Public License]] 3.0
+| Web                 = http://search.mastodon.tools
+}}'''Search Mastodon tools'''は、マストドン関連ソフトウェアを検索できるウェブサイト。
+
+== 概要 ==
+サイトにアクセスするとマストドンに関連するソフトウェア・ウェブサイトが一覧で並ぶ。開発者はフランス人とみられる<ref>[https://davidlibeau.fr ポートフォリオサイト]の言語やccTLDがフランス(fr)であることなどから判断</ref>David Libeau氏。サイトの言語は英語。
+
+海外のサイトであるため日本人開発者によるソフトウェア・ウェブサイトは比較的少なく、[[SubwayTooter]]、[[iMast]]、[[TheDesk]]、[[flantter]]、[[マストドンユーザーマッチング]]等がリストアップされている。[https://github.com/DavidLibeau/search-mastodon-tools GitHub]のdatabase.xmlにプルリクエストを送ることでだれでもリストに追加することができる。
+
+ページトップの検索欄に文字を入れると検索が利用できる。検索対象は名前と説明、URLである。
+
+検索結果のソート順はランダムである。当初は登録が古い順に配列されていたが、2018年6月7日<ref>https://github.com/DavidLibeau/search-mastodon-tools/pull/4</ref>から、ランダムに配列されるようになった。
+
+2018年6月9日以前には、HTTPでのアクセスが可能であったため、検索欄を使用するとセキュリティ警告が表示される場合があった。2018年6月9日頃から、HTTPでアクセスしてもHTTPSにリダイレクトされるようになった<ref>https://github.com/DavidLibeau/search-mastodon-tools/issues/6</ref>。
+
+==  注釈 ==
+{{DEFAULTSORT:searchmastodontools}}
+[[category:ウェブサイト]]
+[[category:GNU General Public License]]

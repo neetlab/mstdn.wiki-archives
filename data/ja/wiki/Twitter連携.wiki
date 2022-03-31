@@ -1,0 +1,50 @@
+{{Infobox word
+|Name   = {{Ruby|Twitter連携|ついったーれんけい}}
+|Hinshi = 名詞
+|Hatsu  = 不明
+}}'''Twitter連携'''とは、[[Twitter]]の投稿を自動的に[[Mastodon|マストドン]]のアカウントに流すこと。また、逆にマストドンの投稿をTwitterに流すことを指す場合もある。
+
+==概要==
+Twitterは2018年9月現在Mastodonに比べて規模のより大きいコミュニケートサービスであり、多くの情報を得ることができより多くのユーザーに投稿が閲覧されることなどから、Mastodonを利用しながらもTwitterを利用しようとするユーザーは少なくない。
+
+Mastodon、Twitter共にアカウントをアクティブにしておくために、投稿を同期しようとするユーザーが現れ、その需要に応えるべく多くのサービスやソフトウェアが登場した。
+
+中でも[[Twitter→Mastodonトゥート同期アプリ]]が知られていたが、2018年4月頃から使用できなくなっている。
+
+また、IFTTTを鳥連携に用いる方法も知られている。[[雪餅]]が公表した手順<ref name="yukimochiifttt">[https://qiita.com/yukimochi/items/f80a50a4486d0cb770dc Twitter の投稿を IFTTT で Mastodon へ転送する。]</ref>をそのまま用いると、アプリケーション名が「From Twitter」となる。
+
+これまでの説明とは逆に、マストドンのトゥートをTwitterに転送することも可能である。これをIFTTTで行う手順を[[nullkal]]が公開している。<ref name="nullkalnormal">[https://ifttt.com/applets/zVRwYKr4-mastodon-twitter Mastodon → Twitter]</ref><ref name="nullkalnonbstrpl">[https://ifttt.com/applets/MbDvrAym-mastodon-twitter-w-o-boosts-or-replies Mastodon → Twitter w/o Boosts, or Replies]</ref>
+
+==TwitterのツイートをMastodonに流すサービス・アプリケーション==
+*[[MASTMAN]]
+*[[Twitter→Mastodonトゥート同期アプリ]]（消滅）
+*[[Ore2]]
+*[https://crossposter.masto.donte.com.br/ Mastodon Twitter Crossposter]
+ほか
+
+==マストドンのトゥートをTwitterに流すサービス・アプリケーション==
+*[[mirrortter]]
+*[[3.nu]]（消滅）
+*IFTTT<ref name="nullkalnormal" /><ref name="nullkalnonbstrpl" />
+*[https://crossposter.masto.donte.com.br/ Mastodon Twitter Crossposter]
+ほか
+
+==関連するスラング==
+*'''鳥連携''' - Twitter連携のことを指す象語。
+
+==批判==
+TwitterやMastodonでは、他ユーザーの投稿や時流に対して反応・言及する投稿をするユーザーが多い。
+
+しかし、連携をしていると、そうした投稿の文脈が不明になってしまう場合があるため、批判されることがある。
+
+マストドンでは[[ローカルタイムライン]]などの公開タイムラインを利用してユーザーの投稿を閲覧するユーザーも少なくないため、連携投稿は公開タイムラインの文脈を分断してしまうという問題がある。また、[[bot]]を利用しているユーザーが連携をするともう一方のアカウントにも投稿が流れるため、公開タイムラインを汚染してしまっているという批判もある。
+
+==脚注==
+<references />
+
+==外部リンク==
+* [https://qiita.com/yukimochi/items/f80a50a4486d0cb770dc Twitter の投稿を IFTTT で Mastodon へ転送する。]
+* [http://yukkurisinai.hatenablog.com/entry/2017/05/12/094449 TwitterとMastodonで云々 リマスター版] (リンク切れ)
+
+{{DEFAULTSORT:とりれんけい}}
+[[category:象語]]

@@ -1,0 +1,30 @@
+{{小文字}}
+{{Infobox instance
+| Name = mstdn18.jp
+| Domain = https://mstdn18.jp
+| Admin = [https://mstdn18.jp/@pero_rinko pero_rinko](pero_rinko)
+| Country = 日本国
+| Start = 2017年5月15日<ref>https://mstdn18.jp/@toysheartona/1</ref>
+| End = 不明
+| SourceCode = [https://github.com/developer-mstdn18/ GitHub]
+}}'''mstdn18.jp'''は、[[オープンソース]]の[[分散SNS]]、[[Mastodon]]の[[インスタンス]]。
+
+== 概要 ==
+2017年5月15日に立ち上げられたインスタンス。「アダルトインスタンス」を謳っており、18歳未満のユーザーは登録できないとしている。
+
+[[Twitter]]及び[[Facebook]]の[[アカウント]]で[[ソーシャルログイン]]ができる独自機能を実装している。1つのアカウントに両SNSのアカウントを紐づけることも可能。
+
+2018年5月時点で[[セキュリティ証明書]]が期限切れとなり、安全なアクセスが不可能な状態となっていた。
+
+2018年7月現在ではドメインが切れており、完全にアクセスが不可となっている。[[Fediverse Network]]によれば、2018年6月27日頃にはDNSエラーであったという<ref>https://fediverse.network/mstdn18.jp/checks/2018-06-27T13%3A36%3A22.157171</ref>。
+
+== 出典 ==
+<references />
+
+== 関連項目 ==
+* [[Switter]]
+* [[preteengirls.biz]]
+
+[[Category:日本のインスタンス]]
+[[Category:独自機能が実装されたインスタンス]]
+[[category:消滅したインスタンス]]

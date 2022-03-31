@@ -1,0 +1,147 @@
+{{Stub}}
+本項は[[Mastodon]]のリリースバージョンの一覧である。
+
+リリース日時はGitHubのReleasesから、日本標準時（JST）準拠。rc版は含まれない。
+== 1.x.x ==
+{| class="wikitable" style="font-size:small"
+!バージョン!!コードネーム!!リリース日!!内容!!出典
+|-
+|1.0||Nipple Tooth||[[2017年]]2月6日03:27||
+* 最初のメジャーアップデート
+* コードネームは、「Mastodon」が「乳歯」（Nipple Tooth）を指すことから
+||<ref>https://github.com/tootsuite/mastodon/releases/tag/v1.0</ref>
+|-
+|-
+|1.1||&nbsp;||2017年4月7日20:20||?||<ref>https://github.com/tootsuite/mastodon/releases/tag/v1.1</ref>
+|-
+|1.1.1||&nbsp;||2017年4月10日07:41||?||<ref>https://github.com/tootsuite/mastodon/releases/tag/v1.1.1</ref>
+|-
+|1.1.2||&nbsp;||2017年4月14日06:09||?||<ref>https://github.com/tootsuite/mastodon/releases/tag/v1.1.2</ref>
+|-
+|1.2||&nbsp;||2017年4月17日06:45||?||<ref>https://github.com/tootsuite/mastodon/releases/tag/v1.2</ref>
+|-
+|1.2.1||&nbsp;||2017年4月20日03:09||?||<ref>https://github.com/tootsuite/mastodon/releases/tag/v1.2.1</ref>
+|-
+|1.2.2||&nbsp;||2017年4月20日06:23||?||<ref>https://github.com/tootsuite/mastodon/releases/tag/v1.2.2</ref>
+|-
+|1.3||&nbsp;||2017年4月28日06.18||?||<ref>https://github.com/tootsuite/mastodon/releases/tag/v1.3</ref>
+|-
+|1.3.1||&nbsp;||2017年4月28日06:41||?||<ref>https://github.com/tootsuite/mastodon/releases/tag/v1.3.1</ref>
+|-
+|1.3.2||&nbsp;||2017年4月30日02:34||?||<ref>https://github.com/tootsuite/mastodon/releases/tag/v1.3.2</ref>
+|-
+|1.3.3||&nbsp;||2017年5月6日20:59||?||<ref>https://github.com/tootsuite/mastodon/releases/tag/v1.3.3</ref>
+|-
+|1.4.1||&nbsp;||2017年5月29日06:55||?||<ref>https://github.com/tootsuite/mastodon/releases/tag/v1.4.1</ref>
+|-
+|1.4.2||&nbsp;||2017年6月15日06:29||?||<ref>https://github.com/tootsuite/mastodon/releases/tag/v1.4.2</ref>
+|-
+|1.4.3||&nbsp;||2017年6月15日10:17||
+* 1.4.2のリグレッションの修正
+||<ref>https://github.com/tootsuite/mastodon/releases/tag/v1.4.3</ref>
+|-
+|1.4.4||&nbsp;||2017年6月21日08:53||?||<ref>https://github.com/tootsuite/mastodon/releases/tag/v1.4.4</ref>
+|-
+|1.4.5||&nbsp;||2017年6月23日10:53||?||<ref>https://github.com/tootsuite/mastodon/releases/tag/v1.4.5</ref>
+|-
+|1.4.6||&nbsp;||2017年6月24日00:34||?||<ref>https://github.com/tootsuite/mastodon/releases/tag/v1.4.6</ref>
+|-
+|1.4.7||&nbsp;||2017年7月1日21:50||?||<ref>https://github.com/tootsuite/mastodon/releases/tag/v1.4.7</ref>
+|-
+|1.5.0||&nbsp;||2017年8月1日22:17||?||<ref>https://github.com/tootsuite/mastodon/releases/tag/v1.5.0</ref>
+|-
+|1.5.1||&nbsp;||2017年8月7日06:58||?||<ref>https://github.com/tootsuite/mastodon/releases/tag/v1.5.1</ref>
+|}
+== 2.x.x ==
+{| class="wikitable" style="font-size:small"
+!バージョン!!コードネーム!!リリース日!!内容!!出典
+|-
+|v2.0.0|| ||2017年10月19日 01:16||?||<ref>https://github.com/tootsuite/mastodon/releases/tag/v2.0.0</ref>
+|-
+|v2.1.0|| ||2017年12月16日 03:41||?||<ref>https://github.com/tootsuite/mastodon/releases/tag/v2.1.0</ref>
+|-
+|v2.1.2|| ||2018年1月6日 08:03||?||<ref>https://github.com/tootsuite/mastodon/releases/tag/v2.1.2</ref>
+|-
+|v2.1.3|| ||2018年1月10日 07:48||?||<ref>https://github.com/tootsuite/mastodon/releases/tag/v2.1.3</ref>
+|-
+|v2.2.0|| ||2018年1月29日 09:47||?||<ref>https://github.com/tootsuite/mastodon/releases/tag/v2.2.0</ref>
+|-
+|v2.3.0|| ||2018年3月10日 01:16||?||<ref>https://github.com/tootsuite/mastodon/releases/tag/v2.3.0</ref>
+|-
+|v2.3.1|| ||2018年3月14日 00:20||?||<ref>https://github.com/tootsuite/mastodon/releases/tag/v2.3.1</ref>
+|-
+|v2.3.2|| ||2018年3月22日 22:24||?||<ref>https://github.com/tootsuite/mastodon/releases/tag/v2.3.2</ref>
+|-
+|v2.3.3|| ||2018年3月27日 09:15||?||<ref>https://github.com/tootsuite/mastodon/releases/tag/v2.3.3</ref>
+|-
+|v2.4.0|| ||2018年5月23日 03:18||?||<ref>https://github.com/tootsuite/mastodon/releases/tag/v2.4.0</ref>
+|-
+|v2.4.1|| ||2018年6月11日 01:39||?||<ref>https://github.com/tootsuite/mastodon/releases/tag/v2.4.1</ref>
+|-
+|v2.4.2|| ||2018年6月19日 09:30||?||<ref>https://github.com/tootsuite/mastodon/releases/tag/v2.4.2</ref>
+|-
+|v2.4.3|| ||2018年7月11日 18:35||?||<ref>https://github.com/tootsuite/mastodon/releases/tag/v2.4.3</ref>
+|-
+|v2.4.4|| ||2018年8月23日 04:55||?||<ref>https://github.com/tootsuite/mastodon/releases/tag/v2.4.4</ref>
+|-
+|v2.4.5|| ||2018年8月25日 04:37||?||<ref>https://github.com/tootsuite/mastodon/releases/tag/v2.4.5</ref>
+|-
+|v2.5.0|| ||2018年9月3日 07:14||?||<ref>https://github.com/tootsuite/mastodon/releases/tag/v2.5.0</ref>
+|-
+|v2.5.1|| ||2018年10月8日 04:33||?||<ref>https://github.com/tootsuite/mastodon/releases/tag/v2.5.1</ref>
+|-
+|v2.5.2|| ||2018年10月12日 08:20||?||<ref>https://github.com/tootsuite/mastodon/releases/tag/v2.5.2</ref>
+|-
+|v2.6.0|| ||2018年10月31日 06:27||?||<ref>https://github.com/tootsuite/mastodon/releases/tag/v2.6.0</ref>
+|-
+|v2.6.1|| ||2018年10月31日 09:08||?||<ref>https://github.com/tootsuite/mastodon/releases/tag/v2.6.1</ref>
+|-
+|v2.6.3|| ||2018年11月30日 02:15||?||<ref>https://github.com/tootsuite/mastodon/releases/tag/v2.6.3</ref>
+|-
+|v2.6.4|| ||2018年11月30日 20:36||?||<ref>https://github.com/tootsuite/mastodon/releases/tag/v2.6.4</ref>
+|-
+|v2.6.5|| ||2018年12月2日 16:12||?||<ref>https://github.com/tootsuite/mastodon/releases/tag/v2.6.5</ref>
+|-
+|v2.7.0|| ||2019年1月20日 12:40||?||<ref>https://github.com/tootsuite/mastodon/releases/tag/v2.7.0</ref>
+|-
+|v2.7.1|| ||2019年1月28日 18:10||?||<ref>https://github.com/tootsuite/mastodon/releases/tag/v2.7.1</ref>
+|-
+|v2.7.2|| ||2019年2月17日 19:07||?||<ref>https://github.com/tootsuite/mastodon/releases/tag/v2.7.2</ref>
+|-
+|v2.7.3|| ||2019年2月23日 16:23||?||<ref>https://github.com/tootsuite/mastodon/releases/tag/v2.7.3</ref>
+|-
+|v2.7.4|| ||2019年3月5日 17:12||?||<ref>https://github.com/tootsuite/mastodon/releases/tag/v2.7.4</ref>
+|-
+|v2.8.0|| ||2019年4月10日 22:03||?||<ref>https://github.com/tootsuite/mastodon/releases/tag/v2.8.0</ref>
+|-
+|v2.8.1|| ||2019年5月3日 23:28||?||<ref>https://github.com/tootsuite/mastodon/releases/tag/v2.8.1</ref>
+|-
+|v2.8.2|| ||2019年5月5日 15:15||?||<ref>https://github.com/tootsuite/mastodon/releases/tag/v2.8.2</ref>
+|-
+|v2.8.3|| ||2019年5月19日 20:42||?||<ref>https://github.com/tootsuite/mastodon/releases/tag/v2.8.3</ref>
+|-
+|v2.8.4|| ||2019年5月24日 13:41||?||<ref>https://github.com/tootsuite/mastodon/releases/tag/v2.8.4</ref>
+|-
+|v2.9.0|| ||2019年6月13日 18:27||?||<ref>https://github.com/tootsuite/mastodon/releases/tag/v2.9.0</ref>
+|-
+|v2.9.1|| ||2019年6月22日 00:07||?||<ref>https://github.com/tootsuite/mastodon/releases/tag/v2.9.1</ref>
+|-
+|v2.9.2|| ||2019年6月22日 16:15||?||<ref>https://github.com/tootsuite/mastodon/releases/tag/v2.9.2</ref>
+|-
+|v2.9.3|| ||2019年8月9日 22:31||?||<ref>https://github.com/tootsuite/mastodon/releases/tag/v2.9.3</ref>
+|}
+
+== 3.x.x ==
+{| class="wikitable" style="font-size:small"
+!バージョン!!コードネーム!!リリース日!!内容!!出典
+|-
+|v3.0.0|| ||2019年10月3日 20:53||?||<ref>https://github.com/tootsuite/mastodon/releases/tag/v3.0.0</ref>
+|-
+|v3.0.1|| ||2019年10月10日 18:38||?||<ref>https://github.com/tootsuite/mastodon/releases/tag/v3.0.1</ref>
+|}
+
+==脚注==
+<references />
+
+{{DEFAULTSORT:mastodonのはあしよん}}
+[[category:マストドンの機能]]

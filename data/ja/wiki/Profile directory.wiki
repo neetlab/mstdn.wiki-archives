@@ -1,0 +1,46 @@
+'''Profile directory'''は、[[Mastodon|マストドン]]の機能。ある[[インスタンス]]のユーザーの一覧を表示する。また、ユーザーの[[プロフィール]]に[[ハッシュタグ]]が含まれている場合、ハッシュタグごとにユーザーの一覧を見ることができる。
+
+日本語ロケールでの表記は'''ディレクトリ'''または'''興味のある人を見つけよう'''である。
+
+マストドンのウェブUIで使用できる。APIでは提供されない。デスクトップ用ウェブUIでは、[[ユーザープロフィールページ]]からProfile Directoryにリンクが設けられている。スマートフォン用ウェブUIでは、Profile directoryに到達するリンクが存在しないようである。いずれにせよ、パス /explore をアドレスバーに入力することでアクセスすることができる。
+
+Profile directoryのユーザー一覧は、最近[[トゥート]]した順に配列される。ただし、10人以上のフォロワーを持つユーザーのみが掲載される。この仕様はスパム防止のためである<ref>[https://github.com/tootsuite/mastodon/pull/9427 Add profile directory #9427]</ref>と説明されている。しかし、新規ユーザーが10人のフォロワーを獲得するのは容易ではなく、Profile directoryに掲載される見込みは薄い<ref>https://github.com/tootsuite/mastodon/pull/9427#issuecomment-445108417</ref><ref>[https://hakabahitoyo.wordpress.com/2018/12/09/profile-directory-is-still-unfair Profile directoryのフェアネスはいまひとつ: Gargronはスパムとの戦いに向いてない]</ref>という批判がある。
+
+ユーザーがProfile directoryに掲載されるかどうかはユーザー自身が選択することができ、オプトインである。設定画面の'''List this account on the directory''' (日本語の文言は'''ディレクトリに掲載する''')
+でオプトインできる。
+
+==2019年8月以降の仕様==
+
+Profile directoryの仕様は、2019年8月30日頃<ref>[https://github.com/tootsuite/mastodon/pull/11688 Add profile directory to web UI #11688]</ref><ref>[https://github.com/tootsuite/mastodon/pull/11705 Change layout of public profile directory to be the same as in web UI #11705]</ref>に大きく変更された。この変更はマストドン3.0のリリースに反映される見込みである。
+
+新しい仕様では、ローカルな (インスタンス内部の) ユーザーだけでなく、リモートの (他のインスタンスの) ユーザーも掲載されるようになった。Profile directoryに掲載されるリモートのユーザーとは、そのインスタンスですでに観測されているユーザー (典型的には、そのインスタンスのユーザーに[[リモートフォロー]]されているユーザー) である。
+
+ユーザーがProfile directoryに掲載されるかどうかはオプトインであり、ユーザーがこれをオプトインしているかどうかは、[[ActivityPub]]の独自拡張 ([[discoverable]]) で他のインスタンスに伝達されるようになった。
+
+Profile directoryを表示する際には、表示する範囲として、ローカルまたはリモートを選択できる。また、配列の順序は、最近トゥートした順か、新しいユーザーの順を選択できる。リモートのユーザーにとって、新しいユーザーの順とは、アカウントが作成された日時ではなく、そのインスタンスから観測され始めた日時の順を意味する。
+
+ログインしている状態でProfile directoryを表示すると、ログインしているユーザーがブロックまたはドメインブロックしているユーザーは、Profile directoryに出現しない。ログインしていない状態でProfile directoryを表示することも可能であり、この場合には、ユーザー単位でのブロックおよびドメインブロックは当然ながら反映されない。
+
+Profile directoryのAPIのエンドポイントは /api/v1/directory となった。
+
+ウェブUIのURLは /web/directory または /explore である。/explore では、ローカルなユーザーの最近トゥートした順のリストのみが表示される。
+
+ハッシュタグでユーザーを絞り込む機能は削除される見通しである。
+
+10人以上のフォロワーを持つユーザーのみが掲載されるという制限は廃止された。
+
+==他の分散SNSとの関係==
+[[Misskey]]の'''みつける'''は、ローカルなユーザーの一覧である。公式アカウント、人気のユーザー、最近投稿したユーザー、新規ユーザーのリストが、この順に表示される。
+
+==関連項目==
+* [[プロフィールで紹介する]]
+* [[フォローレコメンデーション (マストドンの機能)]]
+
+==外部リンク==
+* [https://github.com/tootsuite/mastodon/pull/9427 Add profile directory #9427]
+
+==脚注==
+<references />
+
+{{DEFAULTSORT:profiledirectory}}
+[[category:マストドン本体のユーザーレコメンデーション]]

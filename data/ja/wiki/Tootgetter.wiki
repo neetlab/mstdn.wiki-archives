@@ -1,0 +1,24 @@
+{{Infobox software
+| Name                = {{Ruby|Tootgetter|トゥートゲッター}}
+| Developer           = [[SH|S.H.]]
+| SourceCode          = [https://github.com/S-H-GAMELINKS/TootGetter GitHub]
+| Platform            = Web
+| Launch              = 2018年7月12日
+| License             = MITライセンス
+| Web                 =  [https://toot-getter.herokuapp.com https://toot-getter.herokuapp.com]
+}}
+{{Ruby|'''Tootgetter'''|トゥートゲッター}}は、[[Mastodon]]の[[トゥート]]をまとめて保存、公開できるWebアプリケーション。
+
+公開直後<ref>2018年7月27日</ref>にエラーメッセージが出て閲覧不能になったが、8月1日に復活した。原因はHerokuの無料枠を使い切ったことによるものである<ref>https://gamelinks007.net/@S_H_/100469916493034624<br>https://gamelinks007.net/@S_H_/100470013061825071<br>https://gamelinks007.net/@S_H_/100470017094784261</ref>と判明している。
+
+2018年11月9日時点で、まとめを見る機能と、新たにまとめを作成する機能が動作していないようである。
+
+==関連項目==
+* [[マストドンまとめ！]]
+
+==脚注==
+<references />
+
+[[Category:ウェブサイト]]
+[[Category:MITライセンス]]
+[[category:運用が放棄されたウェブサイト]]

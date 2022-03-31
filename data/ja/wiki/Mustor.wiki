@@ -1,0 +1,31 @@
+{{Infobox software
+| Name = {{Ruby|Mustor|マスター}}
+| Image = [[ファイル:Mustor.jpg|120px|Mustor]]
+| Developer = Yeung Yiu Hung
+| SourceCode = [https://github.com/darkcl/mastodon-ios-issue mastodon-ios-issue]
+| Platform = iOS
+| ProgrammingLanguage = 不明
+| Launch = 2017年4月25日
+| Kifu = [https://www.patreon.com/mustor Patreon]
+| License = [[プロプライエタリ]]
+| Download = [https://itunes.apple.com/hk/app/mustor/id1229531204?l=en&mt=8 AppStore]
+}}'''Mustor'''は、AppStoreにおいて公開されていた、[[オープンソース]]の[[分散SNS]][[Mastodon]]のiOS向け[[クライアント]]である。
+
+== 概要 ==
+2017年4月25日より、Yeung Yiu Hung（darkcl）によって公開されたiOS向けクライアント。当初は'''Mastodon-iOS'''という名前で公開されていた。
+
+複数インスタンスのマルチログインに対応しているほか、ダークテーマ・ライトテーマの切り替えや、フォントサイズの変更などといった機能を備えていた。
+
+長らく更新が途絶えていたが、2018年8月15日現在、AppStoreから消滅状態となっている。
+
+== 主な機能 ==
+* マルチログイン
+* 公開タイムラインの表示
+:* タイムラインのストリーミング
+* 通知、ユーザーページ、検索の表示
+* トゥートの投稿
+* テーマの切り替え
+* フォントサイズの変更
+
+[[Category:iOS用クライアント]]
+[[Category:プロプライエタリ]]

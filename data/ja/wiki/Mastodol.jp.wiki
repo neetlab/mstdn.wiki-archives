@@ -1,0 +1,19 @@
+{{infobox instance
+|Name = {{Ruby|Mastodol|マストドル}}
+|Domain = https://mastodol.jp
+|Country = 日本
+|Admin = [https://mastodol.jp/@matekoi まてこい]
+|Start = 2017年4月20日
+|Kifu = なし
+|Alias = 不明
+}}{{Ruby|'''Mastodol'''|マストドル}}は、オープンソースのソーシャルネットワークMastodonの[[インスタンス]]。
+
+== 概要 ==
+2017年4月20日にまてこい氏によって立ち上げられた、アイドルに関する話題がテーマのインスタンス。
+
+== 関連項目 ==
+* [[mstdn.idolhack.com]]
+* [[Idolon.club]]
+* [[Idoldon.com]]
+
+[[Category:日本のインスタンス]]

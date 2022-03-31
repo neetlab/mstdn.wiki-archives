@@ -1,0 +1,25 @@
+{{小文字}}
+{{Infobox software
+| Name                = nekonium
+| Image               = [[ファイル:nekonium.png|120px]]
+| Developer           = [https://pleroma.gdgd.jp.net/users/1 lin]
+| SourceCode          = https://git.gdgd.jp.net/lin/nekonium
+| Platform            = Android
+<!-- | ProgrammingLanguage = Objective-C -->
+| Launch              = 2017年5月13日
+<!-- | Kifu                = [https://paypal.me/floofdog PayPal] -->
+| License             = ソースコードが公開されているが、ライセンスが明記されていない
+| Web                 = https://repo.gdgd.jp.net
+<!-- | Download            = -->
+}}'''nekonium'''または'''ねこにうむ'''は、Androidで動作する[[Mastodon|マストドン]]と[[Pleroma]]のクライアント。
+
+==概要==
+元[[sns.gdgd.jp.net]]、現[https://pleroma.gdgd.jp.net pleroma.gdgd.jp.net]管理者でもあるlin氏により制作されているAndroidのMastodonクライアント。2017年5月13日よりGooglePlayStore、またAmazonAppStoreで配信されていたが、2018年7月31日より非公式にAndroidでアプリケーションを配信できるアプリストアの{{Jawp|F-Droid}}に移行し配信を行っている。
+
+タイムラインのカスタマイズ、プッシュ通知、ライトテーマ・ダークテーマの切り替え、ハッシュタグのショートカットなどの機能の他、Pleromaのチャット機能に対応している。また、クライアント名の通り猫が基調となっており、端末を振ることで[[社会性フィルター|にゃーん]]と投稿する機能などがある。この文言は変更できる。
+
+他にも様々な機能が実装されていたが、F-Droidへの移行に際して一度作り直されており多くの機能は廃されている。
+
+{{DEFAULTSORT:nekonium}}
+[[category:Android用クライアント]]
+[[category:ライセンスなし]]

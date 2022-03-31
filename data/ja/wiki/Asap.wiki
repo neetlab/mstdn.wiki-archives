@@ -1,0 +1,21 @@
+{{Infobox software
+| Name                = {{Ruby|Asap|アサップ}}
+| Image               = [[ファイル:Asap.png|120px|Asap]]
+| Developer           = 不明
+| SourceCode          = [[プロプライエタリ]]
+| Platform            = Android
+| ProgrammingLanguage = 不明
+| Launch              = 2019年11月6日（早期アクセス版リリース）
+| License             = プロプライエタリ
+| Web                 = https://www.asap.com
+| Download            = [https://play.google.com/apps/testing/com.asap.app PlayStore]
+}}'''Asap'''とは、Android向けに開発されている、[[Mastodon]]及び[[Pleroma]]のクライアントである。
+
+==概要==
+2019年11月よりPlayStoreで早期アクセス（ベータテスト）を開始している。青を基調としたフラットなデザインが特徴で、下部に[[タイムライン]]や[[通知]]などの各項目のアイコンを配置しており、その中心はカメラ機能のアイコンになっている。
+
+タイムラインではFEED（[[ホーム]]）、ALL（[[ローカルタイムライン]]）、ME（ログイン中のアカウントのページ）、ユーザー検索が利用できる。[[連合タイムライン]]は配置されていない。新規投稿のボックスはタイムラインの上部に配置されており、アクションボタンは存在しない。
+
+{{DEFAULTSORT:asap}}
+[[Category:Android用クライアント]]
+[[Category:プロプライエタリ]]

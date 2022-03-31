@@ -1,0 +1,17 @@
+{{Infobox company
+|Name=Wasabi Technologies
+|Image=[[file:wasabitech.jpg|300px]]
+|URL=https://wasabi.com/
+}}'''Wasabi Technologies'''は、クラウドストレージ事業を提供しているアメリカの企業である。
+
+== 概要 ==
+テラバイト単位からクラウドストレージを提供している企業で、[[mastodon.social]]や[[Knzk.me]]、[[Mastodon.cloud]]などのインスタンスに用いられていることで知られる<ref>https://mastodon.social/@Gargron/98999429832284658</ref><ref><s>https://knzk.me/@imncls/99008584961619683</s>リンク切れ</ref><ref>https://mastodon.cloud/@imbsky/100209239760974191</ref>。
+
+== 関連項目 ==
+* [[さくらインターネット]]
+* [[Mastodon.social]]
+
+== 出典 ==
+<references />
+
+[[Category:企業]]

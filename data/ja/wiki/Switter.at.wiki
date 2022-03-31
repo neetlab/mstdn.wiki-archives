@@ -1,0 +1,28 @@
+{{Ruby|'''Switter'''|スウィッター}}'''.at'''とは、オープンソースのソーシャルネットワーク[[Mastodon]]のインスタンスである。
+
+{{Infobox instance
+| Name          = Switter
+| Image         = [[ファイル:Switter.png|200px|Switter]]
+| Domain        = https://switter.at/
+| Admin         = [https://switter.at/@j J]<br />[https://switter.at/@e e]
+| Moderator     = [https://switter.at/@lolahunt Lola Hunt]
+| Country       = オーストラリア
+| Start         = 2018年3月27日<ref>[https://switter.at/@j/99753824635658224 J氏による最初のトゥート]</ref>
+<!-- | SourceCode = 見つからない... -->
+}}
+
+== 概要 ==
+Switterとは、[[Assembly Four]]によって2018年3月に設立されたインスタンスで、セックスワーカー（性労働に従事する人）向けに開設されたソーシャルネットワークである。オーストラリアにサーバーを置くため、他国の法律に縛られず、合法的に活動ができるとしている。
+
+開設からわずか２週間でユーザ数が2万8千人を突破<ref>[http://www.itmedia.co.jp/news/articles/1804/12/news077.html 開設からわずか2週間で]</ref><ref>[https://www.buzzfeed.com/carolineodonovan/sex-workers-twitter-switter-mastodon-alternative-social a new Twitter alternative that sprung to life two weeks ago had grown to more than 28,000 users.]</ref>し、2018年4月12日時点で6番目のユーザー数を誇るインスタンスとなっており、さらに2018年5月12日には7万3600人を越えて4番目のユーザー数になっている。2018年7月17日現在11万人を超えている。
+
+== Cloudflareでの利用停止 ==
+Assembly Fourによると、現地時間2018年4月18日に、同インスタンスが利用するCDN（コンテンツデリバリネットワーク）のCloudflareに利用規約違反としてBANの処分を受けたと発表している。運営元はCloudflareに違反した規約を明示するよう求めたが、回答は得られていない。<ref>[https://assemblyfour.com/switter/cloudflare-fosta-sesta Cloudflare and FOSTA/SESTA]</ref>
+
+英語圏のニュースサイトであるMotherboardがこれを大きく報じた。<ref>[https://motherboard.vice.com/en_us/article/8xk78x/switter-down-cloudflare-banned-sex-workers-sesta-fosta Cloudflare Just Banned a Social Media Refuge for Thousands of Sex Workers]</ref>
+
+== 出典 ==
+<references/>
+
+[[category:オーストラリアのインスタンス]]
+[[Category:企業が運用しているインスタンス]]

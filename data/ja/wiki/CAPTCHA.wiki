@@ -1,0 +1,22 @@
+'''CAPTCHA'''とは、人間による操作と自動化された操作を区別するためのソフトウェア。[[スパム]]防止などに利用されている。'''reCAPTCHA'''はCAPTCHAの実装の一つである。
+
+[[マストドン公式リポジトリ]]では、CAPTCHAを導入しない<ref>https://github.com/tootsuite/mastodon/issues/7601#issuecomment-391342576</ref>ことが明言されている。独自機能として複数のインスタンスがreCAPTCHAを導入している。なお、独自機能としてCAPTCHAを導入していても、API経由でのユーザー登録<ref>[https://github.com/tootsuite/mastodon/pull/9572 Add REST API for creating an account #9572]</ref>が有効になっている場合、CAPTCHAなしでユーザー登録ができてしまうので、注意が必要である。
+
+==導入しているインスタンス==
+* [[mstdn.maud.io]]
+* [[yukari.cafe]]
+
+==批判==
+CAPTCHAのうち、Googleによる実装であるreCAPTCHA V3では、プライバシーの問題が指摘されている<ref>[https://www.fastcompany.com/90369697/googles-new-recaptcha-has-a-dark-side Google’s new reCAPTCHA has a dark side]</ref>。
+
+==他の分散SNSとの関係==
+[[Misskey]]は標準でreCAPTCHAを使用できる。
+
+[[Pleroma]]は標準でkocaptcha<ref>https://github.com/koto-bank/kocaptcha</ref>を使用できる。kocaptchaはCAPTCHAの実装の一つである。2019年12月からは、独自実装のCAPTCHAがPleromaに内蔵される<ref>[https://git.pleroma.social/pleroma/pleroma/merge_requests/2060 Add native captcha and enable it by default. (!2060)]</ref>ようになった。
+
+==脚注==
+<references />
+
+{{DEFAULTSORT:captcha}}
+[[category:ソフトウェア]]
+[[category:インスタンスの独自機能]]

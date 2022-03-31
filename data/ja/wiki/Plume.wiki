@@ -1,0 +1,30 @@
+{{Infobox software
+| Name                = {{Ruby|Plume|プルーム}}
+| Image               = [[ファイル:Plume screen shot.jpg|300px]]
+| Developer           = [https://github.com/AnaGelez Ana Gelez]
+| SourceCode          = [https://github.com/Plume-org/Plume GitHub]
+| Platform            = Linux互換OS（サーバーサイド）<br />Web（クライアントサイド）
+| ProgrammingLanguage = Rust
+| Launch              = 2018年4月22日<ref>[https://github.com/Plume-org/Plume/commit/f060fa08afb411f85b2ce1de91f760ea130a0715 GitHub上の一番最初のコミット]</ref>
+| License             = [[GNU Affero General Public License]] 3.0
+| Web                 = https://joinplu.me/
+}}'''Plume'''はオープンソースの[[分散SNS]]の実装の一つ。2018年4月22日に[https://github.com/AnaGelez Ana Gelez]氏によって開発が開始された。
+
+==概要==
+Plumeは[[ActivityPub]]により実装された[[分散SNS]]の一つで、Mediumのようなブログサービスを提供している。[[Mastodon]]や[[PeerTube]]、[[Pleroma]]、[[Misskey]]などと同様のプロトコル上で[[連合]]を形成しているため、お互いのサービス上で投稿を閲覧することができる。投稿はMarkdownにより行える<ref>[https://github.com/Plume-org/Plume/issues/756 Tell what it is like to write a blog in Plume #756 （GitHubリポジトリのIssues）]</ref>。
+
+==関連項目==
+
+*[[write.as]]
+*[[ActivityPub]]
+
+==参考文献==
+*[https://scrapbox.io/apehuci/Plume Plume - アペフチ]
+*[https://blogs.kitaitimakoto.net/~/Apehuci/plume-%E7%AB%8B-%E3%81%A6-%E3%81%A6-%E3%81%BF-%E3%81%9F Plume立ててみた ⋅ Plume]
+*[https://ap.fourth-brigade.jp/~/Blog/docker-caddy-2-%E3%81%A7-plume-%E3%82%A4%E3%83%B3%E3%82%B9%E3%82%BF%E3%83%B3%E3%82%B9-%E3%82%92-%E6%A7%8B-%E7%AF%89-%E3%81%99-%E3%82%8B/ Docker + Caddy 2 で Plume インスタンスを構築する ⋅ Plume]
+*[https://blowing.booth.pm/items/1501205 分散SNS萬本 vol.1]第2章
+
+==出典==
+<references />
+
+[[category:分散SNS]]

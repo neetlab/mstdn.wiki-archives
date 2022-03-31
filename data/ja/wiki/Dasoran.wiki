@@ -1,0 +1,25 @@
+{{Infobox person
+| Name     = {{Ruby|dasoran|ダソラン}}
+| Image    = [[ファイル:Dasoran.png|120px]]
+| Country  = 日本国
+| Instance = 多数
+| Link     = https://mstdn.dasoran.net/@dasoran
+}}
+{{Ruby|'''dasoran'''|ダソラン}}または{{Ruby|'''探索者ゆかり'''|たんさくしゃゆかり}}または{{Ruby|'''榊そら'''|さかきそら}}とは、インスタンス運営者。mstdn.cloud のサブドメインで複数のインスタンスを運営している。
+
+==インスタンス==
+
+* [[卓ゲ箪笥]]
+* [https://socialgame.mstdn.cloud ソーシャルゲーム]
+* [https://gamecreate.mstdn.cloud ゲーム制作箪笥]
+* [https://anime.mstdn.cloud anime.mstdn.cloud]
+* [https://mstdn.dasoran.net mstdn.dasoran.net]
+* '''z-socialgame.mstdn.cloud''' は廃止されている。廃止の時期は不明。
+
+==外部リンク==
+* [http://sora-sakaki.hatenablog.com/entry/2017/04/26/000801 mastodonで起こった問題とその顛末]
+* [http://sora-sakaki.hatenablog.com/entry/2017/07/01/043017 mastodonでの問題その2]
+* https://enty.jp/dwbFiNqsAkCO
+
+[[category:人物]]
+{{DEFAULTSORT:dasoran}}

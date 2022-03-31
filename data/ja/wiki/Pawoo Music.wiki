@@ -1,0 +1,31 @@
+{{Infobox instance
+| Name          = {{Ruby|'''Pawoo Music'''|パウー　ミュージック}}
+| Image         = [[ファイル:PawooMusic.png|300px|Pawoo Music]]
+| Domain        = https://music.pawoo.net
+| Admin         = [http://www.pixiv.net/ ピクシブ株式会社]
+| Country       = 日本国
+| Start         = 2017年6月15日
+| SourceCode    = https://github.com/pixiv/mastodon/tree/pawoo-music
+| Alias         = PawooMusic、ぱうみゅ
+}}
+[[ファイル:PawooMusic_new.png|300px|thumb|right|PawooMusic]]{{Ruby|'''Pawoo Music'''|パウー　ミュージック}}は、Pixivが2017年6月15日に公開したインスタンスで、"音楽に特化したマストドン"を謳っている。
+
+== 概要 ==
+最大の特徴はその独自機能。
+
+本家Pawooの独自機能も踏襲しつつ、MP3ファイルやAACファイルなどのアップロードに対応しており自分の音楽をアップロードできる「音声投稿機能」と、6個ある「共有チャンネル」にPawooMusicにアップロードした楽曲やYoutubeやSoundCloudなどにアップロードされている音楽などのURLを追加することによってインスタンスにいる全員と同じ音楽を共有して再生することができる「共有プレイリスト機能」が実装されており、音楽に関係するユーザーに完全特化したインスタンスとなっている。
+
+2017年10月19日には更なる全面リニューアルを行なっており、[[Twitter]]を彷彿とさせる白を基調としたデザインや、音楽のみ表示のタイムライン「ギャラリー」、投稿した音楽のMV自動生成機能など、より一層通常のインスタンスとは一線を画した仕上がりとなった。
+
+2019年7月1日<ref>https://www.pixiv.net/info.php?id=5188</ref>、Pawoo Musicの提供終了がアナウンスされた。実際に提供が終了するのは、同年8月31日が予定されている。
+
+== 関連項目 ==
+* [[Pawoo]]
+
+== 出典 ==
+<references />
+
+{{DEFAULTSORT:pawoomusic}}
+[[category: 日本のインスタンス]]
+[[Category:企業が運用しているインスタンス]]
+[[Category:独自機能が実装されたインスタンス]]

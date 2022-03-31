@@ -1,0 +1,17 @@
+{{小文字}}{{Infobox instance
+| Name          = ますとどん.らぶ
+| Domain        = https://mstdn.love
+| Admin         = [https://mstdn.love/@animarl 意識他界系どうぶつ]
+| Country       = 日本
+| Start         = 2018年6月26日<Ref>https://mstdn.love/@animarl/100269116116634566</ref>
+}}'''mstdn.love'''または'''ますとどん.らぶ'''とは、[[オープンソース]]の[[分散SNS]][[Mastodon]]の[[インスタンス]]である。
+
+== 概要 ==
+2018年6月26日、意識他界系どうぶつ氏によって立ち上げられたインスタンス。通称「love鯖」。
+
+話題やユーザー層を特定しない汎用型インスタンスの一つで、ユーザー登録は自由に開放されている。
+
+== 脚注 ==
+<references />
+
+[[Category:日本のインスタンス]]

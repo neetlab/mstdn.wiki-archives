@@ -1,0 +1,17 @@
+{{infobox instance
+|Name = Maltdn.com
+|Domain = https://maltdn.com
+|Country = 日本
+|Admin = [https://maltdn.com/@katsuakiMae katsuakiMae]
+|Start = 2017年4月26日
+|Kifu = なし
+|Alias = なし
+}}'''Maltdn.com'''は、オープンソースのソーシャルネットワークMastodonの[[インスタンス]]。
+
+== 概要 ==
+2017年4月26日、katsuakiMae氏によりウイスキーが好きなユーザーに向け立てられたインスタンス。
+
+== 関連項目 ==
+* [[Mastodon.wine]]
+
+[[Category:日本のインスタンス]]

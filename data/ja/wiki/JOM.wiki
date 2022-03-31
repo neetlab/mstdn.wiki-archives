@@ -1,0 +1,22 @@
+JOMとは、Mastodonの日本人コミュニティ内で使用されているネットスラングである。
+
+{{Infobox word
+| Name          = <ruby>JOM<rt>ジェイ オー エム</rt></ruby>
+| Hinshi        = 動詞
+| Hatsu         = [[Mastodon.cloud]]
+}}
+
+== 概要 ==
+ネットスラング「[[:wikipedia:ja:リードオンリーメンバー|ROM]]」のRを象の姿を表すJに置き換えたもの。意味としては「Read only member」。 つまり「読むだけの人」から転じ「見るだけにしておく」こと、書き込みをせずに閲覧だけすることを指す。
+
+
+== 関連項目 ==
+* [[JOJ]]
+* [[J]]
+* [[象牙]]
+
+== 出典 ==
+<references/>
+
+{{DEFAULTSORT:jom}}
+[[category:象語]]

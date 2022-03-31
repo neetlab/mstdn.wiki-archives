@@ -1,0 +1,30 @@
+{{Infobox instance
+| Name = {{Ruby|[[Mastodon (I2P)]]|マストドン アイツーピー}}
+| Domain = [http://mastodon.i2p/about?i2paddresshelper=cdf137cyglhKV8OXHgeiUkMaDYhVQLHj3GL3UyFx7LbQsq3N3UfiJTMjVGjY7bSNLSMzwGIBG4zkuOR6rJKz7L9K9mhyQwt6e8MN6Wceb5ynFD~Ln6vT1ZLDrX4DKORPUkdkzah13b64THhUL7tZt5xnH81OjjXk7g1coZ1kIQdiamwSMAIQSznWojJSJG6yDqdT51frykuuYL3m3dWZEPPPIL5BpyZDnlJIs3cLBs2j8hoUbqAU3T73CGFv9Y~Olda-T-ar7xeIomDvKQZFObaEEslcnKTf3yRbmNioUeeDJQj9zHhvD~yANTJxKPqIv7ETFy2Vg4Dz~U0t59nuq3koKE4PYPzJv80iRcd1OiSnSb1aP7yBf9YOSZQ~zESFwnCV7xaLNDaVBK4JJLQ1wQB6vdhovIYQT2kLTrfyn~e8xEcqurQQprW7RAW7a6kIkdo6Ps4uuek~~haDsT5E~WxRMRxezpiuGCwVGwj~H~32FO9iQwbjnlkDMHWMYnyuBQAEAAcAAA== http://mastodon.i2p] (I2P必須)
+| Admin = [http://mastodon.i2p/@root root] (I2P必須)
+| Country = 日本
+| Start = 2017年12月13日
+| Kifu = 不明
+| Alias = I2P丼
+}}'''Mastodon (I2P)'''とは、オープンソースのソーシャルネットワーク[[Mastodon]]で立ち上げられた[[インスタンス]]。
+
+== 概要 ==
+[[IPv6ドン]]管理者のはいこん氏が、「I2P」と呼ばれるネットワーク上に建てたインスタンス。
+
+[[Mastodon (Darknet)]]と並んで、特殊ネットワーク環境でもインスタンスを立ち上げられ、それぞれが連合を形成できることを実証するために立てられた。
+
+IPv6ドンと同じ独自機能を実装している。
+
+主宰者の休養により停止されている。<ref>https://mstdn.maud.io/@obsolete_std/100834944502233063</ref>
+
+== 出典 ==
+<references />
+
+== 関連項目 ==
+* [[IPv6ドン]]
+* [[Mastodon (Darknet)]]
+* [[Darknet連合対応インスタンスの一覧]]
+
+[[category:日本のインスタンス]]
+[[category:独自機能が実装されたインスタンス]]
+[[category:一時的に利用できなくなっているインスタンスまたはウェブサイト]]

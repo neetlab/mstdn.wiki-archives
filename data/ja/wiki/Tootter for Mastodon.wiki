@@ -1,0 +1,37 @@
+{{Infobox software
+| Name = {{Ruby|Tootter|トゥーター}}
+| Image = [[ファイル:tootter.jpg|120px|Tootter]]
+| Developer = [https://noova.jp/ 株式会社Noova（Noova Inc.）]
+| Platform = iOS
+| ProgrammingLanguage = 不明
+| Launch = 2017年4月25日（iOS）, 2017年7月12日（Android）
+| License = [[プロプライエタリ]]
+| Download = [https://itunes.apple.com/de/app/tootter3-0-for-mastodon-%E3%83%9E%E3%82%B9%E3%83%88%E3%83%89%E3%83%B3-%E6%97%A5%E6%9C%AC%E8%AA%9E%E7%89%88/id1229555793?mt=8&at=11ltUj AppStore]<br />[https://play.google.com/store/apps/details?id=tokyo.tootter&hl=ja PlayStore]
+}}'''Tootter for Mastodon'''は、[[オープンソース]]の[[分散SNS]][[Mastodon]]のスマートフォン向け[[クライアント]]。
+
+== 概要 ==
+株式会社Noova（Noova Inc.）によって2017年4月25日よりAppStoreで公開されたクライアントアプリケーション。2017年7月12日にはAndroid版もリリースされた。
+
+当初はウェブUIを表示する方式であったが、2017年7月のアップデート以降、独自のUIを実装している<ref>https://masto.news/2017/07/15/tootter-3-0/</ref>。
+
+タイムラインの表示やトゥートの投稿機能、複数インスタンスの同時ログインのほか、トゥート画面でのお絵かき機能や、[[マストドン検索ポータル]]のAPIによるトゥートの[[検索]]機能、インスタンスの一覧機能などがユニークである。
+
+インスタンスの一覧は[[Mastodon Instances]]から取得されており、規模によるランキング表示、カテゴリ別表示、またアプリによる「オススメ」インスタンスの推挙機能がある。また、インスタンスの[[ローカルタイムライン]]を閲覧する[[タイムラインビューア]]機能も搭載している。しかし、同サービスのドメイン変更に対応しておらず、それ以前の古いインスタンス情報が表示されてしまっている。ログインもこのインスタンス一覧から行うため、新しいインスタンスを探すことができなくなっている。
+
+2018年8月15日現在、iOS版、Android版ともにストアから消滅状態となっている。
+
+== 主な機能 ==
+* 各種[[公開タイムライン]]の表示
+* タイムラインのストリーミング
+* 通知の表示
+* マストドン検索ポータルのAPIによるトゥートの検索
+* ハッシュタグのトレンド表示
+* 複数インスタンスの同時ログイン
+* 様々なオプションを備えたインスタンス一覧
+
+== 脚注 ==
+<References />
+
+[[Category:iOS用クライアント]]
+[[Category:Android用クライアント]]
+[[Category:プロプライエタリ]]

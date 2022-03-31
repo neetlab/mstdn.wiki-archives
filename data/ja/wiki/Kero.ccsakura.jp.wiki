@@ -1,0 +1,28 @@
+{{小文字}}
+[[kero.ccsakura.jp]]とはカードキャプターさくらファンのお友達が開設したカードキャプターさくら、CLAMPファンのためのソーシャルネットワーク[[Mastodon]]のインスタンスである。
+
+{{Infobox instance
+| Name          = [[kero.ccsakura.jp]]
+| Domain        = https://kero.ccsakura.jp
+| Admin         = [https://kero.ccsakura.jp/@orgng ORGN-G]
+| Country       = 日本、北海道
+| Start         = 2017年4月15日
+| Alias         = さくら鯖、CCSインスタンス
+}}
+
+== 概要 ==
+kero.ccsakura.jpはカードキャプター/CLAMPファン向けのMastodonインスタンスで2017年4月15日(JST)に公開された。
+http://ccsakura.jp はカードキャプターさくらwikiのURLであり、Mastodonインスタンスではそのサブドメインを利用している。
+
+== サーバー ==
+サーバー情報によるとメモリ8GB、仮想CPU 6コア、ストレージ200GBのクラウドサーバーである。
+== ローカルルール ==
+現時点ではローカルルールは特に設定がない。
+== 文化 ==
+基本的に参加するのはCCさくらやその他のCLAMP作品のファンであるためそれらの話題となれば全員がやりとりできる。
+インスタンスとして話題に制限は設けていないため関係のない話で友枝タイムライン(ローカルタイムライン)が進むこともある他、メインのインスタンスとして利用する者もいる。
+表示は若干ローカライズされている。
+
+
+{{DEFAULTSORT:keroccsakurajp}}
+[[category: 日本のインスタンス]]

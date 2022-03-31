@@ -1,0 +1,19 @@
+{{混同|mostodon.net}}
+{{Infobox instance
+| Name          = [[Mostodon.info]]
+| Image         = [[ファイル:Mostodon-info.jpg|300px|Mostodon]]
+| Domain        = https://mostodon.info
+| Admin         = [http://mostodon.info/@mostodon mostodon]
+| Country       = 日本
+| Start         = 2017年5月24日
+| Kifu          = なし
+| Alias         = モストドン
+}}モストドンは、日本のインスタンス。
+
+== 概要 ==
+2017年5月24日、スマートフォン向けゲームアプリ「モンスターストライク」のユーザーに向け立てられたインスタンス。
+
+2018年5月8日に[[セキュリティ証明書]]が期限切れになっており、安全にアクセスすることができない状態である。
+
+[[Category:ゲームに関するインスタンス]]
+[[category:消滅したインスタンス]]

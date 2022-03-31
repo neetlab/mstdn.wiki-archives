@@ -1,0 +1,40 @@
+[[Fediverse Observer|Fediverse Observer (曖昧さ回避)]]
+
+{{Infobox software
+| Name                = Fediverse Observer
+| Image               = [[ファイル:fediverse-observer.png|60px|Amaroq]]
+| Developer           = 
+| SourceCode          = https://gitlab.com/diasporg/poduptime
+| Platform            = ウェブ
+| ProgrammingLanguage = PHP
+| Launch              = 
+| Kifu                = https://donorbox.org/fediverse-observer
+| License             = [[GNU Affero General Public License]]
+| Web                 = https://fediverse.observer/
+}}
+'''Fediverse Observer'''は、[[分散SNS]]の[[インスタンス]]の物理的な位置を示す地図と、インスタンスの一覧を提供しているウェブサイト。多数の分散SNS実装に対応している。インスタンスは自動的に収集される。
+
+==名称について==
+
+GitLabでのリポジトリ名は'''Poduptime'''である。
+
+==機能==
+
+===地図===
+インスタンスの物理的な位置が地図上に表示される。
+
+===リスト===
+デフォルトの並び順は稼働率 (Uptime)。多数の並び順を選択できる。
+
+===自動選択===
+'''Auto pick'''ボタンを押すと、ランダムなインスタンスにジャンプする。分散SNS実装とドメイン名のブラックリスト<ref>https://gitlab.com/diasporg/poduptime/-/blob/develop/config/blacklistsoftware.txt</ref><ref>https://gitlab.com/diasporg/poduptime/-/blob/develop/config/blacklistdomains.txt</ref>が運用されている。
+
+===ウィザード===
+'''Use wizard'''ボタンを押すと、インスタンスを選択するウィザードが開始される。順に分散SNS実装、国、ユーザー数の最小値、月間ユーザー数の最小値を選択する。推奨する分散SNS実装として[[Diaspora]]、[[Friendica]]、[[Mastodon]]を挙げており、他の実装は選択できない。
+
+==脚注==
+<references />
+
+{{DEFAULTSORT:fediverseobserverpoduptime}}
+[[category:インスタンスの一覧を提供するウェブサイト]]
+[[category:GNU Affero General Public License]]

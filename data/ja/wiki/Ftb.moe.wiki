@@ -1,0 +1,26 @@
+{{小文字}}
+{{stub}}
+{{infobox instance
+|Name = ftb.moe
+|Domain = https://ftb.moe
+|Country = 日本
+|Admin = [https://ftb.moe/@adminchan けいおんちゃん]
+|Start = 2017年4月23日
+|End = 201x年9月1日
+|Kifu = なし
+|Alias = 姉妹丼
+}}
+'''ftb.moe'''は、オープンソースのソーシャルネットワークMastodonでかつて存在した[[インスタンス]]。
+
+== 概要 ==
+インターネット掲示板「[[wikipedia:ja:ふたばちゃんねる|ふたばちゃんねる]]」に関するユーザーに向け2017年4月23日に立ち上げられたインスタンス。
+
+インスタンス住民有志によってMastodonのデスクトップクライアント[[Mstdn (デスクトップクライアント)|Mstdn]]を[https://github.com/D9XSkeFUtRqs/ukigumo/ ふたばちゃんねる風にするスタイルシート]も公開されている。
+
+登録ユーザー数は500人弱、トゥート数も70000以上という規模を誇っていたが、「諸事情」により9月1日付で閉鎖した。
+
+== 関連項目 ==
+* [[ふたば丼]]
+
+[[Category:日本のインスタンス]]
+[[Category:消滅したインスタンス]]

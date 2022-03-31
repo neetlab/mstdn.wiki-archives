@@ -1,0 +1,27 @@
+{{小文字}}
+{{infobox instance
+|Name = sousaku.club
+|Domain = https://sousaku.club
+|Country = 日本
+|Admin = DevelopersCircle SnowSoft
+|Start = 2017年10月21日
+|End = 2017年12月21日
+|Kifu = なし
+|Alias = 同人鯖
+}}'''sousaku.club'''（'''同人鯖'''）は、オープンソースのソーシャルネットワークMastodonの[[インスタンス]]。
+
+== 概要 ==
+2017年10月、[[ソーシャル・ネットワーキング・サービス|SNS]]大手の[[Twitter]]において、イラストレーターが相次いで凍結されたのを受け、そうしたユーザーの移住先としてDevelopersCircle SnowSoftにより立ち上げられたインスタンス。
+
+同人作家をはじめとする、創作系のユーザーが対象であった。
+
+2017年12月、Webクライアント上において[[タイムライン]]やインスタンス、画像などが正しく表示されない不具合が発生。調査が行われたが事態の改善は見込めず、また、利用者の少ない現状も鑑みて、2017年12月21日、インスタンスの終了が公式Twitterより正式にアナウンスされた<ref>https://twitter.com/DoujinSaba_Info/status/943740452490002432</ref>。
+
+== 関連項目 ==
+* [[Pawoo]]
+
+== 出典 ==
+<references />
+{{デフォルトソートキー:sousaku.club}}
+
+[[Category:企業が運用しているインスタンス]]

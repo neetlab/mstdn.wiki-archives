@@ -1,0 +1,22 @@
+{{小文字}}
+{{unreachable|year=2018|month=5}}
+{{Infobox instance
+| Name          = マストドン-沖縄
+| Domain        = https://okinawa-mstdn.okinawa/
+| Admin         = [https://okinawa-mstdn.okinawa/@t_higashi t_higashi]
+| Country       = 日本
+| Start         = 2017年12月1日
+|End = 不明
+| Kifu          = [https://enty.jp/nQ5B2SeJTuyI Entyの寄付ページ]
+| Alias         = なし
+}}マストドン-沖縄は、沖縄ご当地のインスタンス。
+
+== 概要 ==
+沖縄在住の方、沖縄に旅行にいくのが好きな方、沖縄に移住してみたい、など沖縄が好きな方が参加できる。
+
+2018年5月現在、消滅状態にある。
+
+== 関連項目 ==
+* [[都道府県のインスタンス一覧]]
+
+[[category:日本のインスタンス|おきなわ]]

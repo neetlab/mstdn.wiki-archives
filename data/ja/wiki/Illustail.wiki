@@ -1,0 +1,24 @@
+{{Infobox software
+| Name = Illustile
+<!--| Image = -->
+| Developer = CatHand.org
+| SourceCode = 
+| Platform = iOS・Android
+| ProgrammingLanguage = 不明
+| Launch = 不明
+| Kifu = 
+| License = プロプライエタリ
+| Web = [http://tumblr.cathand.org 公式ブログ]
+| Download = [https://itunes.apple.com/jp/app/id375749531?mt=8 AppStore]、[https://www.amazon.co.jp/dp/B019TNYKIG Amazon AppStore]
+}}'''Illustail'''は、[[分散SNS]]の[[Mastodon]]に対応するスマートフォン向けのメディアタイムラインビューアである。
+
+== 概要 ==
+CatHand.orgより提供されている、多数の[[ソーシャル・ネットワーキング・サービス]]などの画像を表示できるビューアである。
+
+TINAMI、Danbooru、Tumblr、[[Twitter]]、Dropbox、そしてMastodonの[[タイムライン]]より、画像のみを表示する。
+
+== 関連項目 ==
+* [[Ore2]]
+* [[Pictdon for Mastodon]]
+
+[[Category:iOS用クライアント]]

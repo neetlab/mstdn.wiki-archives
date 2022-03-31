@@ -1,0 +1,27 @@
+{{Infobox software
+| Name = Mastodon instances
+<!--| Image = -->
+| Developer = TheKinrar
+| Platform = ウェブ
+| Launch = 2017年4月7日
+| License = [[GNU Affero General Public License]]
+| Web = https://instances.social
+}}'''Mastodon Instances'''は、マストドンのインスタンスのリストを提供しているウェブサイト。ドメイン名から'''instances.social'''とも呼ばれる。
+
+== 概要 ==
+ウィザードによりインスタンスを選択することができるのが特徴。リストの並び順はランダムだが、アドバンストモードに切り替えることで多数のソート順を利用できる。
+
+インスタンスの登録は自動化されている。登録フォームに情報を入力すると、インスタンスの連絡先メールアドレスに確認メールが送信され、そのメールに記載されたリンクを開くことで登録が完了する。この手続きによりインスタンスがリストに掲載される。Mastodon Instancesの運営者による承認は不要である。
+
+これに加えて、2018年1月7日<ref>https://github.com/TheKinrar/mastodon-instances/commit/7d06acfb41a6da0b396badb61d7803a220fb90ee</ref>より、[[Peers API]]を利用して自動的に未知のインスタンスを収集するようになった。ただし、2018年7月11日<ref>https://github.com/TheKinrar/mastodon-instances/commit/99b7a89891898430505566b509c08f78149bee23#diff-8a5b5909f5b3ce1a25a1c499ab30da2c</ref>に、この機能は無効にされている。
+
+インスタンスの一覧はAPIでも提供されている。[[joinmastodon.org]]と[[日本のマストドンインスタンスの一覧_(ウェブサイト)|日本のマストドンインスタンスの一覧]]はinstances.socialのAPIを利用している。
+
+当初は[[mastodon.xyz]]のサブページとして提供されていたが、途中でUIやドメインが一新された。リニューアル前のバージョンも[https://instances.social/list/old 利用可能]。
+
+==脚注==
+<references />
+
+{{DEFAULTSORT:instances}}
+[[category: インスタンスの一覧を提供するウェブサイト]]
+[[category:GNU Affero General Public License]]

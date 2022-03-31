@@ -1,0 +1,24 @@
+{{ruby|JOJ|ジェイ オー ジェイ}}とは、Mastodonの日本人コミュニティーの間で使われるスラングである。
+
+{{Infobox word
+| Name          = <ruby>JOJ<rt>ジェイ オー ジェイ</rt></ruby>
+| Hinshi        = 動詞
+| Hatsu         = [[Mastodon.cloud]]
+}}
+
+== 概要 ==
+
+JOJは、英語圏のネットスラングであるLOL(laughing out loud)<ref>https://en.wikipedia.org/wiki/LOL</ref>のLを象の姿をイメージさせる'''J'''に置き換えたものである。オリジナルに習うと大文字表記が普通になるが、タイプの都合上しばしば小文字の'''「joj」'''が用いられている。
+
+類語として「[[J]]」「[[牙生える]]」「[[象牙]]」などが存在する。
+
+利用者は主に日本人だが、理解の容易さから英語圏のユーザーにも積極的に使われつつある。
+
+== 出典 ==
+<references/>
+
+== 関連項目 ==
+* [[Mastodon.cloud]]
+
+{{DEFAULTSORT:joj}}
+[[category:象語]]

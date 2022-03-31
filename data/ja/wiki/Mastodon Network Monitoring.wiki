@@ -1,0 +1,22 @@
+{{Infobox software
+| Name = {{Ruby|Mastodon Network Monitoring|マストドン ネットワーク モニタリング}}
+<!--| Image  = [[ファイル:Amaroq.jpg|120px|Amaroq]]-->
+| Developer = [https://mastodon.eliotberriot.com/@eliotberriot Eliot Berriot]
+| SourceCode = [https://github.com/EliotBerriot/mnm GitHub]
+| Platform = Web
+| ProgrammingLanguage = JavaScript
+| Launch = 2017年4月7日
+| License = MIT License
+| Web = https://mnm.social/<br />https://dashboards.mnm.social/
+}}{{Ruby|'''Mastodon Network Monitoring'''|マストドン ネットワーク モニタリング}}（'''mnm'''）は、[[オープンソース]]の[[分散SNS]]、[[Mastodon]]の[[インスタンス]]の統計情報を集積するウェブアプリケーション。
+
+== 概要 ==
+mastodon.eliotberriot.comのEliot Berriot氏により2017年4月7日から開発されているウェブアプリケーションで、[[instances.social]]からインスタンスやその[[ユーザー]]数・[[トゥート]]数・接続数などのデータを取得し、データベースに蓄積、ダッシュボード表示アプリケーションのGrafanaを用いて統計をグラフ表示する。
+
+データ取得は途切れることがあり、参照できない期間が存在している。
+
+== 関連項目 ==
+* [[instances.social]]
+
+[[Category:ウェブサイト]]
+[[Category:MITライセンス]]

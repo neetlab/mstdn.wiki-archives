@@ -1,0 +1,39 @@
+{{Infobox software
+| Name = Halcyon
+| Image = [[ファイル:Halcyon.png|120px|Halcyon]]
+| Developer = [[新都心]], [https://github.com/nipos Niklas Poslovski]
+| SourceCode = https://notabug.org/halcyon-suite/halcyon
+| Platform = Webブラウザー
+| ProgrammingLanguage = PHP, JavaScript
+| Launch = 2017年5月28日
+<!-- | Kifu = [https://www.patreon.com/neetshin Patreon] -->
+| License = [[GNU Affero General Public License]]
+| Web = https://www.halcyon.social/
+}}Halcyonとは、オープンソースのソーシャルネットワーク[[Mastodon]]のWebブラウザー向けクライアントである。
+
+==概要==
+[[Twitter]]を模倣したユーザーインターフェースが特徴。
+[[ファイル:スクリーンショット 2017-05-28 16.27.55.jpg|right|thumb|300px|Halcyon for Mastodon]]
+
+2018年5月20日<ref>https://github.com/halcyon-suite/halcyon/commit/523c1fab2f5caf782519c6880298265291908b58</ref>より、[[マストドンユーザーマッチング]]のアルゴリズムをWho to followパネルに用いるようになった。ユーザーのプライバシーのため、オプトインを得てから通信を開始する仕様である。2020年2月<ref>https://notabug.org/halcyon-suite/halcyon/commit/aadcb94355b000c3288d80988ce29aa68d1454e8</ref>、マストドンユーザーマッチングの閉鎖にともない、vinayaka.tsia.de をWho to followパネルに用いるようになった。ただし、2021年4月の時点で vinayaka.tsia.de は常に空の配列を返す動作となっており、HalcyonのWho to followパネルには何も表示されない状態である。
+
+2018年8月4日のバージョン2.0.0で多言語化され、英語、ドイツ語、ポルトガル語のUIが利用できるようになった。同年8月21日のバージョン2.0.1では、日本語、ポーランド語、韓国語が追加された。その後も言語の追加が続けられている。
+
+==開発者の交代==
+Halcyonは、2017年5月に[[新都心]]氏によってリリースされ<ref>https://mastodon.cloud/@neet/11192632</ref>、2018年2月に開発の終了が発表された<ref>https://mastodon.social/@neet/99591566457511542</ref>。
+
+2018年2月27日よりNiklas Poslovski<ref>https://github.com/nipos</ref>が開発を引き継いだ。ソースコードは引き続き https://github.com/halcyon-suite/halcyon に置かれたが、過去の履歴は削除された。その後、公式レポジトリは https://notabug.org/halcyon-suite/halcyon に移動した。
+
+==デプロイ==
+Halcyonをデプロイしているサーバーのリストは https://www.halcyon.social/instances.php に置かれている。
+
+==他の分散SNSとの関係==
+バージョン1.1.7より[[Pleroma]]に対応した。
+
+== 出典 ==
+<references/>
+
+[[category:ウェブクライアント]]
+[[category:ユーザーレコメンデーション]]
+[[category:GNU Affero General Public License]]
+{{DEFAULTSORT:halcyon}}

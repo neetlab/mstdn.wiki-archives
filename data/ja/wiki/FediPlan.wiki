@@ -1,0 +1,33 @@
+{{stub}}
+{{Infobox software
+| Name = FediPlan
+| Image = [[ファイル:FediPlan.png|120px]]
+| Developer = [https://mastodon.social/@tom79 tom79]
+| SourceCode = [https://framagit.org/tom79/fediplan Framagit]<br />[https://github.com/stom79/FediPlan GitHub]
+| Platform = Web
+| ProgrammingLanguage = JavaScript, PHPなど
+| Launch = 2019年
+| Kifu = https://fedilab.app/page/donations/
+| License = [[GNU General Public License]]3.0
+| Web = https://plan.fedilab.app/
+}}
+'''FediPlan'''とは、[[Mastodon]]および[[Pleroma]]の投稿を予約するウェブアプリケーション。
+
+==概要==
+Android向けのクライアントアプリ[[Fedilab]]開発者であるtom79氏によってリリースされた。複数言語に対応しており日本語も利用可能である。
+
+予約投稿ではログイン5分後以降の日時を設定できる。メディアの添付も可能。1日に最大50件、合計で最大300件の投稿を予約することが可能としている。
+
+予約したメッセージやアカウントの情報などを保持せず、メッセージの予約にはMastodon APIのみを使用するため、セッションが切れた場合には再ログインの必要がある。
+
+==関連項目==
+* [[Fedilab]]
+* [[MASTMAN]]
+
+==外部リンク==
+* https://plan.fedilab.app/
+* https://framagit.org/tom79/fediplan
+
+{{DEFAULTSORT:fediplan}}
+[[category:ウェブサイト]]
+[[category:GNU General Public License]]

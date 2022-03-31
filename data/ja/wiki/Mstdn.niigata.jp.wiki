@@ -1,0 +1,31 @@
+{{小文字}}
+{{Infobox instance
+| Name          = mstdn.niigata.jp
+| Image         = [[ファイル:Fluffy elephant friend.png|300px]]
+| Domain        = https://mstdn.niigata.jp/
+| Admin         = [https://mstdn.niigata.jp/@mamireimu まみれいむ]
+| Country       = 日本
+| Start         = 2017年4月22日
+| End           = 2019年10月4日
+| Kifu          = [https://enty.jp/mamireimu Enty]
+| Alias         = なし
+}}
+mstdn.niigata.jpは、[[オープンソース]]の[[ソーシャル・ネットワーキング・サービス|ソーシャルネットワーク]]Mastodonの[[インスタンス]]。
+
+サーバートラブルにより終了した<ref>https://twitter.com/mstdn_niigata/status/1179942976539123714</ref>。
+
+== 概要 ==
+新潟県に関わりがあったり、新潟県が好きなユーザーに向け立てられたインスタンスである。
+
+==ローカルルール==
+他のユーザーに成りすますこと、宗教的な勧誘などが禁止されている。
+
+== 関連項目 ==
+* [[都道府県のインスタンス一覧]]
+
+== 出典 ==
+<references />
+
+{{DEFAULTSORT:にいかた}}
+[[category:日本のインスタンス]]
+[[category:消滅したインスタンス]]

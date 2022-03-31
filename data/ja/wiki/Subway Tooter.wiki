@@ -1,0 +1,65 @@
+{{Infobox software
+| Name = {{Ruby|Subway Tooter|サブウェイ　トゥーター}}
+| Image = [[ファイル:SubwayTooter.png|300px]]
+| Developer = [https://mastodon.juggler.jp/@tateisu tateisu]
+| SourceCode = [https://github.com/tateisu/SubwayTooter GitHub]
+| Platform = Android
+| ProgrammingLanguage = Kotlin
+| Launch = 2017年4月23日
+| License = [[Apache License]] 2.0
+| Web = [http://subwaytooter.hatenadiary.jp/ 公式ブログ]
+| Download = [https://play.google.com/store/apps/details?id=jp.juggler.subwaytooter&hl=ja GooglePlay]
+}}{{Ruby|'''Subway Tooter'''|サブウェイ　トゥーター}}は、オープンソースのソーシャルネットワークMastodonのAndroid用クライアントである。バージョン2.7.0より[[Misskey]]にも対応した。開発はtateisu氏。
+
+== 概要 ==
+「切り替えなしで複数アカウント複数カラムを扱う」というコンセプトのもと、[[mastodon.juggler.jp]]管理人のtateisu氏が開発したAndroid用Mastodonクライアント。
+
+tateisu氏曰くmastodon.juggler.jpは元々このアプリを作るために立てられた[[インスタンス]]だったという<ref>https://mastodon.juggler.jp/@tateisu/450509</ref>。
+
+コンセプトにあるように、複数アカウントを操作する機能が非常に充実しているのが特徴である。
+
+その機能の数とカスタマイズ性はAndroidクライアント随一であり、実に多くのユーザーを獲得することに成功している<ref>https://takulog.info/mastodon-using-apps-ranking/</ref>。
+
+なお、iOS版のリリース予定はないとのこと<ref>https://mastodon.juggler.jp/@tateisu/3321167</ref>。
+
+更新情報はtateisu氏により随時[[トゥート]]されており、[[ハッシュタグ]]「[https://mastodon.juggler.jp/tags/subwaytooter #SubwayTooter]」で見ることができる<ref>https://mastodon.juggler.jp/tags/subwaytooter</ref>。
+== 機能 ==
+* 複数アカウントによる複数カラム。カラムは追加、削除、並び替えを自由に行える。
+* タブレットではカラムを複数表示できる。
+* 未登録のインスタンスのタイムラインを覗ける。
+* [[タイムライン]]のストリーミング、音声読み上げに対応している。読み上げはトゥート毎にランダムで音声が変わる。
+* トゥート検索ができる。検索エンジンは[[tootsearch]]<ref>[http://subwaytooter.hatenadiary.jp/entry/2017/12/22/120357 1.8.3から1.8.6までの新機能。tootsearch対応。内蔵メディアビューア。]</ref>と[[マストドン検索ポータル]]<ref>[http://subwaytooter.hatenadiary.jp/entry/2017/07/21/033331 トゥート検索(v0.9.5)]</ref>から選択できる。
+* カラムやユーザー毎に通称や表示色を設定可能。文字の色も変更可。
+* アプリ、単語、ドメイン毎にミュートができる。
+* PULLとPUSHの両通知に対応。
+* トゥートに表示されるクライアント名を自由に変更できる。
+* 動画などの添付メディアファイルの種類をサムネイルの左下に表示する。
+* 「画像のサムネイルをクロップしない」でサムネイルを全体表示できる。
+* トゥートの下書き保存機能がある。
+* 通知音を自由に変更できる。ユーザー別に変更もできる。
+* フォントサイズを自由に変更できる。
+* タイムラインや通知に様々なフィルタを適用可能。
+* 簡易投稿バーにより、タイムラインを見ながらトゥートできる。
+* 引用トゥートができる。
+* [[friends.nico]]の独自機能に対応している(ニコるくん、アンケート、プロフィール絵文字など)。
+* 通知を個別削除できる。
+* アクセストークンを手動入力できる。
+* プロフィール編集に対応。
+* 行数を指定することで長文を[[Content Warning]]のように省略可能。
+* カスタム絵文字に対応。
+* リスト機能に対応。また、フォローしていないユーザーも新規にフォローしてそのままリストに追加することが可能。
+
+== 関連項目 ==
+* [[mastodon.juggler.jp]]
+* [[tootsearch]]
+* [[マストドン検索ポータル]]
+
+== 関連リンク ==
+* [http://subwaytooter.hatenadiary.jp/ 公式ブログ]
+
+== 出典 ==
+<references />
+
+{{DEFAULTSORT:subwaytooter}}
+[[category:Android用クライアント]]
+[[category:オープンソース]]

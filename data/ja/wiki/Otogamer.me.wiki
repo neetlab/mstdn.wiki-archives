@@ -1,0 +1,16 @@
+{{infobox instance
+|Name = {{Ruby|'''音ゲーマー丼'''|おとげーまーどん}}
+|Domain = https://otogamer.me
+|Country = 日本
+|Admin = [[Naf]]
+|Start = 2017年4月26日
+|Kifu = [https://enty.jp/naf Enty]
+}}{{Ruby|'''音ゲーマー丼'''|おとげーまーどん}}は、オープンソースのソーシャルネットワークMastodonの[[インスタンス]]。
+
+== 概要 ==
+音楽の演奏をする音楽ゲーム、いわゆる音ゲーに関する話題が中心のインスタンス。
+
+管理人は[[Naf]]氏。
+
+[[Category:日本のインスタンス]]
+[[Category:ゲームに関するインスタンス]]

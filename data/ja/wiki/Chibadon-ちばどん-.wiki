@@ -1,0 +1,20 @@
+{{infobox instance
+|Name = {{Ruby|Chibadon|ちばどん}}
+|Domain = https://chibadon.jp
+|Country = 日本
+|Admin = [https://chibadon.jp/@tate たて]
+|Start = 2017年5月5日
+|Kifu = なし
+|Alias = 
+}}{{Ruby|'''Chibadon'''|ちばどん}}は、オープンソースのソーシャルネットワークMastodonの[[インスタンス]]。
+
+== 概要 ==
+2017年5月5日、たて氏により立ち上げられた、千葉県がテーマの地域特化インスタンス。
+
+2020年1月現在、アクセス不能となっている。
+
+== 関連項目 ==
+* [[都道府県のインスタンス一覧]]
+{{DEFAULTSORT:chibadon}}
+[[category:日本のインスタンス|ちば]]
+[[category:消滅したインスタンス]]

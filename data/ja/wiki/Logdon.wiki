@@ -1,0 +1,27 @@
+{{Infobox software
+| Name                = Logdon
+<!-- Image -->
+| Developer           = 有限会社リズムキープ 山野貴史
+<!-- SourceCode -->
+| Platform            = ウェブ
+<!-- ProgrammingLanguage -->
+| Launch              = 2017年夏頃<ref>[http://easyramble.com/mastodon-blog-logdon.html Mastodon(マストドン)をブログ風に保存するサービスを作った]</ref>
+<!-- Kifu -->
+| License             = プロプライエタリ
+| Web                 = https://logdon.net
+}}'''Logdon'''は、登録したユーザーのトゥートを保存するウェブアプリケーション。
+2022年1月中旬からアクセスできなくなっている。
+
+==関連項目==
+* [[tootlog]]
+* [[notestock]]
+
+==外部リンク==
+* [https://logdon.net Logdon]
+* [http://www.itmedia.co.jp/news/articles/1801/30/news137.html マストドンのログ保存に便利なLogdon]
+
+==脚注==
+<references />
+
+[[category:ウェブサイト]]
+{{DEFAULTSORT:logdon}}

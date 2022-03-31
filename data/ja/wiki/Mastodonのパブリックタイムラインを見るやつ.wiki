@@ -1,0 +1,11 @@
+{{Infobox software
+| Name = {{Ruby|Mastodonのパブリックタイムラインを見るやつ|マストドンのパブリックタイムラインをみるやつ}}
+<!--| Image = -->
+| Developer = Takuya Sakurai (azyobuzin)
+| Platform = ウェブ
+| Launch = 不明
+| Web = http://junk.azyobuzi.net/mastodonptl/
+}}[http://junk.azyobuzi.net/mastodonptl/ Mastodonのパブリックタイムラインを見るやつ]は、マストドンの[[タイムラインビューア]]の一つ。インスタンスのドメイン名をテキストボックスに入力すると、そのインスタンスの連合タイムラインまたはローカルタイムラインを見ることができる。取得できるトゥートは最新20件で、ページネーションされない。画像は展開されない。
+
+[[category:タイムラインビューア]]
+{{DEFAULTSORT:mastodonのはふりつくたいむらいんをみるやつ}}

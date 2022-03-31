@@ -1,0 +1,92 @@
+{{Infobox instance
+| Name = {{ruby|Mastodon.cloud|マストドン ドット クラウド}}
+| Image = [[ファイル:Mastodon dot cloud.png|300px|Mastodon.cloud]]
+| Domain = https://mastodon.cloud/
+| Admin = [[Sujitech, LLC.]]
+| Country = フランス共和国,日本
+| Start = 2017年4月4日<ref>{{Toot|mastodon.cloud|morkeme|1|2017年4月4日 20:38}}</ref>
+| Kifu = <s>[https://www.patreon.com/mastodoncloud Patreon]</s>
+| Alias = .cloud, 雲, 雲鯖
+}}
+{{ruby|[[Mastodon.cloud]]|マストドン ドット クラウド}}とは、オープンソースのソーシャルネットワーク[[Mastodon]]のインスタンスである。
+
+== 概要 ==
+<blockquote>We are an open Mastodon instance with people from all around the world. Feel free to join us in this adventure.<ref name="about">[https://mastodon.cloud/about mastodon.cloud - Mastodon.cloud]</ref>
+</blockquote>
+
+[[Valentin Ouvrard]]氏によって2017年4月4日に開設された'''フランス語及び英語向け'''インスタンスで、[[Mastodon.social]]で新規ユーザー登録が停止されたことをきっかけにユーザー数が増加、当初は[[Mastodon.social]]に続いて2番目のアクティブユーザー数を誇っていた。他のインスタンス同様、広告や利用料は存在していないため、収入源は全てクラウドファンディングで賄われていた。
+
+== 沿革 ==
+本来、同インスタンスは[[:カテゴリ:フランスのインスタンス|フランスのインスタンス]]であったため、フランス語及び英語圏のユーザーが多く利用していたが、日本向けインスタンスである[[mstdn.jp]]が頻繁にアクセスしづらい状況になったことで、アカウントにアクセスできなくなった日本人ユーザーが流入。以後多くの地域のユーザーが活用している。
+
+しかし後に日本人の投稿が多く表示されるようになった[[ローカルタイムライン]]に対して不満の声を挙げるユーザーが続出するも、[[Valentin Ouvrard]]氏はこの意見に反対し「日本人ユーザーをブロックすることは無い」と発表<ref>[http://www.itmedia.co.jp/news/articles/1704/17/news092.html “Ouvrardさんは16日朝、「日本人をブロックすることはしない」とトゥート”]</ref>。
+
+このことで日本人が増えた一方、その他の国のアクティブユーザーが激減した。このため、日本人ユーザーが非常に多くなったことから、独自の日本語スラングなどの文化が形成されるなどの動向があった（[[クラウド女学院]]を参照）。
+
+== サーバー障害とサーバー移転 ==
+2017年後半頃より、サーバーが不安定な状況が続くようになった。2018年1月16日には、13時頃<ref>[https://masto.news/2018/01/17/mastodon-cloud/ 【障害情報】mastodon.cloud 1/16よりアクセス出来ず – マストドン速報（beta）]</ref>から1月18日<ref><s>{{Toot|mastodon.cloud|TheAdmin|40925865|2018年1月18日 4:41}}</s>{{リンク切れ|date=2018年7月}}</ref>まで接続できなくなる大規模な障害が発生した。アクセス障害のほかにもValentin Ouvrard氏のMastodonアカウントにアクセスできなくなるなど、非常に多くの不具合が吐出していた一方で、Valentin Ouvrard氏はインスタンス運営に割けるリソースが減少、インスタンスの運営は困難な状況となっていた。
+
+2018年4月21日、[[Knzk.me]]管理者の'''bsky'''氏によって移行の話が持ちかけられ、同年5月24日に正式決定、検査の結果データベースに多数の問題があったため、Mastodon開発者の[[Eugen Rochko]]氏、[[合同会社きぼうソフト]]のあんのたん氏なども関わりデータベースの修復が行われ<ref>[https://qiita.com/imbsky/items/47455453ecb863f274e3 世界で6番目に大きなMastodonインスタンスを移行して、DBの修復をした話 - Qiita]</ref>、2018年6月14日<ref>[https://masto.news/2018/06/14/mastodon-cloud-201806/ mastodon.cloud、復活 - マストドン速報（beta）]</ref>、データベースの修復とサーバーや新運営体制への移転が完了、数ヶ月バージョン1.6であったインスタンスのバージョンアップも行われることとなった。
+
+2018年6月15日時点では、Knzk.me運営チームでもある[https://knzk.me/@Knzk Knzk]氏、[https://knzk.me/@imbsky bsky]氏、[https://knzk.me/@y nzws]氏らが新管理者とされていた<ref>{{Toot|mastodon.cloud|imbsky|100200897744387468|2018年6月14日 11:46}}</ref>。
+
+== サーバー移転後 ==
+当初は前述の3人が管理者として示されていたが、その後は[https://mastodon.cloud/@annotunzdy あんのたん]氏と[https://knzk.me/@imbsky bsky]氏が管理者であるとされている。
+
+2018年8月、Mastodon.cloudを利用していた複数の日本人ユーザーが規約違反による通報を受けアカウントの[[BAN|サスペンド]]、[[サイレンス]]、IPブロック等の措置を受けた<ref>https://mastodon.management/t/mastodon-cloud/55</ref>。当時のユーザーの一部はこれに反発、更にアカウントの削除や規約違反行為、それに伴ったサスペンド・サイレンス措置やIPブロックが相次いだ。また一部のユーザーは[[Mostodon.cloud]]に移動するなどの動きを見せた。一部ユーザーはその際の措置理由、違反の内容について開示を求めたが、サイレンス、サスペンドされた本人からの依頼でないためとして開示はなされなかった。様々な憶測がなされたが、これについてbsky氏は個人の意見とした上で、再三の注意を行った上で同様の違反行為が繰り返されたためであると説明した<ref>{{toot|knzk.me|imbsky|100573727429858513}}</ref>。
+
+2018年12月、bsky氏らによる運営から、[[合同会社きぼうソフト]]への完全移行が発表された。
+
+2019年7月26日、同じく[[合同会社きぼうソフト]]が運営となっていた[[mstdn.jp]]と同時に、インスタンスの運営が[[合同会社分散型ソーシャルネットワーク機構]]に譲渡された<ref>[https://mstdn.jp/@kibousoft/102450998495777677 新会社設立並びに事業譲渡に関するお知らせ]</ref>
+。
+
+2020年5月25日、[[mstdn.jp]]と同時に6月30日に運営を終了することが発表された<ref>{{toot|mstdn.jp|mstdn_jp|104227467367414869}}</ref>が、同年7月1日に[[Sujitech, LLC.]]に譲渡されたことによりサービスを継続している。  
+<!--
+
+== ルール ==
+2017年4月時点では以下の７項目のルールが設けられている。
+
+{| class=none style="background: #ffff;"
+|-style="font-size: 120%;"
+! 原文（英語） !! 和訳
+|-
+| style="vertical-align: top;" |
+{{blockquote|
+*Racism, xenophobia, homophobia are strictly prohibited.
+*Lolicon, childs and immoral pictures are strictly prohibited.
+*NSFW is allowed only in Content Warning.
+*Gore, blood and violent pictures only in Content Warning.
+*Don't be a troll, Don't be a bully.
+*Don't be a jerk, please.
+*You can report every post you judge offensive.
+*We are in the cloud but respect your own country law.
+}}
+
+| style="vertical-align: top;" |
+{{blockquote|
+*人種差別、外国人への嫌悪、同性愛者への嫌悪を固く禁じます。
+*幼児性愛及びモラルに反した画像の貼付を固く禁じます。
+*[[NSFW]]はCWの中でのみ利用可能です。
+*流血画像及び暴力的な画像には、CWを使用してください。
+*故意に荒らしたり、挑発したり、いじめをしてはいけません。
+*常識的な行動をお願いします。
+*いずれの発言も、あなたの判断によって通報することができます。
+*私達は確かにクラウド(.cloud)上にいますが、あなたが住む国の法律は尊守してください。
+}}
+
+和訳は以上の通り。'''なお、これはあくまで参考であり、原文に代わるものではない。'''
+
+|}
+-->
+
+== 出典 ==
+<references />
+
+== 関連項目 ==
+* [[Valentin Ouvrard]]
+* [[クラウド女学院]]
+* [[Mostodon.cloud]]
+* [[Knzk.me]]
+
+{{DEFAULTSORT:cloud}}
+[[Category: フランスのインスタンス]]

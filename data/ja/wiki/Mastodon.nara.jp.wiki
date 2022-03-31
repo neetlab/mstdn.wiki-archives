@@ -1,0 +1,42 @@
+{{Infobox instance
+| Name = Mastodon.nara.jp
+| Image = [[ファイル:Mastodon-nara-jp.png|300px|mastodon.nara.jp]]
+| Domain = https://mastodon.nara.jp/
+| Admin = [https://mastodon.nara.jp/@hirotsugun 吉村浩嗣]
+| Country = 日本
+| Start = 2017年4月21日<ref>https://mastodon.nara.jp/@shika/1</ref>
+| Kifu = なし
+| Alias = 鹿トドン, 奈良鯖
+| Link = [https://www.naratodon.com/naratodon-info/ #奈良トドン]
+}}[[Mastodon.nara.jp]]とは、[[オープンソース]]の[[ソーシャル・ネットワーキング・サービス]][[Mastodon]]の[[インスタンス]]。
+
+== 概要 ==
+[https://mastodon.nara.jp/@hirotsugun 吉村浩嗣]氏が2017年4月21日に立ち上げた、奈良県をテーマにした地域特化型インスタンス。
+
+当初は'''奈良トドン'''という名称だったが、「鹿」になりきるユーザーがあまりにも多かった為'''鹿トドン'''に改称した。
+
+多くのユーザーが「鹿」になりきり、奈良の話をしたりしなかったりしている。
+
+連合タイムラインで関西系のご当地インスタンスに限定してトゥートを表示しているのも特徴である([[関西広域連合]])。
+
+また、2017年11月現在は更新が停止しているものの、インスタンス内における奈良県の情報などをまとめた情報サイトも[https://www.naratodon.com/naratodon-info/ 立ち上げられている]。
+
+==鎖国==
+2017年5月9日<ref>https://mainew.kagua.biz/2017/05/deertodon-decides-isolating-country.html</ref>、鹿トドンは[[鎖国]]を行った。これによりリモートフォローが不可能になった。
+
+== ローカルルール ==
+いくつかの特徴的なローカルルールを持つ。R-18コンテンツは投稿不可である。ユーザーがアップロードした画像は、別のウェブサイトで利用される場合がある。宣伝ばかりのアカウントと[[鳥連携|Twitter自動連携]]は、警告のうえアカウントを停止する場合がある。
+
+ローカルルールとは別に「注意事項」と称するアドバイスが掲載されており、トラブルを未然に防ぐための複数の行動が推奨されている。
+
+== 出典 ==
+<references/>
+
+== 関連項目 ==
+* [[都道府県のインスタンス一覧]]
+* [[関西広域連合]]
+* [[鎖国]]
+
+{{DEFAULTSORT:なら}}
+[[category:日本のインスタンス]]
+[[category:関西広域連合]]

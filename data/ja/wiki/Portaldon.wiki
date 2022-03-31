@@ -1,0 +1,17 @@
+{{Infobox software
+| Name = {{Ruby|Portaldon|ポータルドン}}
+<!--| Image = -->
+| Developer = IZWX Inc.
+| Platform = ウェブ
+| Launch = 不明
+| Web = http://portaldon.info/
+}}
+
+[http://portaldon.info/ Portaldon]は、マストドンのインスタンスのリストと、ローカルタイムラインのプレビューを提供するウェブアプリケーション。明記されていないが、収録されているインスタンスは[[Mastodon Instances]]と同じである。デフォルトの並び順はアルファベット順で、他にユーザー数順が使用できる。ローカルタイムラインのプレビューは画像も表示される。
+
+2018年3月時点では、データベースエラーにより閲覧できなくなっている。
+
+[[category:インスタンスの一覧を提供するウェブサイト]]
+[[category:タイムラインビューア]]
+[[category:運用が放棄されたウェブサイト]]
+{{DEFAULTSORT:portaldon}}

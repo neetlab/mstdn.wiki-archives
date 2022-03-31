@@ -1,0 +1,33 @@
+{{小文字}}
+{{Infobox instance
+| Name          = mastodon.yokohama
+| Domain        = https://mastodon.yokohama/
+| Admin         = [https://mastodon.yokohama/@uehatsu Hatsuhito UENO]
+| Country       = 日本
+| Start         = 2017年4月12日<ref>https://mastodon.yokohama/@uehatsu/1</ref>
+| Kifu          = [https://enty.jp/uehatsu Enty]<br />[http://amzn.asia/3tizEUl Amazon]
+| Alias         = 横浜鯖
+}}<ruby>mastodon.yokohama<rt>ますとどん どっと よこはま</rt></ruby>とは、[https://mastodon.yokohama/@uehatsu Hatsuhito UENO]氏が運営する[[マストドン]][[インスタンス]]である。
+
+== 概要 ==
+2017年4月12日に[https://mastodon.yokohama/@uehatsu Hatsuhito UENO]氏によって開設された神奈川県横浜市の[[インスタンス]]<ref>[https://mastodon.yokohama/about 横浜のサーバです。]</ref>。
+
+画像ストレージが上限に達してしまうなど、サーバの環境があまり芳しくないようであり、長期に渡り500エラーを返していることもしばしばである。断続的な停止と復旧を繰り返しつつ少数のユーザが使用している。
+
+2018年8月19日現在では同月13日から停止状態にあり、復旧の目処は立っていない。
+
+== ルール ==
+2017年4月時点ではルールは定められていないが、以下のような記載がある。
+
+<blockquote>
+基本的にユーザ様の自治にお任せしますが、あまりにも目につく行為があった場合は対処させて頂きます。よろしくお願いいたします。
+</blockquote>
+
+== 出典 ==
+<references/>
+
+== 関連項目 ==
+* [[都道府県のインスタンス一覧]]
+
+{{DEFAULTSORT:よこはま}}
+[[category:日本のインスタンス]]

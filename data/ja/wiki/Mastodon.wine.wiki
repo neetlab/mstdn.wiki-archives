@@ -1,0 +1,20 @@
+{{Infobox instance
+| Name = {{Ruby|'''mastodon.wine'''|マストドン ドット ワイン}}
+| Image = [[ファイル:Mastodon wine.png|300px|mastodon.wine]]
+| Domain = https://mastodon.wine
+| Admin = [https://mastodon.wine/@Telmina Telmina]
+| Country = 日本
+| Start = 2017年10月1日
+| End = 2018年2月25日
+| Kifu = 
+| Alias = 
+}}'''mastodon.wine'''は、オープンソースのソーシャルネットワークMastodonの[[インスタンス]]。
+
+== 概要 ==
+ワインを愛好するユーザーを対象に立てられたインスタンス。未成年も可としている。
+
+2018年1月8日、更新に失敗したためにインスタンスは一旦停止、1月9日にデータベースを初期化して再開していた。
+
+2018年2月21日にインスタンスの終了が発表され、2018年2月25日頃、インスタンスは消滅した。
+
+{{DEFAULTSORT:wine}}

@@ -1,0 +1,37 @@
+{{小文字}}
+{{Infobox instance
+| Name          = {{Ruby|mstdn.nere9.help|マストドン　ネレナイン　ヘルプ}}
+| Domain        = https://mstdn.nere9.help
+| Admin         = [https://nere9.help/ インターネット蟹工船]
+* [https://mstdn.nere9.help/@ejo090 えじょねこ]
+* [https://mstdn.nere9.help/@chrml くろみる]
+* [https://mstdn.nere9.help/@satoshicano satoshicano]
+* [https://mstdn.nere9.help/@mizukmb けだまくん]
+| Country       = 日本
+| Start         = 2017年4月19日
+| Kifu          = なし
+| Alias         = 蟹工船, :realtek:, ねれないん
+}}'''mstdn.nere9.help'''は、オープンソースのソーシャルネットワークMastodonの[[インスタンス]]。
+
+== 概要 ==
+[https://nere9.help/ インターネット蟹工船]のメンバーが運営するインスタンス。対象ユーザーは特に決まっておらず、雑談を主としたインスタンスである。
+
+かつて存在した[[mstdn.fun]]（公立はこだて未来大学生専用インスタンス、[https://mstdn.fun Mastodon＠FUN]）の移動受け入れ先とされている。<ref>[https://mstdn.nere9.help/about/more mstdn.nere9.help とは？]</ref>
+
+== ローカルルール ==
+<blockquote>国内法に基づきます。
+
+それ以外は基本的に自由です。
+
+でもサーバに負荷のかかる行為はご遠慮ください。
+
+みんななかよく</blockquote><ref>[https://mstdn.nere9.help/about/more mstdn.nere9.help とは？]</ref>
+
+== 出典 ==
+<references/>
+
+== 関連項目 ==
+
+
+{{DEFAULTSORT:nere9}}
+[[category:日本のインスタンス]]

@@ -1,0 +1,29 @@
+{{Infobox software
+| Name = {{Ruby|Discord|ディスコード}}
+| Image = [[ファイル:Discord Color Text Logo.png|300px]]
+| Developer = 	Hammer & Chisel
+| Platform = Microsoft Windows, macOS, Android, iOS, Linux
+| Launch = 2015年3月6日
+| Web = https://discordapp.com
+}}{{Ruby|'''Discord'''|ディスコード}}は、Microsoft Windows, macOS, Android, iOS, Linux、Webブラウザで動作する、ゲーミング用に開発された無料のVoIPアプリケーション。
+
+== 概要 ==
+OpenFeintの創設者であるJason Citron氏が立ち上げたHammer＆Chiselによって2015年5月に公開されたVoIPアプリケーション。
+
+SkypeやTeamspeakなど他VoIPソフトウェアの良点を盛り込んでいるとされており、低レイテンシーの通信を目指して開発された。また通信に「CloudFlare」が使用されており、通信の匿名性は高い。
+
+主にチャット機能やボイスチャット、ビデオ通話や画面共有といった機能がある。
+気軽に「サーバー」という部屋を作ることができ、ここでグループチャットやグループ通話などが行える。
+
+ゲーマー向けのソフトウェアであり、現にユーザーの多数は海外のゲームコミュニティからの参加が多い。
+
+==マストドンとの関係==
+
+Mastodonでは、本来のゲーミングの用途のほか、(マストドンでいうところの)[[インスタンス]]毎に多くの「チャンネル」が作られ、インスタンス外での連絡や通話などに利用された。
+また、Mastodon開発者による公式のDiscordも用意されているなど、MastodonにおいてもDiscordは多用されている。
+
+==関連項目==
+* [[Discourse]] - 名称も目的も似ているが、直接の関係はない。どちらもマストドン関係者によく利用されている。
+* [[鯖缶工場]]
+
+[[Category:ソフトウェア]]

@@ -1,0 +1,22 @@
+{{infobox instance
+|Name = mastodon.xyz
+|Domain = https://mastodon.xyz
+|Country = フランス
+|Admin = [https://mastodon.xyz/@TheKinrar TheKinrar]
+|Start = 2017年4月1日
+|Kifu = [https://patreon.com/TheKinrar Patreon]<br />[https://liberapay.com/thekinrar Liberpay]
+|Alias = 不明
+}}'''mastodon.xyz'''は、オープンソースのソーシャルネットワークMastodonの[[インスタンス]]。
+
+== 概要 ==
+TheKinrar氏により2017年4月1日に公開された、フランス語圏のインスタンス。
+
+2017年12月12日現在13803人のユーザー数を誇り、全インスタンス中6番目にユーザー数が多いインスタンスとなっている。
+
+同インスタンスは、[[インスタンスの一覧を提供するウェブサイト]]の一つである[[Mastodon Instances]]も公開している。
+
+== 関連項目 ==
+* [[Mastodon Instances]]
+
+[[Category:フランスのインスタンス]]
+[[fr:mastodon.xyz]]

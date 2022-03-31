@@ -1,0 +1,20 @@
+{{Infobox instance
+| Name          = YAMASTODON
+| Image         = [[ファイル:yamastodoncom.png|300px]]
+| Domain        = https://yamastodon.com/
+| Admin         = [https://yamastodon.com/yamastodon @yamastodon]
+| Country       = 日本
+| Start         = 2017年4月
+| Kifu          = なし
+| Alias         = なし
+}}'''YAMASTODON'''は、オープンソースのソーシャルネットワークMastodonの[[インスタンス]]。
+
+== 概要 ==
+2017年4月に立ち上げられた、登山やクライミングなど山に関する話題がテーマのインスタンス。
+
+2017年12月現在、消滅状態となっている。
+
+== 関連項目 ==
+* [[やますとどんJP]]
+{{DEFAULTSORT:yamastodon}}
+[[category:消滅したインスタンス]]

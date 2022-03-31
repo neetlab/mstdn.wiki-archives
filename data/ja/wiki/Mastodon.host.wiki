@@ -1,0 +1,46 @@
+{{小文字}}
+{{混同|Masto.Host}}
+{{Infobox instance
+| Name = mastodon.host
+| Image = [[file:mastodon_host.jpeg|300px]]
+| Domain = https://mastodon.host
+| Admin = [https://mastodon.host/@gled gled]
+| Moderator = [https://mastodon.host/@skiring Skiring]<br />[https://mastodon.host/@House_of_Pears House of Pears]
+| Country = イギリス
+| Start = [[2017年]]4月7日<ref name="start">https://mastodon.host/@gled/2205</ref>
+| Kifu = [https://mastodon.host/Qr_bitcoin.png Bitcoin]<br />[https://liberapay.com/gled/donate Liberapay]<br />PayPal
+| SourceCode = [https://github.com/gled-rs/mastodon GitHub]
+}}'''mastodon.host'''は、[[オープンソース]]のソーシャルネットワーク[[Mastodon]]の[[インスタンス]]。
+
+== 概要 ==
+[[2017年]]4月7日<ref name="start" />、gled氏によって立ち上げられた。2018年3月現在、約4000人のユーザー数を有する。
+
+基本的に、ルールに反しない限りは話題は自由となっている。英語が中心のインスタンスだが、他言語ユーザーも参加することができる。
+
+2017年4月15日には日本人ユーザーの増加に対し、gled氏による声明が発表された<ref>https://mastodon.host/@gled/715828</ref>。また、[[Pawoo]]をドメインブロックしているインスタンスの一つである。
+
+== 独自機能 ==
+mastodon.hostには、非常に多くの独自実装が加えられている。
+
+;[[字数制限の変更]]
+:* [[トゥート]]の文字数が500から1024まで引き上げられている。
+:* プロフィールの文字数が512まで引き上げられている。
+
+;検索機能の強化
+:* 各種[[検索]]結果の表示数が5から20まで引き上げられている。
+:* トゥートの全文検索が実装されている。
+
+;タイムライン・カラムの仕様変更
+:* [[ブースト]]・[[リプライ|返信]]が公開[[タイムライン]]に表示されるよう変更されている。
+:* [[カラム]]の幅が画面の幅に合わせて変化する。
+
+;その他
+:* インスタンスのアカウントがXMPPアカウントとして利用できる。
+:* 仮想通貨のマイニングによってインスタンスを支援することができる（パソコンのみ）。
+:* 自動でフォローを行う[https://mastodon.host/@federationbot bot]によって、非常に接続数の多い[[連合]]が形成されている。
+
+== 出典 ==
+<references />
+
+[[Category:イギリスのインスタンス]]
+[[Category:独自機能が実装されたインスタンス]]

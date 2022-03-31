@@ -1,0 +1,32 @@
+{{Infobox software
+| Name                = {{Ruby|Twitter->Mastodonトゥート同期アプリ|ツイッターマストドントゥートどうきアプリ}}
+| Developer           = [https://twitter.com/twit_hitter TwitHitter]
+| Platform            = ウェブ
+| License             = プロプライエタリ
+| Web                 = <nowiki>http://sync.twi2mstdn.space</nowiki> (リンク切れ)
+}}'''Twitter->Mastodonトゥート同期アプリ'''または'''sync.twi2mstdn.space'''は、[[Twitter]]でのツイートを自動的に[[マストドン]]に転送するウェブアプリケーション。'''チンコツイツイマストドンスペース'''または[[鳥連携]]という蔑称も知られている。
+
+2018年4月頃からアクセスできなくなっている。
+
+==批判==
+LTLを用いてチャット的なコミュニケーションを楽しむ文化があるインスタンス<ref>[http://yukkurisinai.hatenablog.com/entry/2017/05/12/094449 TwitterとMastodonで云々 リマスター版] (リンク切れ)</ref>にTwitterでのツイートを流し込むことは、文脈を無視してローカルタイムラインを分断することになる。
+
+お一人様インスタンスなどでローカルタイムラインを使用していないとしても、ユーザーがマストドンでの話題や通知に反応しないという問題がある。
+
+Twitterのボットをsync.twi2mstdn.spaceでマストドンに流しているだけのボットも多く、これらのボットはローカルタイムラインを汚染する。
+
+こうした理由から、有志によりそれらのトゥートを自動的でミュートするツール（[[BirdKiller]]など）が公開されるなどしている。
+
+また、[[mstdn.jp]]はボットに対してトゥートを未収載にすることを義務づけているが、sync.twi2mstdn.spaceはトゥートを未収載にする機能がないため、このようなボットはmstdn.jpの規約に違反している。そのため、mstdn.jpはsync.twi2mstdn.spaceのアクセストークンを削除している。
+
+==関連項目==
+* [[鳥連携]]
+* [[BirdKiller]]
+* [[Twitter→Mastodon移行サポートツール]]
+
+==脚注==
+<references />
+
+{{DEFAULTSORT:twittermastodonとううととうきあふり}}
+[[category:ウェブサイト]]
+[[category:運用が放棄されたウェブサイト]]

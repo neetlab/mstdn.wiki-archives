@@ -1,0 +1,25 @@
+{{Infobox software
+| Name                = Mastodon Follow Suggestion
+<!-- | Image               = [[ファイル:Amaroq.jpg|120px|Amaroq]] -->
+| Developer           = [[SH|S.H.]]
+| SourceCode          = https://github.com/S-H-GAMELINKS/MastodonFollowSuggestion
+| Platform            = ウェブ
+| ProgrammingLanguage = Ruby
+| Launch              = 2018年12月
+<!-- | Kifu                = [https://paypal.me/floofdog PayPal] -->
+| License             = ソースコードが公開されているが、ライセンスが明記されていない
+| Web                 = https://mastodon-follow-suggestion.herokuapp.com
+<!-- | Download            = [https://itunes.apple.com/us/app/amaroq-for-mastodon/id1214116200 AppStore] -->
+}}'''Mastodon Follow Suggestion'''は、マストドンの[[フォローレコメンデーション (マストドンの機能)|フォローレコメンデーション]]を表示するウェブアプリケーション。
+
+==関連項目==
+* [[フォローレコメンデーション (マストドンの機能)]]
+* [[フォローレコメンデーションチェッカー]]
+
+==外部リンク==
+* https://gamelinks007.hatenablog.com/entry/2018/12/05/000000
+
+{{DEFAULTSORT:mastodonfollowsuggestion}}
+[[category:ウェブサイト]]
+[[category:ユーザーレコメンデーション]]
+[[category:ライセンスなし]]

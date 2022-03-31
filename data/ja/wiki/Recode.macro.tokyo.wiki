@@ -1,0 +1,21 @@
+{{小文字}}
+{{Infobox instance
+| Name          = {{Ruby|Mastodon #艦これ|マストドンかんこれ}}
+| Image         = [[ファイル:record-macro-tokyo.png|120px]]
+| Domain        = https://recode.macro.tokyo
+| Admin         = [https://recode.macro.tokyo/@glhf2013 glhf]
+| Country       = 日本
+| Start         = 2017年4月21日<ref>https://recode.macro.tokyo/@glhfyahoo/1</ref>
+}}'''Mastodon #艦これ'''または'''recode.macro.tokyo'''とは、ゲーム「艦隊これくしょん-艦これ-<ref>[http://www.dmm.com/netgame/feature/kancolle.html 「艦隊これくしょん-艦これ-」 DMM GAMES公式ページ]</ref>」をテーマにしたインスタンス。
+
+2018年4月16日に[[セキュリティ証明書]]が期限切れとなり、利用できなくなった。
+
+==関連項目==
+* [[艦ます]] 2017年12月に閉鎖。
+* [[kancolle.social]]
+
+==脚注==
+<references/>
+
+[[category:艦隊これくしょんに関するインスタンス]]
+[[category:消滅したインスタンス]]

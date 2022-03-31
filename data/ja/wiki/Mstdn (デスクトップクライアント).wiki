@@ -1,0 +1,29 @@
+{{Infobox software
+| Name = Mstdn
+| Image = [[File:Mstdnapp-ss2017415.jpg|240px|MacOSのメニューバーで動作するMstdn]]<br />MacOSのメニューバーで動作するMstdn<ref>https://mstdn.jp/@Linda_pp/129608</ref>
+| Developer = [https://mstdn.jp/@Linda_pp Linda_pp]
+| SourceCode = [https://github.com/rhysd/Mstdn GitHub]
+| Platform = MacOS, Windows, Linux
+| ProgrammingLanguage = Electron（TypeScript）
+| Launch = 2017年4月15日
+| License = [[MITライセンス]]
+| Download = [https://github.com/rhysd/Mstdn/releases GitHub Releases]
+}}'''Mstdn'''または'''Mstdn.app'''とは、[[オープンソース]]のソフトウェアフレームワークであるElectronを利用して開発された、[[分散SNS]]「[[Mastodon]]」のデスクトップクライアントである。
+
+== 概要 ==
+[https://mstdn.jp/@Linda_pp Linda_pp]氏により2017年4月15日にリリースされた<ref>https://mstdn.jp/@Linda_pp/129941</ref>、Mastodonのデスクトップクライアント。オープンソースソフトウェアであり、ソースコードは[[MITライセンス]]の元で公開されている。Electronというソフトウェアフレームワークがベースであるため、PCのOSを問わずに利用できる。Mastodonの表示はスマートフォン向けのWebUIを表示する。
+
+ウィンドウを自由な大きさにして配置でき、PCのメニューバー（ツールバー）にアイコンを表示、呼び出しが可能なほか、[[カラム]]やページの切り替えなどに好きなショートカットキーを設定できる。マルチアカウントにも対応しており、複数のインスタンスのアカウントを切り替えて利用することができる。ただし、複数アカウントのカラムなどの同時表示は不可。アカウントの追加、およびショートカットキーの設定などは設定のjsonファイルを書き換えて行う。
+
+WebUIを表示するため、ユーザーが作成したカスタムCSSを設定することも可能。実装例として、「ふたばちゃんねる」風UIのカスタムCSS<ref>https://github.com/D9XSkeFUtRqs/ukigumo/</ref>などがある。また、Node.JSとElectron APIを利用したアプリケーションのプラグインを開発し組み込むことも可能である。
+
+== 関連項目 ==
+* [[Tsuru]]
+* [[whalebird]]
+
+== 出典 ==
+<references />
+
+{{DEFAULTSORT:mstdn}}
+[[Category:デスクトップクライアント]]
+[[Category:MITライセンス]]

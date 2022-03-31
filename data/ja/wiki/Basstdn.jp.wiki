@@ -1,0 +1,22 @@
+{{Infobox instance
+| Name          = {{Ruby|basstdn.jp|バストドンドットジェーピー}}
+| Image         = [[ファイル:Basstdn.png|300px|Basstdn]]
+| Domain        = https://basstdn.jp/
+| Admin         = [https://basstdn.jp/@bouz bouz]
+| Country       = 日本
+| Start         = 2017年4月28日
+| Kifu          = 不明
+| Alias         = バストドン
+}}'''basstdn(バストドン)'''は、オープンソースのソーシャルネットワークMastodonの[[インスタンス]]。
+
+== 概要 ==
+バス釣りに関連する話題を中心としたマストドンインスタンス。 バス釣りのことを自由にトゥート(発言)したり閲覧することができる。
+
+==ローカルルール==
+バスフィッシングをテーマとするインスタンスであるが、話題は限定されていない。「不快感の表明は、まわりの方を不快にしますのでご遠慮ください」という独特なルールがある。
+
+== 関連項目 ==
+* [[MASTODON FISHING]]
+* [[ナチュドンフィッシング]]
+
+[[category:日本のインスタンス]]

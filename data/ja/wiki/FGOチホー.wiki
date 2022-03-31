@@ -1,0 +1,19 @@
+{{infobox instance
+|Name = '''FGOチホー'''
+|Image = [[ファイル: fgochiho.png|300px]]
+|Domain = https://fgochiho.vip
+|Admin = [https://fgochiho.vip/@hakr Hakr]
+|Country = 日本
+|Start = 2017年4月20日
+|End = 2019年9月3日
+}}'''FGOチホー'''は、オープンソースのソーシャルネットワークMastodonの[[インスタンス]]。
+
+== 概要 ==
+スマートフォン向けロールプレイングゲーム「Fate/Grand Order」の話題を中心としたインスタンス。
+
+2017年5月にインスタンスのデータを消失しており、同月21日より再始動していた。
+
+しかし、2019年9月3日に発生した障害に伴いサーバークローズ。Discordサーバーへ移行を予定している。
+
+[[Category:日本のインスタンス]]
+[[Category:ゲームに関するインスタンス]]

@@ -1,0 +1,30 @@
+{{DISPLAYTITLE:votedon.}}
+{{Infobox software
+| Name                = {{Ruby|votedon.|ボートドン}}
+<!-- | Image               = [[ファイル:Amaroq.jpg|120px|Amaroq]] -->
+| Developer           = [[Cutls P]]
+<!-- | SourceCode          = [https://github.com/ReticentJohn/Amaroq GitHub] -->
+| Platform            = ウェブ
+<!-- | ProgrammingLanguage = Objective-C -->
+| Launch              = 2018年3月27日<ref>https://kirishima.cloud/users/Cutls/statuses/99753685756085010</ref>
+<!-- | Kifu                = [https://paypal.me/floofdog PayPal] -->
+| License             = プロプライエタリ
+| Web                 = https://vote.thedesk.top
+<!-- | Download            = [https://itunes.apple.com/us/app/amaroq-for-mastodon/id1214116200 AppStore] -->
+}}'''votedon.'''は、マストドンで投票の実施を可能にするウェブアプリケーション。
+
+== 概要 ==
+2018年3月27日より公開されているウェブアプリケーション。OAuth認証を利用するため、インスタンスを問わず利用することができる。
+
+認証を行うとアンケートの設定画面が表示される。アンケートの選択肢は6まで設定でき、投票に参加できるユーザーの範囲、投票結果の表示タイミング、終了の日時などを設定することができる。
+
+==関連項目==
+* [[Polls]] - マストドン公式の機能
+* [[friends.nico]] - アンケート機能を独自実装しているインスタンス
+* [[TheDesk]] - 同開発者によるプロダクト
+
+==脚注==
+<references />
+
+{{DEFAULTSORT:votedon}}
+[[category:ウェブサイト]]

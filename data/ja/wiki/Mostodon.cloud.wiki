@@ -1,0 +1,30 @@
+{{Infobox instance
+| Name          = '''Mostodon.cloud'''
+| Domain        = https://mostodon.cloud
+| Admin = [https://mostodon.cloud/@roy roy]
+| Country       = 日本
+| Start         = 2018年3月31日<ref>https://mostodon.cloud/@roy/99778567991127312</ref>
+|End=2021年3月31日}}'''Mostodon.cloud'''とは、オープンソースのソーシャルネットワーク[[Mastodon]]のホスティングサービス「[[Hostdon]]」で立ち上げられた[[インスタンス]]である。
+
+==概要==
+[[Mastodon.cloud]]の不安定な状態が続いていることを受けて、いわゆる「避難所」として[https://mastodon.cloud/@roy_cloud Roy]氏により非公式に立ち上げられたインスタンスである。
+
+Mastodon.cloudが改善、もしくは管理者が管理しきれなくなった場合は停止するとされていた。
+
+2018年8月、Mastodon.cloud管理人によるBAN行為に反感を覚えた日本人の多くが移動を行った。
+
+2020年9月に管理人のRoy氏が失踪。レンタル元のサーバを運営しているHostodonによる簡易管理が行われるようになった。
+
+しかしながら、2021年3月31日をもってドメインが失効。その歴史に幕を閉じた。
+
+
+ユーザは[[Mistodon.cloud]]へと移行し、かつての[[クラウド女学院]]の再興を図っている。
+
+==関連項目==
+
+*[[Mastodon.cloud]]
+
+==出典==
+<references />
+
+[[Category:日本のインスタンス]]

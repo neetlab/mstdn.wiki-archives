@@ -1,0 +1,24 @@
+{{小文字}}
+{{Infobox instance
+| Name          = [[mastodon.nil.nu]]
+| Domain        = https://mastodon.nil.nu
+| Admin         = [https://mstdn.jp/@nullkal <ruby>nullkal<rt>ぬるかる</rt></ruby>]
+| OS            = Ubuntu<ref>https://mstdn.jp/users/nullkal/updates/1015</ref>
+| Country       = 日本国
+| Start         = 2017年4月11日
+| Kifu          = https://enty.jp/nullkal
+| Alias         = .nil.nu, 日本鯖
+}}
+[[mastodon.nil.nu]]とは、オープンソースのソーシャルネットワーク[[Mastodon]]のかつて存在していたインスタンスである。
+
+== 概要 ==
+[[ファイル:スクリーンショット 2018-01-09 18.10.22.png|300px|thumb|right|「ドメインが格好悪い」という指摘に対してのnullkal氏の反応 ([[Mastodon.cloud]]で閲覧可能)]]
+
+[[nullkal]]氏によって2017年4月11日に公開されたインスタンス。翌12日には[[Mstdn.jp]]に移転した<ref>[https://mstdn.jp/users/nullkal/updates/6540 nullkal氏の発言（リンク切れ）] [https://mastodon.cloud/web/statuses/452025 Mastodon.cloudにログインして閲覧可能なキャッシュ]</ref>ため、一日未満の期間のみ公開されていた。
+
+== 出典 ==
+<references/>
+
+{{DEFAULTSORT:nilnu}}
+[[category: 消滅したインスタンス]]
+[[category: 日本のインスタンス]]

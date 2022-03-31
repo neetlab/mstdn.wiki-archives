@@ -1,0 +1,423 @@
+{{small|←[[2017年]]・[[2019年]]→}}
+{{Stub}}
+当記事では'''2018年'''に起きた[[Mastodon]]関連の出来事についてまとめる。
+
+==1月==
+
+;2日
+
+*[[MastodonRater]]がリリース。
+
+;4日
+
+*[[Pachi.house]]、[[YukaIAdon]]が消滅。
+*[[gensokyo.cloud]]の新規トゥート投稿が停止される。
+
+;5日
+
+*ホスティングサービスの[[MaaStodon]]が開始。
+*[[フォローバックアップ]]がリリース。
+
+;6日
+
+*Mastodon 2.1.2がリリース。<ref>https://github.com/tootsuite/mastodon/releases/tag/v2.1.2</ref>
+
+;9日
+
+*[[theboss.tech]]が[[メールアドレス不要でユーザー登録]]に対応。
+
+;10日
+
+*Mastodon 2.1.3がリリース。<ref>https://github.com/tootsuite/mastodon/releases/tag/v2.1.3</ref>
+
+;13日
+
+*[[TheDesk]]がリリース。
+
+;15日
+
+*[[Pleroma]]が[[Peers API]]に対応。
+
+;16日
+
+*[[mastodon.cloud]]で大規模障害が発生。(13時頃)
+
+;17日
+
+*[[分散SNSフォーラム]]が[[Pleroma]]インスタンスを観測開始。
+
+;19日
+
+*[[donphan.social]]が開始。
+
+;26日
+
+*[[2.distsn.org]]が消滅。
+
+;29日
+
+*Mastodon 2.2.0がリリース。<ref>https://github.com/tootsuite/mastodon/releases/tag/v2.2.0</ref>
+*[[shikokudon.m.to]]が開始。
+*[[俳句検出bot]]が公開。
+
+;30日
+
+*'''AnonymousPost''' (現在の[[AnonyMasto]]) が公開。
+
+==2月==
+
+;1日
+
+*gensokyo.cloudが消滅。
+
+;3日
+
+*[[theboss.tech]]が[[ローカルタイムラインをデフォルトタグタイムラインに置き換える]]実装を行う。
+
+;7日
+
+*[[Pinafore]]がリリース。
+
+;16日
+
+*[[Pleroma]]インスタンスのTakeromaが証明書期限切れで利用不能となる。
+
+;17日
+
+*[[kemoshi.co]]が開始。
+
+;18日
+
+*ウェブアプリケーションの[[ミステリーポスト]]が公開。
+*[[インターネットミーム|コピペ]]の[[がうがうー]]の初出がトゥートされる。
+*[[アスタルテ暇人ランキング]]が始動。
+
+;20日
+
+*[[おたじょどん]]が消滅。
+
+;21日
+
+*[[ムトー★マストドンホスティング|ムトー★無料マストドン]]のフリープランのリモートフォロー上限が100になる。
+*[[2.distsn.org]]が廃止。
+
+;24日
+
+*[[claris.cf]]が開始。
+*[[Hiveway]]のインスタンスが公開。
+
+;25日
+
+*[[Mastodon.wine]]が消滅。
+
+==3月==
+
+;4日
+
+*[[precure.ml]]の名称が'''きゅあったー'''から'''キュアスタ！'''に変更される。
+
+;5日
+
+*[[Mastodon on Email]]がリリース。
+
+;6日
+
+*ウェブアプリケーション[[FoodsChecker for Mastodon]]がリリース。
+
+;8日
+
+*[[mastodon.codes]]が開始。
+*[[Pleroma]]が[[ActivityPub]]に対応。
+
+;10日
+
+*Mastodon 2.3.0がリリース。<ref>https://github.com/tootsuite/mastodon/releases/tag/v2.3.0</ref>
+*[[whalebird]]がリリース。
+
+;11日
+
+*[[被災地支援のためのマストドン研究会]]が正式スタート。
+
+;13日
+
+*[[Mastodon Archive Viewer]]がリリース。
+
+;14日
+
+*Mastodon 2.3.1がリリース。<ref>https://github.com/tootsuite/mastodon/releases/tag/v2.3.1</ref>
+*[[Yukari.cafe]]が開始。
+
+;16日
+
+*[[itabashi.0j0.jp]]が開始。
+*[[mastodon.rocks]]のデータが消失。
+
+;17日
+
+*[[Bossello]]がリリース。
+
+;18日
+
+*[[Yukari.cloud]]が消滅。
+*Linuxクライアントの[[Tootle]]がリリース。
+
+;22日
+
+*Mastodon 2.3.2がリリース。<ref>https://github.com/tootsuite/mastodon/releases/tag/v2.3.2</ref>
+
+;24日
+
+*[[Kiritan.work]]がリセット。
+
+;27日
+
+*Mastodon 2.3.3がリリース。<ref>https://github.com/tootsuite/mastodon/releases/tag/v2.3.3</ref>
+*[[Switter]]が開始。
+*[[votedon]]、[[おすすめフォロワー]]がリリース。
+
+;28日
+
+*[[minohdon.jp]]が開始。
+*分散型ブロックチェーンSNSの[[Numa]]がリリース。
+
+;29日
+
+*[[Pawoo]]が独自レイアウトを採用。
+
+;31日
+
+*[[いわみどん]]、[[Oriwebdon.com]]が消滅。
+
+==4月==
+
+;8日
+
+*[[Misskey]]がActivityPubに対応。
+
+;15日
+
+*[[Arpidon.space]]が開始。
+*pritter.tkが[[pritter.work]]にドメインを変更。
+
+;18日
+
+*[[ぶいつべどん]]が開始。
+
+;24日
+
+*[[Mastodon Birthday]]がリリース。
+
+;30日
+
+*[[3.nu]]、[[cutie.space]]、[[Witches.town]]が消滅。
+*[[ブラジルにおけるマストドンブーム]]開始。
+
+==5月==
+
+;5日
+
+*オタジョ.tkが消滅。
+*マストドン文化祭が開催。
+
+;7日
+
+*[[Drawdon]]がリリース。
+
+;15日
+
+*[[Search Mastodon tools]]がリリース。
+
+;23日
+
+*Mastodon 2.4.0がリリース。<ref>https://github.com/tootsuite/mastodon/releases/tag/v2.4.0</ref>
+
+;25日
+
+*{{Jawp|EU}}において[[General Data Protection Regulation]]（GDPR）が施行。
+
+==6月==
+
+;8日
+
+*[[mastodon.social]]が[[mstdn.jp]]のユーザー数を超え世界1位に。
+
+;9日
+
+*[[THINKERS.AC]]が同月末をもっての閉鎖を発表。
+
+;11日
+
+*Mastodon 2.4.1がリリース。<ref>https://github.com/tootsuite/mastodon/releases/tag/v2.4.1</ref>
+
+;14日
+
+*[[Mastodon.cloud]]がbsky氏ら[[Knzk.me]]運営チームに正式移管。
+
+;16日
+
+*[[Petit Mastodon Constructive Meetup]]が開催。
+
+;17日
+
+*[[4com.jp]]が利用不能に。
+
+;18日
+
+*[[Legion]]、[[simple_ap]]がリリース。
+
+;19日
+
+*Mastodon 2.4.2がリリース。<ref>https://github.com/tootsuite/mastodon/releases/tag/v2.4.2</ref>
+*[[Mastodon Bridge]]が日本語に対応。
+
+;20日
+
+*[[ワサラダン]]がスタート。
+
+==7月==
+
+;1日
+
+*[[AnonyMasto]]が匿名ブースト、お気に入りに対応。
+
+;3日
+
+*[[THINKERS.AC]]が正式に終了。
+
+;10日
+
+*[[トレンドン]]がサービス終了。
+*[[mastodon.moe]]がスタート。
+
+;12日
+
+*Mastodon 2.4.3がリリース。<ref>https://github.com/tootsuite/mastodon/releases/tag/v2.4.3</ref>
+*[[Tootgetter]]がリリース。
+
+;13日
+
+*[[フォローレコメンデーションチェッカー]]がリリース。
+
+;14日
+
+*[[notestock]]がリリース。
+
+;27日
+
+*[[MastodonScript]]がリリース。
+
+;28日
+
+*マストドン日本語ウィキがメンテナンスのためアクセス不可となる。
+
+;29日
+
+*マストドン日本語ウィキのメンテナンスが終了、VPSへの移転が行われた。
+
+;30日
+
+*[[TheDesk]]が[[Misskey]]に対応。
+
+==8月==
+
+;4日
+
+*[[Mastodon.kitchen]]がスタート。
+
+;7日
+
+*[[SCP-Mastodon]]が改名。
+
+;10日
+
+*[[ムトー★マストドンホスティング|ムトー★無料マストドン]]が全サービスを停止。ホスティング元の業者が規約に違反したとしてサーバーを停止させたためとされる。
+
+;15日
+
+*[[Followfriday indies]]がスタート。
+
+;16日
+
+*TwitterのUser Streaming APIが廃止される。
+
+;18日
+* [[Pawoo]]が40万ユーザー突破。
+*[[Misskey]]に対応した[[Subway Tooter]]のベータ版がAPKで配布開始。正式リリースは21日<ref>https://github.com/tateisu/SubwayTooter/releases?after=v2.7.4</ref>。
+
+;19日
+* [[mstdn.jp]]がDDoS攻撃を受けダウン。
+* [[Becodon]]が[[Pleroma]]に移行。
+
+;20日
+* [[mstdn.jp]]が復旧し、GitHubからGitLabに移行などが行われた。
+* [[AnonyMasto]]がログの収集を開始。
+* [[マ]]が終了。
+
+;21日
+* [[Halcyon]]が日本語化。
+* [[ミステリーポスト]]が終了。
+
+==9月==
+;9日
+* [[mirrortter]]がリリース。
+
+;14日
+
+* [[ムトー★マストドンホスティング]]の無料プランが終了。
+
+;21日
+* [[TheDesk]]が最終リリース。開発は一時中断される。
+
+;25日
+* [[スマトドン]]が開始。
+* [[合同会社きぼうソフト]]が[[mstdn.jp]]を譲受する事を発表<ref>https://prtimes.jp/main/html/rd/p/000000001.000037625.html</ref>。
+
+;28日
+* [[TheDesk]]がMicrosoftストアで配信される。
+
+==10月==
+;1日
+* '''[[mstdn.jp]]が[[合同会社きぼうソフト]]に移管。'''
+;6日
+* [[Pleroma]]が[[Markdown]]投稿に対応。<ref>8月末にも実装されたがすぐに取り消された。</ref>
+* [[Mastodon InstanceTicker|Mastodon #InstanceTicker]]がリリース。
+;10日
+* [[労働者たちのMastodon]]が一時閉鎖。
+* [[Oyakodon for Mastodon]]が一年ぶりにアップデート。
+;11日
+* [[theboss.tech]]が無修正性器画像に対する処置としてユーザーペナルティを独自実装。
+;14日
+* [[misskey.site]]が開始。
+;15日
+* [[星プテラノ]]がリリース。
+;18日
+* [[労働者たちのMastodon]]が復活。
+;21日
+* [[Mast]]がリリース。
+;22日
+* [[Toot!]]がリリース。
+;26日
+* [[Pawoo]]の公式スマートフォンアプリが提供終了。
+
+==11月==
+;1日
+* [[DANCE-DANCE-DANCE.SPACE]]が閉鎖。
+;4日
+* [[Gallery]]がリリース。
+;8日
+* [[鯖缶工場Wiki]]がスタート。
+;10日
+* [[Write Freely]]がリリース。
+;19日
+* [[ActivityRelay (kaniini)]] がリリース。
+;22日
+* [[Mastodog.net]]が開始。
+
+==12月==
+; 20日
+* [[Mastodon Bridge]]が削除。
+
+==脚注==
+<references />
+
+[[カテゴリ:年別の出来事|*]]

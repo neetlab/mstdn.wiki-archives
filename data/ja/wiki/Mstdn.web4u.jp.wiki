@@ -1,0 +1,18 @@
+{{小文字}}
+{{Infobox instance
+| Name          = mstdn.web4u.jp
+| Domain        = https://mstdn.web4u.jp/
+| Admin         = 桔梗（キキョウ）
+| Country       = 日本
+| Start         = 2017年4月15日
+| End = 2017年8月30日
+| Kifu          = [https://enty.jp/bellflower2015 Enty]
+| Alias         = なし
+}}'''mstdn.web4u.jp'''は、オープンソースのソーシャルネットワークMastodonの[[インスタンス]]。
+
+== 概要 ==
+桔梗（キキョウ）氏により立てられたインスタンス。
+
+インスタンス維持の理由が無くなったのを理由に、2017年8月30日をもってインスタンスは停止した。
+
+{{DEFAULTSORT:web4u}}

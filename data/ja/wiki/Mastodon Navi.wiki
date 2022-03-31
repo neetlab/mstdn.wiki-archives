@@ -1,0 +1,20 @@
+{{Infobox software
+| Name = {{Ruby|Mastodon Navi|マストドンナビ}}
+<!--| Image = -->
+| Developer = 株式会社 KeyLife
+| Platform = ウェブ
+| Launch = 2017年5月2日<ref><nowiki>http://www.key-life.biz/news/20170502-mastodonnavi.php</nowiki> (リンク切れ)</ref>
+| Web = <nowiki>https://mastodonnavi.info</nowiki>
+}}[https://mastodonnavi.info/ Mastodon Navi]は、マストドンに関するウェブアプリケーション。
+
+== 概要 ==
+「Mastodonを一発横断検索」と説明されているが、実際の動作は[[タイムラインビューア|ローカルタイムラインのプレビューア]]に近い。ユーザーが指定した複数のインスタンスのローカルタイムラインを読み込み、その中からトゥートをハッシュタグ<ref>検索対象はハッシュタグに限られており、フリーワードでの検索には対応していない。</ref>で検索することができる。
+
+2019年10月時点では、全く別のWordPressブログになっているため、以前のような機能の使用はできない。
+
+== 脚注 ==
+<references />
+
+[[category:タイムラインビューア]]
+[[category: 検索エンジン]]
+[[category:運用が放棄されたウェブサイト]]

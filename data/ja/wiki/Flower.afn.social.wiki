@@ -1,0 +1,20 @@
+{{Infobox instance
+| Name          = flower.afn.social
+| Image         = [[ファイル:Flowerafnsocial.png|300px]]
+| Domain        = https://flower.afn.social/
+| Admin         = [https://flower.afn.social/@dechin_gun とある科学の超でちん砲]
+| Country       = 日本
+| Start         = 2017年4月23日
+| Kifu          = なし
+| Alias         = あふん鯖など
+}}'''flower.afn.social'''は、オープンソースのソーシャルネットワークMastodonの[[インスタンス]]。
+
+== 概要 ==
+ネットゲームのRPG「フラワーナイトガール」の話題を主体としたインスタンスである。
+
+インスタンス名はゲーム内で『頭お花畑』から生まれた「頭フラワーナイト」略して「AFN、あふん」という語が由来。
+
+ユーザー数は300人ほどだが、インスタンスのトゥート数は2017年11月時点で100万以上と、かなりトゥート密度の高いインスタンスとなっている。
+
+[[category:日本のインスタンス]]
+[[Category:ゲームに関するインスタンス]]

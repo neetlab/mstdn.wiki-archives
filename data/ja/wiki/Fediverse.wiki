@@ -1,0 +1,16 @@
+{{Infobox word
+| Name   = Fediverse
+| Hinshi = 名詞, 加算
+| Hatsu  = [[identi.ca]]
+}}{{Ruby|Fediverse|フェディバース }}とは、[[分散SNS]]における[[連合]]と似た意味を持つ、マイクロブログサービスのひとつひとつの[[インスタンス|サーバー]]が[[連合]]しているネットワークの概念を捉えた俗称である。
+
+== 概要 == 
+名称の由来は ''federation''（英: [[連合]]） と ''universe''（英: 宇宙）のかばん語(2つの言葉を合成した言葉)<ref>[http://mastoguide.info/Pages/fedFAQ.html In the case of the "fediverse," meaning the network of federated instances (including those from GNU Social, Friendica, Hubzilla, Diaspora, etc.), the instances are your email clients.]</ref>、主に英語圏で用いられる。
+
+古くは[[OStatus]]プロトコルを用いたオープンソースソーシャルネットワークの[[pump.io]]サーバーである[[identi.ca]]が自身の[[連合]]機能を指すために用いたとされる。Mastodonにおいては主に[[ActivityPub]]などのプロトコルをもつ[[Pleroma]]や[[Misskey]]、[[PeerTube]]を総称する際に用いられる場合や、転じて[[連合タイムライン]]を「Fediverse」と呼称する用途も見られる。
+
+== 出典 ==
+<references />
+
+{{DEFAULTSORT:fediverse}}
+[[category:分散SNS]]

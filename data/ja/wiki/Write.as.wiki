@@ -1,0 +1,44 @@
+{{Infobox software
+| Name                = Write.as
+| Image               = [[ファイル:Writeas-logo.png|270px|Write.as]]
+| Developer           = [https://github.com/thebaer Matt Baer]
+| SourceCode          = [https://github.com/writeas/web-core GitHub]
+| Platform            = Linux互換OS (サーバーサイド)<br />ウェブ (クライアントサイド)
+| ProgrammingLanguage = Go, JavaScript
+| Launch              = 2015年1月30日<ref>[https://twitter.com/writeas__/status/561352338720702465 最も最初の投稿（Twitter上のシェア）]</ref>
+| Kifu                = [https://www.producthunt.com/posts/write-as Product Hunt]
+| License             = [[MIT]]
+| Web                 = https://write.as/
+}}{{Ruby|Write.as|ライト アズ}}とは、オープンソースの[[分散SNS]]プラットフォーム。Mediumのようなブログサービスを提供する。
+
+== 概要 ==
+2015年1月30日に[https://github.com/thebaer Matt]氏によって開発が開始された。当初はtelnetによってコマンドラインからブログを投稿できるサービスだったが、後にMediumのようなwebインターフェイスを兼ね備えるようになった。
+
+[[ファイル:Mastodon上でのwrite.asの表示.png|200px|thumb|Mastodon上でのWrite.asの表示]]
+
+2018年8月14日、[[ActivityPub]]に対応したページが一般公開された。<ref>[https://twitter.com/writeas__/status/1029347404946894848 Twitter上の投稿 "#ActivityPub support is now available to everyone!"]</ref> 現時点ではデフォルトではActivityPub上では共有されないようになっているが、[https://write.as/new/blog/federated 専用の登録ページ]から連合に対応したアカウントを作成することで[[Mastodon]]や[[Pleroma]], [[Misskey]]などの他の[[ActivityPub]]対応サービス上でも投稿の更新通知が受け取れる様になっている。
+
+== 有料プラン ==
+Write.asは多くの他の[[分散SNS]]と異なり、サービス公開後に[[ActivityPub]]に対応した商用目的のサービスのため、いくつかの機能が有料版のみに制限されている。<ref>[https://write.as/pricing 公式サイト "Pricing"]</ref> 2018年8月時点では以下のプランがある<ref>[https://write.as/me/plan 登録ページ]</ref>。
+
+=== Write Freelyプラン ===
+無料で利用できるプラン。開設できるブログの数は1つ、Markdownでの投稿、投稿数無制限、匿名投稿、[[ハッシュタグ]]によるカテゴライズ、5万文字数の投稿、[[Twitter]], Tumblr, Mediumへの同時投稿が3ヶ月間サポートされている。
+
+=== Write Casuallyプラン ===
+月間1ドルから利用できるプラン。3つのブログが開設でき、10万文字の文字数、サブドメインの利用、トップページでの紹介、ブログ移転機能、データのエクスポート、カスタマーサービスの利用ができるようになる。
+
+=== Write as Proプラン ===
+月間4ドルから利用できるプラン。10つのブログが開設でき、50万文字の文字数、Snap.asでの画像投稿、詳細なアクセス解析、静的ページ（サーバーサイドレンダリング）、厳重なパスワードによる保護、カスタムドメインの利用、ブログフォーマットの選択、カスタムCSS、Emailによる投稿、アーリーアクセスなどが利用できるようになる。
+
+== ソースコード ==
+Write.asは元々[[プロプライエタリ]]ソフトウェアであったが、後に部分的にソースコードを公開した。現在公開されているWrite.asのバックエンドサーバーのソースコードは[https://github.com/writeas/web-core GitHub]で確認できるが、フロントエンドなどの一部のソースコードは依然として公開されていない。
+
+== 関連項目 ==
+* [[Write Freely]]
+* [[Plume]]
+* [[ActivityPub]]
+
+== 出典 ==
+<references />
+
+[[category:分散SNS]]

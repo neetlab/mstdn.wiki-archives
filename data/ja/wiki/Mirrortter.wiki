@@ -1,0 +1,69 @@
+{{Infobox software|Name=mirrortter|<!--Image=|-->Developer=[[新都心]]|SourceCode=[https://github.com/neet/mirrortter GitHub]|Platform=Node.jsの動作するサーバー|ProgrammingLanguage=TypeScript|Launch=2018年9月9日<ref name="launch">{{toot|mastodon.social|neet|100696219466892400|2018年9月9日}}</ref>|Kifu=[https://www.patreon.com/neetshin Patreon]|License=[[GNU Affero General Public License]]3.0<!--|Web=|Download=-->}}'''mirrortter'''は、[[Mastodon]]の投稿を[[Twitter]]に同期するオープンソース・ソフトウェア。
+==概要==
+[[新都心]]によって{{Jawp|TypeScript}}で開発されたソフトウェアで、2018年9月9日<ref name="launch" />より[[GNU Affero General Public License]]（AGPL）3.0のライセンスのもと[[GitHub]]上で公開されている<ref name="github">[https://github.com/neet/mirrortter GitHub]</ref>。
+
+Mastodon、Twitterのアクセストークンなど複数の項目を設定した上でデプロイすることで同期が開始される。ツイート（Twitter上の投稿）に投稿元の[[トゥート]]（マストドン上の投稿）のURLを添付するか、[[Content Warning|CW]]や[[NSFW]]の設定された投稿をどのように同期するか、未収載以下の公開範囲の狭い投稿を同期するか、投稿を同期する間隔、ストリーミングなど、様々な設定ができるのが特徴。
+==設定項目==
+{| class="wikitable"
+|-
+!scope="col"|項目
+!scope="col"|内容
+|-
+|<code>MASTODON_URL</code>
+|Mastodonの[[インスタンス]]URL。
+|-
+|<code>MASTODON_STREAMING_URL</code>
+|Mastodonの[[ストリーミングAPI]]エンドポイント。
+|-
+|<code>MASTODON_ACCESS_TOKEN</code>
+|Mastodonのアクセストークン。
+|-
+|<code>TWITTER_CONSUMER_KEY</code><br /><code>TWITTER_CONSUMER_SECRET</code><br /><code>TWITTER_ACCESS_TOKEN</code><br /><code>TWITTER_ACCESS_TOKEN_SECRET</code>
+|Twitterの認証情報。
+|-
+|<code>FETCH_INTERVAL</code>
+|投稿を同期する間隔。
+|-
+|<code>USE_STREAMING</code>
+|ストリーミングAPIを使用するかの可否。<code>true</code>の場合<code>FETCH_INTERVAL</code>は無視される。
+|-
+|<code>MIRROR_BOOSTS</code>
+|Mastodonで[[ブースト]]した投稿の同期の可否。
+|-
+|<code>MIRROR_MENTIONS</code>
+|Mastodonで[[メンション]]した投稿の同期の可否。
+|-
+|<code>MIRROR_SENSITIVE</code>
+|センシティブな投稿の同期の可否。
+|-
+|<code>MIRROR_WITH_URL</code>
+|ツイートに同期元のトゥートURLを添付するか。以下の設定が可能。
+*<code>always</code>
+:*同期ツイートに必ずURLを添付する。
+*<code>only_media</code>
+:*メディアが添付されている場合にURLをツイートする。
+*<code>only_sensitive</code>
+:*センシティブな投稿の場合にURLをツイートする。
+*<code>media_or_sensitive</code>
+:*メディア添付もしくはセンシティブな投稿の場合にURLをツイートする。
+*<code>never</code>
+:*投稿内容のみ。
+|-
+|<code>ALLOWED_VISIBILITY</code>
+|同期を許可する投稿の公開範囲。<code>public</code>、<code>unlisted</code>、<code>private</code> および <code>direct</code> がスペース区切りで指定可能。
+|-
+|<code>ELLIPSIS</code>
+|文字数制限による省略の際に使用される省略記号。
+|}
+==関連項目==
+*[[新都心]]
+*[[Mastodon]]
+*[[Twitter]]
+:*[[Twitter→Mastodonトゥート同期アプリ]]
+:*[[MASTMAN]]
+==出典==
+<references />
+{{小文字}}
+{{DEFAULTSORT:mirrortter}}
+[[Category:ソフトウェア]]
+[[Category:GNU Affero General Public License]]

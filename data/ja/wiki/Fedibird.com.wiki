@@ -1,0 +1,48 @@
+{{Infobox instance
+| Name          = {{Ruby|'''Fedibird.com'''|フェディバード ドット コム}}
+| Domain        = https://fedibird.com
+| Admin         = [https://dtp-mstdn.jp/@noellabo のえる]
+| Country       = 日本国
+| Start         = 2019年8月17日
+| Alias = Fedibird, フェディバ, フェ鳥
+}}
+'''Fedibird'''（'''fedibird.com'''）とは、[[マストドン]]のサーバーの一つである。
+
+==概要==
+[[DTP-Mstdn.jp]]管理者でもある[https://dtp-mstdn.jp/@noellabo のえる]氏により、2019年8月17日<ref>https://fedibird.com/@noellabo/102630212689905541 - 現存する最古投稿。</ref>より運用が行われている。
+
+特にテーマの定められていない汎用サーバの一つで、「互いに干渉せず、同調を求められない、自由な場所を作るため」として、マストドンのデフォルト機能の一つである[[ローカルタイムライン]]が廃されている特徴をもつ<ref>https://fedibird.com/@noellabo/102932177393394834</ref>。一方でコミュニティタグとして[[ハッシュタグ]]「'''#fedibird'''」が設けられており、サーバーについての話題や質問などはこのハッシュタグから行われている<ref>https://fedibird.com/@info</ref>。
+
+いくつかのサーバーは「日本の判断基準においてメディアの受け入れが困難なため」として制限がかけられている<ref>https://fedibird.com/about/more</ref>。
+
+bot開発向けサーバーの「'''bot.fedibird.com'''」も存在したが、2019年11月30日をもっての終了がアナウンスされている。
+
+2020年12月27日に Fedibird の姉妹サーバーとして「'''nightly.fedibird.com'''」の運用が開始され、こちらはテスト用サーバーの位置づけ<ref>https://nightly.fedibird.com/about/more</ref>で、利用者からは「夜鯖」などと呼ばれている。
+
+=== Mastodon 以外の運用サーバー ===
+なお、fedibird.comドメイン上において Mastodon のほかには、2019年6月15日には [[Prismo]]サーバー<ref>https://dtp-mstdn.jp/@noellabo/102274514066408113</ref> 、2021年2月28日には Matrixサーバー<ref>https://fedibird.com/@noellabo/105806833029013411</ref> の運用が開始されている。
+
+（関連リンク参照）
+
+==関連項目==
+
+*[[DTP-Mstdn.jp]]
+
+== 関連リンク ==
+
+=== Mastodon ===
+
+* [https://fedibird.com Fedibird.com]
+* <s>bot.fedibird.com</s> - かつて存在したbot開発向け Mastodonサーバー。
+* [https://nightly.fedibird.com nightly.fedibird.com] - 姉妹サーバーでテスト用の Mastodonサーバー。
+
+=== Mastodon 以外 ===
+
+* [https://prismo.fedibird.com/ prismo.fedibird.com] - Prismoサーバー
+* [https://matrix.fedibird.com matrix.fedibird.com] - Matrixサーバー
+
+==脚注==
+<references />
+
+[[category:日本のインスタンス]]
+[[category:独自機能が実装されたインスタンス]]

@@ -1,0 +1,27 @@
+{{Infobox instance
+| Name          = 釣り人専用のマストドン「{{Ruby|MASTODON FISHING|ますとどん ふぃっしんぐ}}」
+| Image         = [[ファイル:MASTODON FISHING.png|300px]]
+| Domain        = https://mastodon.fishing/
+| Admin         = [https://mastodon.fishing/@fishing_admin @fishing_admin]
+| Country       = 日本
+| Start         = 2017年4月27日
+| End = 不明
+| Kifu          = 不明
+| Alias         = 不明
+}}'''MASTODON FISHING'''は、オープンソースのソーシャルネットワーキング・サービスMastodonの[[インスタンス]]。
+
+== 概要 ==
+釣り人に向けて立ち上げられたインスタンス。特徴として「[[トゥート]]」が「'''キャスト'''」に変わっている点がある。
+
+2018年5月の時点でアクセスできなくなっている。閉鎖時期は不明。
+
+==エピソード==
+「セキュリティ確保や安定的な運用のため、常に最新版のマストドンプログラム適用や、データの定期バックアップなどを行っております<ref>https://mastodon.fishing/about/more</ref>」とあるが、バージョンは1.4.1である。
+
+== 関連項目 ==
+* [[ナチュドンフィッシング]] - 同じく釣りをテーマにしている。
+
+==脚注==
+<references />
+
+{{DEFAULTSORT:mastodonfishing}}

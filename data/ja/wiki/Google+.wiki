@@ -1,0 +1,27 @@
+{{stub}}
+'''Google+'''は、{{Jawp|Google Inc.}}が提供していた[[SNS]]である。
+
+==概要==
+2011年6月28日より、Google Inc.によって提供が開始されたSNS。
+
+Googleのアカウントを利用した実名制のSNSであり、AKB48のメンバーとのコラボ企画などが行われるなどして多くのユーザーを集めたが、アクティブユーザーの低迷を理由に、[[2019年]]4月2日<ref>https://www.blog.google/technology/safety-security/expediting-changes-google-plus/</ref><ref>https://support.google.com/plus/answer/9195133</ref>に閉鎖された。
+
+[[oransns.com]]や[[Plustodon.net]]、[[itabashi.0j0.jp]]などといった[[Mastodon]]のサーバーは管理者をはじめとしてGoogle+のユーザーが多く利用しているなど、一部サーバーへの影響もみられる。また、サービスの終了に際して、Google+風の外見を再現したクライアントの[[Cuckoo.Plus]]や、ユーザースタイルシートの[[GooglePlus Theme for Mastodon]]などが制作され、同SNSを支持していたユーザーを中心に利用されている。
+
+==関連項目==
+* [[Avalanche]]
+* [[Cuckoo.Plus]]
+* [[G+Don]]
+* [[GooglePlus Theme for Mastodon]]
+* [[Oransns.com]]
+* [[Itabashi.0j0.jp]]
+
+==外部リンク==
+* https://plus.google.com
+* https://github.com/GenbuProject/GPlusTheme-for-Mastodon
+
+==脚注==
+<references />
+
+{{DEFAULTSORT:googleplus}}
+[[カテゴリ:ウェブサイト]]

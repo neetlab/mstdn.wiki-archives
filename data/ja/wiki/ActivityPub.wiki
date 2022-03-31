@@ -1,0 +1,19 @@
+[[file:ActivityPub-logo.svg|right|300px|thumb|ActivityPub]]
+'''ActivityPub'''は、分散SNSのインスタンス間のプロトコル。[[OStatus]]の後継規格である。W3Cの勧告として標準化されている。
+
+マストドンでは2017年9月のバージョン1.6.0から導入された。
+
+==他の分散SNSとの関係==
+ActivityPubで連合を形成することが可能な分散SNSには、マストドンの他に以下のものがある。
+* [[PeerTube]]
+* [[Pleroma]]
+* [[Misskey]]
+* [[microblog.pub]]
+* [[Hubzilla]]
+
+==外部リンク==
+* https://www.w3.org/TR/activitypub - W3CのActivityPubのページ
+* https://activitypub.rocks - ActivityPubのテストスイートと実装レポートが置かれている
+
+[[category:ActivityPub|*]]
+{{DEFAULTSORT:activitypub}}

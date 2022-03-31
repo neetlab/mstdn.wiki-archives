@@ -1,0 +1,23 @@
+'''<ruby>5F<rt>ごえふ</rt></ruby>'''とは、オープンソースのソーシャルネットワークMastodonにおいて、誤って意図しない[[お気に入り]]登録をしてしまうことを指す象語。
+
+同義語に'''誤ふぁぼ'''など。
+{{Infobox word
+| Name          = <ruby>5F<rt>ごえふ</rt></ruby>
+| Hinshi        = 名詞
+| Hatsu         = [[Mastodon.cloud]]
+}}
+
+== 概要 ==
+Mastodonにおける<ruby>5F<rt>ごえふ</rt></ruby>は誤Favoriteの略で、TLが早すぎるなどの原因により意図しないお気に入り登録をしてしまうことを指す。
+
+== 関連項目 ==
+* [[象語]]
+* [[5B]]
+* [[5P]]
+
+== 出典 ==
+
+<references/>
+
+{{DEFAULTSORT:5f}}
+[[category:象語]]

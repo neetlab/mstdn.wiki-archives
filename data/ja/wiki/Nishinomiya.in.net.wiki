@@ -1,0 +1,23 @@
+{{Infobox instance
+| Name          = <ruby>nishinomiya.in.net<rt>ニシノミヤ ドット イン ドット ネット</rt></ruby>
+| Image         = [[ファイル:Nishinomiya.png|300px]]
+| Domain        = https://nishinomiya.in.net/
+| Admin         = [https://nishinomiya.in.net/@director @director@nishinomiya.in.net]
+| Country       = 日本 <!-- (兵庫県西宮市) -->
+| Start         = 2017年4月24日
+| Kifu          = 2018年4月24日
+| Alias         = 西宮どん
+}}'''西宮 in Net'''は、オープンソースのソーシャルネットワークMastodonによる兵庫県西宮市のご当地[[インスタンス]]。
+
+== 概要 ==
+いわゆる地域密着型インスタンスの一つ。西宮市に関わるユーザーか興味のあるユーザーなどを対象に立ち上げられた。
+
+2018年3月26日、管理者の@director@nishinomiya.in.net氏により、同年4月24日にサイトのドメインが期限切れになると発表。インスタンスのアクティブユーザーが減少していることなどを理由に、それに合わせてのインスタンスの終了が発表された<ref>https://nishinomiya.in.net/users/director/updates/1287{{リンク切れ|date=2018年7月}}</ref>。
+
+== 関連項目 ==
+* [[都道府県のインスタンス一覧]]
+
+== 出典 ==
+<references />
+
+{{DEFAULTSORT:にしみやいんねつと}}

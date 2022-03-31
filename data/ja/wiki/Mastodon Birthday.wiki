@@ -1,0 +1,22 @@
+{{Infobox software
+| Name                = Mastodon Birthday
+<!-- | Image               = [[ファイル:Amaroq.jpg|120px|Amaroq]] -->
+| Developer           = Kazuki Hamasaki (ashphy)
+| SourceCode          = https://github.com/ashphy/mastodon-birthday
+| Platform            = ウェブ
+| ProgrammingLanguage = Ruby
+| Launch              = 2018年4月24日<ref>https://mstdn.jp/users/ashphy/statuses/99909435268429248</ref>
+| Kifu                = https://osushi.love/ashphy
+| License             = [[MITライセンス]]
+| Web                 = https://mastodon-birthday.herokuapp.com
+}}'''Mastodon Birthday'''は、マストドンのアカウントを作成した日を調べるウェブアプリケーション。
+
+==他の分散SNSとの関係==
+[[Pleroma]]で動作する<ref>[[User:Hakabahitoyo|記事執筆者]]による独自調査。</ref>。
+
+==脚注==
+<references />
+
+{{DEFAULTSORT:birthday}}
+[[category:ウェブサイト]]
+[[category:MITライセンス]]

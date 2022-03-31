@@ -1,0 +1,29 @@
+{{Infobox instance
+|Name = Framapiaf
+|Image = [[ファイル:Logo de Framapiaf.png|300px]]
+|Domain = https://framapiaf.org/
+|Admin = [https://framapiaf.org/@Framasoft Framasoft]
+|Country = フランス
+|Start = 2017年4月11日<ref>https://framapiaf.org/@spf/2</ref>
+|SourceCode = [https://framagit.org/framasoft/framapiaf Framagit]
+}}
+'''Framapiaf'''は、[[オープンソース]]の[[ソーシャル・ネットワーキング・サービス|ソーシャルネットワーク]][[Mastodon]]の[[インスタンス]]である。 
+
+== 概要 ==
+2017年4月11日に公開されたインスタンスで、運営はフランスにおいてフリーソフトウェアの普及やその促進のための様々な非営利活動を行っている[[w:fr:Framasoft|Framasoft]]。
+
+2018年6月27日現在ユーザー数は5700人を超え、総トゥート数は59万を超す。
+
+== 特徴 ==
+[[ファイル:Page_d’accueil_de_Framapiaf.png|thumb|right|300px|ランディングページ]]
+Mastodonは黒と青を基調とするデザインが特徴だが、このインスタンスでは白と紫が基調となっている。
+
+また、インスタンスのランディングページも大きく変更されており、Framapiafのサービスや、それを実行するソフトウェアに関する情報が掲載されている。
+
+== 出典 ==
+<references />
+
+[[Category:フランスのインスタンス]]
+[[Category:独自機能が実装されたインスタンス]]
+[[Category:企業が運用しているインスタンス]]
+[[fr:Framapiaf.org]]

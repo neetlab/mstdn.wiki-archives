@@ -1,0 +1,52 @@
+{{混同|iMast}}
+{{Infobox software
+| Name                = {{Ruby|Mast|マスト}}
+| Image               = [[ファイル:mast.jpg|120px|Mast]]
+| Developer           = [https://mastodon.technology/@JPEG Shihab Mehboob]
+| SourceCode          = https://github.com/ShihabM/Mast
+| Platform            = iOS
+| ProgrammingLanguage = Swift
+| Launch              = 2018年10月21日<ref>{{toot|mastodon.technology|JPEG|100930039238945377}}</ref>
+| License             = [[GNU General Public License]]
+| Web                 = https://mast.helpsite.com/articles/31613-get-started-with-mast
+| Download            = [https://itunes.apple.com/jp/app/mast/id1437429129 AppStore]
+}}'''Mast'''は、[[Mastodon]]のiOS向け[[クライアント]]である。開発者は[https://mastodon.technology/@JPEG Shihab Mehboob]。
+
+==概要==
+2018年10月21日よりAppStoreにおいて480円でリリースされている。
+
+「美しいマストドンアプリ」を謳ったアプリケーションで、独自性の高いインターフェースが非常に特徴的なクライアントである。
+
+機能面も非常に充実しており、カスタム性が高いのも特徴である。
+
+==機能==
+;テーマの切り替え
+*ライトモード、ダークモード、省電力を謳う真のダークモードの3段階が用意されており、画面を長押しするか設定から切り替えができる。
+
+;トゥート編集
+*[[Content Warning]]などといった基本的機能を始め、[[メンション]]のオートコンプリート、[[カスタム絵文字]]や顔文字の挿入、英数文字の字体変換、NowPlayingといった機能を利用できる。
+
+;トゥートへの操作
+*トゥートを左右にスワイプすることで、お気に入り、ブースト、リプライ、またミュートやブロック、翻訳などといった操作を行える。
+*トゥートへのリプライをスレッド形式で表示できる。
+
+;ユーザープロフィール
+*リンクの表示に対応している。
+*メディアをタイル形式で横に表示している。
+
+;その他
+*3Dtouchによる操作をサポートしている。
+*TodayExtension、ShareExtension、Siriショートカットをサポートしている。
+*Apple Watchをサポートしており、タイムラインの閲覧やトゥートの投稿が可能である。
+*iMessageステッカーを提供している。
+*アプリアイコンを20通りのバリエーションから変更できる。
+ほか
+
+==ライセンス==
+App Storeで有料で販売されているにもかかわらず、ソースコードが公開されており、[[GNU General Public License]] 3.0で提供されている。
+
+==脚注==
+<references />
+
+[[category:iOS用クライアント]]
+[[category:GNU General Public License]]

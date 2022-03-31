@@ -1,0 +1,21 @@
+{{小文字}}
+{{Infobox instance
+| Name = mstdn.awa.sfc.keio.ac.jp
+| Domain = https://mstdn.awa.sfc.keio.ac.jp
+| Admin = [https://mstdn.awa.sfc.keio.ac.jp/@nunnun Hirotaka Nakajima (中島 博敬)]ほか多数
+| Country = 日本
+| Start = 2017年4月18日<ref>https://mstdn.awa.sfc.keio.ac.jp/@nunnun/1</ref>
+| End = 不明
+}}'''mstdn.awa.sfc.keio.ac.jp'''とは、[[オープンソース]]の[[分散SNS]]、[[Mastodon]]の[[インスタンス]]。
+
+== 概要 ==
+{{Jawp|慶應義塾}}の、研究室の垣根を超えた多数のスタッフによって教育・研究目的のため2017年4月18日より運用が行われている、ac.jp下のインスタンスの一つ。慶應義塾が正式に立ち上げたインスタンスではない<ref>https://mstdn.awa.sfc.keio.ac.jp/about/more</ref>。
+
+<code>keio.jp</code>もしくは<code>keio.ac.jp</code>のメールアドレスを所持しているユーザーのみアカウントを作成することができ、2018年5月現在約700のアカウントが作成されている。
+
+2018年1月ごろにはアクセスができなくなるも、2018年2月18日にMastodonのバージョンアップと併せて復帰している。
+
+2019年5月現在、消滅状態。
+
+== 脚注 ==
+<references />

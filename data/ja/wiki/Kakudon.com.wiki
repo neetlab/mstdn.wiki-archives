@@ -1,0 +1,26 @@
+{{infobox instance
+|Name = '''かくどん'''
+|Domain = https://kakudon.com
+|Country = 日本
+|Admin = [https://diverdown.co.jp/ Diver Down]<br />[https://kakudon.com/@Neko_Inu_ Neko_Inu_]
+|Start = 2017年4月26日
+|End = 2019年3月22日
+|Kifu = なし
+|Alias = 小説インスタンスなど
+}}'''かくどん'''は、オープンソースのソーシャルネットワークMastodonの[[インスタンス]]。
+
+== 概要 ==
+書き手、読み手は問わず、小説が好きなユーザーを対象としたインスタンス。
+
+ログイン方法はTwitterアカウントでの[[連携ログイン]]に限られており、通常のアカウント作成はできなくなっている。
+
+2019年3月22日より、メンテナンスコストを理由に停止されている<ref>https://twitter.com/Diver_Down_LLC/status/1108988881293049857</ref>。
+
+==脚注==
+<references />
+
+==関連項目==
+* [[oriwebdon.com]]
+
+[[Category:日本のインスタンス]]
+[[Category:独自機能が実装されたインスタンス]]

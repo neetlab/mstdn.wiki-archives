@@ -1,0 +1,33 @@
+{{Infobox software
+| Name                = {{Ruby|Tusky|タスキー}}
+| Image               = [[ファイル:Tusky.png|120px|Tusky]]
+| Developer           = [https://mastodon.social/@ConnyDuck Conny Duck]
+| SourceCode          = [https://github.com/tuskyapp/Tusky GitHub]
+| Platform            = Android, Amazon Fire
+| ProgrammingLanguage = Java, Kotlin
+| Launch              = [[2017年]]4月
+| Kifu                = [https://liberapay.com/ConnyDuck LiberaPay]
+| License             = [[GNU General Public License]] 3.0
+| Web                 = [https://tusky.app 公式サイト]
+| Download            = [https://f-droid.org/repository/browse/?fdid=com.keylesspalace.tusky F-Droid]<br />[https://play.google.com/store/apps/details?id=com.keylesspalace.tusky Google Play]<br />[https://www.amazon.com/dp/B077ZWWX9T Amazon]
+}}
+{{Ruby|'''Tusky'''|タスキー}}は、Android・Amazon Fire向けの[[Mastodon]]用クライアント。[[2017年]]1月と比較的早い時期から開発が行われていることや、[[2018年]]3月5日現在、Amazon Fire端末上で動作する唯一のクライアント<ref>[http://www.itmedia.co.jp/news/articles/1710/14/news033.html Amazon Fireで唯一のマストドンアプリが存続の危機]</ref><ref>[http://www.itmedia.co.jp/news/articles/1802/05/news141.html Android版マストドンクライアントのTusky、ついにマルチアカウント対応]</ref>となっていることなどから、利用者も多い。
+
+==フォーク==
+TuskyはGPL3.0ライセンスの元オープンソースで配信されており、多数のフォークが制作されている。
+* '''[[Roma]]'''のAndroidアプリはTuskyの画像などを差し替えたフォークである。
+* '''[[Hiveway]]'''のAndroidアプリはTuskyの画像などを差し替えたフォークである。
+* '''[[Librem Social]]'''のAndroidアプリはTuskyの画像などを差し替え同運営のインスタンス専用に作り変えられたフォークである。
+* '''[[Gab]]'''のAndroidアプリはTuskyの画像などを差し替え検閲を除去したフォークである。
+* '''[https://play.google.com/store/apps/details?id=com.farahead.fediverse Fediverse (Androidアプリ)]'''はTuskyの画像などを差し替えたフォークである。有料で配信されている。
+* '''[https://play.google.com/store/apps/details?id=com.keylesspalace.musky Musky]'''は、Tuskyの検閲を除去したフォークである。
+* '''[https://deploygate.com/distributions/e2ab94b9ac53ff5a840e010b4de19c667947b495 Tatuky]'''は、[[ますとどんちほー]]管理者のさばんちゃん氏によるフォーク。アプリ内の文言が同インスタンスのローカライズに差し替えられている。
+
+==関連項目==
+* [[ブラジルにおけるマストドンブーム]] Tuskyの利用者が急増した。
+
+==脚注==
+<references />
+
+[[Category:Android用クライアント]]
+[[Category:GNU General Public License]]

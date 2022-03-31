@@ -1,0 +1,28 @@
+{{Infobox instance
+| Name          = <ruby>[[niu.moe]]<rt>にゅーもえ/にうもえ</rt></ruby>
+| Image         = [[ファイル:breadeatnom.jpg|300px]]
+| Domain        = https://niu.moe
+| Admin         = [https://niu.moe/@Technowix Technowix]
+| Country       = フランス共和国
+| Start         = 2017年4月5日
+| Alias         = 萌え鯖
+|End=2020年12月31日}}<ruby>[[niu.moe]]<rt>にゅーもえ/にうもえ</rt></ruby>とは、オープンソースのソーシャルネットワーク[[Mastodon]]のインスタンスである。
+
+==概要==
+<blockquote>
+niu.moeは、Mastodon内だけではなく世界で一番キュートなInstanceです\(ˆ˚ˆ)/!
+ここの主な話題はオタク文化やIT、セキュリティについでですが、Coolな@niu.moeのタグが欲しい人も歓迎です。
+</blockquote>
+
+[https://niu.moe/@Technowix Technowix]氏によって2017年4月5日に開設された'''英語,フランス語,および日本語向け'''のインスタンスで、オタク文化やセキュリティについてのトゥートが多い傾向にある。
+
+インスタンス名の読み方は、英語ではそのまま"niu-moe", 日本語では「にうもえ」または「にゅーもえ」のどちらもが正しいとされている<ref>https://niu.moe/@Technowix/185410</ref>。
+
+==ローカルルール==
+2018年7月30日現在では、投稿などについて様々なルールが策定されており、中でも添付ファイルに関するルールが細かく定められているのがユニークである。
+
+==出典==
+<references />
+
+{{DEFAULTSORT:niumoe}}
+[[category:フランスのインスタンス]]

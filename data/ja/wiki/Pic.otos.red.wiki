@@ -1,0 +1,60 @@
+{{DISPLAYTITLE:PICTODON}}
+{{混同|Pictdon}}
+{{unreachable|year=2020|month=1}}
+{{Infobox instance
+| Name = PICTODON
+| Image = [[file:picotosred.png|180px]]
+| Domain = https://pic.otos.red
+| Admin = [https://pic.otos.red/@NASA NASA]
+| Moderator = 
+| Country = 日本
+| Start = 2018年3月
+| End = 
+| Kifu = 
+| SourceCode = [https://github.com/HaruruStudio/pictodon/tree/master GitHub]
+| Alias = ピクトドン、ピクト丼など
+}}'''PICTODON'''または'''pic.otos.red'''は、[[オープンソース]]の[[分散SNS]]、[[Mastodon]]の[[インスタンス]]。
+
+== 概要 ==
+NASA氏により2018年3月に立ち上げられたインスタンス。インスタンス名の由来は画像のみしか[[トゥート]]できないインスタンスとして立ち上げられたことから<ref>https://mstdn.y-zu.org/@NASA/99704250326648740</ref><ref>https://mstdn.y-zu.org/@NASA/99704254763128940</ref>。
+
+現在では画像以外のトゥートも出来るようになっているが、画像の投稿機能を中心に多くの独自実装を行なっている。
+
+2020年1月現在、アクセスできなくなっている。
+
+== 独自機能 ==
+[[マストポータル]]の[https://mastportal.info/instance/pic-otos-red ページ]も参照のこと。
+
+=== [[連携ログイン]] ===
+Googleと[[Twitter]]の[[アカウント]]を用いてアカウントを登録する[[連携ログイン]]を行うことができる。
+
+=== 投稿の背景色変更 ===
+インスタンス内で表示されるトゥートの背景色を変更することができる。外部からはカラーコードが表示される。
+
+=== 位置情報付き投稿 ===
+位置情報を地図から選択し、トゥートに添付することができる。外部からは表示されない。
+
+=== GIF画像検索・投稿 ===
+トゥートカラムからGIF画像を検索して、動画としてトゥートに添付することができる。
+
+=== 画像の表示を変更 ===
+画像が全て縦並びになって表示される。
+
+=== メディアサイズの拡張 ===
+アップロード可能なファイルの最大容量が20MBまで引き上げられている。
+
+=== MastodonRaterの内蔵 ===
+ウェブアプリケーション「[[MastodonRater]]」の機能の一部がWebUIで利用できる。
+
+=== 特殊な文字表示 ===
+「ユリアーモ文字」「踊る人形」を表示することができる。
+
+== 関連項目 ==
+* [[連携ログイン]]
+* [[chofudon.tokyo]] - 同様の位置情報付き投稿機能を実装している。
+
+== 出典 ==
+<references />
+
+[[Category:独自機能が実装されたインスタンス]]
+[[category:消滅したインスタンス]]

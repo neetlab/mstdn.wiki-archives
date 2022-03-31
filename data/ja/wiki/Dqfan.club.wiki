@@ -1,0 +1,24 @@
+{{Infobox instance
+| Name          = dqfan.club
+| Domain        = https://mastodon.dqfan.club/
+| Admin         = [https://twitter.com/maryo_dq りょう松さん]
+| Country       = 日本
+| Start         = 2017年4月16日
+| End = 不明
+| Kifu          = 不明
+| Alias         = 不明
+}}'''dqfan.club'''はオープンソースのソーシャルネットワークMastodonの[[インスタンス]]。
+
+== 概要 ==
+ゲーム好き、ロールプレイングゲーム「ドラゴンクエスト」好きなどのユーザーに向け立てられた。
+
+4月18日にデータベースが消失しており、再スタートしている。
+
+2017年12月25日時点ではアクセスできなくなっている。
+
+== 関連項目 ==
+* [[Foresdon.jp]]
+
+[[category:日本のインスタンス]]
+[[Category:ゲームに関するインスタンス]]
+{{DEFAULTSORT:dqfunclub}}

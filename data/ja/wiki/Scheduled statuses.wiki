@@ -1,0 +1,21 @@
+{{infobox feature
+| Name      = Scheduled statuses(予約投稿/時間指定投稿)
+| Version   = 2.7.0
+| Endpoint  = GET /api/v1/scheduled_statuses (一覧の取得)
+| Available = 全てのインスタンス
+| Link      = [https://github.com/tootsuite/mastodon/releases/tag/v2.7.0 実装されたリリース]
+}}'''Scheduled statuses'''は、2019年1月4日に[[マストドン公式リポジトリ]]にマージされ、バージョン2.7.0<ref>https://github.com/tootsuite/mastodon/releases/tag/v2.7.0</ref>で利用可能になった機能。
+==概要==
+ある時刻までトゥートを投稿しないようにするAPIである。
+
+バージョン2.7.0で提供されたのはAPIのみであり、UIは実装されていない。[[Subway Tooter]]はバージョン2.6.2<ref>https://github.com/tateisu/SubwayTooter/releases/tag/v3.2.4</ref>、[[TheDesk]]はMiria (17.0.1)<ref group="注釈">LinuxのSnap版のみ公式ページからダウンロード可能。Windows版はGitHub Releasesからベータ版としてダウンロード可能。</ref><ref>{{toot|kirishima.cloud|Cutls|101456928378443353}}</ref>、[[星プテラノ]]はバージョン1.12<ref>{{toot|handon.club|pgo|101496897765583816}}</ref>でこの機能のUIを先行して実装している。
+
+なお、日本語では表記揺れが存在する。[[Subway Tooter]]、[[星プテラノ]]では「予約投稿」、[[TheDesk]]では「時間指定投稿」を日本語訳として用いている。WebUIがないため、公式といえる日本語訳は現時点で存在しない。
+
+==注意==
+5分以内のトゥートは即時トゥートされる。また、サーバーの時刻設定が正しいという保証はないため、自分が思っていた投稿時刻との差異が発生する可能性がある。
+==注釈==
+<references group="注釈" />
+==出典==
+<references />
+[[category:マストドンの機能]]

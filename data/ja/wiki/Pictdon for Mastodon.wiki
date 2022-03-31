@@ -1,0 +1,29 @@
+{{混同|PICTODON}}
+{{Infobox software
+| Name = Pictdon for Mastodon
+| Image = [[file:Pictdon.png|180px]]
+| Developer = [https://pawoo.net/@o_c_ KaniCreateStudio]
+<!--| SourceCode = -->
+| Platform = iOS／Android
+| ProgrammingLanguage = 
+| Launch = 不明
+| License = プロプライエタリ
+| Download = <s>[https://play.google.com/store/apps/details?id=jp.kanicreatestudio.pictdon Google Play Store]</s><br /><s>[https://itunes.apple.com/jp/app/pictdon-for-mastodon-%E3%83%9E%E3%82%B9%E3%83%88%E3%83%89%E3%83%B3/id1227408936?mt=8&at=1001lu9P AppStore]</s>
+}}'''Pictdon for Mastodon'''は、[[オープンソース]]の[[分散SNS]]、[[Mastodon]]のスマートフォン向けクライアントの一つ。
+
+== 概要 ==
+iOS・Android向けに開発されたMastodonクライアントの一つ。
+
+「画像特化」を謳っており、[[ホーム]]・[[ローカルタイムライン]]上の画像トゥートのみを表示するのが特徴。
+
+2018年4月現在、AppStore・GooglePlayStore両ストアから消滅状態にある。
+
+同様のアプリケーションとして、iOSでは[[Illustail]]や[[ImageLine]]などがある。また、[[Pawoo]]の公式アプリは、Pawooインスタンス限定でメディアタイムラインを表示できる。
+
+== 関連項目 ==
+* [[Pawoo]]
+* [[ImageLine]]
+* [[Illustail]]
+
+[[Category:iOS用クライアント]]
+[[Category:Android用クライアント]]

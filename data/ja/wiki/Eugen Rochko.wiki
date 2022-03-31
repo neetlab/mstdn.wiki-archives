@@ -1,0 +1,22 @@
+{{Infobox person
+| Name          = <ruby>Eugen Rochko<rt>オイゲン ロチコ</rt></ruby>
+| Image         = [[ファイル:Eugen Rochko.png|300px|Eugen Rochko]]
+| Color         = #718754
+| Font          = #000
+| Instance      = [[Mastodon.social]]
+| Link          = https://mastodon.social/@Gargron
+| Else          = Mastodon開発者
+}}<ruby>Eugen Rochko<rt>オイゲン ロチコ</rt></ruby>とは、Mastodonの開発者であり、[[Mastodon.social]]の管理人である<ref>[https://mastodon.social/@Gargron Developer of Mastodon]</ref>。
+
+== 概要 ==
+24歳の若さで[[Mastodon]]を開発したデベロッパーであり、Mastodonとその[https://github.com/tootsuite/mastodon-api 公式API]の開発者である。氏は過去に存在した[https://ja.wikipedia.org/wiki/App.net App.net]というMastodon同様にTwitterライクなソーシャルネットワークを目指し開発されたプラットフォームのユーザーであったが<ref>[http://www.theverge.com/2017/4/4/15177856/mastodon-social-network-twitter-clone One of App.net’s users had been Rochko, who was drawn to it for the same reasons that would eventually lead him to build Mastodon.]</ref>、同サービスが無期限のメンテナンスに入ったことをきっかけに、TwitterとApp.netの失敗点の改善を目標としたプラットフォームの開発を開始したという<ref>[http://www.theverge.com/2017/4/4/15177856/mastodon-social-network-twitter-clone He says he has tried to learn from some of App.net’s mistakes, including a focus on becoming “a realtime cloud API company” and not a more straightforward microblogging service]</ref>。
+
+2017年6月10日には角川アスキー総合研究所主催の[[マストドン会議|マストドン会議3]]にオンライン経由で出演。[[mstdn.jp]]管理人の[[nullkal]]氏らと対談した<ref>http://lab-kadokawa26.peatix.com/</ref>。
+
+日本では当初「オイゲン '''ロッコ'''」という読みで知られていたが、実際の読みに近いのは'''ロチコ'''である。
+
+== 出典 ==
+<references/>
+
+{{DEFAULTSORT:engenrochko}}
+[[category: 人物]]

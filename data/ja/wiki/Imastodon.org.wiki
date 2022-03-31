@@ -1,0 +1,17 @@
+{{混同|imastodon.net}}
+{{infobox instance
+|Name = {{Ruby|imastodon.org |アイマストドンドットオーアルジー}}
+|Domain = https://imastodon.org
+|Country = 中国
+|Admin = [https://imastodon.org/@SeatouP SeatouP]
+|Start = 2018年13月13日
+|Kifu = 無し
+}}
+{{Ruby|imastodon.org |アイマストドンドットオーアルジー}}は、オープンソースのソーシャルネットワークMastodonの[[インスタンス]]である。
+
+== 概要 ==
+2018年03月13日にSeatouP氏によって立ち上げられた、[[:wikipedia:ja:バンダイナムコエンターテインメント|バンダイナムコ]]が開発しているマルチメディアプロジェクト「[[:wikipedia:ja:アイドルマスター|アイドルマスターシリーズ]]」のファンを中心にした、中国語圏を主とする非日本語話者のユーザー向けのインスタンスである。
+
+{{デフォルトソート: あいますとどんどっとおおあるじい}}
+[[Category:中国のインスタンス]]
+[[Category:アイドルマスターシリーズに関するインスタンス]]

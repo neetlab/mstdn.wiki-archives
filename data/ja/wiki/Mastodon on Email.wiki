@@ -1,0 +1,58 @@
+{{Infobox software
+| Name = {{Ruby|'''M'''astodon '''o'''n '''E'''mail|マストドン オン イーメール}}
+<!--| Image = -->
+| Developer = [[ProgrammerGenboo]]
+| SourceCode = [https://github.com/GenbuHase/MastodonOnEmail GitHub]
+| Platform = Google Apps Script
+| ProgrammingLanguage = JavaScript
+| Launch = 2018年3月5日
+<!--| Kifu = -->
+| License = [[MITライセンス]]
+<!--| Web = -->
+<!--| Download = -->
+}}'''Mastodon on Email'''（'''MoE'''）とは、[[オープンソース]]の[[分散SNS]]、[[Mastodon]]のクライアントである。
+
+== 概要 ==
+[[ProgrammerGenboo]]氏によって2018年3月5日より開発されているクライアントで、名前の通り、Eメールを用いてMastodonへの[[トゥート]]を行う。そのため、{{Jawp|フィーチャー・フォン}}（ガラケー）等からもトゥートが可能である。
+
+Google Apps Scriptで動作し、利用する場合はユーザーがファイルをGoogle Apps Scriptにコピーする必要がある。そしてインスタンス側でトークンを生成、トークン情報を設定することでトゥートができるようになる。
+
+== フォーマット表 ==
+[https://github.com/GenbuHase/MastodonOnEmail/blob/master/README_ja.md 公式ドキュメント]も参照のこと<ref>https://github.com/GenbuHase/MastodonOnEmail/blob/master/README_ja.md</ref>。
+{| class="wikitable"
+|-
+! scope="col"| 件名のフォーマット
+! scope="col"| 概要
+|-
+| <code>MoE{:instanceUrl}</code><ref group="注釈">instanceUrlはトゥートするアカウントのインスタンスのドメイン。</ref> 
+| フォーマットベース<br />本文の内容でトゥート
+|-
+| <code><nowiki><{:privacy}></nowiki></code><ref group="注釈"><code><nowiki><1></nowiki></code>は<code><nowiki>MoE@{:instanceUrl}<1></nowiki></code>を示す。</ref>
+| 指定された公開範囲でトゥート<br /><code>0</code>：公開<br /><code>1</code>：未収載<br /><code>2</code>：非公開<br /><code>3</code>：ダイレクト<br /><code><nowiki>その他(public | unlisted | ...)</nowiki></code>：指定された公開範囲
+|-
+| <code><nowiki>MoE:Toot</nowiki></code>
+| フォーマットベースと同様
+|-
+| <code><nowiki>MoE:Toot<{:privacy}></nowiki></code><ref group="注釈"><code><nowiki>MoE:Toot<1></nowiki></code>は<code><nowiki>MoE:Toot@{:instanceUrl}<1></nowiki></code>を示す。</ref>
+| <code><nowiki><{:privacy}></nowiki></code>と同様
+|-
+| <code>MoE:Notify</code>
+| 直近15件の[[メンション]]通知を返す。
+|-
+! scope="col"| 本文のフォーマット
+! scope="col"| 概要
+|-
+| <code><nowiki>[CW | {:CWContent}]</nowiki></code>
+| [[Content Warning]]を付けてトゥートする
+|-
+| <code><nowiki>[{:emojiCode} | {:quantity}]</nowiki></code>
+| <code>emojiCode</code>の絵文字を<code>quantity</code>個並べて置換
+|}
+=== 注釈 ===
+<references group="注釈" />
+
+== 出典 ==
+<references />
+
+[[Category:マストドンのクライアント]]
+[[Category:MITライセンス]]

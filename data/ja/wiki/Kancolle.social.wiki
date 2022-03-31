@@ -1,0 +1,20 @@
+{{小文字}}
+{{Infobox instance
+| Name          = {{Ruby|'''艦これ マストドン泊地'''|かんこれマストドンはくち}}
+| Domain        = https://kancolle.social
+| Admin         = [https://kancolle.social/@Yashima やしま＠管理人]
+| Country       = 日本
+| Start         = 2017年12月12日<ref>https://twitter.com/AquilaYashima/status/940561622992486402</ref>
+| Kifu          = [http://www.msf.or.jp/ 国境なき医師団日本]
+}}'''艦これ マストドン泊地'''または'''kancolle.social'''とは、ゲーム「艦隊これくしょん-艦これ-<ref>[http://www.dmm.com/netgame/feature/kancolle.html 「艦隊これくしょん-艦これ-」 DMM GAMES公式ページ]</ref>」をテーマにしたインスタンス。
+
+==関連項目==
+* [[艦ます]] 2017年12月に閉鎖。
+* [[recode.macro.tokyo|Mastodon #艦これ]]
+
+==脚注==
+<references />
+
+{{DEFAULTSORT:kancollesocial}}
+[[category:日本のインスタンス]]
+[[category:艦隊これくしょんに関するインスタンス]]

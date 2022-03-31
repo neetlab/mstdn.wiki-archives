@@ -1,0 +1,15 @@
+{{infobox instance
+|Name = '''social.tchncs.de'''
+|Domain = https://social.tchncs.de
+|Country = ドイツ
+|Admin = https://social.tchncs.de/@Milan Milan
+|Start = 2017年1月26日
+|Kifu = [https://tchncs.de/donate Donation]
+|Alias = 
+}}'''social.tchncs.de'''は、オープンソースのソーシャルネットワークMastodonの[[インスタンス]]。
+
+== 概要 ==
+2017年1月26日と、比較的早い時期に立てられたインスタンス。
+
+{{DEFAULTSORT:tchncsde}}
+[[Category:ドイツのインスタンス]]

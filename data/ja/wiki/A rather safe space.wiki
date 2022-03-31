@@ -1,0 +1,18 @@
+{{stub}}
+
+'''A rather safe space'''または'''FediBlock'''は、[[ドメインブロック]]を推奨する[[インスタンス]]のリストを公開しているウェブサイト。インポート用のCSVファイルも提供している。また、リストの更新を通知するマストドンのアカウントも運用している。
+
+現在 (2021年12月) の作者はPaula<ref>https://paulatothepeople.eu/</ref>である。
+
+==関連項目==
+* [[Join the Fediverse (Wiki)]]
+
+==外部リンク==
+* https://rathersafe.space/
+* https://a.rathersafe.space/@fediblock
+
+==脚注==
+<references />
+
+{{DEFAULTSORT: arathersafespace}}
+[[category:ウェブサイト]]

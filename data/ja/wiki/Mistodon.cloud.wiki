@@ -1,0 +1,17 @@
+{{Infobox instance
+| Name = Mistodon.cloud
+| Domain = https://mistodon.cloud/
+| Admin = こすふぃー
+|Image=[[ファイル:mistodon.png|120px|mistodon.cloudロゴ]]|Country=日本|Start=2021年3月31日|Alias=霧鯖、霞鯖}}
+
+'''Mistodon.cloud'''とは、オープンソースのソーシャルネットワークMastodonの[[インスタンス]]。
+
+==概要==
+
+[[Mostodon.cloud|Mostodon.cloud]]の閉鎖を受けて、さらなる「避難所」として[https://mistodon.cloud/@cosphi こすふぃー]氏により立ち上げられたインスタンスである。
+
+2021年3月31日より運用を開始した。
+
+特に決まったテーマはなく、各自が雑談を行っているインスタンスであるが、
+
+かつての[[クラウド女学院]]の名残であるように、フランスのJCJKを名乗っている。

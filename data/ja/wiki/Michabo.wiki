@@ -1,0 +1,8 @@
+{{stub}}
+'''Michabo'''は、[[Pleroma]]と[[Mastodon|マストドン]]に対応したデスクトップクライアント。
+
+* https://git.pleroma.social/kaniini/michabo
+* https://pleroma.site/notice/9jt7QJrrLoejEYOYRE
+
+{{DEFAULTSORT:michabo}}
+[[category:デスクトップクライアント]]

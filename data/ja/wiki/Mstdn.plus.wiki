@@ -1,0 +1,31 @@
+{{Infobox instance
+| Name          = '''mstdn.plus'''
+| Domain        = https://mstdn.plus
+| Admin         = [https://mstdn.jp/@ookita <rt>大喜多利哉</rt>]
+| OS            = CentOS7
+| Country       = 日本
+| Start         = 2017年4月18日
+| Kifu          = [http://bit.ly/nagilist Amazon]
+| Alias         = プラス鯖
+}}'''mstdn.plus'''は、オープンソースのソーシャルネットワーク[[Mastodon]]の日本語向けインスタンスである。
+
+== 概要 ==
+[https://mstdn.jp/@ookita <rt>大喜多利哉</rt>]氏によって2017年4月18日に公開された個人の[[インスタンス]]であり、さくらインターネット株式会社の「さくらのクラウド」のスタートアップスクリプトで構築され<ref>[http://cloud-news.sakura.ad.jp/2017/04/18/mastodon-startup-script-release/ スタートアップスクリプト「Mastodon」をリリースしました]</ref>稼働している。
+
+== 歴史 ==
+*さくらのクラウドのスタートアップスクリプト「Mastodon」の検証用に構築された。[http://cloud-news.sakura.ad.jp/startup-script/mastodon/ スタートアップスクリプトのマニュアル]も同氏がメンテナンスしている。
+
+*なお同氏はエンジニアではないため、スクリプトは同部署の別メンバーにより作成された。
+
+*スタートアップスクリプトリリースの記事を公開したところ、さくらのクラウドニュースのサーバがダウンした。
+
+*2017年12月14日現在、本インスタンスは停止されており、検証用のインスタンスは別ドメインで運用されているようである。
+
+== ローカルルール ==
+他のインスタンスとの接続は行われているが、検証用インスタンスのため新規ユーザー登録を停止しており、インスタンス内のローカルルールは特に制定されていない。
+
+== 出典 ==
+<references/>
+
+{{DEFAULTSORT:plus}}
+[[Category:消滅したインスタンス]]

@@ -1,0 +1,20 @@
+{{Infobox website
+| Name    = Mastodon Meta Discussion Board
+<!-- | Image   = [[ファイル:Joinmastodonorg.jpg|300px]] -->
+| URL     = https://discourse.joinmastodon.org/
+<!-- | Admin   = [[Eugen Rochko]] -->
+<!-- | Country = ドイツ連邦 -->
+<!-- | Start   = 2017年5月20日 -->
+}}
+'''Mastodon Meta Discussion Board'''は、[[Mastodon|マストドン]]公式の[[Discourse]]フォーラム。マストドンについての質問、要望、議論が投稿されている。投稿は英語で行われている。
+
+[[joinmastodon.org]]の「サポート」メニューは、このフォーラムへのリンクになっている。
+
+==関連項目==
+* [[Mastodon日本語メタフォーラム]]
+
+==外部リンク==
+* [https://discourse.joinmastodon.org/ Mastodon Meta Discussion Board]
+
+{{DEFAULTSORT:mastodonmetadiscussionboard}}
+[[category:マストドン公式ウェブサイト]]

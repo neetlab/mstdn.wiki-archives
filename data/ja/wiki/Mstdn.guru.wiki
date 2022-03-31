@@ -1,0 +1,54 @@
+{{小文字}}
+{{Infobox instance
+| Name = {{Ruby|mstdn.guru|マストドン ドット グル}}
+| Domain = https://mstdn.guru
+| Admin = [https://mstdn.guru/@drikin Drikin]
+| Country = 日本国
+| Start = 2017年4月16日<ref>https://mstdn.guru/@drikin/1</ref>
+| SourceCode    = https://github.com/drikin/mastodon
+| Alias = グルドン
+}}'''グルドン'''（'''mstdn.guru'''）とは、[[オープンソース]]の[[分散SNS]]、[[Mastodon]]のインスタンス。
+
+== 概要 ==
+Youtubeやポッドキャストなどで活動しているDrikin氏により2017年4月16日より運用されている、同氏のYoutubeチャンネルリスナーに向けられているテック・ガジェットなどの話題を中心とするインスタンスで、情報共有、交流、コラボレーションを目的としている。ただし話題に関して制限は事実上存在しない<ref>https://mstdn.guru/about/more - 2018年8月7日閲覧</ref>。
+
+2018年8月7日現在でユーザー数は約2900人、トゥート数は36万となっているが、ユーザー登録は停止されており、サーバーの負荷状況に応じて開放され徐々に広げられると明記されている。
+
+ユーザ層は30代〜50代を中心に構成されており、テック・ガジェットをテーマとするインスタンスのためガジェットの購買意欲が高い傾向がある。
+
+== AGPL違反問題 ==
+[[ファイル:Mstdngurudiff.png|480px|thumb|right|画像による diff {{toot|mstdn.guru|drikin|103426248698745987}} より。]]
+
+2020年1月5日、かつて mstdn.guru では、mixlr のウィジェットを WebUI 上に追加するカスタマイズをソースコード公開しないまま行っていた過去があり、ミスによってその状態にさし戻ってしまったとされ、AGPL<ref>[[AGPL]]を参照。</ref>違反とする指摘がなされた<ref>[https://note.com/8blank71/n/n8299341bd0bd AGPLとMastodon] - 2020年1月7日閲覧</ref>。
+
+指摘に対し、管理者のDrikin氏は以下のような投稿で対抗した。この対応が、より広範な批判を招くこととなった (後述)。
+
+* 現実的には正直迷惑レベルです<ref>{{toot|mstdn.guru|drikin|103426232856733700}}</ref>
+* これだけ大人たちを巻き込んで騒いでしまったら素直にごめんなさいすることも大事だよってことかな<ref>{{toot|mstdn.guru|drikin|103427961133663165}}</ref>
+* 僕はAGPL議論がしたかった訳ではなく、過ぎた正論議論をすると和を崩して失うものがあるよってことを感じで欲しかっただけなので、そこが伝わらなかったのは残念ですが、これ以上話が長びくと若者は学べず逆効果になりそうなのでこの話しはこれにて終わりにしましょう。<ref>{{toot|mstdn.guru|drikin|103428236614190416}}</ref>
+
+その後、diffコマンドのスクリーンショット (図) を公開することで、AGPL違反は回避された。さらに、2020年1月7日からは、ソースコードは[[GitHub]]にて開示されている。
+
+===議論と反応===
+
+この問題に対しては、複数の観点から意見が出されたものの、特にDrikin氏の発言については否定的な反応が多く見られた。例えば以下のような反応が挙げられる。
+
+* 個人的には問題だと思っていない。ここはbsリスナーのためのものだから最近はマストドンという枠組みよりもクローズドコミュニティである事に意識を向けがち。そしてドリキンさんが言っていたのは「正論を騒いでも人を動かすのは難しい」という多分ドリキンさんが教訓のように思っていることだし、mixlr復活の件は「要求を完全スルーしたから実装しよう」としたわけでもない。とはいえさくらさんにサポートして頂いているので今後はその辺ちゃんとやっていったほうが良さそうだなとは思う。ただ、他にも色々やっているしここはその一部でしかないので長い目で見ていかなきゃいけないなーってかんじかな。<ref>{{toot|mstdn.guru|okita|103435069432839314}}</ref>
+* こういうのはソースの公開を請求した側の態度の悪さが引き金の可能性もあるからな<ref>{{toot|mstdn.maud.io|MulticolorWorld|103440942881106212}}</ref>
+* 多少態度が悪かろうが落ち度があるのはライセンス破った側という事実は変わらないのでは？？<ref>{{toot|mstdn.ijs01140.com|ijs01140|103440948465980978}}</ref>
+* これを謝らないといけないのか。学級会文化が早くもMastodonに流入してしまった。<ref>{{toot|homoo.social|204504bySE|103440892702482062}}</ref>
+* ライセンス違反を指摘した方の態度が悪くても正当な権利で請求されたものだしそれを別の話にすり替えて流そうとしたように見えたので大分印象悪い<ref>https://pl.kpherox.dev/notice/9qkfKDY1KIafDvjads</ref>
+* 「この若者にはもっと社会をわかった大人になってほしい」みたいなこと言ってたのが一番面白かった<ref>{{toot|social.mikutter.hachune.net|sota_n|103440950362374775}}</ref>
+* AGPLのソフトウェアを変更してるのにソースコード公開しないのは完全にライセンス違反なので今すぐmastodonの運営をやめろ<ref>{{toot|best-friends.chat|masarakki|103429864368546791}}, {{toot|best-friends.chat|masarakki|103429979500610099}}</ref>
+
+また、この問題により、mstdn.guruを[[ドメインブロック]]する[[インスタンス]]や関連サービスも現れている。
+
+* 2020年1月12日には、lorazepam.distsn.org ([[3.distsn.org]]を参照) がmstdn.guruを[[ドメインブロック]]した<ref>[https://distsn.gitlab.io/info/ distsn.org Instances Info]</ref>。
+* 同じく2020年1月12日、[[マストドンユーザーマッチング]]もmstdn.guruをドメインブロックした。理由はAGPL違反そのものではなく、鯖缶の横暴<ref>[https://gitlab.com/distsn/newcomers-blacklist/commit/51c0066ab38f749649375c2d014d5e2b3dd98615 Autocratic admin. (51c0066a)]</ref><ref>[https://gitlab.com/distsn/vinayaka-blacklist/commit/fd40f187c5eaf71d62097ad08a7a5a6024405037 Autocratic admin. (fd40f187)]</ref>とされている。
+
+== 関連項目 ==
+* [[3.nu]] ライセンスについての類似の事例
+== 出典 ==
+<references />
+
+[[Category:日本のインスタンス]]

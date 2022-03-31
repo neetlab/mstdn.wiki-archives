@@ -1,0 +1,24 @@
+{{Infobox software
+| Name = Instances List
+<!--| Image = -->
+| Developer = Takaki IEKURA (tacostea)
+| Platform = ウェブ
+| Launch = 2017年6月18日
+| Web = http://instances.tacostea.net/list.php
+}}'''Instances List'''は、Takaki IEKURA (tacostea) が開発・運営している、マストドンのインスタンスのリスト。「鯖缶御用達の新バージョン追従バトルを観測するやつ」と説明されている。
+2017年9月29日ごろから更新が停止している模様。
+
+インスタンスを登録するには、メールまたはDMで連絡するか、GitHubでプルリクエストを送る。Instances Listの運営者による承認が必要である。
+
+2019年9月26日時点でアクセスできなくなっている。
+
+=== Expiration List of SSL Certification ===
+
+[http://instances.tacostea.net/ssl-exp.txt Expiration List of SSL Certification]は、同じくTakaki IEKURAによる、マストドンのインスタンスの[[セキュリティ証明書]]の期限のリストである。2017年7月にセキュリティ証明書の期限切れを迎えたインスタンスが複数あり、セキュリティ証明書の期限切れを観測・警告するために作られた。
+
+==関連項目==
+* [[Master勢]]
+
+{{DEFAULTSORT:instanceslist}}
+[[category:インスタンスの一覧を提供するウェブサイト]]
+[[category:運用が放棄されたウェブサイト]]

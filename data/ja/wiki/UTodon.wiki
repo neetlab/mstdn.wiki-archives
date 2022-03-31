@@ -1,0 +1,15 @@
+{{Infobox instance
+| Name          = {{Ruby|'''UTodon'''|ユートドン}}
+| Domain        = https://utodon.jp
+| Admin         = [https://utodon.jp/@gott gott]
+| Country       = 日本
+| Start         = 2017年4月28日
+| Alias         = UTodon
+}}'''UTodon'''は、[[オープンソース]]の[[ソーシャル・ネットワーキング・サービス|ソーシャルネットワーク]][[Mastodon]]の[[インスタンス]]。
+
+== 概要 ==
+2017年4月28日、gott氏により立ち上げられたインスタンス。{{Jawp|東京大学}}の学生・教職員が対象で、'''u-tokyo.ac.jp'''のメールアドレスでのみ登録できる。
+
+基本的に話題は自由で、専門的な話題から個人的な話題、雑談など、幅広く様々な投稿がされている。
+
+[[Category:日本のインスタンス]]

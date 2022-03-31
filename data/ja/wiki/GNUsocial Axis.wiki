@@ -1,0 +1,17 @@
+'''GNUsocial Axis'''とは、複数の[[GNU social]]インスタンスによる政治的な同盟。
+
+[[GNU social]]と[[マストドン]]は[[OStatus]]プロトコルを通して[[連合]]を形成することが可能である。しかし、[[mastodon.social]]をはじめとする複数の有力なマストドンインスタンスが、不謹慎な文化を持つとされる複数のGNU socialインスタンスを[[ドメインブロック]]するという行動に出た<ref>[http://okimochi-philia.hatenablog.com/entry/2017/06/30/050412 GNU Social の思い出]</ref>。これに対して、ドメインブロックされたGNU socialインスタンスはGNUsocial Axisを自称し、マストドンを非難する檄文<ref>[https://pl.smuglo.li/media/axis.pdf The GNUsocial Axis Resolutions]</ref><ref> GNUsocial Axisの決議 (リンク切れ)</ref>を発表した。アノニマス・ジャパンもそれに便乗し、マストドンを非難する声明<ref>[https://www.anonymous-japan.org/%E3%82%A2%E3%83%8E%E3%83%8B%E3%83%9E%E3%82%B9%E3%81%AE%E8%A6%8B%E8%A7%A3-ep-5%EF%BC%9A-%E3%83%9E%E3%82%B9%E3%83%88%E3%83%89%E3%83%B3%E3%81%A8gnu%E3%82%BD%E3%83%BC%E3%82%B7%E3%83%A3%E3%83%AB%E3%80%81 アノニマスの見解Ep.5: マストドンとGNUソーシャル、衝撃な事実！]</ref>を発表している。
+
+==関連するスラング==
+
+* GNU/Jihad<ref>https://gnujihad.neocities.org/</ref>
+
+==脚注==
+<references />
+
+==関連項目==
+* [[lain]]
+
+[[category:象語]]
+[[Category:議論と対立]]
+{{DEFAULTSORT:gnusocialaxis}}

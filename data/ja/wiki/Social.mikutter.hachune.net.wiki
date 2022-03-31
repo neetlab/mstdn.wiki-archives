@@ -1,0 +1,59 @@
+{{小文字}}
+{{Ruby|'''social.mikutter.hachune.net'''|ソーシャル ミクッター ハチュネ ネット}}とは、[[オープンソース]]の[[分散SNS]][[Mastodon]]の[[インスタンス]]のひとつである。
+
+{{Infobox instance
+| Name          = {{Ruby|'''social.mikutter.hachune.net'''|ソーシャル ミクッター ハチュネ ネット}}
+| Image          = [[ファイル:Mikutter-instance-logo.png|social.mikutter.hachune.net]]
+| Domain        = https://social.mikutter.hachune.net
+| Admin         = [https://social.mikutter.hachune.net/@ahiru あひる]<br />[https://social.mikutter.hachune.net/@toshi_a としぁ]
+| Country       = 日本国
+| Start         = 2017年11月21日
+| Alias         = mikutterインスタンス
+}}
+
+== 概要 ==
+
+social.mikutter.hachune.netは、[[オープンソース]]の[[Twitter]]クライアント[[mikutter]]の開発者@toshi_aおよびmikutterのユーザーなどがおもに集うインスタンスである。サーバー管理はmikutterコミッターの一人である@ahiruが行っている。
+
+=== 開設の経緯 ===
+
+11月18日に@toshi_aのTwitter[[アカウント]]が凍結された<ref>http://mikutter.hatenablog.com/entry/2017/11/19/202832 http://mikutter.hatenablog.com/entry/2017/12/07/200000</ref>。@toshi_aの凍結を受けて、11月21日に@ahiruによってmikutterをテーマとする本インスタンスが開設された<ref>https://twitter.com/ahiru3net/status/932932052957016065</ref>。
+
+=== 独自機能 ===
+
+* Mastodonアイコンをmikutterのロゴカラーに合わせたピンク色に変更している
+* 投稿欄下に告知スペースを設けている
+** mikutterのステータスバーに表示される告知内容と連動している
+* お気に入り<ref>mikutterではふぁぼと呼ばれる</ref>およびブーストの通知音をmikutter標準の初音ミクの声による通知音に差し替えている
+** このため、ブースト時でも「リツイート」という音声が流れる
+
+== ローカルルール ==
+
+<blockquote> 
+はじめに
+趣味で運営されている小規模インスタンスなので、各人の注意で回避できるような面倒事は可能な限り避けたいと思っています。ご協力お願いします。
+
+違法行為・迷惑行為
+日本法に抵触するトゥートは禁止されています。
+
+公共風俗に反するようなトゥートも禁止されています。
+<ref>https://social.mikutter.hachune.net/about/more</ref>
+</blockquote>
+
+FAQは[https://mikutter.hachune.net/faq mikutterのFAQページ]と同様、ネットスラングやmikutterコミュニティの内輪ネタなどで構成されている。
+
+==関連するスラング==
+
+* [[ておくれ]]
+** https://gist.github.com/toshia/3aa75dfa18ad4e37e114d000bb7a288c
+* [[ウンチーオウム]] [https://social.mikutter.hachune.net/@poop_parrot (@poop_parrot)]。
+** YouTube上の動画[https://www.youtube.com/watch?v=2qBIvh0ZaHY ウンチと言いながらウンチをするオウム]のクルマサカオウムのセリフを[https://social.mikutter.hachune.net/@Akkiesoft @Akkiesoft]が手動トゥートしている。
+
+==関連項目==
+* [[mikutter]]
+
+== 出典 ==
+<references/>
+{{DEFAULTSORT: {{Sortkey FQDN|fqdn={{PAGENAME}} }} }}
+[[category: 日本のインスタンス]]
+[[Category: 独自機能が実装されたインスタンス]]

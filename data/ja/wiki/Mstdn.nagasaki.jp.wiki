@@ -1,0 +1,21 @@
+{{Infobox instance
+| Name          = 長崎は今日も Mastodon
+| Image         = [[ファイル:nagasaki.png|300px]]
+| Domain        = https://mstdn.nagasaki.jp/
+| Admin         = [https://mstdn.nagasaki.jp/@koichi こーいち]
+| Country       = 日本
+| Start         = 2017年5月2日
+| Kifu          = なし
+| Alias         = なし
+}}'''長崎は今日も Mastodon'''は、オープンソースのソーシャルネットワークMastodonの[[インスタンス]]。
+
+== 概要 ==
+長崎県をテーマとしたインスタンス。長崎県外のユーザーも許容される。
+
+2018年3月31日をもっての終了を予定しているとアナウンスされていたが、2018年3月7日時点で消滅状態となっている。
+
+== 関連項目 ==
+* [[都道府県のインスタンス一覧]]
+
+{{DEFAULTSORT:ながさき}}
+[[Category:消滅したインスタンス]]

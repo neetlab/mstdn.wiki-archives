@@ -1,0 +1,61 @@
+'''gensokyo.cloud'''とは、オープンソースのソーシャルネットワーク[[Mastodon]]の日本語向けインスタンスである。
+
+{{Infobox instance
+| Name          = {{Ruby|gensokyo.cloud|ゲンソウキョウドットクラウド}}
+| Image         = [[ファイル:Gensokyocloud.jpg|300px]]
+| Domain        = https://gensokyo.cloud
+| SourceCode    = [https://github.com/palon7/mastodon/ GitHub]
+| Admin         = [https://gensokyo.cloud/@admin palon]
+| Country       = 日本
+| Start         = 2017年4月17日3時10分
+| Kifu          = <!-- https://enty.jp/gensokyo-net -->
+[https://fantia.jp/fanclubs/2160 Fantia]<br />[http://amzn.asia/2TB41OB Amazon]<br />[https://www.conoha.jp/conohacard/ Conohaカード]<br />Bitcoin：19kmvCidkTcghotY8ks7nSo1URDTZAFEA8
+| Alias         = 幻象郷、幻雲など
+}}
+
+{{DEFAULTSORT:gensokyo.cloud}}
+[[category:日本のインスタンス]]
+[[Category:消滅したインスタンス]]
+
+==概要==
+
+<blockquote>――幻想郷は全てを受け入れるのよ。それはそれは残酷な話ですわ。</blockquote>
+
+Palon氏によって2017年4月に開設されたこのインスタンスは、主に同人サークルの上海アリス幻樂団によって製作されている東方Projectシリーズのファンがユーザーの大半を占めている。
+他のインスタントと同様、広告や利用料などがないため、[https://fantia.jp/fanclubs/2160 Fantia]などで寄付を募っている。
+
+==停止==
+12月20日、同インスタンスは容量不足の問題が発生したことや、管理者である[https://gensokyo.cloud/@admin palon]氏が「多忙で管理が追いつかなくなっている」ことが原因で翌年2018年1月1日以降閉鎖することを発表した<ref>[https://fantia.jp/posts/29918 【重要】gensokyo.cloudの停止について - gensokyo.cloud & Riguneの投稿｜ファンティア[Fantia]]</ref>。[https://gensokyo.cloud/@admin palon]氏はフォロー一覧のエクスポート方法、及び後続のインスタンス設立についてアナウンスしている。
+
+停止までのスケジュールは以下の通り。
+
+* 2017年12月22日、[[gensokyo.town]]が開設された<ref>https://gensokyo.town/@syumari/99218082384537405</ref>。
+* 同年12月23日、閉鎖までのスケジュールが発表された<ref>https://gensokyo.cloud/@admin/5538795</ref>。
+* 同年12月24日、新規登録を停止予定。
+* 翌年1月4日、トゥートを停止予定。
+* 翌年2月1日、サーバーを停止予定。
+
+後継インスタンスとして[[gensokyo.town]]がアナウンスされている。後継インスタンスの代表者は[https://gensokyo.town/@syumari しゅまり]。
+
+==ルール==
+
+2017年4月時点では、以下のルールおよび禁止行為が設けられている。<ref>[https://gensokyo.cloud/about/more#rule]</ref>
+
+<blockquote>
+*東方に関連するトゥートもそうでないトゥートもOKです。話題に制限はありません。
+*アダルト要素のあるイラストには必ずNSFWタグをつけてください。（画像アップロード後にNSFWボタンを押してください）
+*著作権を侵害するコンテンツは、著作者の申し立てに応じて削除いたします。
+*裁判所や検察等から法令上の手続に基づき開示を要請された場合、当サーバに記録されているユーザのIPアドレス・投稿されたコンテンツなどを開示することがあります。
+</blockquote>
+
+<blockquote>
+以下に挙げる行為を行った場合、タイムラインでのミュート、もしくはアカウントの停止処分となることがあります。
+
+*日本国内の法律に違法するコンテンツを投稿すること
+*ツールなどを使用して過度にサーバへ負荷をかけること
+*特定の人物に対しての嫌がらせ、誹謗中傷
+*他のユーザの迷惑になるような過度なスパム行為
+</blockquote>
+
+==出典==
+<references/>

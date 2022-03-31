@@ -1,0 +1,22 @@
+{{小文字}}
+{{Infobox instance
+| Name          = Mastodon Kyoto
+| Domain        = https://mstdn.kyoto/
+| Admin         = [https://mstdn.kyoto/@edanco edanco]
+| Country       = 日本
+| Start         = 2017年5月13日
+| Kifu          = なし
+| Alias         = 
+}}'''Mastodon Kyoto'''は、オープンソースのソーシャルネットワークMastodonの[[インスタンス]]。
+
+== 概要 ==
+京都府に関連する話題を中心としたいわゆる“ご当地インスタンス”の一つ。
+
+2018年3月現在、アクセスが拒否され、接続できない状態となっている。
+
+== 関連項目 ==
+* [[都道府県のインスタンス一覧]]
+* [[マストどす]]
+
+{{DEFAULTSORT:きょうと}}
+[[Category:消滅したインスタンス]]

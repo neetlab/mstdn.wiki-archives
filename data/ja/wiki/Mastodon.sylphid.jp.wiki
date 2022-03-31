@@ -1,0 +1,19 @@
+{{Infobox instance
+| Name          = Mastodon.sylphid.jp
+| Domain        = https://mastodon.sylphid.jp/
+| Admin         = [https://mastodon.sylphid.jp/@tabito 風野旅人]
+| Country       = 日本
+| Start         = 2017年4月15日
+| Kifu          = なし
+| Alias         = なし
+}}'''Mastodon.sylphid.jp'''は、オープンソースのソーシャルネットワークMastodonの[[インスタンス]]。
+
+== 概要 ==
+2017年4月15日に風野旅人氏が立ち上げたMastodonインスタンス。dockerやLinux系ではなくFreeBSDで構築されている。 
+
+テーマは特に決まっておらず話題はフリーとなっている。
+
+2020年3月の時点でアクセスできなくなっている。閉鎖時期は不明。 
+
+{{DEFAULTSORT:sylphid}}
+[[category:消滅したインスタンス]]

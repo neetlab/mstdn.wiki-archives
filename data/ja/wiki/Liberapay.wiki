@@ -1,0 +1,32 @@
+{{Infobox software
+| Name                = Liberapay
+| Image               = [[ファイル:Liberapay logo white-on-yellow.svg|120px]]
+| Developer           = Association Liberapay
+| SourceCode          = https://github.com/liberapay/liberapay.com
+| Platform            = ウェブ
+| ProgrammingLanguage = Python
+| Launch              = 2016年
+| Kifu                = https://liberapay.com/Liberapay<br>https://liberapay.com/LiberapayOrg
+| License             = [[CC0]] 1.0 Universal
+| Web                 = https://liberapay.com
+}}
+'''Librapay'''は、継続的な寄付のためのプラットフォーム。寄付を行う頻度は、毎週、毎月、毎年から選択できる。非営利団体によって運営されていること、システムがオープンソースソフトウェアであることが特徴である。寄付を受ける側は、個人、チーム、組織から選択することができる。チームを選択した場合は、複数のメンバーに収入を分配することができる。寄付と、寄付金の受け取りには、Stripe<ref>https://stripe.com</ref>またはPayPal<ref>https://www.paypal.com</ref>が必要である。
+
+==日本での利用==
+Librapayのウェブサイトの日本語訳は、実用上は問題のない程度まで進んでいるものの、「このページの日本語訳はまだ完成していません。」というメッセージが常に表示されている状態である。
+
+ユーザープロフィールページの説明文は、日本語を含む複数の言語のものを登録することができる。
+
+日本円を含む複数の通貨に対応している。
+
+==マストドンとの関係==
+[[Mastodon|マストドン]]公式チーム<ref>https://liberapay.com/Mastodon</ref>のアカウントが置かれており、寄付を受け付けている。収入は1週間あたり41.25ユーロ<ref>2019年6月時点。</ref>である。
+
+OAuthによる連携操作によって、ユーザープロフィールページに、他のウェブサイトのアカウントを掲示することができる。これには[[Mastodon|マストドン]]も含まれている。なお、[[Pleroma]]のアカウントも、マストドンのアカウントとして掲示することができる<ref>記事執筆者による独自調査。</ref>。
+
+==脚注==
+<references />
+
+{{DEFAULTSORT:librapay}}
+[[カテゴリ:ウェブサイト]]
+[[カテゴリ:オープンソース]]

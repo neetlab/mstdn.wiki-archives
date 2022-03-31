@@ -1,0 +1,24 @@
+{{infobox instance
+|Name = {{Ruby|北斗どん.CO|ホクトドンドットシーオー}}
+|Domain = https://hokutodon.co
+|Country = 日本
+|Admin = [https://hokutodon.co/@iskr いしころ]
+|Start = 2017年4月17日
+}}'''北斗どん.CO'''は、オープンソースのソーシャルネットワークMastodonの[[インスタンス]]。
+
+==概要==
+元は'''clovers.social'''というインスタンスだったが、2017年4月29日に[[hokutodon.com]]と入れ替わる形で改名した。ただし、正式にヨッピー氏の承諾を得られている訳では無い模様。
+
+==ローカルルール==
+[[hokutodon.com]]のコンセプトを引き継いだ、個性的なローカルルールを持つ。
+<blockquote>
+*敬語はBan
+*挨拶は「ヒャッハー」
+*自由に生きろ
+</blockquote>
+
+==関連項目==
+
+*[[hokutodon.com]]
+
+[[Category:日本のインスタンス]]

@@ -1,0 +1,42 @@
+{{Infobox website
+| Name = {{Ruby|iconDecotter|アイコンデコッター}}
+| Image = [[File:icondecotter.jpg|120px]]
+| URL = https://icondecotter.jp
+| Admin = iconDecotter
+| Country = 日本
+| Start = 2012年6月4日<ref name="start">https://icondecotter.jp/qa.php</ref>
+}}
+'''{{Ruby|iconDecotter|アイコンデコッター}}'''は、[[Twitter]]及び[[Mastodon]]向けの、アイコンデコレーションウェブサービスである。
+
+== 概要 ==
+2012年6月4日に開始した<ref name="start" />、サイトにアップロードされているフレームなどの素材を用いてアイコンをデコレーション（加工）できるウェブサービス。
+
+当初はTwitter向けに提供されていたが、2017年10月10日よりMastodonに対応している<ref>[https://icondecotter.jp/blog/2017/10/12/mastodon%e8%aa%8d%e8%a8%bc%e3%81%ab%e5%af%be%e5%bf%9c%e3%81%97%e3%81%be%e3%81%97%e3%81%9f%e3%80%82/ Mastodon認証に対応しました。 - iconDecotter-Log]</ref>。
+
+サイトのトップにある「Mastodon認証して利用する」と表記されたリンクをクリックし、アカウントのあるインスタンスを選択してアカウントを認証することで、アイコンデコレーションを利用できる（Twitterのアカウントで利用する場合は「Twitter認証して利用する」を選択）。
+
+選択できるMastodon[[インスタンス]]は限られており、無い場合は[[Pawoo]]の[https://pawoo.net/@iconDecotter iconDecotter公式アカウント]に問い合わせて手動で追加してもらう必要がある。
+
+また、Twitter認証の場合はデコレーション素材をアップロードできるが、Mastodon認証の場合は利用できない。
+
+== 対応インスタンス ==
+2018年2月17日現在、選択できるインスタンスは以下の通り<ref>https://icondecotter.jp/mastodon/select.php</ref>。
+* [[Mastodon.social]]
+* [[mstdn.jp]]
+* [[Pawoo]]
+* [[friends.nico]]
+* Knzk.me
+* [[Mimumedon]]
+* [[Vocalodon]]
+* [[Otogamer.me|音ゲーマー丼]]
+* [[mstdn.kemono-friends.info|ますとどんちほー]]
+
+== 出典 ==
+<references />
+
+== 関連項目 ==
+* [[診断メーカー]]
+* [[Tootdon]] - アイコンデコレーション機能を内蔵している。
+
+{{DISPLAYTITLE:iconDecotter}}
+[[Category:ウェブサイト]]
