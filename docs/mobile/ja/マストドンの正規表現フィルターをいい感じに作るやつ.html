@@ -1,0 +1,77 @@
+<html class="client-js mf-font-size-null" lang=ja>
+<head>
+    <meta charset="UTF-8">
+    <title>マストドンの正規表現フィルターをいい感じに作るやつ - マストドン日本語ウィキアーカイブ</title>
+    <meta name="viewport" content="initial-scale=1.0, user-scalable=yes, minimum-scale=0.25, maximum-scale=5.0, width=device-width">
+    <link type="text/css" rel="stylesheet" href="style.mobile.css">
+    <style>
+        .mw-editsection {
+            display: none !important;
+        }
+        .header .branding-box {
+            padding-left: 10px;
+        }
+    </style>
+    <meta property="og:type" content="article">
+    <meta property="og:site_name" content="マストドン日本語ウィキアーカイブ">
+    <meta property="og:title" content="マストドンの正規表現フィルターをいい感じに作るやつ">
+</head>
+<body class="mediawiki ltr sitedir-ltr mw-hide-empty-elt ns-0 ns-subject page-Masto_Host rootpage-Masto_Host stable skin-minerva action-view animations touch-events">
+    <div class="mw-mf-viewport">
+        <div class="mw-mf-page-center">
+            <div class="header-container">
+                <form>
+                    <div class="branding-box">
+                        <h1><span>マストドン日本語ウィキアーカイブ</span></h1>
+                    </div>
+                </form>
+            </div>
+            <div id="content" class="mw-body">
+                <div class="pre-content heading-holder">
+                    <hi id="section_0">マストドンの正規表現フィルターをいい感じに作るやつ</h1>
+                </div>
+                <div id="bodyContent" class="content">
+                    <div id="mw-content-text" class="mw-content-ltr">
+                        <div class="mw-parser-output"><div class="mf-section-0" id="mf-section-0"><table class="wikitable mastowiki-infobox mastowiki-infobox-software"><tbody><tr><th colspan="2">マストドンの正規表現フィルターをいい感じに作るやつ
+</th></tr><tr><td colspan="2" style="text-align: center"><a href="/%E3%83%95%E3%82%A1%E3%82%A4%E3%83%AB:Mastodon_logo.png" class="image" title="Mastodon"><img alt="Mastodon" src="/images/thumb/0/00/Mastodon_logo.png/120px-Mastodon_logo.png" width="120" height="120" srcset="/images/thumb/0/00/Mastodon_logo.png/180px-Mastodon_logo.png 1.5x, /images/0/00/Mastodon_logo.png 2x"></a>
+</td></tr><tr><th scope="row">開発者
+</th>
+<td>みたらしだんご
+</td></tr><tr><th scope="row">ソースコード
+</th>
+<td><a rel="nofollow" class="external text" href="https://github.com/MitarashiDango/mastodon-regexp-filter-generator">GitHub</a>
+</td></tr><tr><th scope="row">プラットホーム
+</th>
+<td>Web
+</td></tr><tr><th scope="row">プログラミング言語
+</th>
+<td>TypeScript(マークアップとしてHTML等を含む)
+</td></tr><tr><th scope="row">サービス開始日
+</th>
+<td>2017年12月11日
+</td></tr><tr><th scope="row">ライセンス
+</th>
+<td><a href="/MIT%E3%83%A9%E3%82%A4%E3%82%BB%E3%83%B3%E3%82%B9" title="MITライセンス">MITライセンス</a>
+</td></tr><tr><th scope="row">Webサイト
+</th>
+<td><a rel="nofollow" class="external free" href="https://tools.matcha-soft.com/donfilter/">https://tools.matcha-soft.com/donfilter/</a>
+</td></tr></tbody></table><p><br><b>マストドンの正規表現フィルターをいい感じに作るやつ</b>とは、<a href="/%E3%82%AA%E3%83%BC%E3%83%97%E3%83%B3%E3%82%BD%E3%83%BC%E3%82%B9" title="オープンソース">オープンソース</a>の<a href="/%E5%88%86%E6%95%A3SNS" title="分散SNS">分散SNS</a>、<a href="/Mastodon" title="Mastodon">Mastodon</a>の正規表現フィルターの作成を補助するウェブアプリケーション。
+</p>
+</div><h2 class="section-heading"><div class="mw-ui-icon mw-ui-icon-element indicator"></div><span id="概要"></span><span class="mw-headline" id=".E6.A6.82.E8.A6.81">概要</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/index.php?title=%E3%83%9E%E3%82%B9%E3%83%88%E3%83%89%E3%83%B3%E3%81%AE%E6%AD%A3%E8%A6%8F%E8%A1%A8%E7%8F%BE%E3%83%95%E3%82%A3%E3%83%AB%E3%82%BF%E3%83%BC%E3%82%92%E3%81%84%E3%81%84%E6%84%9F%E3%81%98%E3%81%AB%E4%BD%9C%E3%82%8B%E3%82%84%E3%81%A4&amp;veaction=edit&amp;section=1" class="mw-editsection-visualeditor" title="節を編集: 概要">編集</a><span class="mw-editsection-divider"> | </span><a href="/index.php?title=%E3%83%9E%E3%82%B9%E3%83%88%E3%83%89%E3%83%B3%E3%81%AE%E6%AD%A3%E8%A6%8F%E8%A1%A8%E7%8F%BE%E3%83%95%E3%82%A3%E3%83%AB%E3%82%BF%E3%83%BC%E3%82%92%E3%81%84%E3%81%84%E6%84%9F%E3%81%98%E3%81%AB%E4%BD%9C%E3%82%8B%E3%82%84%E3%81%A4&amp;action=edit&amp;section=1" title="節を編集: 概要">ソースを編集</a><span class="mw-editsection-bracket">]</span></span></h2><div class="mf-section-1" id="mf-section-1">
+<p>Mastodonでは、<a href="/%E3%83%9B%E3%83%BC%E3%83%A0" title="ホーム">ホーム</a>や<a href="/%E3%83%AD%E3%83%BC%E3%82%AB%E3%83%AB%E3%82%BF%E3%82%A4%E3%83%A0%E3%83%A9%E3%82%A4%E3%83%B3" title="ローカルタイムライン">ローカルタイムライン</a>などといったタイムラインにおいて、正規表現を用いてフィルターを設定することができる。
+</p><p>このウェブアプリケーションは単語ベースの簡単なフィルターや正規表現のパターンの正規表現生成を簡易的にするもので、2017年12月11日よりみたらしだんご氏により公開されている。
+</p><p>単語をフィルターする場合、1つ目のフォームで行える。一行に一単語ずつ単語を入力することで、複数の単語を登録できる。正規表現において特別な文字を入力する場合は自動でエスケープ処理が行われる。
+</p><p>正規表現パターンでフィルターする場合は2つ目のフォームで行える。単語と同様に、一行に一パターンずつ入力することで、複数のパターンが入力できる。
+</p>
+
+
+</div></div>
+
+
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+</body>
+</html>

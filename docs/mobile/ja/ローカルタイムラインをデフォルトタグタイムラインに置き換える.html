@@ -1,0 +1,81 @@
+<html class="client-js mf-font-size-null" lang=ja>
+<head>
+    <meta charset="UTF-8">
+    <title>ローカルタイムラインをデフォルトタグタイムラインに置き換える - マストドン日本語ウィキアーカイブ</title>
+    <meta name="viewport" content="initial-scale=1.0, user-scalable=yes, minimum-scale=0.25, maximum-scale=5.0, width=device-width">
+    <link type="text/css" rel="stylesheet" href="style.mobile.css">
+    <style>
+        .mw-editsection {
+            display: none !important;
+        }
+        .header .branding-box {
+            padding-left: 10px;
+        }
+    </style>
+    <meta property="og:type" content="article">
+    <meta property="og:site_name" content="マストドン日本語ウィキアーカイブ">
+    <meta property="og:title" content="ローカルタイムラインをデフォルトタグタイムラインに置き換える">
+</head>
+<body class="mediawiki ltr sitedir-ltr mw-hide-empty-elt ns-0 ns-subject page-Masto_Host rootpage-Masto_Host stable skin-minerva action-view animations touch-events">
+    <div class="mw-mf-viewport">
+        <div class="mw-mf-page-center">
+            <div class="header-container">
+                <form>
+                    <div class="branding-box">
+                        <h1><span>マストドン日本語ウィキアーカイブ</span></h1>
+                    </div>
+                </form>
+            </div>
+            <div id="content" class="mw-body">
+                <div class="pre-content heading-holder">
+                    <hi id="section_0">ローカルタイムラインをデフォルトタグタイムラインに置き換える</h1>
+                </div>
+                <div id="bodyContent" class="content">
+                    <div id="mw-content-text" class="mw-content-ltr">
+                        <div class="mw-parser-output"><div class="mf-section-0" id="mf-section-0"><p><b>ローカルタイムラインをデフォルトタグタイムラインに置き換える</b>とは、<a href="/%E3%83%AD%E3%83%BC%E3%82%AB%E3%83%AB%E3%82%BF%E3%82%A4%E3%83%A0%E3%83%A9%E3%82%A4%E3%83%B3" title="ローカルタイムライン">ローカルタイムライン</a>を廃止し、かわりに<a href="/%E3%83%8F%E3%83%83%E3%82%B7%E3%83%A5%E3%82%BF%E3%82%B0" title="ハッシュタグ">ハッシュタグ</a>タイムラインで置き換える、マストドンの改造。
+</p>
+
+
+</div><h2 class="section-heading"><div class="mw-ui-icon mw-ui-icon-element indicator"></div><span id="概要"></span><span class="mw-headline" id=".E6.A6.82.E8.A6.81">概要</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/index.php?title=%E3%83%AD%E3%83%BC%E3%82%AB%E3%83%AB%E3%82%BF%E3%82%A4%E3%83%A0%E3%83%A9%E3%82%A4%E3%83%B3%E3%82%92%E3%83%87%E3%83%95%E3%82%A9%E3%83%AB%E3%83%88%E3%82%BF%E3%82%B0%E3%82%BF%E3%82%A4%E3%83%A0%E3%83%A9%E3%82%A4%E3%83%B3%E3%81%AB%E7%BD%AE%E3%81%8D%E6%8F%9B%E3%81%88%E3%82%8B&amp;veaction=edit&amp;section=1" class="mw-editsection-visualeditor" title="節を編集: 概要">編集</a><span class="mw-editsection-divider"> | </span><a href="/index.php?title=%E3%83%AD%E3%83%BC%E3%82%AB%E3%83%AB%E3%82%BF%E3%82%A4%E3%83%A0%E3%83%A9%E3%82%A4%E3%83%B3%E3%82%92%E3%83%87%E3%83%95%E3%82%A9%E3%83%AB%E3%83%88%E3%82%BF%E3%82%B0%E3%82%BF%E3%82%A4%E3%83%A0%E3%83%A9%E3%82%A4%E3%83%B3%E3%81%AB%E7%BD%AE%E3%81%8D%E6%8F%9B%E3%81%88%E3%82%8B&amp;action=edit&amp;section=1" title="節を編集: 概要">ソースを編集</a><span class="mw-editsection-bracket">]</span></span></h2><div class="mf-section-1" id="mf-section-1">
+<p>この改造は、以下の2点の変更をあわせて行うものである。
+</p>
+<ul><li><a href="/%E3%83%AD%E3%83%BC%E3%82%AB%E3%83%AB%E3%82%BF%E3%82%A4%E3%83%A0%E3%83%A9%E3%82%A4%E3%83%B3" title="ローカルタイムライン">ローカルタイムライン</a>を廃止し、かわりに<a href="/%E3%83%8F%E3%83%83%E3%82%B7%E3%83%A5%E3%82%BF%E3%82%B0" title="ハッシュタグ">ハッシュタグ</a>タイムラインで置き換える。</li>
+<li>トゥートするとき、特定のハッシュタグを自動的に付加する。</li></ul><p>ここで、ハッシュタグタイムラインとは、<a href="/%E9%80%A3%E5%90%88%E3%82%BF%E3%82%A4%E3%83%A0%E3%83%A9%E3%82%A4%E3%83%B3" title="連合タイムライン">連合タイムライン</a>に表示されるトゥートのうち、指定されたハッシュタグの付いたトゥートが流れるタイムラインである。
+</p><p>この改造により、外部のインスタンスから特定のハッシュタグを付けてトゥートすることで、別のインスタンスのローカルタイムラインに参加することが可能になる。
+</p><p><a href="/Theboss.tech" title="Theboss.tech">theboss.tech</a>で実装され、複数のインスタンスで採用されている。
+</p>
+</div><h2 class="section-heading"><div class="mw-ui-icon mw-ui-icon-element indicator"></div><span id="表記揺れ"></span><span class="mw-headline" id=".E8.A1.A8.E8.A8.98.E6.8F.BA.E3.82.8C">表記揺れ</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/index.php?title=%E3%83%AD%E3%83%BC%E3%82%AB%E3%83%AB%E3%82%BF%E3%82%A4%E3%83%A0%E3%83%A9%E3%82%A4%E3%83%B3%E3%82%92%E3%83%87%E3%83%95%E3%82%A9%E3%83%AB%E3%83%88%E3%82%BF%E3%82%B0%E3%82%BF%E3%82%A4%E3%83%A0%E3%83%A9%E3%82%A4%E3%83%B3%E3%81%AB%E7%BD%AE%E3%81%8D%E6%8F%9B%E3%81%88%E3%82%8B&amp;veaction=edit&amp;section=2" class="mw-editsection-visualeditor" title="節を編集: 表記揺れ">編集</a><span class="mw-editsection-divider"> | </span><a href="/index.php?title=%E3%83%AD%E3%83%BC%E3%82%AB%E3%83%AB%E3%82%BF%E3%82%A4%E3%83%A0%E3%83%A9%E3%82%A4%E3%83%B3%E3%82%92%E3%83%87%E3%83%95%E3%82%A9%E3%83%AB%E3%83%88%E3%82%BF%E3%82%B0%E3%82%BF%E3%82%A4%E3%83%A0%E3%83%A9%E3%82%A4%E3%83%B3%E3%81%AB%E7%BD%AE%E3%81%8D%E6%8F%9B%E3%81%88%E3%82%8B&amp;action=edit&amp;section=2" title="節を編集: 表記揺れ">ソースを編集</a><span class="mw-editsection-bracket">]</span></span></h2><div class="mf-section-2" id="mf-section-2">
+<ul><li>ローカルTLをデフォルトタグTLに置き換える<sup id="cite_ref-1" class="reference"><a href="#cite_note-1">[1]</a></sup></li>
+<li>ローカルTLのハッシュタグTL化<sup id="cite_ref-2" class="reference"><a href="#cite_note-2">[2]</a></sup></li>
+<li>デフォルトハッシュタグ<sup id="cite_ref-3" class="reference"><a href="#cite_note-3">[3]</a></sup><sup id="cite_ref-4" class="reference"><a href="#cite_note-4">[4]</a></sup></li></ul></div><h2 class="section-heading"><div class="mw-ui-icon mw-ui-icon-element indicator"></div><span id="採用しているインスタンス"></span><span class="mw-headline" id=".E6.8E.A1.E7.94.A8.E3.81.97.E3.81.A6.E3.81.84.E3.82.8B.E3.82.A4.E3.83.B3.E3.82.B9.E3.82.BF.E3.83.B3.E3.82.B9">採用しているインスタンス</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/index.php?title=%E3%83%AD%E3%83%BC%E3%82%AB%E3%83%AB%E3%82%BF%E3%82%A4%E3%83%A0%E3%83%A9%E3%82%A4%E3%83%B3%E3%82%92%E3%83%87%E3%83%95%E3%82%A9%E3%83%AB%E3%83%88%E3%82%BF%E3%82%B0%E3%82%BF%E3%82%A4%E3%83%A0%E3%83%A9%E3%82%A4%E3%83%B3%E3%81%AB%E7%BD%AE%E3%81%8D%E6%8F%9B%E3%81%88%E3%82%8B&amp;veaction=edit&amp;section=3" class="mw-editsection-visualeditor" title="節を編集: 採用しているインスタンス">編集</a><span class="mw-editsection-divider"> | </span><a href="/index.php?title=%E3%83%AD%E3%83%BC%E3%82%AB%E3%83%AB%E3%82%BF%E3%82%A4%E3%83%A0%E3%83%A9%E3%82%A4%E3%83%B3%E3%82%92%E3%83%87%E3%83%95%E3%82%A9%E3%83%AB%E3%83%88%E3%82%BF%E3%82%B0%E3%82%BF%E3%82%A4%E3%83%A0%E3%83%A9%E3%82%A4%E3%83%B3%E3%81%AB%E7%BD%AE%E3%81%8D%E6%8F%9B%E3%81%88%E3%82%8B&amp;action=edit&amp;section=3" title="節を編集: 採用しているインスタンス">ソースを編集</a><span class="mw-editsection-bracket">]</span></span></h2><div class="mf-section-3" id="mf-section-3">
+<ul><li><a href="/Theboss.tech" title="Theboss.tech">theboss.tech</a></li>
+<li><a href="/Abyss.fun" title="Abyss.fun">abyss.fun</a></li>
+<li><a href="/Dtp-mstdn.jp" class="mw-redirect" title="Dtp-mstdn.jp">dtp-mstdn.jp</a></li>
+<li><a href="/Wugtodon" title="Wugtodon">wugtodon</a></li>
+<li><a rel="nofollow" class="external free" href="https://nitiasa.com">https://nitiasa.com</a> (<a href="/index.php?title=Nitiasa.com&amp;action=edit&amp;redlink=1" class="new" title="Nitiasa.com (存在しないページ)">nitiasa.com</a>)</li>
+<li><a href="/Precure.ml" title="Precure.ml">precure.ml</a></li></ul></div><h2 class="section-heading"><div class="mw-ui-icon mw-ui-icon-element indicator"></div><span id="外部リンク"></span><span class="mw-headline" id=".E5.A4.96.E9.83.A8.E3.83.AA.E3.83.B3.E3.82.AF">外部リンク</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/index.php?title=%E3%83%AD%E3%83%BC%E3%82%AB%E3%83%AB%E3%82%BF%E3%82%A4%E3%83%A0%E3%83%A9%E3%82%A4%E3%83%B3%E3%82%92%E3%83%87%E3%83%95%E3%82%A9%E3%83%AB%E3%83%88%E3%82%BF%E3%82%B0%E3%82%BF%E3%82%A4%E3%83%A0%E3%83%A9%E3%82%A4%E3%83%B3%E3%81%AB%E7%BD%AE%E3%81%8D%E6%8F%9B%E3%81%88%E3%82%8B&amp;veaction=edit&amp;section=4" class="mw-editsection-visualeditor" title="節を編集: 外部リンク">編集</a><span class="mw-editsection-divider"> | </span><a href="/index.php?title=%E3%83%AD%E3%83%BC%E3%82%AB%E3%83%AB%E3%82%BF%E3%82%A4%E3%83%A0%E3%83%A9%E3%82%A4%E3%83%B3%E3%82%92%E3%83%87%E3%83%95%E3%82%A9%E3%83%AB%E3%83%88%E3%82%BF%E3%82%B0%E3%82%BF%E3%82%A4%E3%83%A0%E3%83%A9%E3%82%A4%E3%83%B3%E3%81%AB%E7%BD%AE%E3%81%8D%E6%8F%9B%E3%81%88%E3%82%8B&amp;action=edit&amp;section=4" title="節を編集: 外部リンク">ソースを編集</a><span class="mw-editsection-bracket">]</span></span></h2><div class="mf-section-4" id="mf-section-4">
+<ul><li><a rel="nofollow" class="external text" href="https://blog.theboss.tech/2018/02/03/federated-local-timeline/">ハッシュタグを使って、“他インスタンスからでも書き込めるローカルTL”を作る方法</a></li>
+<li><a rel="nofollow" class="external text" href="https://wiki.abyss.fun/index.php?title=%E3%83%87%E3%83%95%E3%82%A9%E3%83%AB%E3%83%88%E3%83%8F%E3%83%83%E3%82%B7%E3%83%A5%E3%82%BF%E3%82%B0">デフォルトハッシュタグ</a></li>
+<li><a rel="nofollow" class="external text" href="http://www.itmedia.co.jp/news/articles/1802/04/news029.html">ハッシュタグを応用した「新しいLTL」の試み</a></li></ul></div><h2 class="section-heading"><div class="mw-ui-icon mw-ui-icon-element indicator"></div><span id="脚注"></span><span class="mw-headline" id=".E8.84.9A.E6.B3.A8">脚注</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/index.php?title=%E3%83%AD%E3%83%BC%E3%82%AB%E3%83%AB%E3%82%BF%E3%82%A4%E3%83%A0%E3%83%A9%E3%82%A4%E3%83%B3%E3%82%92%E3%83%87%E3%83%95%E3%82%A9%E3%83%AB%E3%83%88%E3%82%BF%E3%82%B0%E3%82%BF%E3%82%A4%E3%83%A0%E3%83%A9%E3%82%A4%E3%83%B3%E3%81%AB%E7%BD%AE%E3%81%8D%E6%8F%9B%E3%81%88%E3%82%8B&amp;veaction=edit&amp;section=5" class="mw-editsection-visualeditor" title="節を編集: 脚注">編集</a><span class="mw-editsection-divider"> | </span><a href="/index.php?title=%E3%83%AD%E3%83%BC%E3%82%AB%E3%83%AB%E3%82%BF%E3%82%A4%E3%83%A0%E3%83%A9%E3%82%A4%E3%83%B3%E3%82%92%E3%83%87%E3%83%95%E3%82%A9%E3%83%AB%E3%83%88%E3%82%BF%E3%82%B0%E3%82%BF%E3%82%A4%E3%83%A0%E3%83%A9%E3%82%A4%E3%83%B3%E3%81%AB%E7%BD%AE%E3%81%8D%E6%8F%9B%E3%81%88%E3%82%8B&amp;action=edit&amp;section=5" title="節を編集: 脚注">ソースを編集</a><span class="mw-editsection-bracket">]</span></span></h2><div class="mf-section-5" id="mf-section-5">
+<div class="mw-references-wrap"><ol class="references"><li id="cite_note-1"><span class="mw-cite-backlink"><a href="#cite_ref-1">↑</a></span> <span class="reference-text"><a rel="nofollow" class="external free" href="https://theboss.tech/about">https://theboss.tech/about</a></span>
+</li>
+<li id="cite_note-2"><span class="mw-cite-backlink"><a href="#cite_ref-2">↑</a></span> <span class="reference-text"><a rel="nofollow" class="external free" href="https://theboss.tech/about/more">https://theboss.tech/about/more</a></span>
+</li>
+<li id="cite_note-3"><span class="mw-cite-backlink"><a href="#cite_ref-3">↑</a></span> <span class="reference-text"><a rel="nofollow" class="external free" href="https://abyss.fun/about/more">https://abyss.fun/about/more</a></span>
+</li>
+<li id="cite_note-4"><span class="mw-cite-backlink"><a href="#cite_ref-4">↑</a></span> <span class="reference-text"><a rel="nofollow" class="external free" href="https://wiki.abyss.fun/index.php?title=%E3%83%87%E3%83%95%E3%82%A9%E3%83%AB%E3%83%88%E3%83%8F%E3%83%83%E3%82%B7%E3%83%A5%E3%82%BF%E3%82%B0">https://wiki.abyss.fun/index.php?title=%E3%83%87%E3%83%95%E3%82%A9%E3%83%AB%E3%83%88%E3%83%8F%E3%83%83%E3%82%B7%E3%83%A5%E3%82%BF%E3%82%B0</a></span>
+</li>
+</ol></div>
+
+
+
+</div></div>
+
+
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+</body>
+</html>

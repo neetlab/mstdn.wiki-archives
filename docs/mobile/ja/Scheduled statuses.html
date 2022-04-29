@@ -1,0 +1,87 @@
+<html class="client-js mf-font-size-null" lang=ja>
+<head>
+    <meta charset="UTF-8">
+    <title>Scheduled statuses - マストドン日本語ウィキアーカイブ</title>
+    <meta name="viewport" content="initial-scale=1.0, user-scalable=yes, minimum-scale=0.25, maximum-scale=5.0, width=device-width">
+    <link type="text/css" rel="stylesheet" href="style.mobile.css">
+    <style>
+        .mw-editsection {
+            display: none !important;
+        }
+        .header .branding-box {
+            padding-left: 10px;
+        }
+    </style>
+    <meta property="og:type" content="article">
+    <meta property="og:site_name" content="マストドン日本語ウィキアーカイブ">
+    <meta property="og:title" content="Scheduled statuses">
+</head>
+<body class="mediawiki ltr sitedir-ltr mw-hide-empty-elt ns-0 ns-subject page-Masto_Host rootpage-Masto_Host stable skin-minerva action-view animations touch-events">
+    <div class="mw-mf-viewport">
+        <div class="mw-mf-page-center">
+            <div class="header-container">
+                <form>
+                    <div class="branding-box">
+                        <h1><span>マストドン日本語ウィキアーカイブ</span></h1>
+                    </div>
+                </form>
+            </div>
+            <div id="content" class="mw-body">
+                <div class="pre-content heading-holder">
+                    <hi id="section_0">Scheduled statuses</h1>
+                </div>
+                <div id="bodyContent" class="content">
+                    <div id="mw-content-text" class="mw-content-ltr">
+                        <div class="mw-parser-output"><div class="mf-section-0" id="mf-section-0"><table class="wikitable mastowiki-infobox mastowiki-infobox-feature"><tbody><tr><th colspan="2">Scheduled statuses(予約投稿/時間指定投稿)
+</th></tr><tr><td colspan="2" style="text-align: center"><a href="/%E3%83%95%E3%82%A1%E3%82%A4%E3%83%AB:Mastodon_logo.png" class="image" title="Mastodon"><img alt="Mastodon" src="/images/thumb/0/00/Mastodon_logo.png/120px-Mastodon_logo.png" width="120" height="120" srcset="/images/thumb/0/00/Mastodon_logo.png/180px-Mastodon_logo.png 1.5x, /images/0/00/Mastodon_logo.png 2x"></a>
+</td></tr><tr><th scope="row">実装バージョン
+</th>
+<td>2.7.0
+</td></tr><tr><th scope="row">APIエンドポイント
+</th>
+<td><code>GET /api/v1/scheduled_statuses (一覧の取得)</code>
+</td></tr><tr><th scope="row">利用可能なインスタンス
+</th>
+<td>全てのインスタンス
+</td></tr><tr><th scope="row">リンク
+</th>
+<td><a rel="nofollow" class="external text" href="https://github.com/tootsuite/mastodon/releases/tag/v2.7.0">実装されたリリース</a>
+</td></tr></tbody></table><p><br><b>Scheduled statuses</b>は、2019年1月4日に<a href="/%E3%83%9E%E3%82%B9%E3%83%88%E3%83%89%E3%83%B3%E5%85%AC%E5%BC%8F%E3%83%AA%E3%83%9D%E3%82%B8%E3%83%88%E3%83%AA" title="マストドン公式リポジトリ">マストドン公式リポジトリ</a>にマージされ、バージョン2.7.0<sup id="cite_ref-1" class="reference"><a href="#cite_note-1">[1]</a></sup>で利用可能になった機能。
+</p>
+
+
+</div><h2 class="section-heading"><div class="mw-ui-icon mw-ui-icon-element indicator"></div><span id="概要"></span><span class="mw-headline" id=".E6.A6.82.E8.A6.81">概要</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/index.php?title=Scheduled_statuses&amp;veaction=edit&amp;section=1" class="mw-editsection-visualeditor" title="節を編集: 概要">編集</a><span class="mw-editsection-divider"> | </span><a href="/index.php?title=Scheduled_statuses&amp;action=edit&amp;section=1" title="節を編集: 概要">ソースを編集</a><span class="mw-editsection-bracket">]</span></span></h2><div class="mf-section-1" id="mf-section-1">
+<p>ある時刻までトゥートを投稿しないようにするAPIである。
+</p><p>バージョン2.7.0で提供されたのはAPIのみであり、UIは実装されていない。<a href="/Subway_Tooter" title="Subway Tooter">Subway Tooter</a>はバージョン2.6.2<sup id="cite_ref-2" class="reference"><a href="#cite_note-2">[2]</a></sup>、<a href="/TheDesk" title="TheDesk">TheDesk</a>はMiria (17.0.1)<sup id="cite_ref-3" class="reference"><a href="#cite_note-3">[注釈 1]</a></sup><sup id="cite_ref-4" class="reference"><a href="#cite_note-4">[3]</a></sup>、<a href="/%E6%98%9F%E3%83%97%E3%83%86%E3%83%A9%E3%83%8E" title="星プテラノ">星プテラノ</a>はバージョン1.12<sup id="cite_ref-5" class="reference"><a href="#cite_note-5">[4]</a></sup>でこの機能のUIを先行して実装している。
+</p><p>なお、日本語では表記揺れが存在する。<a href="/Subway_Tooter" title="Subway Tooter">Subway Tooter</a>、<a href="/%E6%98%9F%E3%83%97%E3%83%86%E3%83%A9%E3%83%8E" title="星プテラノ">星プテラノ</a>では「予約投稿」、<a href="/TheDesk" title="TheDesk">TheDesk</a>では「時間指定投稿」を日本語訳として用いている。WebUIがないため、公式といえる日本語訳は現時点で存在しない。
+</p>
+</div><h2 class="section-heading"><div class="mw-ui-icon mw-ui-icon-element indicator"></div><span id="注意"></span><span class="mw-headline" id=".E6.B3.A8.E6.84.8F">注意</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/index.php?title=Scheduled_statuses&amp;veaction=edit&amp;section=2" class="mw-editsection-visualeditor" title="節を編集: 注意">編集</a><span class="mw-editsection-divider"> | </span><a href="/index.php?title=Scheduled_statuses&amp;action=edit&amp;section=2" title="節を編集: 注意">ソースを編集</a><span class="mw-editsection-bracket">]</span></span></h2><div class="mf-section-2" id="mf-section-2">
+<p>5分以内のトゥートは即時トゥートされる。また、サーバーの時刻設定が正しいという保証はないため、自分が思っていた投稿時刻との差異が発生する可能性がある。
+</p>
+</div><h2 class="section-heading"><div class="mw-ui-icon mw-ui-icon-element indicator"></div><span id="注釈"></span><span class="mw-headline" id=".E6.B3.A8.E9.87.88">注釈</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/index.php?title=Scheduled_statuses&amp;veaction=edit&amp;section=3" class="mw-editsection-visualeditor" title="節を編集: 注釈">編集</a><span class="mw-editsection-divider"> | </span><a href="/index.php?title=Scheduled_statuses&amp;action=edit&amp;section=3" title="節を編集: 注釈">ソースを編集</a><span class="mw-editsection-bracket">]</span></span></h2><div class="mf-section-3" id="mf-section-3">
+<div class="mw-references-wrap"><ol class="references"><li id="cite_note-3"><span class="mw-cite-backlink"><a href="#cite_ref-3">↑</a></span> <span class="reference-text">LinuxのSnap版のみ公式ページからダウンロード可能。Windows版はGitHub Releasesからベータ版としてダウンロード可能。</span>
+</li>
+</ol></div>
+</div><h2 class="section-heading"><div class="mw-ui-icon mw-ui-icon-element indicator"></div><span id="出典"></span><span class="mw-headline" id=".E5.87.BA.E5.85.B8">出典</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/index.php?title=Scheduled_statuses&amp;veaction=edit&amp;section=4" class="mw-editsection-visualeditor" title="節を編集: 出典">編集</a><span class="mw-editsection-divider"> | </span><a href="/index.php?title=Scheduled_statuses&amp;action=edit&amp;section=4" title="節を編集: 出典">ソースを編集</a><span class="mw-editsection-bracket">]</span></span></h2><div class="mf-section-4" id="mf-section-4">
+<div class="mw-references-wrap"><ol class="references"><li id="cite_note-1"><span class="mw-cite-backlink"><a href="#cite_ref-1">↑</a></span> <span class="reference-text"><a rel="nofollow" class="external free" href="https://github.com/tootsuite/mastodon/releases/tag/v2.7.0">https://github.com/tootsuite/mastodon/releases/tag/v2.7.0</a></span>
+</li>
+<li id="cite_note-2"><span class="mw-cite-backlink"><a href="#cite_ref-2">↑</a></span> <span class="reference-text"><a rel="nofollow" class="external free" href="https://github.com/tateisu/SubwayTooter/releases/tag/v3.2.4">https://github.com/tateisu/SubwayTooter/releases/tag/v3.2.4</a></span>
+</li>
+<li id="cite_note-4"><span class="mw-cite-backlink"><a href="#cite_ref-4">↑</a></span> <span class="reference-text"><span class="toot-link"><a rel="nofollow" class="external text" href="https://kirishima.cloud/@Cutls/101456928378443353">@Cutls@kirishima.cloudのトゥート (101456928378443353)</a></span></span>
+</li>
+<li id="cite_note-5"><span class="mw-cite-backlink"><a href="#cite_ref-5">↑</a></span> <span class="reference-text"><span class="toot-link"><a rel="nofollow" class="external text" href="https://handon.club/@pgo/101496897765583816">@pgo@handon.clubのトゥート (101496897765583816)</a></span></span>
+</li>
+</ol></div>
+
+
+
+</div></div>
+
+
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+</body>
+</html>
