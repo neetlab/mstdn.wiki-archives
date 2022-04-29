@@ -1,0 +1,73 @@
+<div class="mw-parser-output"><p><b>メールアドレス不要でユーザー登録</b>とは、メールアドレスが到達可能であることを確認せずにユーザー登録を許可するよう、マストドンのインスタンスを改造することである。
+</p>
+<div id="toc" class="toc"><div class="toctitle" lang="ja" dir="ltr"><h2>目次</h2></div>
+<ul>
+<li class="toclevel-1 tocsection-1"><a href="#.E6.A6.82.E8.A6.81"><span class="tocnumber">1</span> <span class="toctext">概要</span></a></li>
+<li class="toclevel-1 tocsection-2"><a href="#.E5.AE.9F.E8.A3.85.E3.81.AE.E6.96.B9.E6.B3.95"><span class="tocnumber">2</span> <span class="toctext">実装の方法</span></a></li>
+<li class="toclevel-1 tocsection-3"><a href="#.E6.8E.A1.E7.94.A8.E3.81.97.E3.81.A6.E3.81.84.E3.82.8B.E3.82.A4.E3.83.B3.E3.82.B9.E3.82.BF.E3.83.B3.E3.82.B9"><span class="tocnumber">3</span> <span class="toctext">採用しているインスタンス</span></a></li>
+<li class="toclevel-1 tocsection-4"><a href="#.E5.85.AC.E5.BC.8F.E3.83.AA.E3.83.9D.E3.82.B8.E3.83.88.E3.83.AA.E3.81.AE.E5.8B.95.E5.90.91"><span class="tocnumber">4</span> <span class="toctext">公式リポジトリの動向</span></a></li>
+<li class="toclevel-1 tocsection-5"><a href="#.E4.BB.96.E3.81.AE.E5.88.86.E6.95.A3SNS.E3.81.A8.E3.81.AE.E9.96.A2.E4.BF.82"><span class="tocnumber">5</span> <span class="toctext">他の分散SNSとの関係</span></a></li>
+<li class="toclevel-1 tocsection-6"><a href="#.E5.A4.96.E9.83.A8.E3.83.AA.E3.83.B3.E3.82.AF"><span class="tocnumber">6</span> <span class="toctext">外部リンク</span></a></li>
+<li class="toclevel-1 tocsection-7"><a href="#.E8.84.9A.E6.B3.A8"><span class="tocnumber">7</span> <span class="toctext">脚注</span></a></li>
+</ul>
+</div>
+
+<h2><span id="概要"></span><span class="mw-headline" id=".E6.A6.82.E8.A6.81">概要</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/index.php?title=%E3%83%A1%E3%83%BC%E3%83%AB%E3%82%A2%E3%83%89%E3%83%AC%E3%82%B9%E4%B8%8D%E8%A6%81%E3%81%A7%E3%83%A6%E3%83%BC%E3%82%B6%E3%83%BC%E7%99%BB%E9%8C%B2&amp;veaction=edit&amp;section=1" class="mw-editsection-visualeditor" title="節を編集: 概要">編集</a><span class="mw-editsection-divider"> | </span><a href="/index.php?title=%E3%83%A1%E3%83%BC%E3%83%AB%E3%82%A2%E3%83%89%E3%83%AC%E3%82%B9%E4%B8%8D%E8%A6%81%E3%81%A7%E3%83%A6%E3%83%BC%E3%82%B6%E3%83%BC%E7%99%BB%E9%8C%B2&amp;action=edit&amp;section=1" title="節を編集: 概要">ソースを編集</a><span class="mw-editsection-bracket">]</span></span></h2>
+<p>マストドンでユーザー登録を行うには、登録フォームにメールアドレスを入力し、そのメールアドレスに届いたメールの確認リンクを開く必要がある。しかし、本項の改造を行ったインスタンスでは、メールに記載された確認リンクを開くことなく、新しいアカウントを使用することができる。そのため、実際に到達可能なメールアドレスではなく、メールアドレスのように見える任意の文字列 (alice@example.com など) を入力して、アカウントを作成することができる。
+</p>
+<h2><span id="実装の方法"></span><span class="mw-headline" id=".E5.AE.9F.E8.A3.85.E3.81.AE.E6.96.B9.E6.B3.95">実装の方法</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/index.php?title=%E3%83%A1%E3%83%BC%E3%83%AB%E3%82%A2%E3%83%89%E3%83%AC%E3%82%B9%E4%B8%8D%E8%A6%81%E3%81%A7%E3%83%A6%E3%83%BC%E3%82%B6%E3%83%BC%E7%99%BB%E9%8C%B2&amp;veaction=edit&amp;section=2" class="mw-editsection-visualeditor" title="節を編集: 実装の方法">編集</a><span class="mw-editsection-divider"> | </span><a href="/index.php?title=%E3%83%A1%E3%83%BC%E3%83%AB%E3%82%A2%E3%83%89%E3%83%AC%E3%82%B9%E4%B8%8D%E8%A6%81%E3%81%A7%E3%83%A6%E3%83%BC%E3%82%B6%E3%83%BC%E7%99%BB%E9%8C%B2&amp;action=edit&amp;section=2" title="節を編集: 実装の方法">ソースを編集</a><span class="mw-editsection-bracket">]</span></span></h2>
+<p><a href="/2.distsn.org" title="2.distsn.org">2.distsn.org</a>では、データベースを操作して、メールアドレスが確認済みであることを示すフラグを立てていた<sup id="cite_ref-1" class="reference"><a href="#cite_note-1">&#91;1&#93;</a></sup>。<a href="/Theboss.tech" title="Theboss.tech">theboss.tech</a>ではDeviseの設定を書き換える方法を取ってた<sup id="cite_ref-2" class="reference"><a href="#cite_note-2">&#91;2&#93;</a></sup>。
+</p>
+<h2><span id="採用しているインスタンス"></span><span class="mw-headline" id=".E6.8E.A1.E7.94.A8.E3.81.97.E3.81.A6.E3.81.84.E3.82.8B.E3.82.A4.E3.83.B3.E3.82.B9.E3.82.BF.E3.83.B3.E3.82.B9">採用しているインスタンス</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/index.php?title=%E3%83%A1%E3%83%BC%E3%83%AB%E3%82%A2%E3%83%89%E3%83%AC%E3%82%B9%E4%B8%8D%E8%A6%81%E3%81%A7%E3%83%A6%E3%83%BC%E3%82%B6%E3%83%BC%E7%99%BB%E9%8C%B2&amp;veaction=edit&amp;section=3" class="mw-editsection-visualeditor" title="節を編集: 採用しているインスタンス">編集</a><span class="mw-editsection-divider"> | </span><a href="/index.php?title=%E3%83%A1%E3%83%BC%E3%83%AB%E3%82%A2%E3%83%89%E3%83%AC%E3%82%B9%E4%B8%8D%E8%A6%81%E3%81%A7%E3%83%A6%E3%83%BC%E3%82%B6%E3%83%BC%E7%99%BB%E9%8C%B2&amp;action=edit&amp;section=3" title="節を編集: 採用しているインスタンス">ソースを編集</a><span class="mw-editsection-bracket">]</span></span></h2>
+<ul><li><a href="/Mastodon.onion" title="Mastodon.onion">mastodon.onion</a> (現在は消滅)</li>
+<li><a href="/2.distsn.org" title="2.distsn.org">2.distsn.org</a> (現在は消滅)</li>
+<li><a href="/Kurage.cc" title="Kurage.cc">kurage.cc</a></li>
+<li><a href="/Theboss.tech" title="Theboss.tech">theboss.tech</a> (現在は消滅)</li></ul>
+<h2><span id="公式リポジトリの動向"></span><span class="mw-headline" id=".E5.85.AC.E5.BC.8F.E3.83.AA.E3.83.9D.E3.82.B8.E3.83.88.E3.83.AA.E3.81.AE.E5.8B.95.E5.90.91">公式リポジトリの動向</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/index.php?title=%E3%83%A1%E3%83%BC%E3%83%AB%E3%82%A2%E3%83%89%E3%83%AC%E3%82%B9%E4%B8%8D%E8%A6%81%E3%81%A7%E3%83%A6%E3%83%BC%E3%82%B6%E3%83%BC%E7%99%BB%E9%8C%B2&amp;veaction=edit&amp;section=4" class="mw-editsection-visualeditor" title="節を編集: 公式リポジトリの動向">編集</a><span class="mw-editsection-divider"> | </span><a href="/index.php?title=%E3%83%A1%E3%83%BC%E3%83%AB%E3%82%A2%E3%83%89%E3%83%AC%E3%82%B9%E4%B8%8D%E8%A6%81%E3%81%A7%E3%83%A6%E3%83%BC%E3%82%B6%E3%83%BC%E7%99%BB%E9%8C%B2&amp;action=edit&amp;section=4" title="節を編集: 公式リポジトリの動向">ソースを編集</a><span class="mw-editsection-bracket">]</span></span></h2>
+<p><a href="/%E3%83%9E%E3%82%B9%E3%83%88%E3%83%89%E3%83%B3%E5%85%AC%E5%BC%8F%E3%83%AA%E3%83%9D%E3%82%B8%E3%83%88%E3%83%AA" title="マストドン公式リポジトリ">マストドン公式リポジトリ</a>では、メールアドレス不要でユーザー登録ができるようにすることを目指すイシュー<sup id="cite_ref-3" class="reference"><a href="#cite_note-3">&#91;3&#93;</a></sup>が作られたが、クローズされている。マストドン2.3.0<sup id="cite_ref-4" class="reference"><a href="#cite_note-4">&#91;4&#93;</a></sup>ではLDAPによるログイン<sup id="cite_ref-5" class="reference"><a href="#cite_note-5">&#91;5&#93;</a></sup>が導入されたため、別途LDAPサーバーを用意することで、メールアドレス不要でユーザー登録が可能になる可能性がある。
+</p>
+<h2><span id="他の分散SNSとの関係"></span><span class="mw-headline" id=".E4.BB.96.E3.81.AE.E5.88.86.E6.95.A3SNS.E3.81.A8.E3.81.AE.E9.96.A2.E4.BF.82">他の分散SNSとの関係</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/index.php?title=%E3%83%A1%E3%83%BC%E3%83%AB%E3%82%A2%E3%83%89%E3%83%AC%E3%82%B9%E4%B8%8D%E8%A6%81%E3%81%A7%E3%83%A6%E3%83%BC%E3%82%B6%E3%83%BC%E7%99%BB%E9%8C%B2&amp;veaction=edit&amp;section=5" class="mw-editsection-visualeditor" title="節を編集: 他の分散SNSとの関係">編集</a><span class="mw-editsection-divider"> | </span><a href="/index.php?title=%E3%83%A1%E3%83%BC%E3%83%AB%E3%82%A2%E3%83%89%E3%83%AC%E3%82%B9%E4%B8%8D%E8%A6%81%E3%81%A7%E3%83%A6%E3%83%BC%E3%82%B6%E3%83%BC%E7%99%BB%E9%8C%B2&amp;action=edit&amp;section=5" title="節を編集: 他の分散SNSとの関係">ソースを編集</a><span class="mw-editsection-bracket">]</span></span></h2>
+<p><a href="/GNU_social" title="GNU social">GNU social</a>はメールアドレスの到達性を確認していない。ただし、<a rel="nofollow" class="external free" href="https://gnusocial.no">https://gnusocial.no</a> など少数のインスタンスは、メールアドレスの到達性を確認する。
+</p><p><a href="/Pleroma" title="Pleroma">Pleroma</a>はメールアドレスの到達性を確認するかどうかインスタンスごとに設定できる。デフォルトでは、メールアドレスの到達性を確認しない。
+</p><p><a href="/Misskey" title="Misskey">Misskey</a>はユーザー登録の際にメールアドレスを要求しない。
+</p>
+<h2><span id="外部リンク"></span><span class="mw-headline" id=".E5.A4.96.E9.83.A8.E3.83.AA.E3.83.B3.E3.82.AF">外部リンク</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/index.php?title=%E3%83%A1%E3%83%BC%E3%83%AB%E3%82%A2%E3%83%89%E3%83%AC%E3%82%B9%E4%B8%8D%E8%A6%81%E3%81%A7%E3%83%A6%E3%83%BC%E3%82%B6%E3%83%BC%E7%99%BB%E9%8C%B2&amp;veaction=edit&amp;section=6" class="mw-editsection-visualeditor" title="節を編集: 外部リンク">編集</a><span class="mw-editsection-divider"> | </span><a href="/index.php?title=%E3%83%A1%E3%83%BC%E3%83%AB%E3%82%A2%E3%83%89%E3%83%AC%E3%82%B9%E4%B8%8D%E8%A6%81%E3%81%A7%E3%83%A6%E3%83%BC%E3%82%B6%E3%83%BC%E7%99%BB%E9%8C%B2&amp;action=edit&amp;section=6" title="節を編集: 外部リンク">ソースを編集</a><span class="mw-editsection-bracket">]</span></span></h2>
+<ul><li><a rel="nofollow" class="external text" href="https://github.com/tootsuite/mastodon/issues/3484">Account creation without e-mail address (like on jabber instances) #3484</a></li>
+<li><a rel="nofollow" class="external text" href="http://www.itmedia.co.jp/news/articles/1801/13/news037.html">「メール確認なし」マストドンが増える？</a></li></ul>
+<h2><span id="脚注"></span><span class="mw-headline" id=".E8.84.9A.E6.B3.A8">脚注</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/index.php?title=%E3%83%A1%E3%83%BC%E3%83%AB%E3%82%A2%E3%83%89%E3%83%AC%E3%82%B9%E4%B8%8D%E8%A6%81%E3%81%A7%E3%83%A6%E3%83%BC%E3%82%B6%E3%83%BC%E7%99%BB%E9%8C%B2&amp;veaction=edit&amp;section=7" class="mw-editsection-visualeditor" title="節を編集: 脚注">編集</a><span class="mw-editsection-divider"> | </span><a href="/index.php?title=%E3%83%A1%E3%83%BC%E3%83%AB%E3%82%A2%E3%83%89%E3%83%AC%E3%82%B9%E4%B8%8D%E8%A6%81%E3%81%A7%E3%83%A6%E3%83%BC%E3%82%B6%E3%83%BC%E7%99%BB%E9%8C%B2&amp;action=edit&amp;section=7" title="節を編集: 脚注">ソースを編集</a><span class="mw-editsection-bracket">]</span></span></h2>
+<div class="mw-references-wrap"><ol class="references">
+<li id="cite_note-1"><span class="mw-cite-backlink"><a href="#cite_ref-1">↑</a></span> <span class="reference-text"><a rel="nofollow" class="external text" href="https://hakabahitoyo.wordpress.com/2017/09/30/mastodon-without-mail/">メールアドレス不要のマストドンインスタンスを作った</a></span>
+</li>
+<li id="cite_note-2"><span class="mw-cite-backlink"><a href="#cite_ref-2">↑</a></span> <span class="reference-text"><a rel="nofollow" class="external text" href="https://theboss.github.io/blog/2018/01/09/mastodon-allow-unconfirmed-email/">Mastodon のメールアドレス確認を無効にする方法 (インスタンス管理者向け)</a></span>
+</li>
+<li id="cite_note-3"><span class="mw-cite-backlink"><a href="#cite_ref-3">↑</a></span> <span class="reference-text"><a rel="nofollow" class="external free" href="https://github.com/tootsuite/mastodon/issues/3484">https://github.com/tootsuite/mastodon/issues/3484</a></span>
+</li>
+<li id="cite_note-4"><span class="mw-cite-backlink"><a href="#cite_ref-4">↑</a></span> <span class="reference-text"><a rel="nofollow" class="external free" href="https://github.com/tootsuite/mastodon/releases/tag/v2.3.0">https://github.com/tootsuite/mastodon/releases/tag/v2.3.0</a></span>
+</li>
+<li id="cite_note-5"><span class="mw-cite-backlink"><a href="#cite_ref-5">↑</a></span> <span class="reference-text"><a rel="nofollow" class="external free" href="https://github.com/tootsuite/mastodon/pull/6556">https://github.com/tootsuite/mastodon/pull/6556</a></span>
+</li>
+</ol></div>
+
+<!-- 
+NewPP limit report
+Cached time: 20220327033054
+Cache expiry: 86400
+Dynamic content: false
+CPU time usage: 0.055 seconds
+Real time usage: 0.159 seconds
+Preprocessor visited node count: 102/1000000
+Preprocessor generated node count: 218/1000000
+Post‐expand include size: 0/2097152 bytes
+Template argument size: 0/2097152 bytes
+Highest expansion depth: 2/40
+Expensive parser function count: 0/100
+Unstrip recursion depth: 0/20
+Unstrip post‐expand size: 2025/5000000 bytes
+-->
+<!--
+Transclusion expansion time report (%,ms,calls,template)
+100.00%    0.000      1 -total
+-->
+</div>
+<!-- Saved in parser cache with key mastodon_wiki_ja:pcache:idhash:1651-0!canonical and timestamp 20220327033053 and revision id 14798
+ -->

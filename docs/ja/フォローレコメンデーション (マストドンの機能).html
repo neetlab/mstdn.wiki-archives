@@ -1,0 +1,119 @@
+<div class="mw-parser-output"><div class="dablink noprint">
+<table style="width:100%; background:transparent;">
+<tbody><tr>
+<td style="width:25px;"><a href="/%E3%83%95%E3%82%A1%E3%82%A4%E3%83%AB:Disambig_gray.svg" class="image" title="曖昧さ回避"><img alt="曖昧さ回避" src="/images/thumb/5/5f/Disambig_gray.svg/25px-Disambig_gray.svg.png" width="25" height="19" srcset="/images/thumb/5/5f/Disambig_gray.svg/38px-Disambig_gray.svg.png 1.5x, /images/thumb/5/5f/Disambig_gray.svg/50px-Disambig_gray.svg.png 2x" /></a>
+</td>
+<td>この項目では、<a href="/Mastodon" title="Mastodon">マストドン</a>本体に搭載されているユーザーレコメンデーションについて説明しています。ユーザーレコメンデーション自体の説明については「<a href="/%E3%83%A6%E3%83%BC%E3%82%B6%E3%83%BC%E3%83%AC%E3%82%B3%E3%83%A1%E3%83%B3%E3%83%87%E3%83%BC%E3%82%B7%E3%83%A7%E3%83%B3" title="ユーザーレコメンデーション">ユーザーレコメンデーション</a>」をご覧ください。
+</td></tr></tbody></table>
+</div>
+<table class="wikitable mastowiki-infobox mastowiki-infobox-feature">
+
+<tbody><tr>
+<th colspan="2">フォローレコメンデーション
+</th></tr>
+<tr>
+<td colspan="2" style="text-align: center"><a href="/%E3%83%95%E3%82%A1%E3%82%A4%E3%83%AB:Mastodon_logo.png" class="image" title="Mastodon"><img alt="Mastodon" src="/images/thumb/0/00/Mastodon_logo.png/120px-Mastodon_logo.png" width="120" height="120" srcset="/images/thumb/0/00/Mastodon_logo.png/180px-Mastodon_logo.png 1.5x, /images/0/00/Mastodon_logo.png 2x" /></a>
+</td></tr>
+<tr>
+<th scope="row">実装バージョン
+</th>
+<td>2.4.3
+</td></tr>
+<tr>
+<th scope="row">APIエンドポイント
+</th>
+<td><code>GET /api/v1/suggestions</code>
+</td></tr>
+<tr>
+<th scope="row">利用可能なインスタンス
+</th>
+<td>全てのインスタンス
+</td></tr>
+<tr>
+<th scope="row">リンク
+</th>
+<td><a rel="nofollow" class="external text" href="https://github.com/tootsuite/mastodon/releases/tag/v2.4.3">実装されたリリース</a>
+</td></tr></tbody></table>
+<p><br />
+<b>フォローレコメンデーション</b>は、2018年7月3日に<a href="/%E3%83%9E%E3%82%B9%E3%83%88%E3%83%89%E3%83%B3%E5%85%AC%E5%BC%8F%E3%83%AA%E3%83%9D%E3%82%B8%E3%83%88%E3%83%AA" title="マストドン公式リポジトリ">マストドン公式リポジトリ</a>にマージされ、バージョン2.4.3<sup id="cite_ref-1" class="reference"><a href="#cite_note-1">&#91;1&#93;</a></sup>で利用可能になった。ただし、バージョン2.4.3で提供されたのはAPIのみであり、UIは実装されていない。<a href="/Subway_Tooter" title="Subway Tooter">Subway Tooter</a>と<a href="/TheDesk" title="TheDesk">TheDesk</a>は、この機能のUIを先行して実装していた。<a href="/%E3%83%95%E3%82%A9%E3%83%AD%E3%83%BC%E3%83%AC%E3%82%B3%E3%83%A1%E3%83%B3%E3%83%87%E3%83%BC%E3%82%B7%E3%83%A7%E3%83%B3%E3%83%81%E3%82%A7%E3%83%83%E3%82%AB%E3%83%BC" title="フォローレコメンデーションチェッカー">フォローレコメンデーションチェッカー</a>を使用すればWeb上でログインして閲覧できる。
+</p><p><a href="/%E3%83%9E%E3%82%B9%E3%83%88%E3%83%89%E3%83%B3%E5%85%AC%E5%BC%8F%E3%83%AA%E3%83%9D%E3%82%B8%E3%83%88%E3%83%AA" title="マストドン公式リポジトリ">マストドン公式リポジトリ</a>の2018年10月23日<sup id="cite_ref-2" class="reference"><a href="#cite_note-2">&#91;2&#93;</a></sup>以降のコード、および、バージョン2.6.0以降のリリースでは、ウェブUIをスマートフォンのブラウザで見た場合に、フォローレコメンデーションが表示されるようになった。これは、検索画面を開いてから、検索が完了するまでの間に表示される。
+</p><p>フォローレコメンデーションのアルゴリズムは、<b>potential friendship</b>と呼ばれるカウンターを利用する。あるユーザーが別のユーザーにエンゲージすると、potential friendshipが増加する。ここでエンゲージとは、<a href="/%E3%83%AA%E3%83%97%E3%83%A9%E3%82%A4" title="リプライ">リプライ</a>、<a href="/%E3%81%8A%E6%B0%97%E3%81%AB%E5%85%A5%E3%82%8A" title="お気に入り">お気に入り</a>、<a href="/%E3%83%96%E3%83%BC%E3%82%B9%E3%83%88" title="ブースト">ブースト</a>である。そして、potential friendshipが多い順にレコメンドされる。
+</p><p>フォローレコメンデーションのAPIのエンドポイントは /api/v1/suggestions である。
+</p>
+<div id="toc" class="toc"><div class="toctitle" lang="ja" dir="ltr"><h2>目次</h2></div>
+<ul>
+<li class="toclevel-1 tocsection-1"><a href="#.E5.AF.BE.E5.BF.9C.E3.81.99.E3.82.8B.E3.82.AF.E3.83.A9.E3.82.A4.E3.82.A2.E3.83.B3.E3.83.88"><span class="tocnumber">1</span> <span class="toctext">対応するクライアント</span></a></li>
+<li class="toclevel-1 tocsection-2"><a href="#.E5.B0.82.E7.94.A8.E3.81.AE.E3.83.93.E3.83.A5.E3.83.BC.E3.82.A2"><span class="tocnumber">2</span> <span class="toctext">専用のビューア</span></a></li>
+<li class="toclevel-1 tocsection-3"><a href="#.E9.96.A2.E9.80.A3.E3.81.99.E3.82.8B.E6.A9.9F.E8.83.BD"><span class="tocnumber">3</span> <span class="toctext">関連する機能</span></a></li>
+<li class="toclevel-1 tocsection-4"><a href="#.E4.BB.96.E3.81.AE.E5.88.86.E6.95.A3SNS.E3.81.A8.E3.81.AE.E9.96.A2.E4.BF.82"><span class="tocnumber">4</span> <span class="toctext">他の分散SNSとの関係</span></a></li>
+<li class="toclevel-1 tocsection-5"><a href="#.E6.89.B9.E5.88.A4"><span class="tocnumber">5</span> <span class="toctext">批判</span></a></li>
+<li class="toclevel-1 tocsection-6"><a href="#.E5.A4.96.E9.83.A8.E3.83.AA.E3.83.B3.E3.82.AF"><span class="tocnumber">6</span> <span class="toctext">外部リンク</span></a></li>
+<li class="toclevel-1 tocsection-7"><a href="#.E8.84.9A.E6.B3.A8"><span class="tocnumber">7</span> <span class="toctext">脚注</span></a></li>
+</ul>
+</div>
+
+<h2><span id="対応するクライアント"></span><span class="mw-headline" id=".E5.AF.BE.E5.BF.9C.E3.81.99.E3.82.8B.E3.82.AF.E3.83.A9.E3.82.A4.E3.82.A2.E3.83.B3.E3.83.88">対応するクライアント</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/index.php?title=%E3%83%95%E3%82%A9%E3%83%AD%E3%83%BC%E3%83%AC%E3%82%B3%E3%83%A1%E3%83%B3%E3%83%87%E3%83%BC%E3%82%B7%E3%83%A7%E3%83%B3_(%E3%83%9E%E3%82%B9%E3%83%88%E3%83%89%E3%83%B3%E3%81%AE%E6%A9%9F%E8%83%BD)&amp;veaction=edit&amp;section=1" class="mw-editsection-visualeditor" title="節を編集: 対応するクライアント">編集</a><span class="mw-editsection-divider"> | </span><a href="/index.php?title=%E3%83%95%E3%82%A9%E3%83%AD%E3%83%BC%E3%83%AC%E3%82%B3%E3%83%A1%E3%83%B3%E3%83%87%E3%83%BC%E3%82%B7%E3%83%A7%E3%83%B3_(%E3%83%9E%E3%82%B9%E3%83%88%E3%83%89%E3%83%B3%E3%81%AE%E6%A9%9F%E8%83%BD)&amp;action=edit&amp;section=1" title="節を編集: 対応するクライアント">ソースを編集</a><span class="mw-editsection-bracket">]</span></span></h2>
+<ul><li><a href="/Subway_Tooter" title="Subway Tooter">Subway Tooter</a> (バージョン2.6.2<sup id="cite_ref-3" class="reference"><a href="#cite_note-3">&#91;3&#93;</a></sup>から)</li>
+<li><a href="/TheDesk" title="TheDesk">TheDesk</a> (Mio (15.8.0)<sup id="cite_ref-4" class="reference"><a href="#cite_note-4">&#91;4&#93;</a></sup>から)</li>
+<li><a href="/G%2BDon" title="G+Don">G+Don</a></li></ul>
+<h2><span id="専用のビューア"></span><span class="mw-headline" id=".E5.B0.82.E7.94.A8.E3.81.AE.E3.83.93.E3.83.A5.E3.83.BC.E3.82.A2">専用のビューア</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/index.php?title=%E3%83%95%E3%82%A9%E3%83%AD%E3%83%BC%E3%83%AC%E3%82%B3%E3%83%A1%E3%83%B3%E3%83%87%E3%83%BC%E3%82%B7%E3%83%A7%E3%83%B3_(%E3%83%9E%E3%82%B9%E3%83%88%E3%83%89%E3%83%B3%E3%81%AE%E6%A9%9F%E8%83%BD)&amp;veaction=edit&amp;section=2" class="mw-editsection-visualeditor" title="節を編集: 専用のビューア">編集</a><span class="mw-editsection-divider"> | </span><a href="/index.php?title=%E3%83%95%E3%82%A9%E3%83%AD%E3%83%BC%E3%83%AC%E3%82%B3%E3%83%A1%E3%83%B3%E3%83%87%E3%83%BC%E3%82%B7%E3%83%A7%E3%83%B3_(%E3%83%9E%E3%82%B9%E3%83%88%E3%83%89%E3%83%B3%E3%81%AE%E6%A9%9F%E8%83%BD)&amp;action=edit&amp;section=2" title="節を編集: 専用のビューア">ソースを編集</a><span class="mw-editsection-bracket">]</span></span></h2>
+<ul><li><a href="/%E3%83%95%E3%82%A9%E3%83%AD%E3%83%BC%E3%83%AC%E3%82%B3%E3%83%A1%E3%83%B3%E3%83%87%E3%83%BC%E3%82%B7%E3%83%A7%E3%83%B3%E3%83%81%E3%82%A7%E3%83%83%E3%82%AB%E3%83%BC" title="フォローレコメンデーションチェッカー">フォローレコメンデーションチェッカー</a></li>
+<li><a href="/Mastodon_Follow_Suggestion" title="Mastodon Follow Suggestion">Mastodon Follow Suggestion</a></li></ul>
+<h2><span id="関連する機能"></span><span class="mw-headline" id=".E9.96.A2.E9.80.A3.E3.81.99.E3.82.8B.E6.A9.9F.E8.83.BD">関連する機能</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/index.php?title=%E3%83%95%E3%82%A9%E3%83%AD%E3%83%BC%E3%83%AC%E3%82%B3%E3%83%A1%E3%83%B3%E3%83%87%E3%83%BC%E3%82%B7%E3%83%A7%E3%83%B3_(%E3%83%9E%E3%82%B9%E3%83%88%E3%83%89%E3%83%B3%E3%81%AE%E6%A9%9F%E8%83%BD)&amp;veaction=edit&amp;section=3" class="mw-editsection-visualeditor" title="節を編集: 関連する機能">編集</a><span class="mw-editsection-divider"> | </span><a href="/index.php?title=%E3%83%95%E3%82%A9%E3%83%AD%E3%83%BC%E3%83%AC%E3%82%B3%E3%83%A1%E3%83%B3%E3%83%87%E3%83%BC%E3%82%B7%E3%83%A7%E3%83%B3_(%E3%83%9E%E3%82%B9%E3%83%88%E3%83%89%E3%83%B3%E3%81%AE%E6%A9%9F%E8%83%BD)&amp;action=edit&amp;section=3" title="節を編集: 関連する機能">ソースを編集</a><span class="mw-editsection-bracket">]</span></span></h2>
+<p>日本語圏のマストドンで「おすすめユーザー」と言うと、この機能を指すのか<a href="/%E3%83%97%E3%83%AD%E3%83%95%E3%82%A3%E3%83%BC%E3%83%AB%E3%81%A7%E7%B4%B9%E4%BB%8B%E3%81%99%E3%82%8B" title="プロフィールで紹介する">プロフィールで紹介する</a>を指すのか曖昧である。<a href="/%E3%82%AB%E3%83%86%E3%82%B4%E3%83%AA:%E3%83%9E%E3%82%B9%E3%83%88%E3%83%89%E3%83%B3%E6%9C%AC%E4%BD%93%E3%81%AE%E3%83%A6%E3%83%BC%E3%82%B6%E3%83%BC%E3%83%AC%E3%82%B3%E3%83%A1%E3%83%B3%E3%83%87%E3%83%BC%E3%82%B7%E3%83%A7%E3%83%B3" title="カテゴリ:マストドン本体のユーザーレコメンデーション">カテゴリ:マストドン本体のユーザーレコメンデーション</a>も参照。
+</p>
+<h2><span id="他の分散SNSとの関係"></span><span class="mw-headline" id=".E4.BB.96.E3.81.AE.E5.88.86.E6.95.A3SNS.E3.81.A8.E3.81.AE.E9.96.A2.E4.BF.82">他の分散SNSとの関係</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/index.php?title=%E3%83%95%E3%82%A9%E3%83%AD%E3%83%BC%E3%83%AC%E3%82%B3%E3%83%A1%E3%83%B3%E3%83%87%E3%83%BC%E3%82%B7%E3%83%A7%E3%83%B3_(%E3%83%9E%E3%82%B9%E3%83%88%E3%83%89%E3%83%B3%E3%81%AE%E6%A9%9F%E8%83%BD)&amp;veaction=edit&amp;section=4" class="mw-editsection-visualeditor" title="節を編集: 他の分散SNSとの関係">編集</a><span class="mw-editsection-divider"> | </span><a href="/index.php?title=%E3%83%95%E3%82%A9%E3%83%AD%E3%83%BC%E3%83%AC%E3%82%B3%E3%83%A1%E3%83%B3%E3%83%87%E3%83%BC%E3%82%B7%E3%83%A7%E3%83%B3_(%E3%83%9E%E3%82%B9%E3%83%88%E3%83%89%E3%83%B3%E3%81%AE%E6%A9%9F%E8%83%BD)&amp;action=edit&amp;section=4" title="節を編集: 他の分散SNSとの関係">ソースを編集</a><span class="mw-editsection-bracket">]</span></span></h2>
+<p><a href="/Pleroma" title="Pleroma">Pleroma</a>は /api/v1/suggestions を実装している<sup id="cite_ref-5" class="reference"><a href="#cite_note-5">&#91;5&#93;</a></sup>。デフォルトでは空の配列を返すが、設定により、サードパーティーのレコメンデーションエンジンを使用できる。サードパーティーのレコメンデーションエンジンは、<a href="/%E3%83%9E%E3%82%B9%E3%83%88%E3%83%89%E3%83%B3%E3%83%A6%E3%83%BC%E3%82%B6%E3%83%BC%E3%83%9E%E3%83%83%E3%83%81%E3%83%B3%E3%82%B0" title="マストドンユーザーマッチング">マストドンユーザーマッチング</a>のほか、同じウェブサイトの新着順リストを用いる方法<sup id="cite_ref-6" class="reference"><a href="#cite_note-6">&#91;6&#93;</a></sup>がアナウンスされている。
+</p><p><a href="/Gab" title="Gab">Gab</a>のウェブUIのWho To Followパネルはpotential friendshipを表示している。ブラウザのウィンドウの幅が十分に広く、なおかつpotential friendshipが空でない場合に限り、Who To Followパネルが表示される。
+</p>
+<h2><span id="批判"></span><span class="mw-headline" id=".E6.89.B9.E5.88.A4">批判</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/index.php?title=%E3%83%95%E3%82%A9%E3%83%AD%E3%83%BC%E3%83%AC%E3%82%B3%E3%83%A1%E3%83%B3%E3%83%87%E3%83%BC%E3%82%B7%E3%83%A7%E3%83%B3_(%E3%83%9E%E3%82%B9%E3%83%88%E3%83%89%E3%83%B3%E3%81%AE%E6%A9%9F%E8%83%BD)&amp;veaction=edit&amp;section=5" class="mw-editsection-visualeditor" title="節を編集: 批判">編集</a><span class="mw-editsection-divider"> | </span><a href="/index.php?title=%E3%83%95%E3%82%A9%E3%83%AD%E3%83%BC%E3%83%AC%E3%82%B3%E3%83%A1%E3%83%B3%E3%83%87%E3%83%BC%E3%82%B7%E3%83%A7%E3%83%B3_(%E3%83%9E%E3%82%B9%E3%83%88%E3%83%89%E3%83%B3%E3%81%AE%E6%A9%9F%E8%83%BD)&amp;action=edit&amp;section=5" title="節を編集: 批判">ソースを編集</a><span class="mw-editsection-bracket">]</span></span></h2>
+<p>この機能を実装したプルリクエスト<sup id="cite_ref-7" class="reference"><a href="#cite_note-7">&#91;7&#93;</a></sup>には、多くの批判的なコメントが書き込まれた。これを受けて、<a href="/Gargron" class="mw-redirect" title="Gargron">Eugen Rochko</a>は、この機能の実装をAPIのみにとどめ、UIの実装を遅らせる対応を取った。記事執筆時点では、スマートフォン用のウェブUIに限りUIが実装されているが、PC用のウェブUIが速やかに実装されるかどうかは予断を許さない状況である。
+</p>
+<h2><span id="外部リンク"></span><span class="mw-headline" id=".E5.A4.96.E9.83.A8.E3.83.AA.E3.83.B3.E3.82.AF">外部リンク</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/index.php?title=%E3%83%95%E3%82%A9%E3%83%AD%E3%83%BC%E3%83%AC%E3%82%B3%E3%83%A1%E3%83%B3%E3%83%87%E3%83%BC%E3%82%B7%E3%83%A7%E3%83%B3_(%E3%83%9E%E3%82%B9%E3%83%88%E3%83%89%E3%83%B3%E3%81%AE%E6%A9%9F%E8%83%BD)&amp;veaction=edit&amp;section=6" class="mw-editsection-visualeditor" title="節を編集: 外部リンク">編集</a><span class="mw-editsection-divider"> | </span><a href="/index.php?title=%E3%83%95%E3%82%A9%E3%83%AD%E3%83%BC%E3%83%AC%E3%82%B3%E3%83%A1%E3%83%B3%E3%83%87%E3%83%BC%E3%82%B7%E3%83%A7%E3%83%B3_(%E3%83%9E%E3%82%B9%E3%83%88%E3%83%89%E3%83%B3%E3%81%AE%E6%A9%9F%E8%83%BD)&amp;action=edit&amp;section=6" title="節を編集: 外部リンク">ソースを編集</a><span class="mw-editsection-bracket">]</span></span></h2>
+<ul><li><a rel="nofollow" class="external text" href="https://github.com/tootsuite/mastodon/pull/7918">Re-add follow recommendations API #7918</a></li>
+<li><a rel="nofollow" class="external text" href="https://github.com/tootsuite/mastodon/pull/9010">Show suggested follows on search screen in mobile layout #9010</a></li>
+<li><a rel="nofollow" class="external text" href="https://hakabahitoyo.wordpress.com/2018/07/03/gargrons-official-user-recommendation/">ユーザーレコメンデーションがマストドン本体に導入された: フェアネスの評価は「現状維持」</a></li></ul>
+<h2><span id="脚注"></span><span class="mw-headline" id=".E8.84.9A.E6.B3.A8">脚注</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/index.php?title=%E3%83%95%E3%82%A9%E3%83%AD%E3%83%BC%E3%83%AC%E3%82%B3%E3%83%A1%E3%83%B3%E3%83%87%E3%83%BC%E3%82%B7%E3%83%A7%E3%83%B3_(%E3%83%9E%E3%82%B9%E3%83%88%E3%83%89%E3%83%B3%E3%81%AE%E6%A9%9F%E8%83%BD)&amp;veaction=edit&amp;section=7" class="mw-editsection-visualeditor" title="節を編集: 脚注">編集</a><span class="mw-editsection-divider"> | </span><a href="/index.php?title=%E3%83%95%E3%82%A9%E3%83%AD%E3%83%BC%E3%83%AC%E3%82%B3%E3%83%A1%E3%83%B3%E3%83%87%E3%83%BC%E3%82%B7%E3%83%A7%E3%83%B3_(%E3%83%9E%E3%82%B9%E3%83%88%E3%83%89%E3%83%B3%E3%81%AE%E6%A9%9F%E8%83%BD)&amp;action=edit&amp;section=7" title="節を編集: 脚注">ソースを編集</a><span class="mw-editsection-bracket">]</span></span></h2>
+<div class="mw-references-wrap"><ol class="references">
+<li id="cite_note-1"><span class="mw-cite-backlink"><a href="#cite_ref-1">↑</a></span> <span class="reference-text"><a rel="nofollow" class="external free" href="https://github.com/tootsuite/mastodon/releases/tag/v2.4.3">https://github.com/tootsuite/mastodon/releases/tag/v2.4.3</a></span>
+</li>
+<li id="cite_note-2"><span class="mw-cite-backlink"><a href="#cite_ref-2">↑</a></span> <span class="reference-text"><a rel="nofollow" class="external text" href="https://github.com/tootsuite/mastodon/pull/9010">Show suggested follows on search screen in mobile layout #9010</a></span>
+</li>
+<li id="cite_note-3"><span class="mw-cite-backlink"><a href="#cite_ref-3">↑</a></span> <span class="reference-text"><a rel="nofollow" class="external free" href="https://github.com/tateisu/SubwayTooter/releases/tag/v2.6.2">https://github.com/tateisu/SubwayTooter/releases/tag/v2.6.2</a></span>
+</li>
+<li id="cite_note-4"><span class="mw-cite-backlink"><a href="#cite_ref-4">↑</a></span> <span class="reference-text"><span class="toot-link"><a rel="nofollow" class="external text" href="https://kirishima.cloud/@Cutls/100329288077735687">@Cutls@kirishima.cloudのトゥート (100329288077735687)</a></span></span>
+</li>
+<li id="cite_note-5"><span class="mw-cite-backlink"><a href="#cite_ref-5">↑</a></span> <span class="reference-text"><a rel="nofollow" class="external text" href="https://git.pleroma.social/pleroma/pleroma/merge_requests/254">!254 Feature / Suggestions API with third party recommendation engine</a></span>
+</li>
+<li id="cite_note-6"><span class="mw-cite-backlink"><a href="#cite_ref-6">↑</a></span> <span class="reference-text"><a rel="nofollow" class="external text" href="https://docs-develop.pleroma.social/howto_user_recomendation.html">How to activate user recommendation (Who to follow panel)</a></span>
+</li>
+<li id="cite_note-7"><span class="mw-cite-backlink"><a href="#cite_ref-7">↑</a></span> <span class="reference-text"><a rel="nofollow" class="external text" href="https://github.com/tootsuite/mastodon/pull/7918">Re-add follow recommendations API #7918</a></span>
+</li>
+</ol></div>
+
+<!-- 
+NewPP limit report
+Cached time: 20220327033046
+Cache expiry: 86400
+Dynamic content: false
+CPU time usage: 0.110 seconds
+Real time usage: 0.129 seconds
+Preprocessor visited node count: 219/1000000
+Preprocessor generated node count: 1208/1000000
+Post‐expand include size: 1976/2097152 bytes
+Template argument size: 833/2097152 bytes
+Highest expansion depth: 5/40
+Expensive parser function count: 0/100
+Unstrip recursion depth: 0/20
+Unstrip post‐expand size: 2753/5000000 bytes
+-->
+<!--
+Transclusion expansion time report (%,ms,calls,template)
+100.00%   37.535      1 -total
+ 15.71%    5.896      1 テンプレート:Otheruses
+  9.81%    3.682      1 テンプレート:Infobox_feature
+  6.83%    2.562      1 テンプレート:Toot
+-->
+</div>
+<!-- Saved in parser cache with key mastodon_wiki_ja:pcache:idhash:2223-0!canonical and timestamp 20220327033046 and revision id 13534
+ -->

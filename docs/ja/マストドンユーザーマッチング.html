@@ -1,0 +1,276 @@
+<div class="mw-parser-output"><table class="wikitable mastowiki-infobox mastowiki-infobox-software">
+
+<tbody><tr>
+<th colspan="2">マストドンユーザーマッチング
+</th></tr>
+<tr>
+<td colspan="2" style="text-align: center"><a href="/%E3%83%95%E3%82%A1%E3%82%A4%E3%83%AB:Naraha.png" class="image"><img alt="Naraha.png" src="/images/thumb/8/8a/Naraha.png/120px-Naraha.png" width="120" height="120" srcset="/images/thumb/8/8a/Naraha.png/180px-Naraha.png 1.5x, /images/thumb/8/8a/Naraha.png/240px-Naraha.png 2x" /></a>
+</td></tr>
+<tr>
+<th scope="row">開発者
+</th>
+<td><a href="/%E5%A2%93%E5%A0%B4%E4%BA%BA%E5%A4%9C" title="墓場人夜">墓場人夜</a>
+</td></tr>
+
+
+
+<tr>
+<th scope="row">プラットホーム
+</th>
+<td>ウェブ
+</td></tr>
+<tr>
+<th scope="row">プログラミング言語
+</th>
+<td>C++, JavaScript
+</td></tr>
+<tr>
+<th scope="row">サービス開始日
+</th>
+<td>2017年11月15日
+</td></tr>
+
+
+
+<tr>
+<th scope="row">ライセンス
+</th>
+<td><a href="/GNU_Affero_General_Public_License" title="GNU Affero General Public License">GNU Affero General Public License</a>
+</td></tr>
+<tr>
+<th scope="row">Webサイト
+</th>
+<td>https://distsn.org
+</td></tr>
+
+
+</tbody></table>
+<p><br />
+<b>マストドンユーザーマッチング</b>は、指定されたユーザーに似ているユーザーを検索するウェブアプリケーション。観測対象となるインスタンスは<a href="/Peers_API" title="Peers API">Peers API</a>を再帰的に探索することで自動的に取得している。
+</p><p>2020年1月25日、マストドンユーザーマッチングとユーザー検索のウェブUIを廃止。APIは当面は提供されるが、近日中の廃止が予定されている。新規ユーザーリストはAPIのURLを変更したうえで存続する見通しである。
+</p>
+<div id="toc" class="toc"><div class="toctitle" lang="ja" dir="ltr"><h2>目次</h2></div>
+<ul>
+<li class="toclevel-1 tocsection-1"><a href="#.E5.90.8D.E7.A7.B0.E3.81.AB.E3.81.A4.E3.81.84.E3.81.A6"><span class="tocnumber">1</span> <span class="toctext">名称について</span></a></li>
+<li class="toclevel-1 tocsection-2"><a href="#.E6.A9.9F.E8.83.BD"><span class="tocnumber">2</span> <span class="toctext">機能</span></a>
+<ul>
+<li class="toclevel-2 tocsection-3"><a href="#.E3.83.9E.E3.82.B9.E3.83.88.E3.83.89.E3.83.B3.E3.83.A6.E3.83.BC.E3.82.B6.E3.83.BC.E3.83.9E.E3.83.83.E3.83.81.E3.83.B3.E3.82.B0"><span class="tocnumber">2.1</span> <span class="toctext">マストドンユーザーマッチング</span></a></li>
+<li class="toclevel-2 tocsection-4"><a href="#.E3.83.A6.E3.83.BC.E3.82.B6.E3.83.BC.E6.A4.9C.E7.B4.A2"><span class="tocnumber">2.2</span> <span class="toctext">ユーザー検索</span></a></li>
+<li class="toclevel-2 tocsection-5"><a href="#.E6.96.B0.E8.A6.8F.E3.83.A6.E3.83.BC.E3.82.B6.E3.83.BC.E3.83.AA.E3.82.B9.E3.83.88"><span class="tocnumber">2.3</span> <span class="toctext">新規ユーザーリスト</span></a></li>
+<li class="toclevel-2 tocsection-6"><a href="#2.E9.80.B1.E9.96.93.E4.BB.A5.E5.86.85.E3.81.AB.E6.8A.95.E7.A8.BF.E3.81.97.E3.81.9F.E3.83.A6.E3.83.BC.E3.82.B6.E3.83.BC.E3.81.AE.E3.83.AA.E3.82.B9.E3.83.88"><span class="tocnumber">2.4</span> <span class="toctext">2週間以内に投稿したユーザーのリスト</span></a></li>
+</ul>
+</li>
+<li class="toclevel-1 tocsection-7"><a href="#.E5.BB.83.E6.AD.A2.E3.81.95.E3.82.8C.E3.81.9F.E6.A9.9F.E8.83.BD"><span class="tocnumber">3</span> <span class="toctext">廃止された機能</span></a>
+<ul>
+<li class="toclevel-2 tocsection-8"><a href="#.E6.B5.81.E9.80.9F.E9.A0.86.E3.83.A6.E3.83.BC.E3.82.B6.E3.83.BC.E3.83.AA.E3.82.B9.E3.83.88"><span class="tocnumber">3.1</span> <span class="toctext">流速順ユーザーリスト</span></a></li>
+</ul>
+</li>
+<li class="toclevel-1 tocsection-9"><a href="#.E4.BB.95.E6.A7.98"><span class="tocnumber">4</span> <span class="toctext">仕様</span></a>
+<ul>
+<li class="toclevel-2 tocsection-10"><a href="#.E3.82.AA.E3.83.97.E3.83.88.E3.82.A2.E3.82.A6.E3.83.88"><span class="tocnumber">4.1</span> <span class="toctext">オプトアウト</span></a></li>
+<li class="toclevel-2 tocsection-11"><a href="#.E3.83.96.E3.83.A9.E3.83.83.E3.82.AF.E3.83.AA.E3.82.B9.E3.83.88"><span class="tocnumber">4.2</span> <span class="toctext">ブラックリスト</span></a></li>
+<li class="toclevel-2 tocsection-12"><a href="#.E3.82.B8.E3.82.A7.E3.83.B3.E3.83.80.E3.83.BC.E3.82.A2.E3.83.95.E3.82.A1.E3.83.BC.E3.83.9E.E3.83.86.E3.82.A3.E3.83.96.E3.82.A2.E3.82.AF.E3.82.B7.E3.83.A7.E3.83.B3"><span class="tocnumber">4.3</span> <span class="toctext">ジェンダーアファーマティブアクション</span></a></li>
+<li class="toclevel-2 tocsection-13"><a href="#.E3.82.A2.E3.83.B3.E3.83.81.E3.82.BB.E3.83.AC.E3.83.96.E3.83.AA.E3.83.86.E3.82.A3.E3.82.AB.E3.83.83.E3.83.88.E3.82.AA.E3.83.95"><span class="tocnumber">4.4</span> <span class="toctext">アンチセレブリティカットオフ</span></a></li>
+<li class="toclevel-2 tocsection-14"><a href="#Misskey.E5.AF.BE.E5.BF.9C.E3.81.AE.E5.88.B6.E9.99.90"><span class="tocnumber">4.5</span> <span class="toctext">Misskey対応の制限</span></a></li>
+</ul>
+</li>
+<li class="toclevel-1 tocsection-15"><a href="#.E3.82.B9.E3.83.91.E3.83.A0.E3.81.AE.E9.80.81.E4.BF.A1"><span class="tocnumber">5</span> <span class="toctext">スパムの送信</span></a></li>
+<li class="toclevel-1 tocsection-16"><a href="#.E4.BB.96.E3.81.AE.E5.88.86.E6.95.A3SNS.E3.81.A8.E3.81.AE.E9.96.A2.E4.BF.82"><span class="tocnumber">6</span> <span class="toctext">他の分散SNSとの関係</span></a></li>
+<li class="toclevel-1 tocsection-17"><a href="#.E6.B2.BF.E9.9D.A9"><span class="tocnumber">7</span> <span class="toctext">沿革</span></a></li>
+<li class="toclevel-1 tocsection-18"><a href="#.E9.96.A2.E9.80.A3.E9.A0.85.E7.9B.AE"><span class="tocnumber">8</span> <span class="toctext">関連項目</span></a></li>
+<li class="toclevel-1 tocsection-19"><a href="#.E8.84.9A.E6.B3.A8"><span class="tocnumber">9</span> <span class="toctext">脚注</span></a></li>
+</ul>
+</div>
+
+<h2><span id="名称について"></span><span class="mw-headline" id=".E5.90.8D.E7.A7.B0.E3.81.AB.E3.81.A4.E3.81.84.E3.81.A6">名称について</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/index.php?title=%E3%83%9E%E3%82%B9%E3%83%88%E3%83%89%E3%83%B3%E3%83%A6%E3%83%BC%E3%82%B6%E3%83%BC%E3%83%9E%E3%83%83%E3%83%81%E3%83%B3%E3%82%B0&amp;veaction=edit&amp;section=1" class="mw-editsection-visualeditor" title="節を編集: 名称について">編集</a><span class="mw-editsection-divider"> | </span><a href="/index.php?title=%E3%83%9E%E3%82%B9%E3%83%88%E3%83%89%E3%83%B3%E3%83%A6%E3%83%BC%E3%82%B6%E3%83%BC%E3%83%9E%E3%83%83%E3%83%81%E3%83%B3%E3%82%B0&amp;action=edit&amp;section=1" title="節を編集: 名称について">ソースを編集</a><span class="mw-editsection-bracket">]</span></span></h2>
+<p>当初は<b>マストドンユーザーマッチング</b>という名称のウェブサイトとして開設された。2018年9月21日ごろ、<a href="/GNU_social" title="GNU social">GNU social</a>と<a href="/Misskey" title="Misskey">Misskey</a>が検索対象に加わったことと、日本語ロケールが廃止されたことから、ウェブサイトの名称は<b>User Matching for GNU social, Mastodon, Pleroma, and Misskey</b>となった<sup id="cite_ref-1" class="reference"><a href="#cite_note-1">&#91;1&#93;</a></sup>。2019年7月3日、ウェブUIは<a href="/Recommendation_Fairness_Warrior" title="Recommendation Fairness Warrior">Recommendation Fairness Warrior</a>に移行し、本項に記載された諸機能はAPIで提供されている。 2020年2月23日より<a href="/Fediverse_Observer" title="Fediverse Observer">Fediverse Observer</a>に移行。ウェブフロントエンド、APIともにURLが変更になった。
+</p><p>作者自身による通称は<b>マッチング氏</b>。また、機械可読なコードネームとして<b>vinayaka</b>が用いられている。
+</p>
+<h2><span id="機能"></span><span class="mw-headline" id=".E6.A9.9F.E8.83.BD">機能</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/index.php?title=%E3%83%9E%E3%82%B9%E3%83%88%E3%83%89%E3%83%B3%E3%83%A6%E3%83%BC%E3%82%B6%E3%83%BC%E3%83%9E%E3%83%83%E3%83%81%E3%83%B3%E3%82%B0&amp;veaction=edit&amp;section=2" class="mw-editsection-visualeditor" title="節を編集: 機能">編集</a><span class="mw-editsection-divider"> | </span><a href="/index.php?title=%E3%83%9E%E3%82%B9%E3%83%88%E3%83%89%E3%83%B3%E3%83%A6%E3%83%BC%E3%82%B6%E3%83%BC%E3%83%9E%E3%83%83%E3%83%81%E3%83%B3%E3%82%B0&amp;action=edit&amp;section=2" title="節を編集: 機能">ソースを編集</a><span class="mw-editsection-bracket">]</span></span></h2>
+<h3><span id="マストドンユーザーマッチング"></span><span class="mw-headline" id=".E3.83.9E.E3.82.B9.E3.83.88.E3.83.89.E3.83.B3.E3.83.A6.E3.83.BC.E3.82.B6.E3.83.BC.E3.83.9E.E3.83.83.E3.83.81.E3.83.B3.E3.82.B0">マストドンユーザーマッチング</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/index.php?title=%E3%83%9E%E3%82%B9%E3%83%88%E3%83%89%E3%83%B3%E3%83%A6%E3%83%BC%E3%82%B6%E3%83%BC%E3%83%9E%E3%83%83%E3%83%81%E3%83%B3%E3%82%B0&amp;veaction=edit&amp;section=3" class="mw-editsection-visualeditor" title="節を編集: マストドンユーザーマッチング">編集</a><span class="mw-editsection-divider"> | </span><a href="/index.php?title=%E3%83%9E%E3%82%B9%E3%83%88%E3%83%89%E3%83%B3%E3%83%A6%E3%83%BC%E3%82%B6%E3%83%BC%E3%83%9E%E3%83%83%E3%83%81%E3%83%B3%E3%82%B0&amp;action=edit&amp;section=3" title="節を編集: マストドンユーザーマッチング">ソースを編集</a><span class="mw-editsection-bracket">]</span></span></h3>
+<p>指定されたユーザーに似ているユーザーを検索する。ページのタイトルは<b>User Matching for GNU social, Mastodon, Pleroma, and Misskey</b>となっている。<a href="/%E8%A1%A8%E7%A4%BA%E5%90%8D" title="表示名">表示名</a>、<a href="/%E3%83%97%E3%83%AD%E3%83%95%E3%82%A3%E3%83%BC%E3%83%AB" title="プロフィール">プロフィール</a>、<a href="/%E3%83%88%E3%82%A5%E3%83%BC%E3%83%88" title="トゥート">トゥート</a>から語彙 (固定長の部分文字列) を抽出し、語彙の類似性をもとにユーザーを推挙する。2017年11月15日に開設された。開設後も何度かアルゴリズムの改良が行われている。
+</p>
+<h3><span id="ユーザー検索"></span><span class="mw-headline" id=".E3.83.A6.E3.83.BC.E3.82.B6.E3.83.BC.E6.A4.9C.E7.B4.A2">ユーザー検索</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/index.php?title=%E3%83%9E%E3%82%B9%E3%83%88%E3%83%89%E3%83%B3%E3%83%A6%E3%83%BC%E3%82%B6%E3%83%BC%E3%83%9E%E3%83%83%E3%83%81%E3%83%B3%E3%82%B0&amp;veaction=edit&amp;section=4" class="mw-editsection-visualeditor" title="節を編集: ユーザー検索">編集</a><span class="mw-editsection-divider"> | </span><a href="/index.php?title=%E3%83%9E%E3%82%B9%E3%83%88%E3%83%89%E3%83%B3%E3%83%A6%E3%83%BC%E3%82%B6%E3%83%BC%E3%83%9E%E3%83%83%E3%83%81%E3%83%B3%E3%82%B0&amp;action=edit&amp;section=4" title="節を編集: ユーザー検索">ソースを編集</a><span class="mw-editsection-bracket">]</span></span></h3>
+<p>ユーザーの<a href="/%E3%83%A6%E3%83%BC%E3%82%B6%E3%83%BC%E5%90%8D" title="ユーザー名">ユーザー名</a>、<a href="/%E8%A1%A8%E7%A4%BA%E5%90%8D" title="表示名">表示名</a>、<a href="/%E3%83%97%E3%83%AD%E3%83%95%E3%82%A3%E3%83%BC%E3%83%AB" title="プロフィール">プロフィール</a>を検索する。ページのタイトルは<b>User Search for GNU social, Mastodon, Pleroma, and Misskey</b>となっている。<a href="/Mastory" title="Mastory">Mastory</a>と<a href="/%E3%83%A6%E3%83%BC%E3%82%B6%E3%83%BC%E6%A4%9C%E7%B4%A2%E3%81%8F%E3%82%93" title="ユーザー検索くん">ユーザー検索くん</a>の消滅を受けて、代替サービスとして開発された。
+</p>
+<h3><span id="新規ユーザーリスト"></span><span class="mw-headline" id=".E6.96.B0.E8.A6.8F.E3.83.A6.E3.83.BC.E3.82.B6.E3.83.BC.E3.83.AA.E3.82.B9.E3.83.88">新規ユーザーリスト</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/index.php?title=%E3%83%9E%E3%82%B9%E3%83%88%E3%83%89%E3%83%B3%E3%83%A6%E3%83%BC%E3%82%B6%E3%83%BC%E3%83%9E%E3%83%83%E3%83%81%E3%83%B3%E3%82%B0&amp;veaction=edit&amp;section=5" class="mw-editsection-visualeditor" title="節を編集: 新規ユーザーリスト">編集</a><span class="mw-editsection-divider"> | </span><a href="/index.php?title=%E3%83%9E%E3%82%B9%E3%83%88%E3%83%89%E3%83%B3%E3%83%A6%E3%83%BC%E3%82%B6%E3%83%BC%E3%83%9E%E3%83%83%E3%83%81%E3%83%B3%E3%82%B0&amp;action=edit&amp;section=5" title="節を編集: 新規ユーザーリスト">ソースを編集</a><span class="mw-editsection-bracket">]</span></span></h3>
+<p>観測可能なインスタンスに属する新しいユーザーを表示する。ページのタイトルは<b>Newcomers in GNU social, Mastodon, Pleroma, and Misskey</b>となっている。ソースコードは本体から分離され <a rel="nofollow" class="external free" href="https://gitlab.com/distsn/newcomers">https://gitlab.com/distsn/newcomers</a> に置かれている。
+</p>
+<h3><span id="2週間以内に投稿したユーザーのリスト"></span><span class="mw-headline" id="2.E9.80.B1.E9.96.93.E4.BB.A5.E5.86.85.E3.81.AB.E6.8A.95.E7.A8.BF.E3.81.97.E3.81.9F.E3.83.A6.E3.83.BC.E3.82.B6.E3.83.BC.E3.81.AE.E3.83.AA.E3.82.B9.E3.83.88">2週間以内に投稿したユーザーのリスト</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/index.php?title=%E3%83%9E%E3%82%B9%E3%83%88%E3%83%89%E3%83%B3%E3%83%A6%E3%83%BC%E3%82%B6%E3%83%BC%E3%83%9E%E3%83%83%E3%83%81%E3%83%B3%E3%82%B0&amp;veaction=edit&amp;section=6" class="mw-editsection-visualeditor" title="節を編集: 2週間以内に投稿したユーザーのリスト">編集</a><span class="mw-editsection-divider"> | </span><a href="/index.php?title=%E3%83%9E%E3%82%B9%E3%83%88%E3%83%89%E3%83%B3%E3%83%A6%E3%83%BC%E3%82%B6%E3%83%BC%E3%83%9E%E3%83%83%E3%83%81%E3%83%B3%E3%82%B0&amp;action=edit&amp;section=6" title="節を編集: 2週間以内に投稿したユーザーのリスト">ソースを編集</a><span class="mw-editsection-bracket">]</span></span></h3>
+<p>2週間以内に投稿したユーザーのリストはAPIのみが提供されており、UIは提供されていない。ソースコードは <a rel="nofollow" class="external free" href="https://gitlab.com/distsn/active-users">https://gitlab.com/distsn/active-users</a> に置かれており、APIは <a rel="nofollow" class="external free" href="https://vinayaka.distsn.org/cgi-bin/active-users-api.cgi">https://vinayaka.distsn.org/cgi-bin/active-users-api.cgi</a> で提供されている。
+</p>
+<h2><span id="廃止された機能"></span><span class="mw-headline" id=".E5.BB.83.E6.AD.A2.E3.81.95.E3.82.8C.E3.81.9F.E6.A9.9F.E8.83.BD">廃止された機能</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/index.php?title=%E3%83%9E%E3%82%B9%E3%83%88%E3%83%89%E3%83%B3%E3%83%A6%E3%83%BC%E3%82%B6%E3%83%BC%E3%83%9E%E3%83%83%E3%83%81%E3%83%B3%E3%82%B0&amp;veaction=edit&amp;section=7" class="mw-editsection-visualeditor" title="節を編集: 廃止された機能">編集</a><span class="mw-editsection-divider"> | </span><a href="/index.php?title=%E3%83%9E%E3%82%B9%E3%83%88%E3%83%89%E3%83%B3%E3%83%A6%E3%83%BC%E3%82%B6%E3%83%BC%E3%83%9E%E3%83%83%E3%83%81%E3%83%B3%E3%82%B0&amp;action=edit&amp;section=7" title="節を編集: 廃止された機能">ソースを編集</a><span class="mw-editsection-bracket">]</span></span></h2>
+<h3><span id="流速順ユーザーリスト"></span><span class="mw-headline" id=".E6.B5.81.E9.80.9F.E9.A0.86.E3.83.A6.E3.83.BC.E3.82.B6.E3.83.BC.E3.83.AA.E3.82.B9.E3.83.88">流速順ユーザーリスト</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/index.php?title=%E3%83%9E%E3%82%B9%E3%83%88%E3%83%89%E3%83%B3%E3%83%A6%E3%83%BC%E3%82%B6%E3%83%BC%E3%83%9E%E3%83%83%E3%83%81%E3%83%B3%E3%82%B0&amp;veaction=edit&amp;section=8" class="mw-editsection-visualeditor" title="節を編集: 流速順ユーザーリスト">編集</a><span class="mw-editsection-divider"> | </span><a href="/index.php?title=%E3%83%9E%E3%82%B9%E3%83%88%E3%83%89%E3%83%B3%E3%83%A6%E3%83%BC%E3%82%B6%E3%83%BC%E3%83%9E%E3%83%83%E3%83%81%E3%83%B3%E3%82%B0&amp;action=edit&amp;section=8" title="節を編集: 流速順ユーザーリスト">ソースを編集</a><span class="mw-editsection-bracket">]</span></span></h3>
+<p>観測可能なすべてのユーザーを流速順に表示する。ページのタイトルは<b>Active Users in GNU social, Mastodon, Pleroma, and Misskey</b>となっている。<a href="/%E5%88%86%E6%95%A3SNS%E3%83%95%E3%82%A9%E3%83%BC%E3%83%A9%E3%83%A0" title="分散SNSフォーラム">分散SNSフォーラム</a>の流速順ユーザーリストは、機能の重複のため削除された。2019年5月24日にUIが廃止され、APIのみ提供されている。2019年10月1日にAPIも含めて廃止され、かわりに、2週間以内に投稿したユーザーのリストが提供されるようになった。
+</p>
+<h2><span id="仕様"></span><span class="mw-headline" id=".E4.BB.95.E6.A7.98">仕様</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/index.php?title=%E3%83%9E%E3%82%B9%E3%83%88%E3%83%89%E3%83%B3%E3%83%A6%E3%83%BC%E3%82%B6%E3%83%BC%E3%83%9E%E3%83%83%E3%83%81%E3%83%B3%E3%82%B0&amp;veaction=edit&amp;section=9" class="mw-editsection-visualeditor" title="節を編集: 仕様">編集</a><span class="mw-editsection-divider"> | </span><a href="/index.php?title=%E3%83%9E%E3%82%B9%E3%83%88%E3%83%89%E3%83%B3%E3%83%A6%E3%83%BC%E3%82%B6%E3%83%BC%E3%83%9E%E3%83%83%E3%83%81%E3%83%B3%E3%82%B0&amp;action=edit&amp;section=9" title="節を編集: 仕様">ソースを編集</a><span class="mw-editsection-bracket">]</span></span></h2>
+<h3><span id="オプトアウト"></span><span class="mw-headline" id=".E3.82.AA.E3.83.97.E3.83.88.E3.82.A2.E3.82.A6.E3.83.88">オプトアウト</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/index.php?title=%E3%83%9E%E3%82%B9%E3%83%88%E3%83%89%E3%83%B3%E3%83%A6%E3%83%BC%E3%82%B6%E3%83%BC%E3%83%9E%E3%83%83%E3%83%81%E3%83%B3%E3%82%B0&amp;veaction=edit&amp;section=10" class="mw-editsection-visualeditor" title="節を編集: オプトアウト">編集</a><span class="mw-editsection-divider"> | </span><a href="/index.php?title=%E3%83%9E%E3%82%B9%E3%83%88%E3%83%89%E3%83%B3%E3%83%A6%E3%83%BC%E3%82%B6%E3%83%BC%E3%83%9E%E3%83%83%E3%83%81%E3%83%B3%E3%82%B0&amp;action=edit&amp;section=10" title="節を編集: オプトアウト">ソースを編集</a><span class="mw-editsection-bracket">]</span></span></h3>
+<p>オプトアウトは、ユーザーが<a href="/%E3%83%97%E3%83%AD%E3%83%95%E3%82%A3%E3%83%BC%E3%83%AB" title="プロフィール">プロフィール</a>に特定の文字列を含めるか、または、<a href="/ActivityPub" title="ActivityPub">ActivityPub</a>のActorの<a href="/Discoverable" title="Discoverable">discoverable</a>フラグをfalseにすることで行われる<sup id="cite_ref-2" class="reference"><a href="#cite_note-2">&#91;2&#93;</a></sup>。
+</p><p>ユーザーがオプトアウトを行うと、マストドンユーザーマッチング・ユーザー検索・新規ユーザーリストに表示されなくなる。また、トゥートの収集が停止される。<a href="/%E8%A1%A8%E7%A4%BA%E5%90%8D" title="表示名">表示名</a>、<a href="/%E3%83%97%E3%83%AD%E3%83%95%E3%82%A3%E3%83%BC%E3%83%AB" title="プロフィール">プロフィール</a>、<a href="/%E3%82%A2%E3%82%A4%E3%82%B3%E3%83%B3" title="アイコン">アイコン</a> (画像そのものではなくURL) の収集は、オプトアウトしても停止されない。これは、プロフィールの収集がオプトアウトプロセス自体のために必要であるためである。オプトアウト以前に収集したトゥートは、オプトアウトしてもすぐには削除されないが、データの更新の際に自然消滅する。
+</p>
+<h3><span id="ブラックリスト"></span><span class="mw-headline" id=".E3.83.96.E3.83.A9.E3.83.83.E3.82.AF.E3.83.AA.E3.82.B9.E3.83.88">ブラックリスト</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/index.php?title=%E3%83%9E%E3%82%B9%E3%83%88%E3%83%89%E3%83%B3%E3%83%A6%E3%83%BC%E3%82%B6%E3%83%BC%E3%83%9E%E3%83%83%E3%83%81%E3%83%B3%E3%82%B0&amp;veaction=edit&amp;section=11" class="mw-editsection-visualeditor" title="節を編集: ブラックリスト">編集</a><span class="mw-editsection-divider"> | </span><a href="/index.php?title=%E3%83%9E%E3%82%B9%E3%83%88%E3%83%89%E3%83%B3%E3%83%A6%E3%83%BC%E3%82%B6%E3%83%BC%E3%83%9E%E3%83%83%E3%83%81%E3%83%B3%E3%82%B0&amp;action=edit&amp;section=11" title="節を編集: ブラックリスト">ソースを編集</a><span class="mw-editsection-bracket">]</span></span></h3>
+<p>ユーザーとインスタンスのブラックリストを運用している。ブラックリストの編集はGitLabのマージリクエスト<sup id="cite_ref-3" class="reference"><a href="#cite_note-3">&#91;3&#93;</a></sup>を通して行う。マージリクエストが反映されるには、運営者による承認が必要であり、承認された事例<sup id="cite_ref-4" class="reference"><a href="#cite_note-4">&#91;4&#93;</a></sup>も却下された事例<sup id="cite_ref-5" class="reference"><a href="#cite_note-5">&#91;5&#93;</a></sup>も存在する。
+</p><p>ブラックリストの掲載の基準は、<a href="/Bot" title="Bot">ボット</a>、スパム、ハラスメントである。ただし、正直にボットフラグを立てているボットはブラックリストの対象にならず、かわりにボットであることが表示される。
+</p><p>2018年10月18日より、ブラックリストの掲載の基準に「脱中央集権のコンセプトの侵害<sup id="cite_ref-6" class="reference"><a href="#cite_note-6">&#91;6&#93;</a></sup><sup id="cite_ref-7" class="reference"><a href="#cite_note-7">&#91;7&#93;</a></sup>」が追加され、単一または事実上一体の個人・法人・集団が多数のインスタンスおよびユーザーを保有することが規制されるようになった。これにより、<a href="/%E5%90%88%E5%90%8C%E4%BC%9A%E7%A4%BE%E3%81%8D%E3%81%BC%E3%81%86%E3%82%BD%E3%83%95%E3%83%88" title="合同会社きぼうソフト">合同会社きぼうソフト</a>、<a href="/%E3%83%9E%E3%82%B9%E3%83%88%E3%83%9D%E3%83%BC%E3%82%BF%E3%83%AB" title="マストポータル">マストポータル</a>、<a href="/%E5%A4%A7%E5%9D%AA%E3%83%89%E3%83%B3" title="大坪ドン">大坪ドン</a>の影響下にあるインスタンスがブラックリストに掲載された。
+</p><p>ブラックリストの運用は作者の政治的見解が反映されており、右派のインスタンスおよびユーザーに対しては評価が厳しくなっている。特定のインスタンスを「全面的な外国人嫌悪のコンセプト<sup id="cite_ref-8" class="reference"><a href="#cite_note-8">&#91;8&#93;</a></sup>」としてブラックリストに入れている。左派に対しては寛容である。
+</p>
+<h3><span id="ジェンダーアファーマティブアクション"></span><span class="mw-headline" id=".E3.82.B8.E3.82.A7.E3.83.B3.E3.83.80.E3.83.BC.E3.82.A2.E3.83.95.E3.82.A1.E3.83.BC.E3.83.9E.E3.83.86.E3.82.A3.E3.83.96.E3.82.A2.E3.82.AF.E3.82.B7.E3.83.A7.E3.83.B3">ジェンダーアファーマティブアクション</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/index.php?title=%E3%83%9E%E3%82%B9%E3%83%88%E3%83%89%E3%83%B3%E3%83%A6%E3%83%BC%E3%82%B6%E3%83%BC%E3%83%9E%E3%83%83%E3%83%81%E3%83%B3%E3%82%B0&amp;veaction=edit&amp;section=12" class="mw-editsection-visualeditor" title="節を編集: ジェンダーアファーマティブアクション">編集</a><span class="mw-editsection-divider"> | </span><a href="/index.php?title=%E3%83%9E%E3%82%B9%E3%83%88%E3%83%89%E3%83%B3%E3%83%A6%E3%83%BC%E3%82%B6%E3%83%BC%E3%83%9E%E3%83%83%E3%83%81%E3%83%B3%E3%82%B0&amp;action=edit&amp;section=12" title="節を編集: ジェンダーアファーマティブアクション">ソースを編集</a><span class="mw-editsection-bracket">]</span></span></h3>
+<p>女性、トランスジェンダー、アジェンダーのいずれかであることを<a href="/%E3%83%97%E3%83%AD%E3%83%95%E3%82%A3%E3%83%BC%E3%83%AB" title="プロフィール">プロフィール</a>で公表している場合、マストドンユーザーマッチングのスコアが1.5倍になる。この仕様が導入された動機は、機械的なユーザーレコメンデーションは女性が不利になる<sup id="cite_ref-9" class="reference"><a href="#cite_note-9">&#91;9&#93;</a></sup><sup id="cite_ref-10" class="reference"><a href="#cite_note-10">&#91;10&#93;</a></sup>傾向があるためである。
+</p>
+<h3><span id="アンチセレブリティカットオフ"></span><span class="mw-headline" id=".E3.82.A2.E3.83.B3.E3.83.81.E3.82.BB.E3.83.AC.E3.83.96.E3.83.AA.E3.83.86.E3.82.A3.E3.82.AB.E3.83.83.E3.83.88.E3.82.AA.E3.83.95">アンチセレブリティカットオフ</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/index.php?title=%E3%83%9E%E3%82%B9%E3%83%88%E3%83%89%E3%83%B3%E3%83%A6%E3%83%BC%E3%82%B6%E3%83%BC%E3%83%9E%E3%83%83%E3%83%81%E3%83%B3%E3%82%B0&amp;veaction=edit&amp;section=13" class="mw-editsection-visualeditor" title="節を編集: アンチセレブリティカットオフ">編集</a><span class="mw-editsection-divider"> | </span><a href="/index.php?title=%E3%83%9E%E3%82%B9%E3%83%88%E3%83%89%E3%83%B3%E3%83%A6%E3%83%BC%E3%82%B6%E3%83%BC%E3%83%9E%E3%83%83%E3%83%81%E3%83%B3%E3%82%B0&amp;action=edit&amp;section=13" title="節を編集: アンチセレブリティカットオフ">ソースを編集</a><span class="mw-editsection-bracket">]</span></span></h3>
+<p>フォロワー数が500以上であるアカウントは、マストドンユーザーマッチングで推挙されない。アンチセレブリティカットオフが導入される以前のマストドンユーザーマッチングの<a href="/%E3%83%AC%E3%82%B3%E3%83%A1%E3%83%B3%E3%83%87%E3%83%BC%E3%82%B7%E3%83%A7%E3%83%B3%E3%83%BB%E3%83%95%E3%82%A7%E3%82%A2%E3%83%8D%E3%82%B9" title="レコメンデーション・フェアネス">レコメンデーション・フェアネス</a>は「ニュートラル」であった。アンチセレブリティカットオフを導入することで、レコメンデーション・フェアネスの評価は「フェア」に前進する。
+</p>
+<h3><span id="Misskey対応の制限"></span><span class="mw-headline" id="Misskey.E5.AF.BE.E5.BF.9C.E3.81.AE.E5.88.B6.E9.99.90">Misskey対応の制限</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/index.php?title=%E3%83%9E%E3%82%B9%E3%83%88%E3%83%89%E3%83%B3%E3%83%A6%E3%83%BC%E3%82%B6%E3%83%BC%E3%83%9E%E3%83%83%E3%83%81%E3%83%B3%E3%82%B0&amp;veaction=edit&amp;section=14" class="mw-editsection-visualeditor" title="節を編集: Misskey対応の制限">編集</a><span class="mw-editsection-divider"> | </span><a href="/index.php?title=%E3%83%9E%E3%82%B9%E3%83%88%E3%83%89%E3%83%B3%E3%83%A6%E3%83%BC%E3%82%B6%E3%83%BC%E3%83%9E%E3%83%83%E3%83%81%E3%83%B3%E3%82%B0&amp;action=edit&amp;section=14" title="節を編集: Misskey対応の制限">ソースを編集</a><span class="mw-editsection-bracket">]</span></span></h3>
+<p>以下のような制限がある。
+</p>
+<ul><li>MisskeyユーザーにはMisskeyユーザーを推挙しない<sup id="cite_ref-11" class="reference"><a href="#cite_note-11">&#91;11&#93;</a></sup>。</li>
+<li>Misskeyユーザーかつフォロワー数が100を超えたら推挙されない<sup id="cite_ref-12" class="reference"><a href="#cite_note-12">&#91;12&#93;</a></sup>。</li></ul>
+<h2><span id="スパムの送信"></span><span class="mw-headline" id=".E3.82.B9.E3.83.91.E3.83.A0.E3.81.AE.E9.80.81.E4.BF.A1">スパムの送信</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/index.php?title=%E3%83%9E%E3%82%B9%E3%83%88%E3%83%89%E3%83%B3%E3%83%A6%E3%83%BC%E3%82%B6%E3%83%BC%E3%83%9E%E3%83%83%E3%83%81%E3%83%B3%E3%82%B0&amp;veaction=edit&amp;section=15" class="mw-editsection-visualeditor" title="節を編集: スパムの送信">編集</a><span class="mw-editsection-divider"> | </span><a href="/index.php?title=%E3%83%9E%E3%82%B9%E3%83%88%E3%83%89%E3%83%B3%E3%83%A6%E3%83%BC%E3%82%B6%E3%83%BC%E3%83%9E%E3%83%83%E3%83%81%E3%83%B3%E3%82%B0&amp;action=edit&amp;section=15" title="節を編集: スパムの送信">ソースを編集</a><span class="mw-editsection-bracket">]</span></span></h2>
+<p>マストドンユーザーマッチングの宣伝のため、マストドンのメンションを利用したスパムが送信された。当初は<a href="/Kibousoft_Now" title="Kibousoft Now">Kibousoft Now</a>の<b>mastodon_user_matching</b>アカウントがスパムを送信していたが、このアカウントが<a href="/%E3%82%B5%E3%82%B9%E3%83%9A%E3%83%B3%E3%83%89" class="mw-redirect" title="サスペンド">BAN</a>された<sup id="cite_ref-13" class="reference"><a href="#cite_note-13">&#91;13&#93;</a></sup>ため、<a href="/2.distsn.org" title="2.distsn.org">2.distsn.org</a>の同名のアカウント<sup id="cite_ref-14" class="reference"><a href="#cite_note-14">&#91;14&#93;</a></sup>がスパムの送信を引き継いだ。スパムの送信は、海外のユーザーを中心に<sup id="cite_ref-15" class="reference"><a href="#cite_note-15">&#91;15&#93;</a></sup>批判を集め、同インスタンスは一部インスタンスから<a href="/%E3%83%89%E3%83%A1%E3%82%A4%E3%83%B3%E3%83%96%E3%83%AD%E3%83%83%E3%82%AF" title="ドメインブロック">ドメインブロック</a>される事態となった<sup id="cite_ref-16" class="reference"><a href="#cite_note-16">&#91;16&#93;</a></sup>。2018年1月1日にスパムの送信を終了した。
+</p>
+<h2><span id="他の分散SNSとの関係"></span><span class="mw-headline" id=".E4.BB.96.E3.81.AE.E5.88.86.E6.95.A3SNS.E3.81.A8.E3.81.AE.E9.96.A2.E4.BF.82">他の分散SNSとの関係</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/index.php?title=%E3%83%9E%E3%82%B9%E3%83%88%E3%83%89%E3%83%B3%E3%83%A6%E3%83%BC%E3%82%B6%E3%83%BC%E3%83%9E%E3%83%83%E3%83%81%E3%83%B3%E3%82%B0&amp;veaction=edit&amp;section=16" class="mw-editsection-visualeditor" title="節を編集: 他の分散SNSとの関係">編集</a><span class="mw-editsection-divider"> | </span><a href="/index.php?title=%E3%83%9E%E3%82%B9%E3%83%88%E3%83%89%E3%83%B3%E3%83%A6%E3%83%BC%E3%82%B6%E3%83%BC%E3%83%9E%E3%83%83%E3%83%81%E3%83%B3%E3%82%B0&amp;action=edit&amp;section=16" title="節を編集: 他の分散SNSとの関係">ソースを編集</a><span class="mw-editsection-bracket">]</span></span></h2>
+<p>マストドンユーザーマッチングが検索対象としているインスタンスは<a href="/GNU_social" title="GNU social">GNU social</a>、<a href="/Mastodon" title="Mastodon">マストドン</a>、<a href="/Pleroma" title="Pleroma">Pleroma</a>、<a href="/Misskey" title="Misskey">Misskey</a>など<sup id="cite_ref-17" class="reference"><a href="#cite_note-17">&#91;17&#93;</a></sup>である。マストドンユーザーマッチングがPleromaに対応するだけでなく、マストドンユーザーマッチングの改良のためにPleromaに機能を追加する<sup id="cite_ref-18" class="reference"><a href="#cite_note-18">&#91;18&#93;</a></sup><sup id="cite_ref-19" class="reference"><a href="#cite_note-19">&#91;19&#93;</a></sup>こともある。
+</p><p><a href="/Pleroma" title="Pleroma">Pleroma</a>のおすすめユーザーパネルはマストドンユーザーマッチングのAPIを利用している。ただし、デフォルトでは無効にされている。
+</p><p><a href="/Misskey" title="Misskey">Misskey</a>のおすすめユーザーパネルは、デフォルトではインスタンス内部のユーザーを推挙するが、マストドンユーザーマッチングのAPIを使用するように切り替えることができる。ただし、Misskey 11では、おすすめユーザーパネルを外部のAPIに切り替える機能が削除されている。Misskey 10からフォークして<a href="/%E3%82%81%E3%81%84%E3%82%81%E3%81%84" title="めいめい">めいめい</a>がメンテナンスしている実装<sup id="cite_ref-20" class="reference"><a href="#cite_note-20">&#91;20&#93;</a></sup>では、おすすめユーザーパネルが廃止され、かわりに「みつける」の「おすすめユーザー」セクションがマストドンユーザーマッチングのAPIを利用している。
+</p>
+<h2><span id="沿革"></span><span class="mw-headline" id=".E6.B2.BF.E9.9D.A9">沿革</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/index.php?title=%E3%83%9E%E3%82%B9%E3%83%88%E3%83%89%E3%83%B3%E3%83%A6%E3%83%BC%E3%82%B6%E3%83%BC%E3%83%9E%E3%83%83%E3%83%81%E3%83%B3%E3%82%B0&amp;veaction=edit&amp;section=17" class="mw-editsection-visualeditor" title="節を編集: 沿革">編集</a><span class="mw-editsection-divider"> | </span><a href="/index.php?title=%E3%83%9E%E3%82%B9%E3%83%88%E3%83%89%E3%83%B3%E3%83%A6%E3%83%BC%E3%82%B6%E3%83%BC%E3%83%9E%E3%83%83%E3%83%81%E3%83%B3%E3%82%B0&amp;action=edit&amp;section=17" title="節を編集: 沿革">ソースを編集</a><span class="mw-editsection-bracket">]</span></span></h2>
+<p>2017年11月15日、マストドンユーザーマッチングを開設。
+</p><p>2017年12月17日、流速順ユーザーリストを開設。当初は英語UIのみ提供。
+</p><p>2017年12月17日、<a href="/Mastodon_Instances" title="Mastodon Instances">Mastodon Instances</a>に登録されている全世界のインスタンスのユーザーが検索対象になった。開設当初は日本語圏のインスタンスのみが対象であった。
+</p><p>2017年12月18日、マストドンユーザーマッチングにユーザーの<a href="/%E3%82%A2%E3%82%A4%E3%82%B3%E3%83%B3" title="アイコン">アイコン</a>が表示されるようになった。
+</p><p>2017年12月19日、マストドンユーザーマッチングと流速順ユーザーリストにおいて、ボット、スパム、ハラスメントの疑いのあるユーザーに警告が表示されるようになった。
+</p><p>2017年12月23日から2018年1月1日にかけて、断続的にスパムを送信した。
+</p><p>2017年12月30日、流速順ユーザーリストの日本語UIの提供を開始。流速順ユーザーリストにユーザーの<a href="/%E3%82%A2%E3%82%A4%E3%82%B3%E3%83%B3" title="アイコン">アイコン</a>が表示されるようになった。
+</p><p>2018年1月30日<sup id="cite_ref-21" class="reference"><a href="#cite_note-21">&#91;21&#93;</a></sup>、マストドンユーザーマッチングにおいて、検索の起点が<a href="/Pleroma" title="Pleroma">Pleroma</a>ユーザーである場合、表示されているユーザーがフォロー済みであるかどうかが検索結果に表示されるようになった。
+</p><p>2018年3月26日<sup id="cite_ref-22" class="reference"><a href="#cite_note-22">&#91;22&#93;</a></sup>、マストドンユーザーマッチングにおいて、検索の起点が<a href="/Mastodon" title="Mastodon">マストドン</a>ユーザーである場合、表示されているユーザーがフォロー済みであるかどうかが検索結果に表示されるようになった。
+</p><p>2018年1月28日、<a href="/Peers_API" title="Peers API">Peers API</a>で到達可能なすべてのインスタンスのユーザーが検索対象になった。
+</p><p>2018年4月15日、新規ユーザーリストを開設。
+</p><p>2018年4月21日、新規ユーザーリストのアルゴリズムを修正。実用的な水準に達した。
+</p><p>2018年4月29日、ユーザー検索を開設。
+</p><p>2018年5月9日<sup id="cite_ref-23" class="reference"><a href="#cite_note-23">&#91;23&#93;</a></sup>、<a href="/Pleroma" title="Pleroma">Pleroma</a>のWho to followパネルにマストドンユーザーマッチングのAPIが採用された。
+</p><p>2018年5月20日、<a href="/Halcyon" title="Halcyon">Halcyon</a>のWho to followパネルにマストドンユーザーマッチングのAPIが採用された。
+</p><p>2018年6月28日、オプトアウトプロセスの提供を開始。マストドンユーザーマッチング、ユーザー検索、新規ユーザーリスト、流速順ユーザーリストに適用される。
+</p><p>2018年9月20日、<a href="/GNU_social" title="GNU social">GNU social</a>と<a href="/Misskey" title="Misskey">Misskey</a>が検索対象に加わった。これまでは<a href="/Mastodon" title="Mastodon">マストドン</a>と<a href="/Pleroma" title="Pleroma">Pleroma</a>が検索対象であった。
+</p><p>2018年10月18日、脱中央集権のコンセプトの侵害を理由に、複数のインスタンス (<a href="/%E5%90%88%E5%90%8C%E4%BC%9A%E7%A4%BE%E3%81%8D%E3%81%BC%E3%81%86%E3%82%BD%E3%83%95%E3%83%88" title="合同会社きぼうソフト">合同会社きぼうソフト</a>、<a href="/%E3%83%9E%E3%82%B9%E3%83%88%E3%83%9D%E3%83%BC%E3%82%BF%E3%83%AB" title="マストポータル">マストポータル</a>、<a href="/Dasoran" title="Dasoran">dasoran</a>傘下のインスタンス) がブラックリストに掲載された。
+</p><p>2018年12月4日<sup id="cite_ref-24" class="reference"><a href="#cite_note-24">&#91;24&#93;</a></sup>、マストドンユーザーマッチングで、投稿数が4未満であるユーザーを検索の起点とした場合に、新規ユーザーのリストにフォールバックするようになった。投稿数が少なすぎるユーザーは使用する語彙の傾向が不明であるため。
+</p><p>2018年12月14日、脱中央集権のコンセプトの侵害を理由に、<a href="/%E5%A4%A7%E5%9D%AA%E3%83%89%E3%83%B3" title="大坪ドン">大坪ドン</a>傘下のインスタンスがブラックリストに掲載された。<a href="/Dasoran" title="Dasoran">dasoran</a>傘下のインスタンスは規制が解除された。
+</p><p>2018年12月17日<sup id="cite_ref-25" class="reference"><a href="#cite_note-25">&#91;25&#93;</a></sup>、<a href="/Microblog.pub" title="Microblog.pub">microblog.pub</a>に対応した。副産物として、<a href="/Write.as" title="Write.as">write.as</a>と<a href="/Write_Freely" title="Write Freely">Write Freely</a>のうち、<a href="/%E3%81%8A%E4%B8%80%E4%BA%BA%E6%A7%98%E3%82%A4%E3%83%B3%E3%82%B9%E3%82%BF%E3%83%B3%E3%82%B9" title="お一人様インスタンス">お一人様インスタンス</a>に限り対応するようになった。
+</p><p>2018年12月17日<sup id="cite_ref-26" class="reference"><a href="#cite_note-26">&#91;26&#93;</a></sup>、ジェンダーアファーマティブアクションが導入された。
+</p><p>2019年3月27日、フォロワー数が500以上のアカウントはマストドンユーザーマッチングで推挙されないようになった。
+</p><p>2019年5月16日、<a href="/Misskey" title="Misskey">Misskey</a>の対応を廃止。
+</p><p>2019年5月24日、流速順ユーザー一覧のUIを廃止。APIは引き続き提供される。
+</p><p>2019年6月上旬、Misskeyの対応を再開。
+</p><p>2019年6月17日、ウェブフロントエンドが <a rel="nofollow" class="external free" href="https://distsn.org">https://distsn.org</a> に移動した。APIは引き続きvinayaka.distsn.orgに置かれている。
+</p><p>2019年7月3日、ウェブフロントエンドを<a href="/Recommendation_Fairness_Warrior" title="Recommendation Fairness Warrior">Recommendation Fairness Warrior</a>に改称。
+</p><p>2019年10月1日、流速順ユーザーリストのAPIが廃止された。ユーザーの存在検知の方法として、かわりに、2週間以内に投稿したユーザーのリストを使用するようになった。
+</p><p>2020年1月24日、マストドンユーザーマッチングの廃止を<a href="/Pleroma" title="Pleroma">Pleroma</a><sup id="cite_ref-pleroma-mr-2141_27-0" class="reference"><a href="#cite_note-pleroma-mr-2141-27">&#91;27&#93;</a></sup>と<a href="/Halcyon" title="Halcyon">Halcyon</a><sup id="cite_ref-28" class="reference"><a href="#cite_note-28">&#91;28&#93;</a></sup>に通知。
+</p><p>2020年1月25日、マストドンユーザーマッチングとユーザー検索のウェブUIを廃止。APIは当面は提供されるが、近日中の廃止が予定されている。
+</p><p>2020年1月25日、新規ユーザーリストのAPIを https://vinayaka.distsn.org/cgi-bin/newcomers-api.cgi から <a rel="nofollow" class="external free" href="https://distsn.org/cgi-bin/newcomers-api.cgi">https://distsn.org/cgi-bin/newcomers-api.cgi</a> に移動。マストドンユーザーマッチングが近日中に廃止される予定であるのに対して、新規ユーザーリストは存続する方針である。
+</p><p>2020年1月27日、<a href="/Pleroma" title="Pleroma">Pleroma</a>からマストドンユーザーマッチングのAPIを利用するコードが削除された<sup id="cite_ref-pleroma-mr-2141_27-1" class="reference"><a href="#cite_note-pleroma-mr-2141-27">&#91;27&#93;</a></sup>。
+</p><p>2020年1月27日、新規ユーザーリストのAPIを利用した<a href="/Bot" title="Bot">ボット</a>である<b>Newcomers in Fediverse<sup id="cite_ref-29" class="reference"><a href="#cite_note-29">&#91;29&#93;</a></sup></b>が開設された。
+</p><p>2020年2月23日、<a href="/Fediverse_Observer" title="Fediverse Observer">Fediverse Observer</a>に移行。ウェブフロントエンド、APIともにURLが変更になった。マストドンユーザーマッチングの機能のうち、新規ユーザーリストのみが引き継がれた。
+</p><p>2020年3月頃、閉鎖。
+</p>
+<h2><span id="関連項目"></span><span class="mw-headline" id=".E9.96.A2.E9.80.A3.E9.A0.85.E7.9B.AE">関連項目</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/index.php?title=%E3%83%9E%E3%82%B9%E3%83%88%E3%83%89%E3%83%B3%E3%83%A6%E3%83%BC%E3%82%B6%E3%83%BC%E3%83%9E%E3%83%83%E3%83%81%E3%83%B3%E3%82%B0&amp;veaction=edit&amp;section=18" class="mw-editsection-visualeditor" title="節を編集: 関連項目">編集</a><span class="mw-editsection-divider"> | </span><a href="/index.php?title=%E3%83%9E%E3%82%B9%E3%83%88%E3%83%89%E3%83%B3%E3%83%A6%E3%83%BC%E3%82%B6%E3%83%BC%E3%83%9E%E3%83%83%E3%83%81%E3%83%B3%E3%82%B0&amp;action=edit&amp;section=18" title="節を編集: 関連項目">ソースを編集</a><span class="mw-editsection-bracket">]</span></span></h2>
+<ul><li><a href="/Recommendation_Fairness_Warrior" title="Recommendation Fairness Warrior">Recommendation Fairness Warrior</a></li>
+<li><a href="/%E5%88%86%E6%95%A3SNS%E3%83%95%E3%82%A9%E3%83%BC%E3%83%A9%E3%83%A0" title="分散SNSフォーラム">分散SNSフォーラム</a></li>
+<li><a href="/%E3%83%9F%E3%82%B9%E3%83%86%E3%83%AA%E3%83%BC%E3%83%9D%E3%82%B9%E3%83%88" title="ミステリーポスト">ミステリーポスト</a></li>
+<li><a href="/Mastodon%E3%81%8A%E3%81%99%E3%81%99%E3%82%81%E3%83%A6%E3%83%BC%E3%82%B6%E3%83%BC%E6%A4%9C%E7%B4%A2" title="Mastodonおすすめユーザー検索">Mastodonおすすめユーザー検索</a></li>
+<li><a href="/%E3%81%8A%E3%81%99%E3%81%99%E3%82%81%E3%83%95%E3%82%A9%E3%83%AD%E3%83%AF%E3%83%BC" title="おすすめフォロワー">おすすめフォロワー</a></li>
+<li><a href="/Halcyon" title="Halcyon">Halcyon</a> - おすすめユーザーパネルにマストドンユーザーマッチングのAPIを使用している。</li>
+<li><a href="/Pleroma" title="Pleroma">Pleroma</a> - おすすめユーザーパネルにマストドンユーザーマッチングのAPIを使用することができた。2020年1月27日廃止。</li>
+<li><a href="/Misskey" title="Misskey">Misskey</a> - おすすめユーザーパネルにマストドンユーザーマッチングのAPIを使用することができた。2019年5月16日廃止。</li>
+<li><a href="/Libsocialnet" title="Libsocialnet">libsocialnet</a></li></ul>
+<h2><span id="脚注"></span><span class="mw-headline" id=".E8.84.9A.E6.B3.A8">脚注</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/index.php?title=%E3%83%9E%E3%82%B9%E3%83%88%E3%83%89%E3%83%B3%E3%83%A6%E3%83%BC%E3%82%B6%E3%83%BC%E3%83%9E%E3%83%83%E3%83%81%E3%83%B3%E3%82%B0&amp;veaction=edit&amp;section=19" class="mw-editsection-visualeditor" title="節を編集: 脚注">編集</a><span class="mw-editsection-divider"> | </span><a href="/index.php?title=%E3%83%9E%E3%82%B9%E3%83%88%E3%83%89%E3%83%B3%E3%83%A6%E3%83%BC%E3%82%B6%E3%83%BC%E3%83%9E%E3%83%83%E3%83%81%E3%83%B3%E3%82%B0&amp;action=edit&amp;section=19" title="節を編集: 脚注">ソースを編集</a><span class="mw-editsection-bracket">]</span></span></h2>
+<div class="mw-references-wrap mw-references-columns"><ol class="references">
+<li id="cite_note-1"><span class="mw-cite-backlink"><a href="#cite_ref-1">↑</a></span> <span class="reference-text">2019年5月16日からは、Misskeyを除外したことにより、<b>User Matching for GNU social, Mastodon, Pleroma, and microblog.pub</b>となった。</span>
+</li>
+<li id="cite_note-2"><span class="mw-cite-backlink"><a href="#cite_ref-2">↑</a></span> <span class="reference-text"><a rel="nofollow" class="external free" href="https://distsn.org/optout.html">https://distsn.org/optout.html</a></span>
+</li>
+<li id="cite_note-3"><span class="mw-cite-backlink"><a href="#cite_ref-3">↑</a></span> <span class="reference-text"><a rel="nofollow" class="external free" href="https://gitlab.com/distsn/vinayaka-blacklist">https://gitlab.com/distsn/vinayaka-blacklist</a></span>
+</li>
+<li id="cite_note-4"><span class="mw-cite-backlink"><a href="#cite_ref-4">↑</a></span> <span class="reference-text"><a rel="nofollow" class="external text" href="https://github.com/distsn/vinayaka/pull/107">#107</a></span>
+</li>
+<li id="cite_note-5"><span class="mw-cite-backlink"><a href="#cite_ref-5">↑</a></span> <span class="reference-text"><a rel="nofollow" class="external text" href="https://github.com/distsn/vinayaka/pull/110">#110</a></span>
+</li>
+<li id="cite_note-6"><span class="mw-cite-backlink"><a href="#cite_ref-6">↑</a></span> <span class="reference-text"><a rel="nofollow" class="external free" href="https://github.com/distsn/vinayaka/commit/814be6e1fc527d368841dcc1ea551e429141f397">https://github.com/distsn/vinayaka/commit/814be6e1fc527d368841dcc1ea551e429141f397</a></span>
+</li>
+<li id="cite_note-7"><span class="mw-cite-backlink"><a href="#cite_ref-7">↑</a></span> <span class="reference-text"><a rel="nofollow" class="external free" href="https://github.com/distsn/vinayaka/commit/39f3867286dbafa110ffb05488795e25860775c4">https://github.com/distsn/vinayaka/commit/39f3867286dbafa110ffb05488795e25860775c4</a></span>
+</li>
+<li id="cite_note-8"><span class="mw-cite-backlink"><a href="#cite_ref-8">↑</a></span> <span class="reference-text"><a rel="nofollow" class="external free" href="https://github.com/distsn/vinayaka/commit/78436b9dc1c892091160fa9974cf5a4425158e7b">https://github.com/distsn/vinayaka/commit/78436b9dc1c892091160fa9974cf5a4425158e7b</a></span>
+</li>
+<li id="cite_note-9"><span class="mw-cite-backlink"><a href="#cite_ref-9">↑</a></span> <span class="reference-text"><a rel="nofollow" class="external free" href="https://blog.acolyer.org/2018/05/24/algorithmic-glass-ceiling-in-social-networks-the-effects-of-recommendation-on-social-diversity/">https://blog.acolyer.org/2018/05/24/algorithmic-glass-ceiling-in-social-networks-the-effects-of-recommendation-on-social-diversity/</a></span>
+</li>
+<li id="cite_note-10"><span class="mw-cite-backlink"><a href="#cite_ref-10">↑</a></span> <span class="reference-text"><a rel="nofollow" class="external free" href="https://github.com/tootsuite/mastodon/pull/7918#issuecomment-403104996">https://github.com/tootsuite/mastodon/pull/7918#issuecomment-403104996</a></span>
+</li>
+<li id="cite_note-11"><span class="mw-cite-backlink"><a href="#cite_ref-11">↑</a></span> <span class="reference-text"><a rel="nofollow" class="external text" href="https://github.com/distsn/vinayaka/issues/155">Misskey から Misskey を推挙しないようにする #155</a></span>
+</li>
+<li id="cite_note-12"><span class="mw-cite-backlink"><a href="#cite_ref-12">↑</a></span> <span class="reference-text"><a rel="nofollow" class="external text" href="https://gitlab.com/distsn/vinayaka-blacklist/commit/d4d6d927a7a03520b42e3dea38e2dcc741b3edde">update anti-celebrity thresholds</a></span>
+</li>
+<li id="cite_note-13"><span class="mw-cite-backlink"><a href="#cite_ref-13">↑</a></span> <span class="reference-text"><a rel="nofollow" class="external free" href="https://2.distsn.org/@hakabahitoyo/99271994840634010">https://2.distsn.org/@hakabahitoyo/99271994840634010</a><sup class="noprint Inline-Template nowrap">&#91;<i><a href="https://ja.wikipedia.org/wiki/%E5%87%BA%E5%85%B8%E3%82%92%E6%98%8E%E8%A8%98%E3%81%99%E3%82%8B#.E3.83.AA.E3.83.B3.E3.82.AF.E5.88.87.E3.82.8C.E3.81.AE.E5.9B.9E.E9.81.BF.E3.81.A8.E4.BF.AE.E5.BE.A9" class="extiw" title="wikipedia:出典を明記する"><span title="外部リンクがリンク切れとなっています。（2018年7月）">リンク切れ</span></a></i>&#93;</sup></span>
+</li>
+<li id="cite_note-14"><span class="mw-cite-backlink"><a href="#cite_ref-14">↑</a></span> <span class="reference-text"><a rel="nofollow" class="external free" href="https://2.distsn.org/@mastodon_user_matching">https://2.distsn.org/@mastodon_user_matching</a><sup class="noprint Inline-Template nowrap">&#91;<i><a href="https://ja.wikipedia.org/wiki/%E5%87%BA%E5%85%B8%E3%82%92%E6%98%8E%E8%A8%98%E3%81%99%E3%82%8B#.E3.83.AA.E3.83.B3.E3.82.AF.E5.88.87.E3.82.8C.E3.81.AE.E5.9B.9E.E9.81.BF.E3.81.A8.E4.BF.AE.E5.BE.A9" class="extiw" title="wikipedia:出典を明記する"><span title="外部リンクがリンク切れとなっています。（2018年7月）">リンク切れ</span></a></i>&#93;</sup></span>
+</li>
+<li id="cite_note-15"><span class="mw-cite-backlink"><a href="#cite_ref-15">↑</a></span> <span class="reference-text"><a rel="nofollow" class="external free" href="https://2.distsn.org/@hakabahitoyo/99274931723684111">https://2.distsn.org/@hakabahitoyo/99274931723684111</a><sup class="noprint Inline-Template nowrap">&#91;<i><a href="https://ja.wikipedia.org/wiki/%E5%87%BA%E5%85%B8%E3%82%92%E6%98%8E%E8%A8%98%E3%81%99%E3%82%8B#.E3.83.AA.E3.83.B3.E3.82.AF.E5.88.87.E3.82.8C.E3.81.AE.E5.9B.9E.E9.81.BF.E3.81.A8.E4.BF.AE.E5.BE.A9" class="extiw" title="wikipedia:出典を明記する"><span title="外部リンクがリンク切れとなっています。（2018年7月）">リンク切れ</span></a></i>&#93;</sup></span>
+</li>
+<li id="cite_note-16"><span class="mw-cite-backlink"><a href="#cite_ref-16">↑</a></span> <span class="reference-text"><a rel="nofollow" class="external free" href="https://blog.freeradical.zone/suspending-domain-2-distsn-org/">https://blog.freeradical.zone/suspending-domain-2-distsn-org/</a></span>
+</li>
+<li id="cite_note-17"><span class="mw-cite-backlink"><a href="#cite_ref-17">↑</a></span> <span class="reference-text">対応している実装の正確なリストは<a href="/Libsocialnet" title="Libsocialnet">libsocialnet</a>を参照。</span>
+</li>
+<li id="cite_note-18"><span class="mw-cite-backlink"><a href="#cite_ref-18">↑</a></span> <span class="reference-text"><a rel="nofollow" class="external free" href="https://git.pleroma.social/pleroma/pleroma/merge_requests/54">https://git.pleroma.social/pleroma/pleroma/merge_requests/54</a></span>
+</li>
+<li id="cite_note-19"><span class="mw-cite-backlink"><a href="#cite_ref-19">↑</a></span> <span class="reference-text"><a rel="nofollow" class="external free" href="https://git.pleroma.social/pleroma/pleroma/merge_requests/65">https://git.pleroma.social/pleroma/pleroma/merge_requests/65</a></span>
+</li>
+<li id="cite_note-20"><span class="mw-cite-backlink"><a href="#cite_ref-20">↑</a></span> <span class="reference-text"><a rel="nofollow" class="external free" href="https://github.com/mei23/misskey">https://github.com/mei23/misskey</a></span>
+</li>
+<li id="cite_note-21"><span class="mw-cite-backlink"><a href="#cite_ref-21">↑</a></span> <span class="reference-text"><a rel="nofollow" class="external free" href="https://github.com/distsn/vinayaka/issues/57">https://github.com/distsn/vinayaka/issues/57</a></span>
+</li>
+<li id="cite_note-22"><span class="mw-cite-backlink"><a href="#cite_ref-22">↑</a></span> <span class="reference-text"><a rel="nofollow" class="external free" href="https://github.com/distsn/vinayaka/issues/70">https://github.com/distsn/vinayaka/issues/70</a></span>
+</li>
+<li id="cite_note-23"><span class="mw-cite-backlink"><a href="#cite_ref-23">↑</a></span> <span class="reference-text"><a rel="nofollow" class="external free" href="https://git.pleroma.social/pleroma/pleroma-fe/merge_requests/254">https://git.pleroma.social/pleroma/pleroma-fe/merge_requests/254</a></span>
+</li>
+<li id="cite_note-24"><span class="mw-cite-backlink"><a href="#cite_ref-24">↑</a></span> <span class="reference-text"><a rel="nofollow" class="external free" href="https://github.com/distsn/vinayaka/issues/131">https://github.com/distsn/vinayaka/issues/131</a></span>
+</li>
+<li id="cite_note-25"><span class="mw-cite-backlink"><a href="#cite_ref-25">↑</a></span> <span class="reference-text"><a rel="nofollow" class="external free" href="https://gitlab.com/distsn/libsocialnet/issues/8">https://gitlab.com/distsn/libsocialnet/issues/8</a></span>
+</li>
+<li id="cite_note-26"><span class="mw-cite-backlink"><a href="#cite_ref-26">↑</a></span> <span class="reference-text"><a rel="nofollow" class="external free" href="https://github.com/distsn/vinayaka/issues/130">https://github.com/distsn/vinayaka/issues/130</a></span>
+</li>
+<li id="cite_note-pleroma-mr-2141-27"><span class="mw-cite-backlink">↑ <sup><a href="#cite_ref-pleroma-mr-2141_27-0">27.0</a></sup> <sup><a href="#cite_ref-pleroma-mr-2141_27-1">27.1</a></sup></span> <span class="reference-text"><a rel="nofollow" class="external text" href="https://git.pleroma.social/pleroma/pleroma/merge_requests/2141">Remove user recommendation by third party engine (!2141)</a></span>
+</li>
+<li id="cite_note-28"><span class="mw-cite-backlink"><a href="#cite_ref-28">↑</a></span> <span class="reference-text"><a rel="nofollow" class="external text" href="https://notabug.org/halcyon-suite/halcyon/issues/114">#114 Who to follow panel is dying soon.</a></span>
+</li>
+<li id="cite_note-29"><span class="mw-cite-backlink"><a href="#cite_ref-29">↑</a></span> <span class="reference-text"><a rel="nofollow" class="external text" href="http://mastodon.social/@newcomers">newcomers@mastodon.social</a></span>
+</li>
+</ol></div>
+
+<!-- 
+NewPP limit report
+Cached time: 20220327033050
+Cache expiry: 86400
+Dynamic content: false
+CPU time usage: 0.222 seconds
+Real time usage: 0.476 seconds
+Preprocessor visited node count: 1467/1000000
+Preprocessor generated node count: 4511/1000000
+Post‐expand include size: 10621/2097152 bytes
+Template argument size: 3953/2097152 bytes
+Highest expansion depth: 22/40
+Expensive parser function count: 1/100
+Unstrip recursion depth: 0/20
+Unstrip post‐expand size: 11684/5000000 bytes
+-->
+<!--
+Transclusion expansion time report (%,ms,calls,template)
+100.00%  282.235      1 -total
+ 31.28%   88.274      3 テンプレート:リンク切れ
+ 30.04%   84.779      3 テンプレート:Fix
+ 20.51%   57.884      3 テンプレート:DMC/core
+ 10.31%   29.112      6 テンプレート:リンク切れ/dateHandler
+  6.77%   19.119      1 テンプレート:Infobox_software
+  4.86%   13.714      3 テンプレート:Fix/title
+  4.01%   11.314     15 テンプレート:Checkdate
+  2.87%    8.089      1 テンプレート:Account
+-->
+</div>
+<!-- Saved in parser cache with key mastodon_wiki_ja:pcache:idhash:1544-0!canonical and timestamp 20220327033050 and revision id 16592
+ -->

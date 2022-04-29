@@ -1,0 +1,1665 @@
+<div class="mw-parser-output"><table class="wikitable mastowiki-infobox mastowiki-infobox-software">
+
+<tbody><tr>
+<th colspan="2"><ruby>TheDesk<rp>(</rp><rt>ザ デスク</rt><rp>)</rp></ruby>
+</th></tr>
+<tr>
+<td colspan="2" style="text-align: center"><a href="/%E3%83%95%E3%82%A1%E3%82%A4%E3%83%AB:TheDesk.png" class="image"><img alt="TheDesk.png" src="/images/thumb/f/f8/TheDesk.png/300px-TheDesk.png" width="300" height="300" srcset="/images/thumb/f/f8/TheDesk.png/450px-TheDesk.png 1.5x, /images/f/f8/TheDesk.png 2x" /></a>
+</td></tr>
+<tr>
+<th scope="row">開発者
+</th>
+<td><a href="/Cutls_P" title="Cutls P">Cutls P</a>
+</td></tr>
+<tr>
+<th scope="row">ソースコード
+</th>
+<td><a rel="nofollow" class="external text" href="https://github.com/cutls/TheDesk">GitHub</a>
+</td></tr>
+<tr>
+<th scope="row">プラットホーム
+</th>
+<td>Electron (Windows/Linux/macOS)
+</td></tr>
+<tr>
+<th scope="row">プログラミング言語
+</th>
+<td>JavaScriptなど (本文参照)
+</td></tr>
+<tr>
+<th scope="row">サービス開始日
+</th>
+<td><a href="/2018%E5%B9%B4" title="2018年">2018年</a>1月13日
+</td></tr>
+<tr>
+<th scope="row">寄付
+</th>
+<td><a rel="nofollow" class="external text" href="https://cutls.fanbox.cc">PixivFANBOX</a> <a rel="nofollow" class="external text" href="https://www.patreon.com/cutls">Patreon</a> <a rel="nofollow" class="external text" href="https://www.amazon.co.jp/registry/wishlist/2TV35ZHHJPDSB">Amazon</a>
+</td></tr>
+<tr>
+<th scope="row">ライセンス
+</th>
+<td><a rel="nofollow" class="external text" href="https://github.com/cutls/TheDesk/blob/master/LICENSE">GNU General Public License v3.0</a>
+</td></tr>
+<tr>
+<th scope="row">Webサイト
+</th>
+<td><a rel="nofollow" class="external text" href="https://thedesk.top/">公式サイト</a> <br /> <a rel="nofollow" class="external text" href="https://docs.thedesk.top/">公式ドキュメント</a>
+</td></tr>
+<tr>
+<th scope="row">ダウンロード
+</th>
+<td><a rel="nofollow" class="external text" href="https://thedesk.top">Win/Linux/macOS (公式サイト)</a><br /><a rel="nofollow" class="external text" href="https://www.microsoft.com/ja-jp/p/thedesk/9p2ndnz0gwzf">Windows (Microsoft Store)</a><br />
+<p>以下はそれぞれ要環境構築<br />
+Linux: <code>snap install thedesk</code><br />
+macOS: <code>brew cask install thedesk</code>
+</p>
+</td></tr></tbody></table>
+<p><br />
+</p><p><ruby><b>TheDesk</b><rp>(</rp><rt>ザ デスク</rt><rp>)</rp></ruby>は、<a href="/%E3%82%AA%E3%83%BC%E3%83%97%E3%83%B3%E3%82%BD%E3%83%BC%E3%82%B9" title="オープンソース">オープンソース</a>の<a href="/%E5%88%86%E6%95%A3SNS" title="分散SNS">分散SNS</a><a href="/Mastodon" title="Mastodon">Mastodon</a>のデスクトップ用<a href="/%E3%82%AF%E3%83%A9%E3%82%A4%E3%82%A2%E3%83%B3%E3%83%88" title="クライアント">クライアント</a>である。使用方法等については<a rel="nofollow" class="external text" href="https://docs.thedesk.top/">公式ドキュメント</a>を参照願いたい。
+</p>
+<div id="toc" class="toc"><div class="toctitle" lang="ja" dir="ltr"><h2>目次</h2></div>
+<ul>
+<li class="toclevel-1 tocsection-1"><a href="#.E6.A6.82.E8.A6.81"><span class="tocnumber">1</span> <span class="toctext">概要</span></a></li>
+<li class="toclevel-1 tocsection-2"><a href="#.E3.81.AA.E3.82.8A.E3.81.9F.E3.81.A1"><span class="tocnumber">2</span> <span class="toctext">なりたち</span></a></li>
+<li class="toclevel-1 tocsection-3"><a href="#.E6.8A.80.E8.A1.93"><span class="tocnumber">3</span> <span class="toctext">技術</span></a>
+<ul>
+<li class="toclevel-2 tocsection-4"><a href="#.E3.83.95.E3.83.AD.E3.83.B3.E3.83.88.E3.82.A8.E3.83.B3.E3.83.89"><span class="tocnumber">3.1</span> <span class="toctext">フロントエンド</span></a></li>
+<li class="toclevel-2 tocsection-5"><a href="#.E3.83.90.E3.83.83.E3.82.AF.E3.82.A8.E3.83.B3.E3.83.89"><span class="tocnumber">3.2</span> <span class="toctext">バックエンド</span></a></li>
+</ul>
+</li>
+<li class="toclevel-1 tocsection-6"><a href="#.E3.83.A9.E3.82.A4.E3.82.BB.E3.83.B3.E3.82.B9"><span class="tocnumber">4</span> <span class="toctext">ライセンス</span></a></li>
+<li class="toclevel-1 tocsection-7"><a href="#.E3.83.90.E3.83.BC.E3.82.B8.E3.83.A7.E3.83.B3"><span class="tocnumber">5</span> <span class="toctext">バージョン</span></a>
+<ul>
+<li class="toclevel-2 tocsection-8"><a href="#.E3.83.90.E3.83.BC.E3.82.B8.E3.83.A7.E3.83.B3.E3.81.AE.E4.B8.80.E8.A6.A7"><span class="tocnumber">5.1</span> <span class="toctext">バージョンの一覧</span></a>
+<ul>
+<li class="toclevel-3 tocsection-9"><a href="#TheDesk_Miku"><span class="tocnumber">5.1.1</span> <span class="toctext">TheDesk Miku</span></a></li>
+<li class="toclevel-3 tocsection-10"><a href="#TheDesk_Mika"><span class="tocnumber">5.1.2</span> <span class="toctext">TheDesk Mika</span></a></li>
+<li class="toclevel-3 tocsection-11"><a href="#TheDesk_Uzuki"><span class="tocnumber">5.1.3</span> <span class="toctext">TheDesk Uzuki</span></a></li>
+<li class="toclevel-3 tocsection-12"><a href="#TheDesk_Miho"><span class="tocnumber">5.1.4</span> <span class="toctext">TheDesk Miho</span></a></li>
+<li class="toclevel-3 tocsection-13"><a href="#TheDesk_Riina"><span class="tocnumber">5.1.5</span> <span class="toctext">TheDesk Riina</span></a></li>
+<li class="toclevel-3 tocsection-14"><a href="#TheDesk_Airi"><span class="tocnumber">5.1.6</span> <span class="toctext">TheDesk Airi</span></a></li>
+<li class="toclevel-3 tocsection-15"><a href="#TheDesk_Mizuki"><span class="tocnumber">5.1.7</span> <span class="toctext">TheDesk Mizuki</span></a></li>
+<li class="toclevel-3 tocsection-16"><a href="#TheDesk_Mio"><span class="tocnumber">5.1.8</span> <span class="toctext">TheDesk Mio</span></a></li>
+<li class="toclevel-3 tocsection-17"><a href="#TheDesk_Akane"><span class="tocnumber">5.1.9</span> <span class="toctext">TheDesk Akane</span></a></li>
+<li class="toclevel-3 tocsection-18"><a href="#TheDesk_Miria"><span class="tocnumber">5.1.10</span> <span class="toctext">TheDesk Miria</span></a></li>
+</ul>
+</li>
+</ul>
+</li>
+<li class="toclevel-1 tocsection-19"><a href="#.E3.82.B5.E3.83.9D.E3.83.BC.E3.83.88.E3.81.99.E3.82.8B.E3.82.A4.E3.83.B3.E3.82.B9.E3.82.BF.E3.83.B3.E3.82.B9"><span class="tocnumber">6</span> <span class="toctext">サポートするインスタンス</span></a>
+<ul>
+<li class="toclevel-2 tocsection-20"><a href="#.E5.85.AC.E8.AA.8D.E3.82.A4.E3.83.B3.E3.82.B9.E3.82.BF.E3.83.B3.E3.82.B9"><span class="tocnumber">6.1</span> <span class="toctext">公認インスタンス</span></a></li>
+<li class="toclevel-2 tocsection-21"><a href="#.E3.82.B5.E3.83.9D.E3.83.BC.E3.83.88.E3.81.99.E3.82.8B.E3.82.A4.E3.83.B3.E3.82.B9.E3.82.BF.E3.83.B3.E3.82.B9.E4.B8.80.E8.A6.A7"><span class="tocnumber">6.2</span> <span class="toctext">サポートするインスタンス一覧</span></a></li>
+<li class="toclevel-2 tocsection-22"><a href="#.E7.8B.AC.E8.87.AA.E6.A9.9F.E8.83.BD.E3.81.B8.E3.81.AE.E5.AF.BE.E5.BF.9C"><span class="tocnumber">6.3</span> <span class="toctext">独自機能への対応</span></a></li>
+</ul>
+</li>
+<li class="toclevel-1 tocsection-23"><a href="#.E6.A9.9F.E8.83.BD"><span class="tocnumber">7</span> <span class="toctext">機能</span></a>
+<ul>
+<li class="toclevel-2 tocsection-24"><a href="#.E4.B8.BB.E3.81.AA.E6.A9.9F.E8.83.BD"><span class="tocnumber">7.1</span> <span class="toctext">主な機能</span></a></li>
+<li class="toclevel-2 tocsection-25"><a href="#.E7.89.B9.E7.AD.86.E3.81.99.E3.81.B9.E3.81.8D.E6.A9.9F.E8.83.BD"><span class="tocnumber">7.2</span> <span class="toctext">特筆すべき機能</span></a>
+<ul>
+<li class="toclevel-3 tocsection-26"><a href="#TheDesk.E3.81.8A.E7.9F.A5.E3.82.89.E3.81.9B"><span class="tocnumber">7.2.1</span> <span class="toctext">TheDeskお知らせ</span></a></li>
+</ul>
+</li>
+<li class="toclevel-2 tocsection-27"><a href="#.E4.BB.96.E8.A8.80.E8.AA.9E.E5.B1.95.E9.96.8B"><span class="tocnumber">7.3</span> <span class="toctext">他言語展開</span></a></li>
+</ul>
+</li>
+<li class="toclevel-1 tocsection-28"><a href="#.E9.96.A2.E9.80.A3.E9.A0.85.E7.9B.AE"><span class="tocnumber">8</span> <span class="toctext">関連項目</span></a></li>
+<li class="toclevel-1 tocsection-29"><a href="#.E5.A4.96.E9.83.A8.E3.83.AA.E3.83.B3.E3.82.AF"><span class="tocnumber">9</span> <span class="toctext">外部リンク</span></a></li>
+<li class="toclevel-1 tocsection-30"><a href="#.E6.B3.A8.E9.87.88"><span class="tocnumber">10</span> <span class="toctext">注釈</span></a></li>
+<li class="toclevel-1 tocsection-31"><a href="#.E5.87.BA.E5.85.B8"><span class="tocnumber">11</span> <span class="toctext">出典</span></a></li>
+</ul>
+</div>
+
+<h2><span id="概要"></span><span class="mw-headline" id=".E6.A6.82.E8.A6.81">概要</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/index.php?title=TheDesk&amp;veaction=edit&amp;section=1" class="mw-editsection-visualeditor" title="節を編集: 概要">編集</a><span class="mw-editsection-divider"> | </span><a href="/index.php?title=TheDesk&amp;action=edit&amp;section=1" title="節を編集: 概要">ソースを編集</a><span class="mw-editsection-bracket">]</span></span></h2>
+<p><a href="/Cutls_P" title="Cutls P">Cutls P</a>により開発されているMastodonのデスクトップ用クライアント。後述のIntegrated TLなどの独自機能によりWebブラウザや他ソフトよりも利便性を意識したクライアントになっており、複数のインスタンスを使うユーザーや<a href="/Kirishima.cloud" title="Kirishima.cloud">kirishima.cloud</a>ユーザーに適している。Mastodonのほかに<a href="/Pleroma" title="Pleroma">Pleroma</a>や<a href="/Misskey" title="Misskey">Misskey</a>とも完全ではないが互換性がある。
+</p><p>バージョン名付け規則は初期バージョンより常に[Codename] (ver.x)という形であったが、2018年6月12日リリースのMio (15.6.0)、つまりMio (ver.6)から、[Codename] (IntenalVersion)に変更された。
+</p><p>公式ホームページからはWindows版,Linux版,macOS版が配布されている。Windows版はAkane (16.1.0)よりインストーラー/ポーダブル版(.exe)で配布されている。それ以前のWindows版や現行のLinux版,macOS版はzipファイルでの配布。
+</p><p>2018年9月28日より、<a rel="nofollow" class="external text" href="https://www.microsoft.com/ja-jp/p/thedesk/9p2ndnz0gwzf">Microsoft Store</a>でからもダウンロードできるようになったが、一部機能に制限がある。
+また、<a rel="nofollow" class="external text" href="https://snapcraft.io/thedesk">Snapcraft</a>やHomebrewを経由してもインストールできる。
+</p>
+<h2><span id="なりたち"></span><span class="mw-headline" id=".E3.81.AA.E3.82.8A.E3.81.9F.E3.81.A1">なりたち</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/index.php?title=TheDesk&amp;veaction=edit&amp;section=2" class="mw-editsection-visualeditor" title="節を編集: なりたち">編集</a><span class="mw-editsection-divider"> | </span><a href="/index.php?title=TheDesk&amp;action=edit&amp;section=2" title="節を編集: なりたち">ソースを編集</a><span class="mw-editsection-bracket">]</span></span></h2>
+<p>2017年12月30日 23:59にサービスを終了したSNS、<ruby><b>Croudia</b><rp>(</rp><rt>クローディア</rt><rp>)</rp></ruby>用のクライアントであったCroudiaDesk(略称:CroDesk)をMastodon向けに作り直したものであるため、バージョンもCroudiaDeskの続きからとなっている。
+</p><p>Croudiaのサービスを終了が告知されてから、Croudiaユーザーであった霧島ひなた氏の<a href="/Kirishima.cloud" title="Kirishima.cloud">kirishima.cloud</a>に移住する動きが加速した。その中で作られたTheDeskの最初期バージョンはCroudiaDeskのアップデートとして、内部アップデータを通じて提供された。ベータの最初のバージョンはTheDesk Miku.0.0であった。正式リリース時のバージョンはTheDesk Miku (ver.1)。正式リリースとともにバージョンの命名規則も変更された。また現在はダウンローダーがMiku (ver.4)より更新され、よりスムーズにアップデートできるようになった。また、macOS版リリースと同時(Airi (ver.8[fixed2]))にダウンローダーを全プラットフォームに搭載した。
+</p><p>リリースから2週間経って2018年1月28日よりオープンソースソフトウェアとして提供されている。Riina (ver.8)からWindows 32bit/Linux 64bit,32bitバージョンも作られたが、開発者によって検証されたものではなかった。TheDesk Airi (ver.1)よりサポートが開始された。2018年7月30日現在、<a href="/Misskey" title="Misskey">Misskey</a>に対応するほぼ唯一のクライアントである。<sup id="cite_ref-1" class="reference"><a href="#cite_note-1">&#91;注釈 1&#93;</a></sup>Electronが対応するすべてのプラットフォームにおいて、GitHubからソースコードをクローンしElectronをインストールすれば使用できる。(Linux同様コードセットアップ<sup id="cite_ref-2" class="reference"><a href="#cite_note-2">&#91;注釈 2&#93;</a></sup>が必要。)2018年5月20日、macOS版がリリースされた。
+</p><p>Windows版ではAkane (16.0.1)以降ダウンロードと展開は自動で行われていたが、環境依存によるエラーが多発したためAkane (16.0.10)以降はオプションとなっていた。Akane (16.1.0)より展開は不要<sup id="cite_ref-3" class="reference"><a href="#cite_note-3">&#91;注釈 3&#93;</a></sup>となったため、この機能は省かれた。
+</p><p>Akane (16.0.10)以降のダウンローダーではUIがシンプルになり、バージョニング機能が使用できる。
+</p><p>CroudiaDeskとUIこそほぼ同じであったが、中身は大きく変えられている。例えばCroudiaDeskはAPIをCutls P自身のサーバーを経由してアクセスしていたが<sup id="cite_ref-4" class="reference"><a href="#cite_note-4">&#91;注釈 4&#93;</a></sup>、TheDeskは直接アクセスしている。
+</p><p>2018年4月1日のエイプリールフールにはTheDesk内でCroudiaのモバイルWeb版のUIを再現し、Croudiaクライアントに回帰する旨のトゥートがされた<sup id="cite_ref-5" class="reference"><a href="#cite_note-5">&#91;1&#93;</a></sup>。なお、2019年度はエイプリルフールネタを実行しない<sup id="cite_ref-6" class="reference"><a href="#cite_note-6">&#91;2&#93;</a></sup>。
+</p>
+<h2><span id="技術"></span><span class="mw-headline" id=".E6.8A.80.E8.A1.93">技術</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/index.php?title=TheDesk&amp;veaction=edit&amp;section=3" class="mw-editsection-visualeditor" title="節を編集: 技術">編集</a><span class="mw-editsection-divider"> | </span><a href="/index.php?title=TheDesk&amp;action=edit&amp;section=3" title="節を編集: 技術">ソースを編集</a><span class="mw-editsection-bracket">]</span></span></h2>
+<h3><span id="フロントエンド"></span><span class="mw-headline" id=".E3.83.95.E3.83.AD.E3.83.B3.E3.83.88.E3.82.A8.E3.83.B3.E3.83.89">フロントエンド</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/index.php?title=TheDesk&amp;veaction=edit&amp;section=4" class="mw-editsection-visualeditor" title="節を編集: フロントエンド">編集</a><span class="mw-editsection-divider"> | </span><a href="/index.php?title=TheDesk&amp;action=edit&amp;section=4" title="節を編集: フロントエンド">ソースを編集</a><span class="mw-editsection-bracket">]</span></span></h3>
+<p>プラットフォームとしてElectronを利用しているため、フロントエンドとしては以下の言語(自然言語を除く)が利用されている。
+</p>
+<dl><dt>レンダラープロセス</dt></dl>
+<ul><li>JavaScript (プログラミング言語)</li>
+<li>HTML (マークアップ言語)</li>
+<li>CSS (スタイルシート)</li></ul>
+<p>以上はChromiumエンジンを使用して実行、描画される。
+</p>
+<dl><dt>メインプロセス</dt></dl>
+<ul><li>Node.js</li></ul>
+<h3><span id="バックエンド"></span><span class="mw-headline" id=".E3.83.90.E3.83.83.E3.82.AF.E3.82.A8.E3.83.B3.E3.83.89">バックエンド</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/index.php?title=TheDesk&amp;veaction=edit&amp;section=5" class="mw-editsection-visualeditor" title="節を編集: バックエンド">編集</a><span class="mw-editsection-divider"> | </span><a href="/index.php?title=TheDesk&amp;action=edit&amp;section=5" title="節を編集: バックエンド">ソースを編集</a><span class="mw-editsection-bracket">]</span></span></h3>
+<ul><li>PHP (TheDeskお知らせ機能:履歴の送出)</li>
+<li>Node.js (TheDeskお知らせ機能:ストリーミング配信)</li></ul>
+<h2><span id="ライセンス"></span><span class="mw-headline" id=".E3.83.A9.E3.82.A4.E3.82.BB.E3.83.B3.E3.82.B9">ライセンス</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/index.php?title=TheDesk&amp;veaction=edit&amp;section=6" class="mw-editsection-visualeditor" title="節を編集: ライセンス">編集</a><span class="mw-editsection-divider"> | </span><a href="/index.php?title=TheDesk&amp;action=edit&amp;section=6" title="節を編集: ライセンス">ソースを編集</a><span class="mw-editsection-bracket">]</span></span></h2>
+<p>TheDeskは長らくTheDesk LICENSEという厳しい独自ライセンスを採用していたが、現在は<a href="/GNU_General_Public_License" title="GNU General Public License">GNU General Public License</a>となっている。  
+アイコンはクリエイティブ・コモンズで提供されている。
+</p>
+<h2><span id="バージョン"></span><span class="mw-headline" id=".E3.83.90.E3.83.BC.E3.82.B8.E3.83.A7.E3.83.B3">バージョン</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/index.php?title=TheDesk&amp;veaction=edit&amp;section=7" class="mw-editsection-visualeditor" title="節を編集: バージョン">編集</a><span class="mw-editsection-divider"> | </span><a href="/index.php?title=TheDesk&amp;action=edit&amp;section=7" title="節を編集: バージョン">ソースを編集</a><span class="mw-editsection-bracket">]</span></span></h2>
+<p>バージョンのローマ字の人名は、ソーシャルゲーム「<a href="https://ja.wikipedia.org/wiki/%E3%82%A2%E3%82%A4%E3%83%89%E3%83%AB%E3%83%9E%E3%82%B9%E3%82%BF%E3%83%BC_%E3%82%B7%E3%83%B3%E3%83%87%E3%83%AC%E3%83%A9%E3%82%AC%E3%83%BC%E3%83%AB%E3%82%BA" class="extiw" title="w:アイドルマスター シンデレラガールズ">アイドルマスター シンデレラガールズ</a>」による<sup id="cite_ref-7" class="reference"><a href="#cite_note-7">&#91;注釈 5&#93;</a></sup>。ベータ版をCroDeskユーザーに提供したあと、いくつかのアップデートを経て2018年1月13日に正式リリースが行われた。
+</p>
+<h3><span id="バージョンの一覧"></span><span class="mw-headline" id=".E3.83.90.E3.83.BC.E3.82.B8.E3.83.A7.E3.83.B3.E3.81.AE.E4.B8.80.E8.A6.A7">バージョンの一覧</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/index.php?title=TheDesk&amp;veaction=edit&amp;section=8" class="mw-editsection-visualeditor" title="節を編集: バージョンの一覧">編集</a><span class="mw-editsection-divider"> | </span><a href="/index.php?title=TheDesk&amp;action=edit&amp;section=8" title="節を編集: バージョンの一覧">ソースを編集</a><span class="mw-editsection-bracket">]</span></span></h3>
+<h4><span class="mw-headline" id="TheDesk_Miku">TheDesk Miku</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/index.php?title=TheDesk&amp;veaction=edit&amp;section=9" class="mw-editsection-visualeditor" title="節を編集: TheDesk Miku">編集</a><span class="mw-editsection-divider"> | </span><a href="/index.php?title=TheDesk&amp;action=edit&amp;section=9" title="節を編集: TheDesk Miku">ソースを編集</a><span class="mw-editsection-bracket">]</span></span></h4>
+<p>内部バージョンは7。最初のバージョン。アイドルマスター シンデレラガールズに登場するアイドルの「前川みく」から命名。同名のキャラクターである「初音ミク」や、それに関連する<a href="/Social.mikutter.hachune.net" title="Social.mikutter.hachune.net">mikutter</a>とは無関係である。
+</p>
+<table class="wikitable" style="font-size:small">
+<tbody><tr>
+<th>バージョン</th>
+<th>配布開始日</th>
+<th>内容</th>
+<th>出典
+</th></tr>
+<tr>
+<td>ver.1</td>
+<td>2018年1月13日</td>
+<td>最初のリリースバージョン。
+<dl><dt>追加機能</dt></dl>
+<ul><li>プロフィールの更新</li>
+<li>検索</li>
+<li>ブロック・ミュート・ドメインブロック・フォローリクエスト・お気に入りのリスト</li>
+<li>ドメインブロックの追加、フォローリクエストの許可・拒否</li>
+<li>絵文字、BBcodeの挿入</li>
+<li>ハッシュタグタイムライン</li>
+<li>ローカルタイムラインとホームタイムラインの統合タイムライン</li>
+<li>無限ロード</li>
+<li>添付ビデオの再生</li>
+<li>メディアの複数添付</li>
+<li>CW、NSFWを隠す</li>
+<li>フォロー・ブロック・ミュート・トゥートの削除</li>
+<li>通知の一覧、ポップアップ</li>
+<li>相対時間・絶対時間の両方表示、混合表示（当日は相対時間、それ以前は絶対時間）</li></ul>
+</td>
+<td><sup id="cite_ref-8" class="reference"><a href="#cite_note-8">&#91;3&#93;</a></sup>
+</td></tr>
+<tr>
+<td>ver.2</td>
+<td>2018年1月14日</td>
+<td>
+<ul><li>トゥート詳細画面の実装（それ以前のトゥート、お気に入り、ブーストしたユーザーの一覧）</li>
+<li>kirishima.cloud、Knzk.meの文字数制限の拡張に対応</li></ul>
+</td>
+<td><sup id="cite_ref-9" class="reference"><a href="#cite_note-9">&#91;4&#93;</a></sup>
+</td></tr>
+<tr>
+<td>ver.3</td>
+<td>2018年1月15日</td>
+<td>
+<ul><li>内蔵アップデートダウンローダーの実装</li></ul>
+</td>
+<td><sup id="cite_ref-10" class="reference"><a href="#cite_note-10">&#91;5&#93;</a></sup>
+</td></tr>
+<tr>
+<td>ver.4</td>
+<td>2018年1月16日</td>
+<td>
+<dl><dt>不具合修正</dt></dl>
+<ul><li>更新チェックがループする不具合の回避</li></ul>
+<p>他
+</p>
+<dl><dt>修正</dt></dl>
+<ul><li>API制限により、更新頻度を3秒からCroDeskと同様の5秒に変更</li></ul>
+</td>
+<td><sup id="cite_ref-11" class="reference"><a href="#cite_note-11">&#91;6&#93;</a></sup>
+</td></tr></tbody></table>
+<h4><span class="mw-headline" id="TheDesk_Mika">TheDesk Mika</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/index.php?title=TheDesk&amp;veaction=edit&amp;section=10" class="mw-editsection-visualeditor" title="節を編集: TheDesk Mika">編集</a><span class="mw-editsection-divider"> | </span><a href="/index.php?title=TheDesk&amp;action=edit&amp;section=10" title="節を編集: TheDesk Mika">ソースを編集</a><span class="mw-editsection-bracket">]</span></span></h4>
+<p>内部バージョンは8。マルチアカウント対応記念のバージョン。アイドルマスターシンデレラガールズに登場するアイドルの「城ヶ崎美嘉」から命名。
+</p>
+<table class="wikitable" style="font-size:small">
+<tbody><tr>
+<th>バージョン</th>
+<th>配布開始日</th>
+<th>内容</th>
+<th>出典
+</th></tr>
+<tr>
+<td>ver.1</td>
+<td>2018年1月18日</td>
+<td>
+<ul><li>マルチアカウントに対応</li>
+<li>通知の改善</li>
+<li>複数の不具合修正</li>
+<li>マストどすをサポート</li></ul>
+</td>
+<td><sup id="cite_ref-12" class="reference"><a href="#cite_note-12">&#91;7&#93;</a></sup>
+</td></tr>
+<tr>
+<td>ver.2</td>
+<td>2018年1月19日</td>
+<td>
+<ul><li>ストリーミングAPIに対応</li></ul>
+</td>
+<td><sup id="cite_ref-13" class="reference"><a href="#cite_note-13">&#91;8&#93;</a></sup>
+</td></tr>
+<tr>
+<td>ver.3</td>
+<td>2018年1月20日</td>
+<td>
+<ul><li>複数の不具合修正</li>
+<li>ウィンドウサイズの保存</li>
+<li>設定項目に「自動トゥート折りたたみ」「トゥート後のトゥートボックスの処理」追加</li>
+<li>トゥート時にハッシュタグとメンションのサジェスト機能</li>
+<li><a href="/Mastodon_Instances" title="Mastodon Instances">Mastodon Instances</a>のAPIによるアカウントマネージャでインスタンスの情報取得機能</li></ul>
+</td>
+<td><sup id="cite_ref-14" class="reference"><a href="#cite_note-14">&#91;9&#93;</a></sup>
+</td></tr></tbody></table>
+<h4><span class="mw-headline" id="TheDesk_Uzuki">TheDesk Uzuki</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/index.php?title=TheDesk&amp;veaction=edit&amp;section=11" class="mw-editsection-visualeditor" title="節を編集: TheDesk Uzuki">編集</a><span class="mw-editsection-divider"> | </span><a href="/index.php?title=TheDesk&amp;action=edit&amp;section=11" title="節を編集: TheDesk Uzuki">ソースを編集</a><span class="mw-editsection-bracket">]</span></span></h4>
+<p>内部バージョンは10。マルチカラム対応記念のバージョン。内部バージョン9は諸事情で存在しない。アイドルマスター シンデレラガールズに登場するアイドルの「島村卯月」から命名。2018年1月21日に連続してアップデートが行われたのは特徴的である。
+</p>
+<table class="wikitable" style="font-size:small">
+<tbody><tr>
+<th>バージョン</th>
+<th>配布開始日</th>
+<th>内容</th>
+<th>出典
+</th></tr>
+<tr>
+<td>ver.1</td>
+<td>2018年1月21日</td>
+<td>
+<ul><li>マルチログイン・マルチカラムへの対応</li></ul>
+</td>
+<td><sup id="cite_ref-15" class="reference"><a href="#cite_note-15">&#91;10&#93;</a></sup>
+</td></tr>
+<tr>
+<td>ver.1[fixed]</td>
+<td>2018年1月21日</td>
+<td>
+<ul><li>ローカルタイムラインにホームのトゥートが出てしまう不具合の修正</li>
+<li>トゥートを削除できない不具合の修正</li></ul>
+</td>
+<td><sup id="cite_ref-16" class="reference"><a href="#cite_note-16">&#91;11&#93;</a></sup>
+</td></tr>
+<tr>
+<td>ver.2</td>
+<td>2018年1月21日</td>
+<td>
+<ul><li>複数の不具合修正</li>
+<li>一部レイアウトの変更</li>
+<li>カード解析をオフにできるように機能追加</li>
+<li>ヘルプボタンの追加</li></ul>
+</td>
+<td><sup id="cite_ref-17" class="reference"><a href="#cite_note-17">&#91;12&#93;</a></sup>
+</td></tr>
+<tr>
+<td>ver.3</td>
+<td>2018年1月21日</td>
+<td>
+<ul><li>通知カラムの追加</li>
+<li>複数の不具合修正</li></ul>
+</td>
+<td><sup id="cite_ref-18" class="reference"><a href="#cite_note-18">&#91;13&#93;</a></sup>
+</td></tr>
+<tr>
+<td>ver.3[fixed]</td>
+<td>2018年1月21日</td>
+<td>
+<ul><li>複数の不具合修正</li></ul>
+</td>
+<td><sup id="cite_ref-19" class="reference"><a href="#cite_note-19">&#91;14&#93;</a></sup>
+</td></tr>
+<tr>
+<td>ver.4</td>
+<td>2018年1月21日</td>
+<td>
+<ul><li>複数の不具合修正</li>
+<li>デフォルト公開範囲・警告文の指定機能追加</li>
+<li>設定のアラートを変更項目のみに変更</li>
+<li>タイムライン上のBBcodeがセーフティに描画するように</li>
+<li>BBcodeエディタの実装</li></ul>
+</td>
+<td><sup id="cite_ref-20" class="reference"><a href="#cite_note-20">&#91;15&#93;</a></sup>
+</td></tr>
+<tr>
+<td>ver.4[fixed]</td>
+<td>2018年1月22日</td>
+<td>
+<ul><li>フォロー・ミュート・ブロック、スクロールに関する不具合の修正</li></ul>
+</td>
+<td><sup id="cite_ref-21" class="reference"><a href="#cite_note-21">&#91;16&#93;</a></sup>
+</td></tr>
+<tr>
+<td>ver.5</td>
+<td>2018年1月23日</td>
+<td>
+<ul><li>ブーストを行った際のカウントの挙動の修正</li>
+<li>絵文字の表示に対応</li>
+<li>絵文字の順番がMastodon公式と同じものに変更</li></ul>
+</td>
+<td><sup id="cite_ref-22" class="reference"><a href="#cite_note-22">&#91;17&#93;</a></sup>
+</td></tr>
+<tr>
+<td>ver.6</td>
+<td>2018年1月24日</td>
+<td>
+<ul><li>画面内どこへでもドラッグ&amp;ドロップでメディア添付できる機能の追加</li>
+<li>複数メディアのドラッグ&amp;ドロップに対応</li>
+<li>ファイルの手動選択に対応</li>
+<li>日付に関する不具合の修正</li></ul>
+</td>
+<td><sup id="cite_ref-23" class="reference"><a href="#cite_note-23">&#91;18&#93;</a></sup>
+</td></tr></tbody></table>
+<h4><span class="mw-headline" id="TheDesk_Miho">TheDesk Miho</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/index.php?title=TheDesk&amp;veaction=edit&amp;section=12" class="mw-editsection-visualeditor" title="節を編集: TheDesk Miho">編集</a><span class="mw-editsection-divider"> | </span><a href="/index.php?title=TheDesk&amp;action=edit&amp;section=12" title="節を編集: TheDesk Miho">ソースを編集</a><span class="mw-editsection-bracket">]</span></span></h4>
+<p>内部バージョンは11。<a href="/Markdown" title="Markdown">Markdown</a>対応記念のバージョン。アイドルマスター シンデレラガールズに登場するアイドルの「小日向美穂」から命名。
+</p>
+<table class="wikitable" style="font-size:small">
+<tbody><tr>
+<th>バージョン</th>
+<th>配布開始日</th>
+<th>内容</th>
+<th>出典
+</th></tr>
+<tr>
+<td>ver.1</td>
+<td>2018年1月26日</td>
+<td>
+<ul><li><a href="/Markdown" title="Markdown">Markdown</a>エディタを実装</li>
+<li>複数不具合の修正</li></ul>
+</td>
+<td><sup id="cite_ref-24" class="reference"><a href="#cite_note-24">&#91;19&#93;</a></sup>
+</td></tr>
+<tr>
+<td>ver.2</td>
+<td>2018年1月27日</td>
+<td>
+<ul><li>Electronの脆弱性への対策</li>
+<li>Markdownプレビュー、デザインの不具合修正</li>
+<li>イメージビューワーの刷新、マウスホイールでの拡大縮小機能の追加</li>
+<li>メディアのアップロードが終了するまでトゥート不可になるよう変更</li>
+<li>メディアアップロード後のURL挿入の可否設定を追加</li></ul>
+</td>
+<td><sup id="cite_ref-25" class="reference"><a href="#cite_note-25">&#91;20&#93;</a></sup>
+</td></tr>
+<tr>
+<td>ver.3</td>
+<td>?</td>
+<td>諸事情により欠番。このバージョンよりオープンソースソフトとなっている。</td>
+<td>?
+</td></tr>
+<tr>
+<td>ver.4</td>
+<td>2018年1月28日</td>
+<td>
+<ul><li>イメージビューワーの刷新</li></ul>
+<dl><dd><ul><li>最前面に展開するよう変更</li>
+<li>複数画像がある場合矢印ボタン、キーボードの←→で切り替えられる機能の追加</li>
+<li>高さ・横幅の調整</li></ul></dd></dl>
+<ul><li>返信時、自動でトゥートボックスが展開するよう変更</li>
+<li>Youtubeなどのサムネイル表示を横幅に合わせるよう変更</li></ul>
+</td>
+<td><sup id="cite_ref-26" class="reference"><a href="#cite_note-26">&#91;21&#93;</a></sup>
+</td></tr>
+<tr>
+<td>ver.5</td>
+<td>2018年1月31日</td>
+<td>
+<ul><li>イメージビューワーの不具合修正</li>
+<li>インライン画像もイメージビューワーで表示できるよう変更</li>
+<li>複数枚の画像がある場合、横幅に合わせて表示するよう変更</li>
+<li>Integrated タイムラインの不具合修正</li>
+<li>シェアNaN・フォローに関する不具合の解消に向けた修正</li>
+<li>Escで消えるよう変更</li>
+<li>ログインする際、ブラウザで開くよう変更</li></ul>
+<p>他
+</p>
+</td>
+<td><sup id="cite_ref-27" class="reference"><a href="#cite_note-27">&#91;22&#93;</a></sup>
+</td></tr>
+<tr>
+<td>ver.6</td>
+<td>2018年1月31日</td>
+<td>
+<ul><li>通知から容易にユーザープロフィールに遷移できるように修正</li></ul>
+</td>
+<td><sup id="cite_ref-28" class="reference"><a href="#cite_note-28">&#91;23&#93;</a></sup>
+</td></tr>
+<tr>
+<td>ver.7</td>
+<td>2018年2月5日</td>
+<td>
+<ul><li>複数の不具合修正</li>
+<li>ユーザーデータを一つ遡れる機能の追加</li>
+<li>URL解析機能をデフォルトでオフに変更</li>
+<li>設定にカラムの並び替え機能を追加</li>
+<li>トゥート時、Shift+Enterで全角スペースを入れての改行ができる機能の追加</li></ul>
+</td>
+<td><sup id="cite_ref-29" class="reference"><a href="#cite_note-29">&#91;24&#93;</a></sup>
+</td></tr>
+<tr>
+<td>ver.8</td>
+<td>2018年2月9日</td>
+<td>
+<ul><li>インスタンス入力時のサジェスト機能を追加</li>
+<li><a href="/%E3%82%A2%E3%82%B9%E3%82%BF%E3%83%AB%E3%83%86%E6%9A%87%E4%BA%BA%E3%83%A9%E3%83%B3%E3%82%AD%E3%83%B3%E3%82%B0" title="アスタルテ暇人ランキング">アスタルテ暇人ランキング</a>へのキーボードショートカットを追加（Ctrl+R）</li>
+<li>設定ページ下部の整理</li>
+<li>Markdown・BBcode非対応インスタンスに対する調整</li>
+<li>サポートインスタンスの調整</li>
+<li>ライセンスのバージョンアップ</li></ul>
+</td>
+<td><sup id="cite_ref-30" class="reference"><a href="#cite_note-30">&#91;25&#93;</a></sup>
+</td></tr>
+<tr>
+<td>ver.9</td>
+<td>2018年2月10日</td>
+<td>
+<ul><li>ドメイン変更によるアップデートの不具合を修正</li></ul>
+</td>
+<td><sup id="cite_ref-31" class="reference"><a href="#cite_note-31">&#91;26&#93;</a></sup>
+</td></tr>
+<tr>
+<td>ver.10</td>
+<td>2018年2月13日</td>
+<td>
+<ul><li>ラジオ機能の追加</li>
+<li>Markdownの追加</li></ul>
+<dl><dd><ul><li>リスト</li>
+<li>上下飾り文字</li></ul></dd></dl>
+<ul><li>100件毎の自動リフレッシュ機能を追加</li>
+<li>URL解析ボタンを見やすく修正</li>
+<li>続き表示、一番上に戻る、絵文字前スペースなど、複数の不具合修正</li>
+<li>ゼロ幅スペースが入力できるキーボードショートカットの追加（Shift+Space）</li></ul>
+</td>
+<td><sup id="cite_ref-32" class="reference"><a href="#cite_note-32">&#91;27&#93;</a></sup>
+</td></tr>
+<tr>
+<td>ver.11</td>
+<td>2018年2月14日</td>
+<td>
+<ul><li>イメージビューワーの下部に画像元のトゥートへ遷移するボタンを追加</li>
+<li>複数の不具合修正</li></ul>
+</td>
+<td><sup id="cite_ref-33" class="reference"><a href="#cite_note-33">&#91;28&#93;</a></sup>
+</td></tr>
+<tr>
+<td>ver.12</td>
+<td>2018年2月16日</td>
+<td>
+<ul><li>イメージビューワーなど複数の不具合修正</li>
+<li>ラジオにJazz FMを追加</li>
+<li>画像ダウンローダーの追加</li>
+<li>アップデータの改善</li></ul>
+<dl><dd><ul><li>不具合修正</li>
+<li>ダウンロード後に開くフォルダがダウンロードしたフォルダに変更</li></ul></dd></dl>
+</td>
+<td><sup id="cite_ref-34" class="reference"><a href="#cite_note-34">&#91;29&#93;</a></sup>
+</td></tr>
+<tr>
+<td>ver.13</td>
+<td>2018年2月18日</td>
+<td>
+<ul><li>トゥートボックスの最小化機能を追加</li>
+<li>フォントサイズの変更ができるよう変更</li>
+<li>メディアフィルター機能の追加</li>
+<li>ワンクリックでのトゥートのURL、埋め込みのコピー機能を追加</li>
+<li>5重に通知される不具合の修正</li></ul>
+</td>
+<td><sup id="cite_ref-35" class="reference"><a href="#cite_note-35">&#91;30&#93;</a></sup>
+</td></tr></tbody></table>
+<h4><span class="mw-headline" id="TheDesk_Riina">TheDesk Riina</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/index.php?title=TheDesk&amp;veaction=edit&amp;section=13" class="mw-editsection-visualeditor" title="節を編集: TheDesk Riina">編集</a><span class="mw-editsection-divider"> | </span><a href="/index.php?title=TheDesk&amp;action=edit&amp;section=13" title="節を編集: TheDesk Riina">ソースを編集</a><span class="mw-editsection-bracket">]</span></span></h4>
+<p>内部バージョンは12。UIの改良がメイン。アイドルマスター シンデレラガールズに登場するアイドルの「多田李衣菜」から命名。このバージョンの間に4回のfixedアップデートが行われている。
+</p>
+<table class="wikitable" style="font-size:small">
+<tbody><tr>
+<th>バージョン</th>
+<th>配布開始日</th>
+<th>内容</th>
+<th>出典
+</th></tr>
+<tr>
+<td>ver.1</td>
+<td>2018年2月18日</td>
+<td>
+<ul><li>UIの大幅な刷新</li>
+<li>via表示が長い場合、省略する機能の追加</li>
+<li>左下にトゥートの公開情報を表示する機能の追加</li></ul>
+<dl><dd><ul><li>アイコンを押すとトゥートのURLがコピーされる</li></ul></dd></dl>
+<ul><li>トゥートボックスの上部に自分のプロフィールを確認できるボタンの追加</li>
+<li>URLスキームに対応（thedesk://）</li></ul>
+</td>
+<td><sup id="cite_ref-36" class="reference"><a href="#cite_note-36">&#91;31&#93;</a></sup>
+</td></tr>
+<tr>
+<td>ver.1[fixed]</td>
+<td>2018年2月18日</td>
+<td>
+<ul><li>致命的な不具合の修正</li></ul>
+</td>
+<td><sup id="cite_ref-37" class="reference"><a href="#cite_note-37">&#91;32&#93;</a></sup>
+</td></tr>
+<tr>
+<td>ver.2</td>
+<td>2018年2月18日</td>
+<td>
+<ul><li>アップデータやレイアウトなど複数の不具合修正</li>
+<li>URLコピーを時間表示部に変更</li>
+<li>アニメーションアイコンを再生するかの設定項目の追加</li></ul>
+</td>
+<td><sup id="cite_ref-38" class="reference"><a href="#cite_note-38">&#91;33&#93;</a></sup>
+</td></tr>
+<tr>
+<td>ver.3</td>
+<td>2018年2月19日</td>
+<td>
+<ul><li>通知やレイアウトなど複数の不具合修正</li>
+<li>画像添付の順番を正規化</li>
+<li>bmpイメージを自動変換する機能の追加</li></ul>
+</td>
+<td><sup id="cite_ref-39" class="reference"><a href="#cite_note-39">&#91;34&#93;</a></sup>
+</td></tr>
+<tr>
+<td>ver.4</td>
+<td>2018年2月24日</td>
+<td>
+<ul><li>返信時、画像添付時の挙動の修正</li>
+<li>トゥートUIの変更</li>
+<li>文字数での自動折りたたみを設定できる機能の追加</li>
+<li>設定画面のUIの変更</li>
+<li>トゥートボックスをデフォルトで最小化するよう変更</li></ul>
+</td>
+<td><sup id="cite_ref-40" class="reference"><a href="#cite_note-40">&#91;35&#93;</a></sup>
+</td></tr>
+<tr>
+<td>ver.5</td>
+<td>2018年2月25日</td>
+<td>
+<ul><li>デザインの修正</li>
+<li>設定画面をコンパクトに修正</li>
+<li>アニメーションの追加</li>
+<li>不具合の修正</li></ul>
+</td>
+<td><sup id="cite_ref-41" class="reference"><a href="#cite_note-41">&#91;36&#93;</a></sup>
+</td></tr>
+<tr>
+<td>ver.6</td>
+<td>2018年2月25日</td>
+<td>
+<ul><li>デザインの修正</li>
+<li>シャドウの追加</li>
+<li>不具合の修正</li></ul>
+</td>
+<td><sup id="cite_ref-42" class="reference"><a href="#cite_note-42">&#91;37&#93;</a></sup>
+</td></tr>
+<tr>
+<td>ver.6[fixed]</td>
+<td>2018年2月25日</td>
+<td>
+<dl><dt>不具合の修正</dt></dl>
+<ul><li>トゥートを削除できない不具合</li>
+<li>Integrated タイムラインの順番がおかしい不具合</li>
+<li>スクロールで読み込まれない不具合</li>
+<li>URLコピーが効かない不具合</li></ul>
+</td>
+<td><sup id="cite_ref-43" class="reference"><a href="#cite_note-43">&#91;38&#93;</a></sup>
+</td></tr>
+<tr>
+<td>ver.7</td>
+<td>2018年2月25日</td>
+<td>
+<ul><li>自動折りたたみ機能などの不具合の修正</li></ul>
+</td>
+<td><sup id="cite_ref-44" class="reference"><a href="#cite_note-44">&#91;39&#93;</a></sup>
+</td></tr>
+<tr>
+<td>ver.8</td>
+<td>2018年2月26日</td>
+<td>
+<ul><li>不具合の修正</li>
+<li>プラットフォームの追加</li></ul>
+</td>
+<td><sup id="cite_ref-45" class="reference"><a href="#cite_note-45">&#91;40&#93;</a></sup>
+</td></tr>
+</tbody></table>
+<h4><span class="mw-headline" id="TheDesk_Airi">TheDesk Airi</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/index.php?title=TheDesk&amp;veaction=edit&amp;section=14" class="mw-editsection-visualeditor" title="節を編集: TheDesk Airi">編集</a><span class="mw-editsection-divider"> | </span><a href="/index.php?title=TheDesk&amp;action=edit&amp;section=14" title="節を編集: TheDesk Airi">ソースを編集</a><span class="mw-editsection-bracket">]</span></span></h4>
+<p>内部バージョンは13。ver.1では多くの機能が追加された。また、同時にHPのリニューアルも行われている。
+</p><p>アイドルマスター シンデレラガールズに登場するアイドルの「十時愛梨」から命名。キャッチコピーは「まるでメイドのようなクライアント」。
+</p>
+<table class="wikitable" style="font-size:small">
+<tbody><tr>
+<th>バージョン</th>
+<th>配布開始日</th>
+<th>内容</th>
+<th>出典
+</th></tr>
+<tr>
+<td>ver.1</td>
+<td>2018年3月10日</td>
+<td>
+<ul><li>Web魚拓機能追加</li>
+<li>強調/ミュート機能追加</li>
+<li>よく使うタグ追加</li>
+<li>Nanoモード追加</li>
+<li>ながら観モード追加</li>
+<li>URLスキーム機能追加</li></ul>
+</td>
+<td><sup id="cite_ref-46" class="reference"><a href="#cite_note-46">&#91;41&#93;</a></sup>
+</td></tr>
+<tr>
+<td>ver.2</td>
+<td>2018年3月13日</td>
+<td>
+<ul><li>UIをシンプルに洗練</li>
+<li>TL「一番上へ」をTL種別アイコンと統合</li>
+<li>デフォルトの絵文字に対応</li>
+<li>バージョン1.xのインスタンスに暫定対応。</li></ul>
+</td>
+<td><sup id="cite_ref-47" class="reference"><a href="#cite_note-47">&#91;42&#93;</a></sup>
+</td></tr>
+<tr>
+<td>ver.3</td>
+<td>2018年3月14日</td>
+<td>
+<ul><li>絵文字描画周りなどのバグ修正</li></ul>
+</td>
+<td><sup id="cite_ref-48" class="reference"><a href="#cite_note-48">&#91;43&#93;</a></sup>
+</td></tr>
+<tr>
+<td>ver.4</td>
+<td>2018年3月14日</td>
+<td>
+<ul><li>絵文字描画周りなどのバグ修正</li></ul>
+</td>
+<td><sup id="cite_ref-49" class="reference"><a href="#cite_note-49">&#91;44&#93;</a></sup>
+</td></tr>
+<tr>
+<td>ver.5</td>
+<td>2018年3月15日</td>
+<td>
+<ul><li>Spotify NowPlaying機能を追加</li>
+<li>脆弱性の修正</li>
+<li>絵文字の描画に関する修正</li></ul>
+</td>
+<td><sup id="cite_ref-50" class="reference"><a href="#cite_note-50">&#91;45&#93;</a></sup>
+</td></tr>
+<tr>
+<td>ver.6</td>
+<td>2018年3月17日</td>
+<td>
+<ul><li>Tootsearchでトゥート検索(β)</li></ul>
+</td>
+<td><sup id="cite_ref-51" class="reference"><a href="#cite_note-51">&#91;46&#93;</a></sup>
+</td></tr>
+<tr>
+<td>ver.7</td>
+<td>2018年3月20日</td>
+<td>
+<ul><li>バグフィックス</li>
+<li>カスタム絵文字検索</li>
+<li>Pleroma暫定対応(投稿・表示のみ。通知，削除等には対応しません。)</li>
+<li>個別インスタンスの対応(独自名称は追加後再読込が必要です。)</li></ul>
+</td>
+<td><sup id="cite_ref-52" class="reference"><a href="#cite_note-52">&#91;47&#93;</a></sup>
+</td></tr>
+<tr>
+<td>ver.8</td>
+<td>2018年3月21日</td>
+<td>
+<ul><li>バグフィックス</li>
+<li>UI改善</li>
+<li>キーボードショートカット追加・変更</li>
+<li>他アカウントからお気に入り登録・フォローなどが可能に</li></ul>
+</td>
+<td><sup id="cite_ref-53" class="reference"><a href="#cite_note-53">&#91;48&#93;</a></sup>
+</td></tr>
+<tr>
+<td>ver.9</td>
+<td>2018年3月27日</td>
+<td>
+<ul><li>本文コピー(各TLの公開範囲のボタンをクリック。)</li>
+<li>絵文字大幅拡充</li>
+<li>Local+ TL(ローカルTLに，同一インスタンスのリプライやブーストを)</li>
+<li>Glance TL(認証しなくてもローカルTLが見れる)</li>
+<li>ますとどんちほー(mstdn.kemono-friends.info)に対応</li>
+<li>独自ロケール拡充</li></ul>
+</td>
+<td><sup id="cite_ref-54" class="reference"><a href="#cite_note-54">&#91;49&#93;</a></sup>
+</td></tr></tbody></table>
+<h4><span class="mw-headline" id="TheDesk_Mizuki">TheDesk Mizuki</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/index.php?title=TheDesk&amp;veaction=edit&amp;section=15" class="mw-editsection-visualeditor" title="節を編集: TheDesk Mizuki">編集</a><span class="mw-editsection-divider"> | </span><a href="/index.php?title=TheDesk&amp;action=edit&amp;section=15" title="節を編集: TheDesk Mizuki">ソースを編集</a><span class="mw-editsection-bracket">]</span></span></h4>
+<p>内部バージョンは14。アイドルマスター シンデレラガールズに登場するアイドルの「川島瑞樹」から命名。キャッチコピーは「まだまだフレッシュなクライアント」。
+</p>
+<table class="wikitable" style="font-size:small">
+<tbody><tr>
+<th>バージョン</th>
+<th>配布開始日</th>
+<th>内容</th>
+<th>出典
+</th></tr>
+<tr>
+<td>ver.1</td>
+<td>2018年3月31日</td>
+<td>
+<ul><li>トゥート翻訳(Google翻訳)</li>
+<li>ネイティブ通知</li>
+<li>faiconピッカー</li>
+<li>画像貼り付け</li>
+<li>他アカウントでプロフィールを開く</li>
+<li>誤爆防止措置(ドメインを明示)</li></ul>
+</td>
+<td><sup id="cite_ref-55" class="reference"><a href="#cite_note-55">&#91;50&#93;</a></sup>
+</td></tr>
+<tr>
+<td>ver.2</td>
+<td>2018年3月31日</td>
+<td>
+<ul><li>プラットフォーム最適化</li></ul>
+</td>
+<td><sup id="cite_ref-56" class="reference"><a href="#cite_note-56">&#91;51&#93;</a></sup>
+</td></tr>
+<tr>
+<td>ver.3</td>
+<td>2018年4月1日</td>
+<td>
+<ul><li>リスト機能実装</li>
+<li>SpotifyNowPlaingをWin以外でも利用可に</li>
+<li>トゥート翻訳のバグを修正</li></ul>
+</td>
+<td><sup id="cite_ref-57" class="reference"><a href="#cite_note-57">&#91;52&#93;</a></sup>
+</td></tr>
+<tr>
+<td>ver.4</td>
+<td>2018年4月7日</td>
+<td>
+<ul><li>カラムヘッダーにの色変更(21色+デフォルト)</li>
+<li>画像読み込み進捗表示</li>
+<li>引用トゥートボタン</li>
+<li>トゥート詳細をブラウザで開くボタン</li>
+<li>トゥート内のトゥートへのリンクをTheDesk内で開く</li></ul>
+</td>
+<td><sup id="cite_ref-58" class="reference"><a href="#cite_note-58">&#91;53&#93;</a></sup>
+</td></tr>
+<tr>
+<td>ver.5</td>
+<td>2018年4月8日</td>
+<td>
+<ul><li>アップデータを改良</li>
+<li>トゥートリンクを踏んだときの利用アカウントについて改良</li>
+<li>板橋丼サポート(限定公開をサポート)</li></ul>
+</td>
+<td><sup id="cite_ref-59" class="reference"><a href="#cite_note-59">&#91;54&#93;</a></sup>
+</td></tr>
+<tr>
+<td>ver.6</td>
+<td>2018年4月15日</td>
+<td>
+<ul><li>リストに関するバグを修正</li>
+<li>サポートインスタンスに関する修正</li>
+<li>カラーテーマ追加</li></ul>
+</td>
+<td><sup id="cite_ref-60" class="reference"><a href="#cite_note-60">&#91;55&#93;</a></sup>
+</td></tr>
+<tr>
+<td>ver.7</td>
+<td>2018年4月17日</td>
+<td>
+<ul><li>致命的なエラーの修正</li></ul>
+</td>
+<td><sup id="cite_ref-61" class="reference"><a href="#cite_note-61">&#91;56&#93;</a></sup>
+</td></tr></tbody></table>
+<h4><span class="mw-headline" id="TheDesk_Mio">TheDesk Mio</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/index.php?title=TheDesk&amp;veaction=edit&amp;section=16" class="mw-editsection-visualeditor" title="節を編集: TheDesk Mio">編集</a><span class="mw-editsection-divider"> | </span><a href="/index.php?title=TheDesk&amp;action=edit&amp;section=16" title="節を編集: TheDesk Mio">ソースを編集</a><span class="mw-editsection-bracket">]</span></span></h4>
+<p>内部バージョンは15。アイドルマスター シンデレラガールズに登場するアイドルの「本田未央」から命名。キャッチコピーは「ミツボシ級クライアント」(彼女が歌う曲のタイトルより)。バージョン15.6.0より、バージョンの名付け規則が変更されている。
+</p>
+<table class="wikitable" style="font-size:small">
+<tbody><tr>
+<th>バージョン</th>
+<th>配布開始日</th>
+<th>内容</th>
+<th>出典
+</th></tr>
+<tr>
+<td>ver.1</td>
+<td>2018年5月10日</td>
+<td>
+<ul><li>Adobeフォトエディタ</li>
+<li>トゥートボックスUI変更。よりコンパクトに</li>
+<li>サイドバーの挙動修正</li>
+<li>名前のカスタム絵文字に対応</li>
+<li>マウスオーバーでアクションを表示</li>
+<li>ブーストの言及元を簡単チェック</li></ul>
+</td>
+<td><sup id="cite_ref-62" class="reference"><a href="#cite_note-62">&#91;57&#93;</a></sup>
+</td></tr>
+<tr>
+<td>ver.2</td>
+<td>2018年5月12日</td>
+<td>
+<ul><li>バグの修正</li></ul>
+</td>
+<td><sup id="cite_ref-63" class="reference"><a href="#cite_note-63">&#91;58&#93;</a></sup>
+</td></tr>
+<tr>
+<td>ver.3</td>
+<td>2018年5月20日</td>
+<td>
+<ul><li>macOS版正式リリース</li>
+<li>Spotifyなうぷれ改修(アートワーク投稿)</li>
+<li>iTunesなうぷれ機能(macOS必須)</li>
+<li>メインアカウント機能(起動時や投稿後のアカウントを指定)</li>
+<li>エアリプソース確認が投稿者のアカウントのLTLに</li>
+<li>未認証TLのトゥートをメインアカウントで詳細表示できるように</li>
+<li>Nano機能がウィンドウ位置を記憶するように</li>
+<li>DMタイムライン</li></ul>
+</td>
+<td><sup id="cite_ref-64" class="reference"><a href="#cite_note-64">&#91;59&#93;</a></sup>
+</td></tr>
+<tr>
+<td>ver.4</td>
+<td>2018年5月26日</td>
+<td>
+<ul><li>バグの修正</li></ul>
+</td>
+<td><sup id="cite_ref-65" class="reference"><a href="#cite_note-65">&#91;60&#93;</a></sup>
+</td></tr>
+<tr>
+<td>15.6.0</td>
+<td>2018年6月12日</td>
+<td>
+<ul><li>バグの修正</li></ul>
+</td>
+<td><sup id="cite_ref-66" class="reference"><a href="#cite_note-66">&#91;61&#93;</a></sup>
+</td></tr>
+<tr>
+<td>15.7.0</td>
+<td>2018年6月18日</td>
+<td>
+<ul><li>公開範囲情報の記録がインスタンスごとに(これにより一度記録がリセットされます。)</li>
+<li>インスタンスのユーザー設定に従った公開範囲指定(アカウント設定より情報更新をしてください。)</li>
+<li>インスタンスカラーを設定できるように(アカウント設定から)</li>
+<li>スクリーンショット(魚拓)機能の高速化</li>
+<li>Integrated TLのバグ修正</li>
+<li>キーボードショートカットのバグ修正</li>
+<li>コピペのバグ改善(ただし、ワンクリックコピーで複数の絵文字があるトゥートをコピーするとバグが発生します)</li>
+<li>CWのバグ改善</li>
+<li>DTP鯖(dtp-mstdn.jp)( #dtp )とtheboss.tech( #theboss_tech )をサポートタグ付きトゥート時、デフォルトタグがないとき確認ダイアログが表示されます。</li></ul>
+</td>
+<td><sup id="cite_ref-67" class="reference"><a href="#cite_note-67">&#91;62&#93;</a></sup>
+</td></tr>
+<tr>
+<td>15.8.0</td>
+<td>2018年7月7日</td>
+<td>
+<ul><li>Glance TLの不具合解消</li>
+<li>フォントが変更可能に</li>
+<li>同一インスタンスで複数垢ログインに対応</li>
+<li>カラーテーマの追加</li></ul>
+</td>
+<td><sup id="cite_ref-68" class="reference"><a href="#cite_note-68">&#91;63&#93;</a></sup>
+</td></tr>
+<tr>
+<td>15.9.1</td>
+<td>2018年7月19日</td>
+<td>
+<ul><li>フィルター機能に対応</li>
+<li>削除して再編集に対応</li>
+<li>削除追跡(削除されたトゥートが画面から消えずに背景色のみ変化します。)</li>
+<li>通知が表示されないバグ・削除時に境界線が太くなる現象の修正など</li></ul>
+</td>
+<td><sup id="cite_ref-69" class="reference"><a href="#cite_note-69">&#91;64&#93;</a></sup>
+</td></tr>
+<tr>
+<td>15.10.0</td>
+<td>2018年7月22日</td>
+<td>
+<ul><li>音声読み上げに対応</li>
+<li>Twitterのツイートに対するリンクをリッチに表示</li>
+<li>削除追跡取り下げ</li>
+<li>アップデートスキップの有効期限を次バージョン時にする機能</li>
+<li>CINDERELLA NowPlaying(imastodon.net).</li>
+<li>ライセンス変更(v5)</li></ul>
+</td>
+<td><sup id="cite_ref-70" class="reference"><a href="#cite_note-70">&#91;65&#93;</a></sup>
+</td></tr></tbody></table>
+<h4><span class="mw-headline" id="TheDesk_Akane">TheDesk Akane</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/index.php?title=TheDesk&amp;veaction=edit&amp;section=17" class="mw-editsection-visualeditor" title="節を編集: TheDesk Akane">編集</a><span class="mw-editsection-divider"> | </span><a href="/index.php?title=TheDesk&amp;action=edit&amp;section=17" title="節を編集: TheDesk Akane">ソースを編集</a><span class="mw-editsection-bracket">]</span></span></h4>
+<p>内部バージョンは16。アイドルマスター シンデレラガールズに登場するアイドルの「日野茜」から命名。キャッチコピーは「Elegance in Passion<sup id="cite_ref-71" class="reference"><a href="#cite_note-71">&#91;注釈 6&#93;</a></sup>」。
+</p>
+<table class="wikitable" style="font-size:small">
+<tbody><tr>
+<th>バージョン</th>
+<th>配布開始日</th>
+<th>内容</th>
+<th>出典
+</th></tr>
+<tr>
+<td>16.0.0</td>
+<td>2018年7月30日</td>
+<td>
+<ul><li>英語に対応</li>
+<li><a href="/Misskey" title="Misskey">Misskey</a>に対応</li>
+<li>デザインを大きく変更</li>
+<li>TheDesk Tipsに対応(後述)</li></ul>
+</td>
+<td><sup id="cite_ref-72" class="reference"><a href="#cite_note-72">&#91;66&#93;</a></sup>
+</td></tr>
+<tr>
+<td>16.0.1</td>
+<td>2018年8月5日</td>
+<td>
+<ul><li>自動展開(Windows版のみ)</li>
+<li>設定エクスポート/インポート</li></ul>
+</td>
+<td><sup id="cite_ref-73" class="reference"><a href="#cite_note-73">&#91;67&#93;</a></sup>
+</td></tr>
+<tr>
+<td>16.0.2</td>
+<td>2018年8月5日</td>
+<td>
+<ul><li>バグ修正</li>
+<li>CW固定/トゥートボックス固定</li></ul>
+</td>
+<td><sup id="cite_ref-74" class="reference"><a href="#cite_note-74">&#91;68&#93;</a></sup>
+</td></tr>
+<tr>
+<td>16.0.3</td>
+<td>2018年8月6日</td>
+<td>
+<ul><li>Fav数カウントについてのバグ</li>
+<li><a href="/Misskey" title="Misskey">Misskey</a>機能改修</li></ul>
+</td>
+<td><sup id="cite_ref-75" class="reference"><a href="#cite_note-75">&#91;69&#93;</a></sup>
+</td></tr>
+<tr>
+<td>16.0.4</td>
+<td>2018年8月10日</td>
+<td>
+<ul><li>多重取得バグ修正</li>
+<li><a href="/Misskey" title="Misskey">Misskey</a>機能改修</li>
+<li>アニメーション/ロケール追加</li>
+<li>Electron 2.0.7へ</li></ul>
+</td>
+<td><sup id="cite_ref-76" class="reference"><a href="#cite_note-76">&#91;70&#93;</a></sup>
+</td></tr>
+<tr>
+<td>16.0.5</td>
+<td>2018年8月11日</td>
+<td>
+<ul><li>トゥートボックスの挙動に関するバグ</li>
+<li><a href="/Misskey" title="Misskey">Misskey</a>機能改修</li>
+<li>閉じた後Nで開かないバグ</li>
+<li>Integrated TLで更新されないバグ</li></ul>
+</td>
+<td><sup id="cite_ref-77" class="reference"><a href="#cite_note-77">&#91;71&#93;</a></sup>
+</td></tr>
+<tr>
+<td>16.0.6</td>
+<td>2018年8月11日</td>
+<td>
+<ul><li>トゥートボックスの挙動に関するバグ</li>
+<li><a href="/Misskey" title="Misskey">Misskey</a>機能改修</li>
+<li>閉じた後Nで開かないバグ</li>
+<li>Integrated TLで更新されないバグ</li></ul>
+</td>
+<td><sup id="cite_ref-78" class="reference"><a href="#cite_note-78">&#91;72&#93;</a></sup>
+</td></tr>
+<tr>
+<td>16.0.7</td>
+<td>2018年8月16日</td>
+<td>
+<ul><li>Pixivの埋め込み</li>
+<li>Misskey周りの修正</li>
+<li>その他バグ修正</li></ul>
+</td>
+<td><sup id="cite_ref-79" class="reference"><a href="#cite_note-79">&#91;73&#93;</a></sup>
+</td></tr>
+<tr>
+<td>16.0.8</td>
+<td>2018年8月17日</td>
+<td>
+<ul><li>ログインできない不具合修正</li>
+<li>通知お知らせアイコンの設定追加</li>
+<li>ストリーミング再接続機能追加</li></ul>
+</td>
+<td><sup id="cite_ref-80" class="reference"><a href="#cite_note-80">&#91;74&#93;</a></sup>
+</td></tr>
+<tr>
+<td>16.0.9</td>
+<td>2018年8月23日</td>
+<td>
+<ul><li>ログインできない問題を修正</li>
+<li>ストリーミングが切れることがある不具合を修正</li>
+<li>長文投稿時にCWが簡単に付く機能</li>
+<li>誰が通知アクションをしたかのミニアイコンを表示</li>
+<li>クリップボードへ複数枚の貼り付けに対応</li>
+<li>全てのMisskeyに全てのOSからログイン可能に</li>
+<li>friends.nicoのユーザー絵文字に対応</li></ul>
+</td>
+<td><sup id="cite_ref-81" class="reference"><a href="#cite_note-81">&#91;75&#93;</a></sup>
+</td></tr>
+<tr>
+<td>16.0.10</td>
+<td>2018年8月24日</td>
+<td>
+<ul><li>自動CWのバグ</li>
+<li>アップデートに関する機能改修</li>
+<li>MisskeyのURLコピーに関する不具合</li>
+<li>TheDeskからのリアルタイムお知らせ</li></ul>
+</td>
+<td><sup id="cite_ref-82" class="reference"><a href="#cite_note-82">&#91;76&#93;</a></sup>
+</td></tr>
+<tr>
+<td>16.0.11</td>
+<td>2018年8月24日</td>
+<td>
+<ul><li>脆弱性対応</li></ul>
+</td>
+<td><sup id="cite_ref-83" class="reference"><a href="#cite_note-83">&#91;77&#93;</a></sup>
+</td></tr>
+<tr>
+<td>16.1.0</td>
+<td>2018年9月11日</td>
+<td>
+<ul><li>不具合修正(マウスオーバー,クリックに関する)</li>
+<li>2.5.0に対する対応(リプ数やendorseなど)</li>
+<li>軽量化を図った</li>
+<li>一つのカラムをTwitter(TweetDeck)にできる機能</li>
+<li>画像の保存先を変えられるように</li>
+<li>インスタンス情報の拡充</li>
+<li>プロフィールページデザイン変更</li>
+<li>トゥートバーを左端に持ってこれるように</li></ul>
+</td>
+<td><sup id="cite_ref-84" class="reference"><a href="#cite_note-84">&#91;78&#93;</a></sup>
+</td></tr>
+<tr>
+<td>16.1.1</td>
+<td>2018年9月12日</td>
+<td>
+<ul><li>インストール形式の変更</li>
+<li>不具合修正</li></ul>
+</td>
+<td><sup id="cite_ref-85" class="reference"><a href="#cite_note-85">&#91;79&#93;</a></sup>
+</td></tr>
+<tr>
+<td>16.1.2</td>
+<td>2018年9月12日</td>
+<td>
+<ul><li>不具合修正</li></ul>
+</td>
+<td><sup id="cite_ref-86" class="reference"><a href="#cite_note-86">&#91;80&#93;</a></sup>
+</td></tr>
+<tr>
+<td>16.1.3</td>
+<td>2018年9月12日</td>
+<td>
+<ul><li>セカンダリートゥートボタン</li>
+<li>不具合修正</li>
+<li>ライセンス変更</li></ul>
+</td>
+<td><sup id="cite_ref-87" class="reference"><a href="#cite_note-87">&#91;81&#93;</a></sup>
+</td></tr>
+<tr>
+<td>16.1.4</td>
+<td>2018年9月19日</td>
+<td>
+<ul><li>不具合修正</li></ul>
+</td>
+<td><sup id="cite_ref-88" class="reference"><a href="#cite_note-88">&#91;82&#93;</a></sup>
+</td></tr>
+<tr>
+<td>16.1.5</td>
+<td>2018年9月20日</td>
+<td>
+<ul><li>不具合修正</li>
+<li>脆弱性修正</li></ul>
+</td>
+<td><sup id="cite_ref-89" class="reference"><a href="#cite_note-89">&#91;83&#93;</a></sup>
+</td></tr></tbody></table>
+<h4><span class="mw-headline" id="TheDesk_Miria">TheDesk Miria</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/index.php?title=TheDesk&amp;veaction=edit&amp;section=18" class="mw-editsection-visualeditor" title="節を編集: TheDesk Miria">編集</a><span class="mw-editsection-divider"> | </span><a href="/index.php?title=TheDesk&amp;action=edit&amp;section=18" title="節を編集: TheDesk Miria">ソースを編集</a><span class="mw-editsection-bracket">]</span></span></h4>
+<p>内部バージョンは17。アイドルマスター シンデレラガールズに登場するアイドルの「赤城みりあ」から命名。キャッチコピーは「Update Now」(彼女が歌う曲のタイトルより<sup id="cite_ref-90" class="reference"><a href="#cite_note-90">&#91;注釈 7&#93;</a></sup>)。
+</p>
+<table class="wikitable" style="font-size:small">
+<tbody><tr>
+<th>バージョン</th>
+<th>配布開始日</th>
+<th>内容</th>
+<th>出典
+</th></tr>
+<tr>
+<td>17.0.0</td>
+<td>2018年12月9日</td>
+<td>
+<ul><li>セキュリティアップデート</li>
+<li><a href="/Mastodon#InstanceTicker" title="Mastodon">Mastodon #InstanceTicker</a>対応</li>
+<li>フォント選択機能が便利に</li></ul>
+</td>
+<td><sup id="cite_ref-91" class="reference"><a href="#cite_note-91">&#91;84&#93;</a></sup>
+</td></tr>
+<tr>
+<td>17.0.1</td>
+<td>2019年2月27日</td>
+<td>
+<ul><li>バグ修正</li>
+<li>(Mastodon 2.7)時間指定投稿が利用できます。</li>
+<li>(Mastodon 2.7)「インスタンス」を「サーバー」に変更</li>
+<li>CW付きのトゥートの再編集に対応</li>
+<li>インストール場所が指定できるように</li>
+<li>トゥートのコピペができない不具合を修正</li>
+<li>TweetDeckの横幅だけ広げられる機能</li></ul>
+</td>
+<td><sup id="cite_ref-92" class="reference"><a href="#cite_note-92">&#91;85&#93;</a></sup>
+</td></tr>
+<tr>
+<td>17.0.2</td>
+<td>2019年2月28日</td>
+<td>
+<ul><li>ストリーミングに関するバグ修正</li>
+<li>ブースト除外</li></ul>
+</td>
+<td>?
+</td></tr>
+<tr>
+<td>17.1.0</td>
+<td>2019年3月6日</td>
+<td>
+<ul><li>トゥートボックスがフロートタイプに。左下、右下以外にも自由においてください。</li>
+<li>いろいろとアニメーション入れた(硬派な方は設定「タイムラインの設定」からオフに)アンケートができるように(OK:Mastodon (2.8~)/WIP: votedon./ NG: ニコフレ)</li>
+<li>フォント選択機能が復活</li>
+<li>WindowsからiTunesやAIMP、その他CAD系のNowPlayingができるように。要プラグインのソフトもある。</li></ul>
+</td>
+<td><sup id="cite_ref-93" class="reference"><a href="#cite_note-93">&#91;86&#93;</a></sup>
+</td></tr>
+<tr>
+<td>17.2.0</td>
+<td>2019年3月9日</td>
+<td>
+<ul><li>カスタムテーマ(Misskeyと暫定互換性あり)を追加</li>
+<li>Misskeyのログイン方法を変更(DevCenterに行く必要がなくなった)</li>
+<li>ダイアログの多言語化</li></ul>
+</td>
+<td><sup id="cite_ref-94" class="reference"><a href="#cite_note-94">&#91;87&#93;</a></sup>
+</td></tr></tbody></table>
+<p>これ以降のリリースノートは、<a rel="nofollow" class="external text" href="https://github.com/cutls/TheDesk/releases">リリースノート</a>を参照。2021年1月9日時点で最新は75リリースを経て22.0.1 (Koume)である。
+</p>
+<h2><span id="サポートするインスタンス"></span><span class="mw-headline" id=".E3.82.B5.E3.83.9D.E3.83.BC.E3.83.88.E3.81.99.E3.82.8B.E3.82.A4.E3.83.B3.E3.82.B9.E3.82.BF.E3.83.B3.E3.82.B9">サポートするインスタンス</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/index.php?title=TheDesk&amp;veaction=edit&amp;section=19" class="mw-editsection-visualeditor" title="節を編集: サポートするインスタンス">編集</a><span class="mw-editsection-divider"> | </span><a href="/index.php?title=TheDesk&amp;action=edit&amp;section=19" title="節を編集: サポートするインスタンス">ソースを編集</a><span class="mw-editsection-bracket">]</span></span></h2>
+<p>基本的にMastodonインスタンスはすべて対応するが、加えて一部インスタンスではインスタンスの独自機能に対応する。サポートされていないインスタンスにログインした場合の不具合は一切保証しない。
+</p><p>なお初期はバージョン1.x系のインスタンスで動作しなかったが、暫定的にAiri (ver.2)で対応した。PleromaにはAiri (ver.7)より暫定的に対応している。<a href="/Misskey" title="Misskey">Misskey</a>に関しては、長らくWindows/Linuxでmisskey.xyzへのログインに限りそのまま認証できるが、他の場合(他のプラットフォーム/他のインスタンス)では、デベロッパーセンターからApp Secretをコピーする必要があるといった状況が続いたが、Miria (17.2.0)よりすべてのインスタンスに前準備なしにログインできる。
+なお、開発者はTheDeskにおけるMisskeyのサポート終了とPleromaのAPI挙動の疑念についてトゥート<sup id="cite_ref-95" class="reference"><a href="#cite_note-95">&#91;88&#93;</a></sup>している。しかし、Misskeyの挙動改善アップデートをなしている。
+</p>
+<h3><span id="公認インスタンス"></span><span class="mw-headline" id=".E5.85.AC.E8.AA.8D.E3.82.A4.E3.83.B3.E3.82.B9.E3.82.BF.E3.83.B3.E3.82.B9">公認インスタンス</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/index.php?title=TheDesk&amp;veaction=edit&amp;section=20" class="mw-editsection-visualeditor" title="節を編集: 公認インスタンス">編集</a><span class="mw-editsection-divider"> | </span><a href="/index.php?title=TheDesk&amp;action=edit&amp;section=20" title="節を編集: 公認インスタンス">ソースを編集</a><span class="mw-editsection-bracket">]</span></span></h3>
+<p>TheDeskは公認インスタンスでの使用を第一に開発する。
+</p>
+<ul><li><a href="/Kirishima.cloud" title="Kirishima.cloud">kirishima.cloud</a><sup id="cite_ref-96" class="reference"><a href="#cite_note-96">&#91;89&#93;</a></sup></li>
+<li>箕面どん(<a href="/Minohdon.jp" title="Minohdon.jp">minohdon.jp</a>)</li></ul>
+<h3><span id="サポートするインスタンス一覧"></span><span class="mw-headline" id=".E3.82.B5.E3.83.9D.E3.83.BC.E3.83.88.E3.81.99.E3.82.8B.E3.82.A4.E3.83.B3.E3.82.B9.E3.82.BF.E3.83.B3.E3.82.B9.E4.B8.80.E8.A6.A7">サポートするインスタンス一覧</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/index.php?title=TheDesk&amp;veaction=edit&amp;section=21" class="mw-editsection-visualeditor" title="節を編集: サポートするインスタンス一覧">編集</a><span class="mw-editsection-divider"> | </span><a href="/index.php?title=TheDesk&amp;action=edit&amp;section=21" title="節を編集: サポートするインスタンス一覧">ソースを編集</a><span class="mw-editsection-bracket">]</span></span></h3>
+<p>これらは各インスタンスの公認を受けたものではない。
+</p>
+<ul><li>Knzk.me (神崎丼)</li></ul>
+<dl><dd>初期より対応</dd></dl>
+<ul><li><a href="/%E3%83%9E%E3%82%B9%E3%83%88%E3%81%A9%E3%81%99" title="マストどす">マストどす</a></li></ul>
+<dl><dd>Mika (ver.1)より対応</dd></dl>
+<ul><li><a href="/Y%E3%81%A5%E3%83%89%E3%83%B3" class="mw-redirect" title="Yづドン">yづドン</a></li></ul>
+<dl><dd>Miho (ver.7)より対応</dd></dl>
+<ul><li><a href="/Imastodon.net" title="Imastodon.net">imastodon.net</a></li></ul>
+<dl><dd>Airi (ver.7)より対応[一部日本語(im@s)表記]</dd></dl>
+<ul><li><a href="/Mstdn.osaka" title="Mstdn.osaka">mstdn.osaka</a></li></ul>
+<dl><dd>Airi (ver.7)より対応[一部大阪弁表記]</dd></dl>
+<ul><li><a href="/%E3%81%BE%E3%81%99%E3%81%A8%E3%81%A9%E3%82%93%E3%81%A1%E3%81%BB%E3%83%BC" title="ますとどんちほー">ますとどんちほー</a></li></ul>
+<dl><dd>Airi (ver.9)より対応[一部独自ロケール対応]<sup id="cite_ref-97" class="reference"><a href="#cite_note-97">&#91;注釈 8&#93;</a></sup></dd></dl>
+<ul><li><a href="/DTP-Mstdn.jp" title="DTP-Mstdn.jp">DTP-Mstdn.jp</a></li></ul>
+<dl><dd>Mio (15.7.0)より対応。デフォルトタグ機能に最適化</dd></dl>
+<ul><li><s><a href="/Theboss.tech" title="Theboss.tech">theboss.tech</a></s></li></ul><s></s><dl><s></s><dd><s>Mio (15.7.0)より対応。デフォルトタグ機能に最適化</s>閉鎖に伴い削除</dd></dl>
+<ul><li>misskey.xyz</li></ul>
+<dl><dd>Akane (16.0.0)より。<a href="/Misskey" title="Misskey">Misskey</a>のインスタンス。<a href="/Misskey" title="Misskey">Misskey</a>固有の機能、名称に対応する。</dd></dl>
+<ul><li>misskey.dev</li></ul>
+<dl><dd>Usamin (18.2.0)より。<a href="/Misskey" title="Misskey">Misskey</a>のインスタンス。<a href="/Misskey" title="Misskey">Misskey</a>固有の機能、名称に対応する。</dd></dl>
+<ul><li><a href="/Precure.ml" title="Precure.ml">precure.ml</a></li></ul>
+<dl><dd>Usamin (18.2.0)より。独自機能に最適化されている。</dd></dl>
+<ul><li><a href="/Best-friends.chat" title="Best-friends.chat">best-friends.chat</a></li></ul>
+<dl><dd>Usamin (18.2.0)より。</dd></dl>
+<h3><span id="独自機能への対応"></span><span class="mw-headline" id=".E7.8B.AC.E8.87.AA.E6.A9.9F.E8.83.BD.E3.81.B8.E3.81.AE.E5.AF.BE.E5.BF.9C">独自機能への対応</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/index.php?title=TheDesk&amp;veaction=edit&amp;section=22" class="mw-editsection-visualeditor" title="節を編集: 独自機能への対応">編集</a><span class="mw-editsection-divider"> | </span><a href="/index.php?title=TheDesk&amp;action=edit&amp;section=22" title="節を編集: 独自機能への対応">ソースを編集</a><span class="mw-editsection-bracket">]</span></span></h3>
+<p>アスタルテ (<a href="/Kirishima.cloud" title="Kirishima.cloud">kirishima.cloud</a>) や Knzk.me (神崎丼)、<a href="/%E3%81%BE%E3%81%99%E3%81%A8%E3%81%A9%E3%82%93%E3%81%A1%E3%81%BB%E3%83%BC" title="ますとどんちほー">ますとどんちほー</a>、misskey.xyzでは、文字数制限の拡張に対応する。その他のインスタンスでは文字数は500文字である。
+</p>
+<ul><li>アスタルテ (<a href="/Kirishima.cloud" title="Kirishima.cloud">kirishima.cloud</a>)の独自機能として<a href="/BBCode" title="BBCode">BBCode</a>やMarkdown、faiconの描画・エディタ機能、ユーザー絵文字描画機能を備える。また、2.4.1 rcで存在したトレンドタグ機能復活に対応する。</li>
+<li><a href="/Imastodon.net" title="Imastodon.net">imastodon.net</a>、<a href="/Mstdn.osaka" title="Mstdn.osaka">mstdn.osaka</a>や<a href="/%E3%81%BE%E3%81%99%E3%81%A8%E3%81%A9%E3%82%93%E3%81%A1%E3%81%BB%E3%83%BC" title="ますとどんちほー">ますとどんちほー</a>の独自言語表示に対応する。<a href="/Misskey" title="Misskey">Misskey</a>は<a href="/Mastodon" title="Mastodon">Mastodon</a>と同等機能だが表記が異なる場合があるため、その表記に対応する。TheDeskでは「独自ロケール」と称している。</li>
+<li><a href="/Y%E3%81%A5%E3%83%89%E3%83%B3" class="mw-redirect" title="Yづドン">yづドン</a>の定型文入力ボタンにはMiho (ver.7)<sup id="cite_ref-98" class="reference"><a href="#cite_note-98">&#91;90&#93;</a></sup>から現在(Miria (17.0.0))に至るまで対応していない。</li>
+<li>Mio (ver.3)より、 <a href="/Imastodon.net" title="Imastodon.net">imastodon.net</a>の独自トレンドタグを表示できる。</li>
+<li>Mio (15.7.0)より<a href="/Theboss.tech" title="Theboss.tech">theboss.tech</a>とdtp-mstdn.jpのデフォルトタグ機能に最適化されている。デフォルトタグが手入力されていない状態で他のタグが入っている状態ではLocalに表示されないため、それに対して警告が発せられる。</li>
+<li>Akane (16.0.9)より<a href="/index.php?title=Best-firneds.chat&amp;action=edit&amp;redlink=1" class="new" title="Best-firneds.chat (存在しないページ)">best-firneds.chat</a>等のユーザー絵文字に対応する。かつてサポートインスタンスには含まれないながらも<a href="/Friends.nico" title="Friends.nico">friends.nico</a>のために対応した。</li>
+<li>Usamin (18.3.0)より、<a href="/Dtp-mstdn.jp" class="mw-redirect" title="Dtp-mstdn.jp">dtp-mstdn.jp</a>の引用の簡易表示ができる。</li></ul>
+<h2><span id="機能"></span><span class="mw-headline" id=".E6.A9.9F.E8.83.BD">機能</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/index.php?title=TheDesk&amp;veaction=edit&amp;section=23" class="mw-editsection-visualeditor" title="節を編集: 機能">編集</a><span class="mw-editsection-divider"> | </span><a href="/index.php?title=TheDesk&amp;action=edit&amp;section=23" title="節を編集: 機能">ソースを編集</a><span class="mw-editsection-bracket">]</span></span></h2>
+<p>機能については、トゥートやブーストなど基本的なものも含めて、その多くが<a rel="nofollow" class="external text" href="https://docs.thedesk.top/">公式ドキュメント</a>に細かく記載されている。
+</p>
+<h3><span id="主な機能"></span><span class="mw-headline" id=".E4.B8.BB.E3.81.AA.E6.A9.9F.E8.83.BD">主な機能</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/index.php?title=TheDesk&amp;veaction=edit&amp;section=24" class="mw-editsection-visualeditor" title="節を編集: 主な機能">編集</a><span class="mw-editsection-divider"> | </span><a href="/index.php?title=TheDesk&amp;action=edit&amp;section=24" title="節を編集: 主な機能">ソースを編集</a><span class="mw-editsection-bracket">]</span></span></h3>
+<ul><li>Integrated TL</li></ul>
+<dl><dd>Miku (ver.1) <sup id="cite_ref-99" class="reference"><a href="#cite_note-99">&#91;91&#93;</a></sup>より対応。ローカルTLにホームTLのトゥートを挿入して表示できる。</dd></dl>
+<ul><li>マルチカラム</li></ul>
+<dl><dd>Uzuki (ver.1)<sup id="cite_ref-100" class="reference"><a href="#cite_note-100">&#91;92&#93;</a></sup>より対応。自動伸縮式のマルチカラムであるため、設定で指定した値(初期値300px)よりもカラムの幅を広げられる。例えばウィンドウサイズが900px<sup id="cite_ref-101" class="reference"><a href="#cite_note-101">&#91;注釈 9&#93;</a></sup>でカラムが3つならば、値を300px以下に設定しない限り300pxで表示される。これは、もとはシングルカラムのクライアントであったためである。Miho (ver.7)より並び替えに対応した。</dd></dl>
+<ul><li>マルチアカウント</li></ul>
+<dl><dd>Mika (ver.1)<sup id="cite_ref-102" class="reference"><a href="#cite_note-102">&#91;93&#93;</a></sup> より対応。Uzuki (ver.1)<sup id="cite_ref-103" class="reference"><a href="#cite_note-103">&#91;94&#93;</a></sup>より同時に複数アカウントにログインしてそれぞれのTLを見ることができる。Mio(15.8.0)で初めて同一インスタンスの複数アカウント同時ログインに対応した。</dd></dl>
+<ul><li>自動更新</li></ul>
+<dl><dd>Mika (ver.2)<sup id="cite_ref-104" class="reference"><a href="#cite_note-104">&#91;95&#93;</a></sup> よりストリーミングに対応し、リアルタイムで表示される。</dd></dl>
+<ul><li>時間表示設定</li></ul>
+<dl><dd>絶対時間、相対時間の切り替えだけでなく、両方表示したり、当日のトゥートとそれ以前のトゥートで表示を切り替えたりできる。Beta時より実装済み。</dd></dl>
+<ul><li>テーマ</li></ul>
+<dl><dd>Black/White/Indigo/Brown/Greenの5色から選べる。途中バージョンで初期色がBlackになっている。また、Indigo/Brown/Greenはアイドルマスターシンデレラガールズに関連する別名が存在し、<a href="/Imastodon.net" title="Imastodon.net">imastodon.net</a>にログインしているときのみ表示される。</dd></dl>
+<ul><li>TL上でのトゥートカード表示</li></ul>
+<dl><dd>Mika (ver.2) <sup id="cite_ref-105" class="reference"><a href="#cite_note-105">&#91;96&#93;</a></sup>より対応。URLのあるトゥートだけを解析することでAPI制限を抑えている。また、Miho (ver.7)<sup id="cite_ref-106" class="reference"><a href="#cite_note-106">&#91;97&#93;</a></sup>よりデフォルトではOffの設定となった。Offの場合でもTL上のURL解析ボタンで同様に利用可能。Mio (15.8.0)よりカラム削除時に全てのカラムのURL解析がオフになる仕様に変更された。<sup id="cite_ref-107" class="reference"><a href="#cite_note-107">&#91;注釈 10&#93;</a></sup>Mastodon 2.6より、トゥートカードがTL上のデータに含まれるようになったため、Miria (17.0.0)からURL解析はデフォルトでOnとなり、すべてTL上のデータを参照する。また、非対応インスタンスや設定がOffの場合は通常通りCards APIを使用して表示する。MisskeyのURL解析も自動となる。</dd></dl>
+<ul><li>通知の画面内ポップアップ</li></ul>
+<dl><dd>表示する秒数は設定により変更できる。0に設定すれば表示されない。いずれの設定でも、新規の通知があれば通知アイコンの色が変わるようになっている。なお、Mika (ver.1) <sup id="cite_ref-108" class="reference"><a href="#cite_note-108">&#91;98&#93;</a></sup>まではポップアップ機能自体はあった(設定に項目があった)が利用できなかった。</dd></dl>
+<ul><li>長文トゥート自動折りたたみ機能</li></ul>
+<dl><dd>Mika (ver.3)<sup id="cite_ref-109" class="reference"><a href="#cite_note-109">&#91;99&#93;</a></sup> より対応。行数で指定する。またRiina (ver.4)より文字数でも指定できる。</dd></dl>
+<ul><li>オートサジェスト</li></ul>
+<dl><dd>Mika (ver.3)<sup id="cite_ref-110" class="reference"><a href="#cite_note-110">&#91;100&#93;</a></sup>より対応。投稿ボックスにハッシュタグやアットマークを入れてその後に文字を入れると候補となる情報を表示する。</dd></dl>
+<ul><li><a href="/Mastodon_Instances" title="Mastodon Instances">Mastodon Instances</a>連携</li></ul>
+<dl><dd>Mika (ver.3)<sup id="cite_ref-111" class="reference"><a href="#cite_note-111">&#91;101&#93;</a></sup> より、<a href="/Mastodon_Instances" title="Mastodon Instances">Mastodon Instances</a>を使用して現在ログインしているインスタンスの主なデータを取得できる。また、Miho (ver.8)<sup id="cite_ref-112" class="reference"><a href="#cite_note-112">&#91;102&#93;</a></sup>より、ログインしようとしているインスタンスのURLのサジェストができる。</dd></dl>
+<ul><li>Markdown/<a href="/BBCode" title="BBCode">BBCode</a>エディタ</li></ul>
+<dl><dd>Uzuki (ver.4)<sup id="cite_ref-113" class="reference"><a href="#cite_note-113">&#91;103&#93;</a></sup>よりBBCodeエディタ実装。Miho (ver.1)<sup id="cite_ref-114" class="reference"><a href="#cite_note-114">&#91;104&#93;</a></sup>よりMarkdownエディタを実装。プレビュー機能を備える。対応インスタンスのみで利用可能。Miho (ver.8)より対応インスタンス以外では入力もできなくなった。</dd></dl>
+<ul><li>イメージビューワー</li></ul>
+<dl><dd>随時バージョンアップ。マウスホイールによる拡大縮小や、複数画像の添付時には矢印キー等で切り替えられる等の機能がある。</dd></dl>
+<ul><li>アスタルテ暇人ランキング</li></ul>
+<dl><dd>Croudia時に投稿ランキングとして存在したものをCutls Pが<a href="/Kirishima.cloud" title="Kirishima.cloud">kirishima.cloud</a>用に作ったもの。Miho (ver.8)<sup id="cite_ref-115" class="reference"><a href="#cite_note-115">&#91;105&#93;</a></sup>と同日リリース。こちらはオープンソースではない。TheDeskでは<a href="/Kirishima.cloud" title="Kirishima.cloud">kirishima.cloud</a>にログインしている場合にのみワンクリックでランキング等の解析データを表示できる。</dd></dl>
+<ul><li>ラジオ機能</li></ul>
+<dl><dd>Miho (ver.10)<sup id="cite_ref-116" class="reference"><a href="#cite_note-116">&#91;106&#93;</a></sup>より対応。<del>Webストリーミングラジオを聴くことができる。<a rel="nofollow" class="external text" href="https://listen.moe">Listen.moe</a>などプリセットされた7局<sup id="cite_ref-117" class="reference"><a href="#cite_note-117">&#91;注釈 11&#93;</a></sup>の他に自分でURLを入力して再生できる。再生可能フォーマットはChrome 59のaudioタグで再生できるファイルである。</del>Mio (ver.1)よりこの機能は廃止された。</dd></dl>
+<ul><li>画像ダウンローダー</li></ul>
+<dl><dd>Miho (ver.12)<sup id="cite_ref-118" class="reference"><a href="#cite_note-118">&#91;107&#93;</a></sup>より対応。画像をワンクリックでPictures/TheDeskに保存できる。</dd></dl>
+<ul><li>メディアフィルター</li></ul>
+<dl><dd>Miho (ver.13)<sup id="cite_ref-119" class="reference"><a href="#cite_note-119">&#91;108&#93;</a></sup>より対応。各TL(通知を除く)の画像トゥートのみを表示する機能。(正確には画像のないトゥートを隠す機能)公式にメディアTLがサポートされてからも機能は残されている。</dd></dl>
+<ul><li>ワンクリックコピー</li></ul>
+<dl><dd>Miho (ver.13)<sup id="cite_ref-120" class="reference"><a href="#cite_note-120">&#91;109&#93;</a></sup>/Riina(ver.1-2)より対応。各トゥートの時間をクリックするとURLがコピーされる。またトゥート詳細情報ボタンからは埋め込みHTMLもコピーできる。Airi (ver.9)より本文もコピーできるようになった(公開範囲表示ボタンをクリック)。</dd></dl>
+<ul><li>画像自動変換</li></ul>
+<dl><dd>Riina (ver.3)<sup id="cite_ref-121" class="reference"><a href="#cite_note-121">&#91;110&#93;</a></sup>より実装。一般的に貼り付けられないbmpイメージも自動でPNGに変換して貼り付ける。Node.jsのJimpを内部で利用している。</dd></dl>
+<ul><li>Web魚拓機能</li></ul>
+<dl><dd>Airi (ver.1)<sup id="cite_ref-122" class="reference"><a href="#cite_note-122">&#91;111&#93;</a></sup>より実装。トゥートのスクリーンショットを簡単に撮影できる。一緒に画像も保存でき、Pictures/TheDesk/Screenshotsに保存される。そのトゥートが消される前に詳細表示ボタンを押していたのであれば、基本的にスクリーンショットを撮影できる。</dd></dl>
+<ul><li>強調/ミュート機能</li></ul>
+<dl><dd>Airi (ver.1)<sup id="cite_ref-123" class="reference"><a href="#cite_note-123">&#91;112&#93;</a></sup>より実装。特定のワードを含むまたはクライアントから投稿されたトゥートを非表示にしたりできる。強調した場合クライアントは背景色変化で、ワードの場合は下線と太字で知らせる。</dd></dl>
+<ul><li>よく使うタグ</li></ul>
+<dl><dd>Airi (ver.1)<sup id="cite_ref-124" class="reference"><a href="#cite_note-124">&#91;113&#93;</a></sup>より実装。タグをトゥートボックスの下にピン留めして、すぐに入力できるようにできる。</dd></dl>
+<ul><li>Nanoモード</li></ul>
+<dl><dd>Airi (ver.1)<sup id="cite_ref-125" class="reference"><a href="#cite_note-125">&#91;114&#93;</a></sup>より実装。常に小さなボックスが画面の最前面に出て最新トゥートを表示する。そこからトゥートもできる。この機能はCroDeskにあったものを復刻させたものである。</dd></dl>
+<ul><li>ながら観モード</li></ul>
+<dl><dd>Airi (ver.1)<sup id="cite_ref-126" class="reference"><a href="#cite_note-126">&#91;115&#93;</a></sup>より実装。埋め込みYouTubeなどを画面の隅に常に表示させておける機能。動画を観ながらタイムラインを閲覧できる。</dd></dl>
+<ul><li>URLスキーム機能</li></ul>
+<dl><dd>Airi (ver.1)<sup id="cite_ref-127" class="reference"><a href="#cite_note-127">&#91;116&#93;</a></sup>より実装。thedesk://share?code=[文字列]のリンクを踏むことで、[文字列]をTheDeskでトゥートできる。また、Airi (ver.7)<sup id="cite_ref-128" class="reference"><a href="#cite_note-128">&#91;117&#93;</a></sup>よりthedesk://user?code=example@example.comでユーザー情報を表示でき、thedesk://tag?code=タグ名(ハッシュタグなし)でタグTLを表示できる。その他いくつかのスキームが内部(特に認証系)で使われている。</dd></dl>
+<ul><li>Spotify NowPlaying機能</li></ul>
+<dl><dd>Airi (ver.5)<sup id="cite_ref-129" class="reference"><a href="#cite_note-129">&#91;118&#93;</a></sup>より実装。 Spotifyで再生中の音楽の情報をワンクリックでトゥートできる。アカウント情報で取得するのでスマートスピーカー等PC上以外で再生していても使用可能。設定よりアカウント連携、テンプレート編集が可能。<sup id="cite_ref-130" class="reference"><a href="#cite_note-130">&#91;注釈 12&#93;</a></sup>Windows限定機能だったがMizuki (ver.3)より全てのプラットフォームで利用可能になった。Mio (ver.3)からアートワーク画像も投稿できるようになった。</dd></dl>
+<ul><li><a href="/Tootsearch" title="Tootsearch">Tootsearch</a></li></ul>
+<dl><dd>Airi (ver.6)<sup id="cite_ref-131" class="reference"><a href="#cite_note-131">&#91;119&#93;</a></sup>よりベータ実装。<a href="/Tootsearch" title="Tootsearch">Tootsearch</a>を利用してトゥートを検索できる。</dd></dl>
+<ul><li>Local+ TL</li></ul>
+<dl><dd>Airi (ver.9)<sup id="cite_ref-132" class="reference"><a href="#cite_note-132">&#91;120&#93;</a></sup>より実装。LocalのTLにHomeにあるリプライやブーストを挿入する。Homeで全てのLocalユーザーをフォローしているなら、完全なLocal TLとなる。</dd></dl>
+<ul><li>Glance TL</li></ul>
+<dl><dd>Airi (ver.9)<sup id="cite_ref-133" class="reference"><a href="#cite_note-133">&#91;121&#93;</a></sup>より実装。認証をしなくてもインスタンス名を入れることでローカルタイムラインを見ることが出来る。</dd></dl>
+<ul><li>トゥート翻訳機能</li></ul>
+<dl><dd>Mizuki (ver.1)<sup id="cite_ref-134" class="reference"><a href="#cite_note-134">&#91;122&#93;</a></sup>より実装。日本語でないトゥートをGoogle翻訳を使用して日本語に翻訳する。</dd></dl>
+<ul><li>ネイティブ通知</li></ul>
+<dl><dd>Mizuki (ver.1)<sup id="cite_ref-135" class="reference"><a href="#cite_note-135">&#91;123&#93;</a></sup>より実装。Windows(<del>10 April Update以前<sup id="cite_ref-136" class="reference"><a href="#cite_note-136">&#91;注釈 13&#93;</a></sup></del>TheDesk Akane (16.1.0)より復活。)/macOSのみの対応。通知をリアルタイムで画面右下に表示。また起動時にまとめて通知件数を表示。</dd></dl>
+<ul><li>Adobeフォトエディタ</li></ul>
+<dl><dd>Mio (ver.1)<sup id="cite_ref-137" class="reference"><a href="#cite_note-137">&#91;124&#93;</a></sup>より実装。Adobeが提供するSDKを用いて画像をアップロードする前に画像を編集できる。なお編集後のデータはAdobeに送信される。専用のウィンドウが開いている間のみAdobeと通信を行う。</dd></dl>
+<ul><li>エアリプ・ブーストチェッカー</li></ul>
+<dl><dd>Mio (ver.1)<sup id="cite_ref-138" class="reference"><a href="#cite_note-138">&#91;125&#93;</a></sup>より実装。あるトゥートの前のローカルタイムラインやユーザータイムラインを簡単に表示できる。ローカルタイムラインを見ることでエアリプが、ユーザータイムラインを見ることでブーストの言及元が表示できる。</dd></dl>
+<ul><li>iTunes NowPlaying機能</li></ul>
+<dl><dd>Mio (ver.3)<sup id="cite_ref-139" class="reference"><a href="#cite_note-139">&#91;126&#93;</a></sup>より実装。macOS限定の機能。17.1.0より後述のNowPlaying機能に統一された。</dd></dl>
+<ul><li>ワンタッチ文字入力</li></ul>
+<dl><dd>Mio (15.6.0)<sup id="cite_ref-140" class="reference"><a href="#cite_note-140">&#91;127&#93;</a></sup>より実装。Ctrl+Shift+1/2/3で設定した任意の文字(絵文字や「&gt;BT」など)をすぐ入力できる。</dd></dl>
+<ul><li>フォローレコメンデーション</li></ul>
+<dl><dd>Mio (15.7.0)<sup id="cite_ref-141" class="reference"><a href="#cite_note-141">&#91;128&#93;</a></sup>より<a href="/%E3%83%9E%E3%82%B9%E3%83%88%E3%83%89%E3%83%B3%E3%83%A6%E3%83%BC%E3%82%B6%E3%83%BC%E3%83%9E%E3%83%83%E3%83%81%E3%83%B3%E3%82%B0" title="マストドンユーザーマッチング">マストドンユーザーマッチング</a>による検索機能を搭載している。また、Mio (15.8.0)より、Mastodon 2.4.3より使える予定の<a href="/%E3%83%95%E3%82%A9%E3%83%AD%E3%83%BC%E3%83%AC%E3%82%B3%E3%83%A1%E3%83%B3%E3%83%87%E3%83%BC%E3%82%B7%E3%83%A7%E3%83%B3_(%E3%83%9E%E3%82%B9%E3%83%88%E3%83%89%E3%83%B3%E3%81%AE%E6%A9%9F%E8%83%BD)" title="フォローレコメンデーション (マストドンの機能)">フォローレコメンデーション (マストドンの機能)</a>での検索ができる。</dd></dl>
+<ul><li>音声読み上げ</li></ul>
+<dl><dd>Mio (15.10.0)<sup id="cite_ref-142" class="reference"><a href="#cite_note-142">&#91;129&#93;</a></sup>より、TLの内容の音声読み上げに対応している。速度やピッチの調整にも対応している。</dd></dl>
+<ul><li>TheDesk Tips</li></ul>
+<dl><dd>Akane (16.0.0)<sup id="cite_ref-143" class="reference"><a href="#cite_note-143">&#91;130&#93;</a></sup>より実装。画面左下の余白に様々な情報を表示しておける。バージョン情報やRAM使用量、時計、Spotifyの再生状況などが表示できる。</dd></dl>
+<ul><li>自動CW</li></ul>
+<dl><dd>指定した文字数・行数以上の投稿をしようとしたときに警告が発せられ、その場でCWをつけて投稿できる。警告文はトゥートの最初の10文字となっている。</dd></dl>
+<ul><li>Twitter機能</li></ul>
+<dl><dd>TweetDeckをTJDeckでカスタムしたものを1つのカラムに表示できる。Miria (17.0.1)より横幅をTweetDeckだけ変更できる機能が搭載された。</dd></dl>
+<ul><li>セカンダリートゥートボタン</li></ul>
+<dl><dd>「トゥート」ボタンの横に、公開範囲を変えてトゥートできるボタンを付けたもの。Usamin (18.0.0)より、Alt+Enterでもトゥート可能である。</dd></dl>
+<ul><li><a href="/Mastodon_InstanceTicker" class="mw-redirect" title="Mastodon InstanceTicker">Mastodon #InstanceTicker</a></li></ul>
+<dl><dd><a href="/Mastodon_InstanceTicker" class="mw-redirect" title="Mastodon InstanceTicker">Mastodon #InstanceTicker</a> APIのJSON版キャッシュ(<a href="/Cutls_P" title="Cutls P">Cutls P</a>が作成しキャッシュしている)を使用し、ほぼ同等の機能を備えているが、ログインしているインスタンスのステッカーは表示されない。</dd></dl>
+<ul><li>カスタムテーマ</li></ul>
+<dl><dd><a href="/Misskey" title="Misskey">Misskey</a>のテーマコードと仕様を合わせたテーマ機能を備える。相互利用が可能だが、保証されるものではない<sup id="cite_ref-144" class="reference"><a href="#cite_note-144">&#91;131&#93;</a></sup>。</dd></dl>
+<ul><li>NowPlaying</li></ul>
+<dl><dd>これまでmacOS限定であったNowPlayingをMiria (17.2.0)より段階的にWindowsにも対応させた。Linuxには非対応。AIMP、その他CAD系のNowPlayingができるようになったが要プラグインのソフトもある。ほぼ同時期に、iTunes(macOS)でアルバムアートワーク付きのNowPlayingができるようになった。</dd></dl>
+<ul><li>実況</li></ul>
+<dl><dd>特定タグを常に入力しておける機能。</dd></dl>
+<ul><li>カラムを縦に並べられる</li></ul>
+<dl><dd>文字通りの機能。</dd></dl>
+<ul><li>通知音</li></ul>
+<dl><dd>通知の種類(ふぁぼやブーストなど)によってカスタムの通知音が設定できる。また、デフォルトで音源が用意されている。</dd></dl>
+<ul><li><a href="/Notestock" title="Notestock">notestock</a></li></ul>
+<dl><dd>Notestockの公開設定をしているユーザーのプロフィールにはリンクが表示される。</dd></dl>
+<h3><span id="特筆すべき機能"></span><span class="mw-headline" id=".E7.89.B9.E7.AD.86.E3.81.99.E3.81.B9.E3.81.8D.E6.A9.9F.E8.83.BD">特筆すべき機能</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/index.php?title=TheDesk&amp;veaction=edit&amp;section=25" class="mw-editsection-visualeditor" title="節を編集: 特筆すべき機能">編集</a><span class="mw-editsection-divider"> | </span><a href="/index.php?title=TheDesk&amp;action=edit&amp;section=25" title="節を編集: 特筆すべき機能">ソースを編集</a><span class="mw-editsection-bracket">]</span></span></h3>
+<h4><span id="TheDeskお知らせ"></span><span class="mw-headline" id="TheDesk.E3.81.8A.E7.9F.A5.E3.82.89.E3.81.9B">TheDeskお知らせ</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/index.php?title=TheDesk&amp;veaction=edit&amp;section=26" class="mw-editsection-visualeditor" title="節を編集: TheDeskお知らせ">編集</a><span class="mw-editsection-divider"> | </span><a href="/index.php?title=TheDesk&amp;action=edit&amp;section=26" title="節を編集: TheDeskお知らせ">ソースを編集</a><span class="mw-editsection-bracket">]</span></span></h4>
+<p>Akane (16.0.10)より実装。WebSocketを利用し、サーバー(thedesk.top)とソフトがリアルタイム通信を行うことで、デベロッパーからのお知らせを受け取ることができる機能。お知らせ送信時に起動していなかった場合、起動時に未読分を表示する。
+</p><p>受信したデータは左下にポップアップされる。仕様ではテキストとトゥートのURLを受信できる。SHOWボタンを押すとトゥートが表示される。
+</p><p>特定のバージョンや特定のインスタンスにログインしているTheDeskのみポップアップする機能も備えるため、TheDeskのアップデート告知や、インスタンス管理人がメンテナンス通知等を行うことも可能である。
+</p><p>また、WebSocketの接続数を出すことでTheDeskのリアルタイムユーザー数を表示できる。Akane (16.0.11)より画面サイズが大きいとき、TheDesk Tipsのバージョン情報で確認できる。
+</p><p>Akane (16.0.10)がリリースされた2018年8月24日の午後7時頃に脆弱性が発見されそれに関する緊急情報がこの機能を使用し発信された。機能を実装したその日のうちに使用することとなった。
+</p>
+<h3><span id="他言語展開"></span><span class="mw-headline" id=".E4.BB.96.E8.A8.80.E8.AA.9E.E5.B1.95.E9.96.8B">他言語展開</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/index.php?title=TheDesk&amp;veaction=edit&amp;section=27" class="mw-editsection-visualeditor" title="節を編集: 他言語展開">編集</a><span class="mw-editsection-divider"> | </span><a href="/index.php?title=TheDesk&amp;action=edit&amp;section=27" title="節を編集: 他言語展開">ソースを編集</a><span class="mw-editsection-bracket">]</span></span></h3>
+<p>Akane (16.0.0)より英語に対応している。また、Akane (16.1.0)より、標準でシステムの既定言語で表示するようになった。同時に、Crowdinで各国語の翻訳プロジェクトが始まった<sup id="cite_ref-145" class="reference"><a href="#cite_note-145">&#91;132&#93;</a></sup>。
+</p>
+<h2><span id="関連項目"></span><span class="mw-headline" id=".E9.96.A2.E9.80.A3.E9.A0.85.E7.9B.AE">関連項目</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/index.php?title=TheDesk&amp;veaction=edit&amp;section=28" class="mw-editsection-visualeditor" title="節を編集: 関連項目">編集</a><span class="mw-editsection-divider"> | </span><a href="/index.php?title=TheDesk&amp;action=edit&amp;section=28" title="節を編集: 関連項目">ソースを編集</a><span class="mw-editsection-bracket">]</span></span></h2>
+<ul><li><a href="/Votedon" title="Votedon">votedon</a> - TheDesk同様Cutls Pによるプロダクト</li></ul>
+<h2><span id="外部リンク"></span><span class="mw-headline" id=".E5.A4.96.E9.83.A8.E3.83.AA.E3.83.B3.E3.82.AF">外部リンク</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/index.php?title=TheDesk&amp;veaction=edit&amp;section=29" class="mw-editsection-visualeditor" title="節を編集: 外部リンク">編集</a><span class="mw-editsection-divider"> | </span><a href="/index.php?title=TheDesk&amp;action=edit&amp;section=29" title="節を編集: 外部リンク">ソースを編集</a><span class="mw-editsection-bracket">]</span></span></h2>
+<ul><li><a rel="nofollow" class="external text" href="https://thedesk.top/">公式サイト</a></li>
+<li><a rel="nofollow" class="external text" href="https://docs.thedesk.top/">公式ドキュメント</a></li></ul>
+<h2><span id="注釈"></span><span class="mw-headline" id=".E6.B3.A8.E9.87.88">注釈</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/index.php?title=TheDesk&amp;veaction=edit&amp;section=30" class="mw-editsection-visualeditor" title="節を編集: 注釈">編集</a><span class="mw-editsection-divider"> | </span><a href="/index.php?title=TheDesk&amp;action=edit&amp;section=30" title="節を編集: 注釈">ソースを編集</a><span class="mw-editsection-bracket">]</span></span></h2>
+<div class="mw-references-wrap mw-references-columns"><ol class="references">
+<li id="cite_note-1"><span class="mw-cite-backlink"><a href="#cite_ref-1">↑</a></span> <span class="reference-text">GUIとしては筆者調べで世界初/唯一である。なお8月22日に<a href="/Subway_Tooter" title="Subway Tooter">Subway Tooter</a>が対応したため現在は唯一ではない。</span>
+</li>
+<li id="cite_note-2"><span class="mw-cite-backlink"><a href="#cite_ref-2">↑</a></span> <span class="reference-text">アプリ認証をコードで行うモード。Windowsはコードを一切コピーすることなしに認証できる。最近のTheDeskではLinux/macOSの場合、コードセットアップはオンがデフォルトになっている。</span>
+</li>
+<li id="cite_note-3"><span class="mw-cite-backlink"><a href="#cite_ref-3">↑</a></span> <span class="reference-text">.exeによるインストーラーの配布</span>
+</li>
+<li id="cite_note-4"><span class="mw-cite-backlink"><a href="#cite_ref-4">↑</a></span> <span class="reference-text">これはCroudiaDeskがCroudiaDeckと呼ばれるCutls Pによるブラウザ向けマルチカラムクライアントをデスクトップ向けにシングルカラムに作り直したためである。</span>
+</li>
+<li id="cite_note-7"><span class="mw-cite-backlink"><a href="#cite_ref-7">↑</a></span> <span class="reference-text">アイドルの名前は内部バージョンと連動している。例えば内部バージョンが10であれば<a rel="nofollow" class="external text" href="http://columbia.jp/idolmaster/cinderella/COCC-16628.html">THE IDOLM@STER CINDERELLA MASTER 010 島村卯月</a>なのでUzukiとなる。内部バージョンはソフトの設定画面の「このソフトについて」で見ることができる。なお、バージョン9は存在しないが、名前に採用されていないアイドルは001-010までにいない。これはCroDeskがサーバーとソフトとブラウザアプリでバージョンを変えていた(サーバーはクールアイドル、ブラウザはキュートアイドル、ソフトウェアはパッションアイドル)ためである。</span>
+</li>
+<li id="cite_note-71"><span class="mw-cite-backlink"><a href="#cite_ref-71">↑</a></span> <span class="reference-text">楽曲「みなぎれ！ボボボンバー」(日野茜(CV:赤﨑千夏))(作詞:夕野ヨシミ(IOSYS)/作曲:ARM(IOSYS))中の歌詞、「胸のうちそっと秘めた 私の乙女心」からインスパイアされて命名。<span class="toot-link"><a rel="nofollow" class="external text" href="https://imastodon.net/@Cutls/100455748424955608">@Cutls@imastodon.netのトゥート (100455748424955608)</a></span></span>
+</li>
+<li id="cite_note-90"><span class="mw-cite-backlink"><a href="#cite_ref-90">↑</a></span> <span class="reference-text">曲名:Romantic Now/赤城みりあ(CV:黒沢ともよ)/作詞:BNSI(MC TC)/作曲:BNSI(Taku Inoue)</span>
+</li>
+<li id="cite_note-97"><span class="mw-cite-backlink"><a href="#cite_ref-97">↑</a></span> <span class="reference-text">該当インスタンスのwikiである<a rel="nofollow" class="external text" href="https://library.kemono-friends.info/%E3%83%9E%E3%82%B9%E3%83%88%E3%83%89%E3%83%B3%E7%94%A8%E3%82%AF%E3%83%A9%E3%82%A4%E3%82%A2%E3%83%B3%E3%83%88%E3%82%BD%E3%83%95%E3%83%88">ますとどんちほー図書館</a>にも表記されている。</span>
+</li>
+<li id="cite_note-101"><span class="mw-cite-backlink"><a href="#cite_ref-101">↑</a></span> <span class="reference-text">一番右のメニューバーの長さは含まない</span>
+</li>
+<li id="cite_note-107"><span class="mw-cite-backlink"><a href="#cite_ref-107">↑</a></span> <span class="reference-text">カラム削除時にコンフリクトが生じ本来意図しないカラムにURL解析が行われ、API制限を受ける可能性が報告されたため。</span>
+</li>
+<li id="cite_note-117"><span class="mw-cite-backlink"><a href="#cite_ref-117">↑</a></span> <span class="reference-text">Listen.moe,AnimeNfo Radio,LoFi hip hop Radio,Linn Classical,Lihn Jazz[Riina (ver.8)で追加],canal-jazz.eu[Riina (ver.8)で追加],Jazz FM[Miho (ver.12)で追加]の5局</span>
+</li>
+<li id="cite_note-130"><span class="mw-cite-backlink"><a href="#cite_ref-130">↑</a></span> <span class="reference-text">SpotifyのAPIが60分制限で、60分以降はリフレッシュトークンを使用しなければならない関係上、thedesk.top(TheDeskサーバー)を経由して取得している。</span>
+</li>
+<li id="cite_note-136"><span class="mw-cite-backlink"><a href="#cite_ref-136">↑</a></span> <span class="reference-text">April Update以降仕様変更により利用できなくなっていた。</span>
+</li>
+</ol></div>
+<h2><span id="出典"></span><span class="mw-headline" id=".E5.87.BA.E5.85.B8">出典</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/index.php?title=TheDesk&amp;veaction=edit&amp;section=31" class="mw-editsection-visualeditor" title="節を編集: 出典">編集</a><span class="mw-editsection-divider"> | </span><a href="/index.php?title=TheDesk&amp;action=edit&amp;section=31" title="節を編集: 出典">ソースを編集</a><span class="mw-editsection-bracket">]</span></span></h2>
+<div class="mw-references-wrap mw-references-columns"><ol class="references">
+<li id="cite_note-5"><span class="mw-cite-backlink"><a href="#cite_ref-5">↑</a></span> <span class="reference-text"><span class="toot-link"><a rel="nofollow" class="external text" href="https://kirishima.cloud/@Cutls/99779110935546201">@Cutls@kirishima.cloudのトゥート (99779110935546201)</a></span></span>
+</li>
+<li id="cite_note-6"><span class="mw-cite-backlink"><a href="#cite_ref-6">↑</a></span> <span class="reference-text"><span class="toot-link"><a rel="nofollow" class="external text" href="https://kirishima.cloud/@Cutls/101821824604936255">@Cutls@kirishima.cloudのトゥート (101821824604936255)</a></span></span>
+</li>
+<li id="cite_note-8"><span class="mw-cite-backlink"><a href="#cite_ref-8">↑</a></span> <span class="reference-text"><span class="toot-link"><a rel="nofollow" class="external text" href="https://kirishima.cloud/@Cutls/99340831080989958">@Cutls@kirishima.cloudのトゥート (99340831080989958)</a></span></span>
+</li>
+<li id="cite_note-9"><span class="mw-cite-backlink"><a href="#cite_ref-9">↑</a></span> <span class="reference-text"><span class="toot-link"><a rel="nofollow" class="external text" href="https://kirishima.cloud/@Cutls/99343497028940284">@Cutls@kirishima.cloudのトゥート (99343497028940284)</a></span></span>
+</li>
+<li id="cite_note-10"><span class="mw-cite-backlink"><a href="#cite_ref-10">↑</a></span> <span class="reference-text"><span class="toot-link"><a rel="nofollow" class="external text" href="https://kirishima.cloud/@Cutls/99351765061669440">@Cutls@kirishima.cloudのトゥート (99351765061669440)</a></span></span>
+</li>
+<li id="cite_note-11"><span class="mw-cite-backlink"><a href="#cite_ref-11">↑</a></span> <span class="reference-text"><span class="toot-link"><a rel="nofollow" class="external text" href="https://kirishima.cloud/@Cutls/99355128837285131">@Cutls@kirishima.cloudのトゥート (99355128837285131)</a></span></span>
+</li>
+<li id="cite_note-12"><span class="mw-cite-backlink"><a href="#cite_ref-12">↑</a></span> <span class="reference-text"><span class="toot-link"><a rel="nofollow" class="external text" href="https://kirishima.cloud/@Cutls/99370399582358614">@Cutls@kirishima.cloudのトゥート (99370399582358614)</a></span></span>
+</li>
+<li id="cite_note-13"><span class="mw-cite-backlink"><a href="#cite_ref-13">↑</a></span> <span class="reference-text"><span class="toot-link"><a rel="nofollow" class="external text" href="https://kirishima.cloud/@Cutls/99372321494800438">@Cutls@kirishima.cloudのトゥート (99372321494800438)</a></span></span>
+</li>
+<li id="cite_note-14"><span class="mw-cite-backlink"><a href="#cite_ref-14">↑</a></span> <span class="reference-text"><span class="toot-link"><a rel="nofollow" class="external text" href="https://kirishima.cloud/@Cutls/99377687829195565">@Cutls@kirishima.cloudのトゥート (99377687829195565)</a></span></span>
+</li>
+<li id="cite_note-15"><span class="mw-cite-backlink"><a href="#cite_ref-15">↑</a></span> <span class="reference-text"><span class="toot-link"><a rel="nofollow" class="external text" href="https://kirishima.cloud/@Cutls/99384166904607153">@Cutls@kirishima.cloudのトゥート (99384166904607153)</a></span></span>
+</li>
+<li id="cite_note-16"><span class="mw-cite-backlink"><a href="#cite_ref-16">↑</a></span> <span class="reference-text"><span class="toot-link"><a rel="nofollow" class="external text" href="https://kirishima.cloud/@Cutls/99384209846984217">@Cutls@kirishima.cloudのトゥート (99384209846984217)</a></span></span>
+</li>
+<li id="cite_note-17"><span class="mw-cite-backlink"><a href="#cite_ref-17">↑</a></span> <span class="reference-text"><span class="toot-link"><a rel="nofollow" class="external text" href="https://kirishima.cloud/@Cutls/99384454598639090">@Cutls@kirishima.cloudのトゥート (99384454598639090)</a></span></span>
+</li>
+<li id="cite_note-18"><span class="mw-cite-backlink"><a href="#cite_ref-18">↑</a></span> <span class="reference-text"><span class="toot-link"><a rel="nofollow" class="external text" href="https://kirishima.cloud/@Cutls/99386622181440710">@Cutls@kirishima.cloudのトゥート (99386622181440710)</a></span></span>
+</li>
+<li id="cite_note-19"><span class="mw-cite-backlink"><a href="#cite_ref-19">↑</a></span> <span class="reference-text"><span class="toot-link"><a rel="nofollow" class="external text" href="https://kirishima.cloud/@Cutls/99386919419407336">@Cutls@kirishima.cloudのトゥート (99386919419407336)</a></span></span>
+</li>
+<li id="cite_note-20"><span class="mw-cite-backlink"><a href="#cite_ref-20">↑</a></span> <span class="reference-text"><span class="toot-link"><a rel="nofollow" class="external text" href="https://kirishima.cloud/@Cutls/99387525618865536">@Cutls@kirishima.cloudのトゥート (99387525618865536)</a></span></span>
+</li>
+<li id="cite_note-21"><span class="mw-cite-backlink"><a href="#cite_ref-21">↑</a></span> <span class="reference-text"><span class="toot-link"><a rel="nofollow" class="external text" href="https://kirishima.cloud/@Cutls/99393762304512407">@Cutls@kirishima.cloudのトゥート (99393762304512407)</a></span></span>
+</li>
+<li id="cite_note-22"><span class="mw-cite-backlink"><a href="#cite_ref-22">↑</a></span> <span class="reference-text"><span class="toot-link"><a rel="nofollow" class="external text" href="https://kirishima.cloud/@Cutls/99394088130787571">@Cutls@kirishima.cloudのトゥート (99394088130787571)</a></span></span>
+</li>
+<li id="cite_note-23"><span class="mw-cite-backlink"><a href="#cite_ref-23">↑</a></span> <span class="reference-text"><span class="toot-link"><a rel="nofollow" class="external text" href="https://kirishima.cloud/@Cutls/99400074283074396">@Cutls@kirishima.cloudのトゥート (99400074283074396)</a></span></span>
+</li>
+<li id="cite_note-24"><span class="mw-cite-backlink"><a href="#cite_ref-24">↑</a></span> <span class="reference-text"><span class="toot-link"><a rel="nofollow" class="external text" href="https://kirishima.cloud/@Cutls/99411212169345313">@Cutls@kirishima.cloudのトゥート (99411212169345313)</a></span></span>
+</li>
+<li id="cite_note-25"><span class="mw-cite-backlink"><a href="#cite_ref-25">↑</a></span> <span class="reference-text"><span class="toot-link"><a rel="nofollow" class="external text" href="https://kirishima.cloud/@Cutls/99416920776189034">@Cutls@kirishima.cloudのトゥート (99416920776189034)</a></span></span>
+</li>
+<li id="cite_note-26"><span class="mw-cite-backlink"><a href="#cite_ref-26">↑</a></span> <span class="reference-text"><span class="toot-link"><a rel="nofollow" class="external text" href="https://kirishima.cloud/@Cutls/99427716324680173">@Cutls@kirishima.cloudのトゥート (99427716324680173)</a></span></span>
+</li>
+<li id="cite_note-27"><span class="mw-cite-backlink"><a href="#cite_ref-27">↑</a></span> <span class="reference-text"><span class="toot-link"><a rel="nofollow" class="external text" href="https://kirishima.cloud/@Cutls/99439790772311181">@Cutls@kirishima.cloudのトゥート (99439790772311181)</a></span></span>
+</li>
+<li id="cite_note-28"><span class="mw-cite-backlink"><a href="#cite_ref-28">↑</a></span> <span class="reference-text"><span class="toot-link"><a rel="nofollow" class="external text" href="https://kirishima.cloud/@Cutls/99444879333030643">@Cutls@kirishima.cloudのトゥート (99444879333030643)</a></span></span>
+</li>
+<li id="cite_note-29"><span class="mw-cite-backlink"><a href="#cite_ref-29">↑</a></span> <span class="reference-text"><span class="toot-link"><a rel="nofollow" class="external text" href="https://kirishima.cloud/@Cutls/99467732924983524">@Cutls@kirishima.cloudのトゥート (99467732924983524)</a></span></span>
+</li>
+<li id="cite_note-30"><span class="mw-cite-backlink"><a href="#cite_ref-30">↑</a></span> <span class="reference-text"><span class="toot-link"><a rel="nofollow" class="external text" href="https://kirishima.cloud/@Cutls/99490797237550877">@Cutls@kirishima.cloudのトゥート (99490797237550877)</a></span></span>
+</li>
+<li id="cite_note-31"><span class="mw-cite-backlink"><a href="#cite_ref-31">↑</a></span> <span class="reference-text"><span class="toot-link"><a rel="nofollow" class="external text" href="https://kirishima.cloud/@Cutls/99496184760614705">@Cutls@kirishima.cloudのトゥート (99496184760614705)</a></span></span>
+</li>
+<li id="cite_note-32"><span class="mw-cite-backlink"><a href="#cite_ref-32">↑</a></span> <span class="reference-text"><span class="toot-link"><a rel="nofollow" class="external text" href="https://kirishima.cloud/@Cutls/99514006824545949">@Cutls@kirishima.cloudのトゥート (99514006824545949)</a></span></span>
+</li>
+<li id="cite_note-33"><span class="mw-cite-backlink"><a href="#cite_ref-33">↑</a></span> <span class="reference-text"><span class="toot-link"><a rel="nofollow" class="external text" href="https://kirishima.cloud/@Cutls/99518963966491914">@Cutls@kirishima.cloudのトゥート (99518963966491914)</a></span></span>
+</li>
+<li id="cite_note-34"><span class="mw-cite-backlink"><a href="#cite_ref-34">↑</a></span> <span class="reference-text"><span class="toot-link"><a rel="nofollow" class="external text" href="https://kirishima.cloud/@Cutls/99535223941610224">@Cutls@kirishima.cloudのトゥート (99535223941610224)</a></span></span>
+</li>
+<li id="cite_note-35"><span class="mw-cite-backlink"><a href="#cite_ref-35">↑</a></span> <span class="reference-text"><span class="toot-link"><a rel="nofollow" class="external text" href="https://kirishima.cloud/@Cutls/99541707996242411">@Cutls@kirishima.cloudのトゥート (99541707996242411)</a></span></span>
+</li>
+<li id="cite_note-36"><span class="mw-cite-backlink"><a href="#cite_ref-36">↑</a></span> <span class="reference-text"><span class="toot-link"><a rel="nofollow" class="external text" href="https://kirishima.cloud/@Cutls/99544791922436697">@Cutls@kirishima.cloudのトゥート (99544791922436697)</a></span></span>
+</li>
+<li id="cite_note-37"><span class="mw-cite-backlink"><a href="#cite_ref-37">↑</a></span> <span class="reference-text"><span class="toot-link"><a rel="nofollow" class="external text" href="https://kirishima.cloud/@Cutls/99544838480404184">@Cutls@kirishima.cloudのトゥート (99544838480404184)</a></span></span>
+</li>
+<li id="cite_note-38"><span class="mw-cite-backlink"><a href="#cite_ref-38">↑</a></span> <span class="reference-text"><span class="toot-link"><a rel="nofollow" class="external text" href="https://kirishima.cloud/@Cutls/99545164145738319">@Cutls@kirishima.cloudのトゥート (99545164145738319)</a></span></span>
+</li>
+<li id="cite_note-39"><span class="mw-cite-backlink"><a href="#cite_ref-39">↑</a></span> <span class="reference-text"><span class="toot-link"><a rel="nofollow" class="external text" href="https://kirishima.cloud/@Cutls/99547583877159246">@Cutls@kirishima.cloudのトゥート (99547583877159246)</a></span></span>
+</li>
+<li id="cite_note-40"><span class="mw-cite-backlink"><a href="#cite_ref-40">↑</a></span> <span class="reference-text"><span class="toot-link"><a rel="nofollow" class="external text" href="https://kirishima.cloud/@Cutls/99575504403256697">@Cutls@kirishima.cloudのトゥート (99575504403256697)</a></span></span>
+</li>
+<li id="cite_note-41"><span class="mw-cite-backlink"><a href="#cite_ref-41">↑</a></span> <span class="reference-text"><span class="toot-link"><a rel="nofollow" class="external text" href="https://kirishima.cloud/@Cutls/99581166420771058">@Cutls@kirishima.cloudのトゥート (99581166420771058)</a></span></span>
+</li>
+<li id="cite_note-42"><span class="mw-cite-backlink"><a href="#cite_ref-42">↑</a></span> <span class="reference-text"><span class="toot-link"><a rel="nofollow" class="external text" href="https://kirishima.cloud/@Cutls/99584808313731098">@Cutls@kirishima.cloudのトゥート (99584808313731098)</a></span></span>
+</li>
+<li id="cite_note-43"><span class="mw-cite-backlink"><a href="#cite_ref-43">↑</a></span> <span class="reference-text"><span class="toot-link"><a rel="nofollow" class="external text" href="https://kirishima.cloud/@Cutls/99585110057533042">@Cutls@kirishima.cloudのトゥート (99585110057533042)</a></span></span>
+</li>
+<li id="cite_note-44"><span class="mw-cite-backlink"><a href="#cite_ref-44">↑</a></span> <span class="reference-text"><span class="toot-link"><a rel="nofollow" class="external text" href="https://kirishima.cloud/@Cutls/99586283742933830">@Cutls@kirishima.cloudのトゥート (99586283742933830)</a></span></span>
+</li>
+<li id="cite_note-45"><span class="mw-cite-backlink"><a href="#cite_ref-45">↑</a></span> <span class="reference-text"><span class="toot-link"><a rel="nofollow" class="external text" href="https://kirishima.cloud/@Cutls/99586711676087706">@Cutls@kirishima.cloudのトゥート (99586711676087706)</a></span></span>
+</li>
+<li id="cite_note-46"><span class="mw-cite-backlink"><a href="#cite_ref-46">↑</a></span> <span class="reference-text"><span class="toot-link"><a rel="nofollow" class="external text" href="https://kirishima.cloud/@Cutls/99659959119943073">@Cutls@kirishima.cloudのトゥート (99659959119943073)</a></span></span>
+</li>
+<li id="cite_note-47"><span class="mw-cite-backlink"><a href="#cite_ref-47">↑</a></span> <span class="reference-text"><span class="toot-link"><a rel="nofollow" class="external text" href="https://kirishima.cloud/@Cutls/99672165445492659">@Cutls@kirishima.cloudのトゥート (99672165445492659)</a></span></span>
+</li>
+<li id="cite_note-48"><span class="mw-cite-backlink"><a href="#cite_ref-48">↑</a></span> <span class="reference-text"><span class="toot-link"><a rel="nofollow" class="external text" href="https://kirishima.cloud/@Cutls/99678112371853455">@Cutls@kirishima.cloudのトゥート (99678112371853455)</a></span></span>
+</li>
+<li id="cite_note-49"><span class="mw-cite-backlink"><a href="#cite_ref-49">↑</a></span> <span class="reference-text"><span class="toot-link"><a rel="nofollow" class="external text" href="https://kirishima.cloud/@Cutls/99681074062064845">@Cutls@kirishima.cloudのトゥート (99681074062064845)</a></span></span>
+</li>
+<li id="cite_note-50"><span class="mw-cite-backlink"><a href="#cite_ref-50">↑</a></span> <span class="reference-text"><span class="toot-link"><a rel="nofollow" class="external text" href="https://kirishima.cloud/@Cutls/99683981955646272">@Cutls@kirishima.cloudのトゥート (99683981955646272)</a></span></span>
+</li>
+<li id="cite_note-51"><span class="mw-cite-backlink"><a href="#cite_ref-51">↑</a></span> <span class="reference-text"><span class="toot-link"><a rel="nofollow" class="external text" href="https://kirishima.cloud/@Cutls/99699845250185162">@Cutls@kirishima.cloudのトゥート (99699845250185162)</a></span></span>
+</li>
+<li id="cite_note-52"><span class="mw-cite-backlink"><a href="#cite_ref-52">↑</a></span> <span class="reference-text"><span class="toot-link"><a rel="nofollow" class="external text" href="https://kirishima.cloud/@Cutls/99714470599339273">@Cutls@kirishima.cloudのトゥート (99714470599339273)</a></span></span>
+</li>
+<li id="cite_note-53"><span class="mw-cite-backlink"><a href="#cite_ref-53">↑</a></span> <span class="reference-text"><span class="toot-link"><a rel="nofollow" class="external text" href="https://kirishima.cloud/@Cutls/99720258906601075">@Cutls@kirishima.cloudのトゥート (99720258906601075)</a></span></span>
+</li>
+<li id="cite_note-54"><span class="mw-cite-backlink"><a href="#cite_ref-54">↑</a></span> <span class="reference-text"><span class="toot-link"><a rel="nofollow" class="external text" href="https://kirishima.cloud/@Cutls/99753554286172019">@Cutls@kirishima.cloudのトゥート (99753554286172019)</a></span></span>
+</li>
+<li id="cite_note-55"><span class="mw-cite-backlink"><a href="#cite_ref-55">↑</a></span> <span class="reference-text"><span class="toot-link"><a rel="nofollow" class="external text" href="https://kirishima.cloud/@Cutls/99776280199886582">@Cutls@kirishima.cloudのトゥート (99776280199886582)</a></span></span>
+</li>
+<li id="cite_note-56"><span class="mw-cite-backlink"><a href="#cite_ref-56">↑</a></span> <span class="reference-text"><span class="toot-link"><a rel="nofollow" class="external text" href="https://kirishima.cloud/@Cutls/99778903571938670">@Cutls@kirishima.cloudのトゥート (99778903571938670)</a></span></span>
+</li>
+<li id="cite_note-57"><span class="mw-cite-backlink"><a href="#cite_ref-57">↑</a></span> <span class="reference-text"><span class="toot-link"><a rel="nofollow" class="external text" href="https://kirishima.cloud/@Cutls/99780540800919858">@Cutls@kirishima.cloudのトゥート (99780540800919858)</a></span></span>
+</li>
+<li id="cite_note-58"><span class="mw-cite-backlink"><a href="#cite_ref-58">↑</a></span> <span class="reference-text"><span class="toot-link"><a rel="nofollow" class="external text" href="https://kirishima.cloud/@Cutls/99816235315778567">@Cutls@kirishima.cloudのトゥート (99816235315778567)</a></span></span>
+</li>
+<li id="cite_note-59"><span class="mw-cite-backlink"><a href="#cite_ref-59">↑</a></span> <span class="reference-text"><span class="toot-link"><a rel="nofollow" class="external text" href="https://kirishima.cloud/@Cutls/99824240545779379">@Cutls@kirishima.cloudのトゥート (99824240545779379)</a></span></span>
+</li>
+<li id="cite_note-60"><span class="mw-cite-backlink"><a href="#cite_ref-60">↑</a></span> <span class="reference-text"><span class="toot-link"><a rel="nofollow" class="external text" href="https://kirishima.cloud/@Cutls/99862475423909002">@Cutls@kirishima.cloudのトゥート (99862475423909002)</a></span></span>
+</li>
+<li id="cite_note-61"><span class="mw-cite-backlink"><a href="#cite_ref-61">↑</a></span> <span class="reference-text"><span class="toot-link"><a rel="nofollow" class="external text" href="https://kirishima.cloud/@Cutls/99870219160048972">@Cutls@kirishima.cloudのトゥート (99870219160048972)</a></span></span>
+</li>
+<li id="cite_note-62"><span class="mw-cite-backlink"><a href="#cite_ref-62">↑</a></span> <span class="reference-text"><span class="toot-link"><a rel="nofollow" class="external text" href="https://kirishima.cloud/@Cutls/100000114985085860">@Cutls@kirishima.cloudのトゥート (100000114985085860)</a></span></span>
+</li>
+<li id="cite_note-63"><span class="mw-cite-backlink"><a href="#cite_ref-63">↑</a></span> <span class="reference-text"><span class="toot-link"><a rel="nofollow" class="external text" href="https://kirishima.cloud/@Cutls/100012024555544459">@Cutls@kirishima.cloudのトゥート (100012024555544459)</a></span></span>
+</li>
+<li id="cite_note-64"><span class="mw-cite-backlink"><a href="#cite_ref-64">↑</a></span> <span class="reference-text"><span class="toot-link"><a rel="nofollow" class="external text" href="https://kirishima.cloud/@Cutls/100060424703893598">@Cutls@kirishima.cloudのトゥート (100060424703893598)</a></span></span>
+</li>
+<li id="cite_note-65"><span class="mw-cite-backlink"><a href="#cite_ref-65">↑</a></span> <span class="reference-text"><span class="toot-link"><a rel="nofollow" class="external text" href="https://kirishima.cloud/@Cutls/100091629492148708">@Cutls@kirishima.cloudのトゥート (100091629492148708)</a></span></span>
+</li>
+<li id="cite_note-66"><span class="mw-cite-backlink"><a href="#cite_ref-66">↑</a></span> <span class="reference-text"><span class="toot-link"><a rel="nofollow" class="external text" href="https://kirishima.cloud/@Cutls/100187214560861540">@Cutls@kirishima.cloudのトゥート (100187214560861540)</a></span>。未だ(ver.x)表記である。</span>
+</li>
+<li id="cite_note-67"><span class="mw-cite-backlink"><a href="#cite_ref-67">↑</a></span> <span class="reference-text"><span class="toot-link"><a rel="nofollow" class="external text" href="https://kirishima.cloud/@Cutls/100220846074652325">@Cutls@kirishima.cloudのトゥート (100220846074652325)</a></span>。未だ(ver.x)表記である。</span>
+</li>
+<li id="cite_note-68"><span class="mw-cite-backlink"><a href="#cite_ref-68">↑</a></span> <span class="reference-text"><span class="toot-link"><a rel="nofollow" class="external text" href="https://kirishima.cloud/@Cutls/100329271680489033">@Cutls@kirishima.cloudのトゥート (100329271680489033)</a></span></span>
+</li>
+<li id="cite_note-69"><span class="mw-cite-backlink"><a href="#cite_ref-69">↑</a></span> <span class="reference-text"><span class="toot-link"><a rel="nofollow" class="external text" href="https://kirishima.cloud/@Cutls/100396774002462094">@Cutls@kirishima.cloudのトゥート (100396774002462094)</a></span></span>
+</li>
+<li id="cite_note-70"><span class="mw-cite-backlink"><a href="#cite_ref-70">↑</a></span> <span class="reference-text"><span class="toot-link"><a rel="nofollow" class="external text" href="https://kirishima.cloud/@Cutls/100418553856486893">@Cutls@kirishima.cloudのトゥート (100418553856486893)</a></span></span>
+</li>
+<li id="cite_note-72"><span class="mw-cite-backlink"><a href="#cite_ref-72">↑</a></span> <span class="reference-text"><span class="toot-link"><a rel="nofollow" class="external text" href="https://kirishima.cloud/@Cutls/100463367670415176">@Cutls@kirishima.cloudのトゥート (100463367670415176)</a></span></span>
+</li>
+<li id="cite_note-73"><span class="mw-cite-backlink"><a href="#cite_ref-73">↑</a></span> <span class="reference-text"><span class="toot-link"><a rel="nofollow" class="external text" href="https://kirishima.cloud/@Cutls/100492924178751744">@Cutls@kirishima.cloudのトゥート (100492924178751744)</a></span></span>
+</li>
+<li id="cite_note-74"><span class="mw-cite-backlink"><a href="#cite_ref-74">↑</a></span> <span class="reference-text"><span class="toot-link"><a rel="nofollow" class="external text" href="https://kirishima.cloud/@Cutls/100495957409144919">@Cutls@kirishima.cloudのトゥート (100495957409144919)</a></span></span>
+</li>
+<li id="cite_note-75"><span class="mw-cite-backlink"><a href="#cite_ref-75">↑</a></span> <span class="reference-text"><span class="toot-link"><a rel="nofollow" class="external text" href="https://kirishima.cloud/@Cutls/100500681668954883">@Cutls@kirishima.cloudのトゥート (100500681668954883)</a></span></span>
+</li>
+<li id="cite_note-76"><span class="mw-cite-backlink"><a href="#cite_ref-76">↑</a></span> <span class="reference-text"><span class="toot-link"><a rel="nofollow" class="external text" href="https://kirishima.cloud/@Cutls/100520944992830083">@Cutls@kirishima.cloudのトゥート (100520944992830083)</a></span></span>
+</li>
+<li id="cite_note-77"><span class="mw-cite-backlink"><a href="#cite_ref-77">↑</a></span> <span class="reference-text"><span class="toot-link"><a rel="nofollow" class="external text" href="https://kirishima.cloud/@Cutls/100526810336329305">@Cutls@kirishima.cloudのトゥート (100526810336329305)</a></span></span>
+</li>
+<li id="cite_note-78"><span class="mw-cite-backlink"><a href="#cite_ref-78">↑</a></span> <span class="reference-text"><span class="toot-link"><a rel="nofollow" class="external text" href="https://kirishima.cloud/@Cutls/100526810336329305">@Cutls@kirishima.cloudのトゥート (100526810336329305)</a></span></span>
+</li>
+<li id="cite_note-79"><span class="mw-cite-backlink"><a href="#cite_ref-79">↑</a></span> <span class="reference-text"><span class="toot-link"><a rel="nofollow" class="external text" href="https://kirishima.cloud/@Cutls/100526810336329305">@Cutls@kirishima.cloudのトゥート (100526810336329305)</a></span></span>
+</li>
+<li id="cite_note-80"><span class="mw-cite-backlink"><a href="#cite_ref-80">↑</a></span> <span class="reference-text"><span class="toot-link"><a rel="nofollow" class="external text" href="https://kirishima.cloud/@Cutls/100557134495236262">@Cutls@kirishima.cloudのトゥート (100557134495236262)</a></span></span>
+</li>
+<li id="cite_note-81"><span class="mw-cite-backlink"><a href="#cite_ref-81">↑</a></span> <span class="reference-text"><span class="toot-link"><a rel="nofollow" class="external text" href="https://kirishima.cloud/@Cutls/100595112992851567">@Cutls@kirishima.cloudのトゥート (100595112992851567)</a></span></span>
+</li>
+<li id="cite_note-82"><span class="mw-cite-backlink"><a href="#cite_ref-82">↑</a></span> <span class="reference-text"><span class="toot-link"><a rel="nofollow" class="external text" href="https://kirishima.cloud/@Cutls/100600186993496090">@Cutls@kirishima.cloudのトゥート (100600186993496090)</a></span></span>
+</li>
+<li id="cite_note-83"><span class="mw-cite-backlink"><a href="#cite_ref-83">↑</a></span> <span class="reference-text"><span class="toot-link"><a rel="nofollow" class="external text" href="https://kirishima.cloud/@Cutls/100605651546221689">@Cutls@kirishima.cloudのトゥート (100605651546221689)</a></span></span>
+</li>
+<li id="cite_note-84"><span class="mw-cite-backlink"><a href="#cite_ref-84">↑</a></span> <span class="reference-text"><span class="toot-link"><a rel="nofollow" class="external text" href="https://kirishima.cloud/@Cutls/100703150634814228">@Cutls@kirishima.cloudのトゥート (100703150634814228)</a></span></span>
+</li>
+<li id="cite_note-85"><span class="mw-cite-backlink"><a href="#cite_ref-85">↑</a></span> <span class="reference-text"><span class="toot-link"><a rel="nofollow" class="external text" href="https://kirishima.cloud/@Cutls/100707992052365833">@Cutls@kirishima.cloudのトゥート (100707992052365833)</a></span></span>
+</li>
+<li id="cite_note-86"><span class="mw-cite-backlink"><a href="#cite_ref-86">↑</a></span> <span class="reference-text"><span class="toot-link"><a rel="nofollow" class="external text" href="https://kirishima.cloud/@Cutls/100708409163001230">@Cutls@kirishima.cloudのトゥート (100708409163001230)</a></span></span>
+</li>
+<li id="cite_note-87"><span class="mw-cite-backlink"><a href="#cite_ref-87">↑</a></span> <span class="reference-text"><span class="toot-link"><a rel="nofollow" class="external text" href="https://kirishima.cloud/@Cutls/100740969036097384">@Cutls@kirishima.cloudのトゥート (100740969036097384)</a></span></span>
+</li>
+<li id="cite_note-88"><span class="mw-cite-backlink"><a href="#cite_ref-88">↑</a></span> <span class="reference-text"><span class="toot-link"><a rel="nofollow" class="external text" href="https://kirishima.cloud/@Cutls/100747791240691208">@Cutls@kirishima.cloudのトゥート (100747791240691208)</a></span></span>
+</li>
+<li id="cite_note-89"><span class="mw-cite-backlink"><a href="#cite_ref-89">↑</a></span> <span class="reference-text"><span class="toot-link"><a rel="nofollow" class="external text" href="https://kirishima.cloud/@Cutls/100753066449479636">@Cutls@kirishima.cloudのトゥート (100753066449479636)</a></span></span>
+</li>
+<li id="cite_note-91"><span class="mw-cite-backlink"><a href="#cite_ref-91">↑</a></span> <span class="reference-text"><span class="toot-link"><a rel="nofollow" class="external text" href="https://kirishima.cloud/@Cutls/101208485650187778">@Cutls@kirishima.cloudのトゥート (101208485650187778)</a></span></span>
+</li>
+<li id="cite_note-92"><span class="mw-cite-backlink"><a href="#cite_ref-92">↑</a></span> <span class="reference-text"><span class="toot-link"><a rel="nofollow" class="external text" href="https://kirishima.cloud/@Cutls/101661684258224807">@Cutls@kirishima.cloudのトゥート (101661684258224807)</a></span></span>
+</li>
+<li id="cite_note-93"><span class="mw-cite-backlink"><a href="#cite_ref-93">↑</a></span> <span class="reference-text"><span class="toot-link"><a rel="nofollow" class="external text" href="https://kirishima.cloud/@Cutls/101703785789645357">@Cutls@kirishima.cloudのトゥート (101703785789645357)</a></span></span>
+</li>
+<li id="cite_note-94"><span class="mw-cite-backlink"><a href="#cite_ref-94">↑</a></span> <span class="reference-text"><span class="toot-link"><a rel="nofollow" class="external text" href="https://kirishima.cloud/@Cutls/101718164822125148">@Cutls@kirishima.cloudのトゥート (101718164822125148)</a></span></span>
+</li>
+<li id="cite_note-95"><span class="mw-cite-backlink"><a href="#cite_ref-95">↑</a></span> <span class="reference-text"><span class="toot-link"><a rel="nofollow" class="external text" href="https://kirishima.cloud/@Cutls/101425165584777270">@Cutls@kirishima.cloudのトゥート (101425165584777270)</a></span></span>
+</li>
+<li id="cite_note-96"><span class="mw-cite-backlink"><a href="#cite_ref-96">↑</a></span> <span class="reference-text"><span class="toot-link"><a rel="nofollow" class="external text" href="https://kirishima.cloud/@Kirishimalab21/99386678369823539">@Kirishimalab21@kirishima.cloudのトゥート (99386678369823539)</a></span>。インスタンスの詳細情報にもこの旨が表記されている。</span>
+</li>
+<li id="cite_note-98"><span class="mw-cite-backlink"><a href="#cite_ref-98">↑</a></span> <span class="reference-text"><span class="toot-link"><a rel="nofollow" class="external text" href="https://kirishima.cloud/@Cutls/99467732924983524">@Cutls@kirishima.cloudのトゥート (99467732924983524)</a></span></span>
+</li>
+<li id="cite_note-99"><span class="mw-cite-backlink"><a href="#cite_ref-99">↑</a></span> <span class="reference-text"><span class="toot-link"><a rel="nofollow" class="external text" href="https://kirishima.cloud/@Cutls/99340831080989958">@Cutls@kirishima.cloudのトゥート (99340831080989958)</a></span></span>
+</li>
+<li id="cite_note-100"><span class="mw-cite-backlink"><a href="#cite_ref-100">↑</a></span> <span class="reference-text"><span class="toot-link"><a rel="nofollow" class="external text" href="https://kirishima.cloud/@Cutls/99384166904607153">@Cutls@kirishima.cloudのトゥート (99384166904607153)</a></span></span>
+</li>
+<li id="cite_note-102"><span class="mw-cite-backlink"><a href="#cite_ref-102">↑</a></span> <span class="reference-text"><span class="toot-link"><a rel="nofollow" class="external text" href="https://kirishima.cloud/@Cutls/99370399582358614">@Cutls@kirishima.cloudのトゥート (99370399582358614)</a></span></span>
+</li>
+<li id="cite_note-103"><span class="mw-cite-backlink"><a href="#cite_ref-103">↑</a></span> <span class="reference-text"><span class="toot-link"><a rel="nofollow" class="external text" href="https://kirishima.cloud/@Cutls/99384166904607153">@Cutls@kirishima.cloudのトゥート (99384166904607153)</a></span></span>
+</li>
+<li id="cite_note-104"><span class="mw-cite-backlink"><a href="#cite_ref-104">↑</a></span> <span class="reference-text"><span class="toot-link"><a rel="nofollow" class="external text" href="https://kirishima.cloud/@Cutls/99372321494800438">@Cutls@kirishima.cloudのトゥート (99372321494800438)</a></span></span>
+</li>
+<li id="cite_note-105"><span class="mw-cite-backlink"><a href="#cite_ref-105">↑</a></span> <span class="reference-text"><span class="toot-link"><a rel="nofollow" class="external text" href="https://kirishima.cloud/@Cutls/99372321494800438">@Cutls@kirishima.cloudのトゥート (99372321494800438)</a></span></span>
+</li>
+<li id="cite_note-106"><span class="mw-cite-backlink"><a href="#cite_ref-106">↑</a></span> <span class="reference-text"><span class="toot-link"><a rel="nofollow" class="external text" href="https://kirishima.cloud/@Cutls/99467732924983524">@Cutls@kirishima.cloudのトゥート (99467732924983524)</a></span></span>
+</li>
+<li id="cite_note-108"><span class="mw-cite-backlink"><a href="#cite_ref-108">↑</a></span> <span class="reference-text"><span class="toot-link"><a rel="nofollow" class="external text" href="https://kirishima.cloud/@Cutls/99370399582358614">@Cutls@kirishima.cloudのトゥート (99370399582358614)</a></span></span>
+</li>
+<li id="cite_note-109"><span class="mw-cite-backlink"><a href="#cite_ref-109">↑</a></span> <span class="reference-text"><span class="toot-link"><a rel="nofollow" class="external text" href="https://kirishima.cloud/@Cutls/99377687829195565">@Cutls@kirishima.cloudのトゥート (99377687829195565)</a></span></span>
+</li>
+<li id="cite_note-110"><span class="mw-cite-backlink"><a href="#cite_ref-110">↑</a></span> <span class="reference-text"><span class="toot-link"><a rel="nofollow" class="external text" href="https://kirishima.cloud/@Cutls/99377687829195565">@Cutls@kirishima.cloudのトゥート (99377687829195565)</a></span></span>
+</li>
+<li id="cite_note-111"><span class="mw-cite-backlink"><a href="#cite_ref-111">↑</a></span> <span class="reference-text"><span class="toot-link"><a rel="nofollow" class="external text" href="https://kirishima.cloud/@Cutls/99377687829195565">@Cutls@kirishima.cloudのトゥート (99377687829195565)</a></span></span>
+</li>
+<li id="cite_note-112"><span class="mw-cite-backlink"><a href="#cite_ref-112">↑</a></span> <span class="reference-text"><span class="toot-link"><a rel="nofollow" class="external text" href="https://kirishima.cloud/@Cutls/99490797237550877">@Cutls@kirishima.cloudのトゥート (99490797237550877)</a></span></span>
+</li>
+<li id="cite_note-113"><span class="mw-cite-backlink"><a href="#cite_ref-113">↑</a></span> <span class="reference-text"><span class="toot-link"><a rel="nofollow" class="external text" href="https://kirishima.cloud/@Cutls/99387525618865536">@Cutls@kirishima.cloudのトゥート (99387525618865536)</a></span></span>
+</li>
+<li id="cite_note-114"><span class="mw-cite-backlink"><a href="#cite_ref-114">↑</a></span> <span class="reference-text"><span class="toot-link"><a rel="nofollow" class="external text" href="https://kirishima.cloud/@Cutls/99411212169345313">@Cutls@kirishima.cloudのトゥート (99411212169345313)</a></span></span>
+</li>
+<li id="cite_note-115"><span class="mw-cite-backlink"><a href="#cite_ref-115">↑</a></span> <span class="reference-text"><span class="toot-link"><a rel="nofollow" class="external text" href="https://kirishima.cloud/@Cutls/99490797237550877">@Cutls@kirishima.cloudのトゥート (99490797237550877)</a></span></span>
+</li>
+<li id="cite_note-116"><span class="mw-cite-backlink"><a href="#cite_ref-116">↑</a></span> <span class="reference-text"><span class="toot-link"><a rel="nofollow" class="external text" href="https://kirishima.cloud/@Cutls/99514006824545949">@Cutls@kirishima.cloudのトゥート (99514006824545949)</a></span></span>
+</li>
+<li id="cite_note-118"><span class="mw-cite-backlink"><a href="#cite_ref-118">↑</a></span> <span class="reference-text"><span class="toot-link"><a rel="nofollow" class="external text" href="https://kirishima.cloud/@Cutls/99535223941610224">@Cutls@kirishima.cloudのトゥート (99535223941610224)</a></span></span>
+</li>
+<li id="cite_note-119"><span class="mw-cite-backlink"><a href="#cite_ref-119">↑</a></span> <span class="reference-text"><span class="toot-link"><a rel="nofollow" class="external text" href="https://kirishima.cloud/@Cutls/99541707996242411">@Cutls@kirishima.cloudのトゥート (99541707996242411)</a></span></span>
+</li>
+<li id="cite_note-120"><span class="mw-cite-backlink"><a href="#cite_ref-120">↑</a></span> <span class="reference-text"><span class="toot-link"><a rel="nofollow" class="external text" href="https://kirishima.cloud/@Cutls/99541707996242411">@Cutls@kirishima.cloudのトゥート (99541707996242411)</a></span></span>
+</li>
+<li id="cite_note-121"><span class="mw-cite-backlink"><a href="#cite_ref-121">↑</a></span> <span class="reference-text"><span class="toot-link"><a rel="nofollow" class="external text" href="https://kirishima.cloud/@Cutls/99547583877159246">@Cutls@kirishima.cloudのトゥート (99547583877159246)</a></span></span>
+</li>
+<li id="cite_note-122"><span class="mw-cite-backlink"><a href="#cite_ref-122">↑</a></span> <span class="reference-text"><span class="toot-link"><a rel="nofollow" class="external text" href="https://kirishima.cloud/@Cutls/99659959119943073">@Cutls@kirishima.cloudのトゥート (99659959119943073)</a></span></span>
+</li>
+<li id="cite_note-123"><span class="mw-cite-backlink"><a href="#cite_ref-123">↑</a></span> <span class="reference-text"><span class="toot-link"><a rel="nofollow" class="external text" href="https://kirishima.cloud/@Cutls/99659959119943073">@Cutls@kirishima.cloudのトゥート (99659959119943073)</a></span></span>
+</li>
+<li id="cite_note-124"><span class="mw-cite-backlink"><a href="#cite_ref-124">↑</a></span> <span class="reference-text"><span class="toot-link"><a rel="nofollow" class="external text" href="https://kirishima.cloud/@Cutls/99659959119943073">@Cutls@kirishima.cloudのトゥート (99659959119943073)</a></span></span>
+</li>
+<li id="cite_note-125"><span class="mw-cite-backlink"><a href="#cite_ref-125">↑</a></span> <span class="reference-text"><span class="toot-link"><a rel="nofollow" class="external text" href="https://kirishima.cloud/@Cutls/99659959119943073">@Cutls@kirishima.cloudのトゥート (99659959119943073)</a></span></span>
+</li>
+<li id="cite_note-126"><span class="mw-cite-backlink"><a href="#cite_ref-126">↑</a></span> <span class="reference-text"><span class="toot-link"><a rel="nofollow" class="external text" href="https://kirishima.cloud/@Cutls/99659959119943073">@Cutls@kirishima.cloudのトゥート (99659959119943073)</a></span></span>
+</li>
+<li id="cite_note-127"><span class="mw-cite-backlink"><a href="#cite_ref-127">↑</a></span> <span class="reference-text"><span class="toot-link"><a rel="nofollow" class="external text" href="https://kirishima.cloud/@Cutls/99659959119943073">@Cutls@kirishima.cloudのトゥート (99659959119943073)</a></span></span>
+</li>
+<li id="cite_note-128"><span class="mw-cite-backlink"><a href="#cite_ref-128">↑</a></span> <span class="reference-text"><span class="toot-link"><a rel="nofollow" class="external text" href="https://kirishima.cloud/@Cutls/99714470599339273">@Cutls@kirishima.cloudのトゥート (99714470599339273)</a></span></span>
+</li>
+<li id="cite_note-129"><span class="mw-cite-backlink"><a href="#cite_ref-129">↑</a></span> <span class="reference-text"><span class="toot-link"><a rel="nofollow" class="external text" href="https://kirishima.cloud/@Cutls/99683981955646272">@Cutls@kirishima.cloudのトゥート (99683981955646272)</a></span></span>
+</li>
+<li id="cite_note-131"><span class="mw-cite-backlink"><a href="#cite_ref-131">↑</a></span> <span class="reference-text"><span class="toot-link"><a rel="nofollow" class="external text" href="https://kirishima.cloud/@Cutls/99699845250185162">@Cutls@kirishima.cloudのトゥート (99699845250185162)</a></span></span>
+</li>
+<li id="cite_note-132"><span class="mw-cite-backlink"><a href="#cite_ref-132">↑</a></span> <span class="reference-text"><span class="toot-link"><a rel="nofollow" class="external text" href="https://kirishima.cloud/@Cutls/99753554286172019">@Cutls@kirishima.cloudのトゥート (99753554286172019)</a></span></span>
+</li>
+<li id="cite_note-133"><span class="mw-cite-backlink"><a href="#cite_ref-133">↑</a></span> <span class="reference-text"><span class="toot-link"><a rel="nofollow" class="external text" href="https://kirishima.cloud/@Cutls/99753554286172019">@Cutls@kirishima.cloudのトゥート (99753554286172019)</a></span></span>
+</li>
+<li id="cite_note-134"><span class="mw-cite-backlink"><a href="#cite_ref-134">↑</a></span> <span class="reference-text"><span class="toot-link"><a rel="nofollow" class="external text" href="https://kirishima.cloud/@Cutls/99776280199886582">@Cutls@kirishima.cloudのトゥート (99776280199886582)</a></span></span>
+</li>
+<li id="cite_note-135"><span class="mw-cite-backlink"><a href="#cite_ref-135">↑</a></span> <span class="reference-text"><span class="toot-link"><a rel="nofollow" class="external text" href="https://kirishima.cloud/@Cutls/99776280199886582">@Cutls@kirishima.cloudのトゥート (99776280199886582)</a></span></span>
+</li>
+<li id="cite_note-137"><span class="mw-cite-backlink"><a href="#cite_ref-137">↑</a></span> <span class="reference-text"><span class="toot-link"><a rel="nofollow" class="external text" href="https://kirishima.cloud/@Cutls/100000114985085860">@Cutls@kirishima.cloudのトゥート (100000114985085860)</a></span></span>
+</li>
+<li id="cite_note-138"><span class="mw-cite-backlink"><a href="#cite_ref-138">↑</a></span> <span class="reference-text"><span class="toot-link"><a rel="nofollow" class="external text" href="https://kirishima.cloud/@Cutls/100000114985085860">@Cutls@kirishima.cloudのトゥート (100000114985085860)</a></span></span>
+</li>
+<li id="cite_note-139"><span class="mw-cite-backlink"><a href="#cite_ref-139">↑</a></span> <span class="reference-text"><span class="toot-link"><a rel="nofollow" class="external text" href="https://kirishima.cloud/@Cutls/100060424703893598">@Cutls@kirishima.cloudのトゥート (100060424703893598)</a></span></span>
+</li>
+<li id="cite_note-140"><span class="mw-cite-backlink"><a href="#cite_ref-140">↑</a></span> <span class="reference-text"><span class="toot-link"><a rel="nofollow" class="external text" href="https://kirishima.cloud/@Cutls/100187214560861540">@Cutls@kirishima.cloudのトゥート (100187214560861540)</a></span></span>
+</li>
+<li id="cite_note-141"><span class="mw-cite-backlink"><a href="#cite_ref-141">↑</a></span> <span class="reference-text"><span class="toot-link"><a rel="nofollow" class="external text" href="https://kirishima.cloud/@Cutls/100220846074652325">@Cutls@kirishima.cloudのトゥート (100220846074652325)</a></span></span>
+</li>
+<li id="cite_note-142"><span class="mw-cite-backlink"><a href="#cite_ref-142">↑</a></span> <span class="reference-text"><span class="toot-link"><a rel="nofollow" class="external text" href="https://kirishima.cloud/@Cutls/100418553856486893">@Cutls@kirishima.cloudのトゥート (100418553856486893)</a></span></span>
+</li>
+<li id="cite_note-143"><span class="mw-cite-backlink"><a href="#cite_ref-143">↑</a></span> <span class="reference-text"><span class="toot-link"><a rel="nofollow" class="external text" href="https://kirishima.cloud/@Cutls/100463367670415176">@Cutls@kirishima.cloudのトゥート (100463367670415176)</a></span></span>
+</li>
+<li id="cite_note-144"><span class="mw-cite-backlink"><a href="#cite_ref-144">↑</a></span> <span class="reference-text"><a rel="nofollow" class="external free" href="https://thedesk.top/mias.html">https://thedesk.top/mias.html</a></span>
+</li>
+<li id="cite_note-145"><span class="mw-cite-backlink"><a href="#cite_ref-145">↑</a></span> <span class="reference-text"><a rel="nofollow" class="external free" href="https://translate.thedesk.top">https://translate.thedesk.top</a></span>
+</li>
+</ol></div>
+
+<!-- 
+NewPP limit report
+Cached time: 20220329084159
+Cache expiry: 86400
+Dynamic content: false
+CPU time usage: 0.565 seconds
+Real time usage: 0.583 seconds
+Preprocessor visited node count: 4383/1000000
+Preprocessor generated node count: 10821/1000000
+Post‐expand include size: 21083/2097152 bytes
+Template argument size: 11649/2097152 bytes
+Highest expansion depth: 4/40
+Expensive parser function count: 0/100
+Unstrip recursion depth: 0/20
+Unstrip post‐expand size: 60158/5000000 bytes
+-->
+<!--
+Transclusion expansion time report (%,ms,calls,template)
+100.00%  242.387      1 -total
+ 20.91%   50.693    131 テンプレート:Toot
+  2.83%    6.848      1 テンプレート:Infobox_software
+  0.89%    2.159      3 テンプレート:Ruby
+  0.82%    1.990      1 テンプレート:Jawp
+-->
+</div>
+<!-- Saved in parser cache with key mastodon_wiki_ja:pcache:idhash:1657-0!canonical and timestamp 20220329084158 and revision id 15274
+ -->
