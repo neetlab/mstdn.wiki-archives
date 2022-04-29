@@ -52,7 +52,7 @@ const generateDocs = async (page) => {
 </head>
 <body class="mediawiki ltr sitedir-ltr mw-hide-empty-elt ns-0 ns-subject page-11t rootpage-11t skin-vector action-view">
   <div id="content" class="mw-body" role="main">
-    <span id="wikiTitleMastodonWikiOriginal">${wikiName}</span>
+    <span id="wikiTitleMastodonWikiOriginal"><a href="index.html">${wikiName}</a></span>
     <h1 id="firstHeading" class="firstHeading">${title}</h1>
     ${file}
     </div>
@@ -91,6 +91,9 @@ const generateMobileDocs = async (page) => {
         .header .branding-box {
             padding-left: 10px;
         }
+        .heading-holder {
+            padding-bottom: 20px;
+        }
     </style>
     <meta property="og:type" content="article">
     <meta property="og:site_name" content="${wikiName}">
@@ -99,16 +102,16 @@ const generateMobileDocs = async (page) => {
 <body class="mediawiki ltr sitedir-ltr mw-hide-empty-elt ns-0 ns-subject page-Masto_Host rootpage-Masto_Host stable skin-minerva action-view animations touch-events">
     <div class="mw-mf-viewport">
         <div class="mw-mf-page-center">
-            <div class="header-container">
-                <form>
+            <div class="header-container header-chrome">
+                <form class="header">
                     <div class="branding-box">
-                        <h1><span>${wikiName}</span></h1>
+                        <h1><span><a href="index.html">${wikiName}</a></span></h1>
                     </div>
                 </form>
             </div>
             <div id="content" class="mw-body">
                 <div class="pre-content heading-holder">
-                    <hi id="section_0">${title}</h1>
+                    <h1 id="section_0">${title}</h1>
                 </div>
                 <div id="bodyContent" class="content">
                     <div id="mw-content-text" class="mw-content-ltr">
