@@ -1,0 +1,1 @@
+'''OStatus''' est le protocole réseau utilisé par différents logiciels afin d’accéder au [[Fediverse]]. C’est notament le protocole utilisé par les différentes instances de [[Mastodon]] afin de communiquer entre elles.

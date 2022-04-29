@@ -1,3 +1,17 @@
+<div style="padding: 8px; border: 1px solid coral; background-color: bisque">
+<h2>サービス終了のお知らせ</h2>
+
+<p>マストドン日本語wikiをご利用いただきありがとうございます。このサイトは2017年4月から非営利で提供させていただいておりましたが、この度管理人がメンテナンスコストを負担できなくなったため、誠に勝手ながら'''2022年4月30日を以てサービスを終了'''とさせていただく運びになりました。</p></br>
+<p>'''記事のwiki形式のデータ、html形式のデータ、画像ファイルはすべて以前のライセンスと同じ「クリエイティブ・コモンズ 表示-非営利-継承」でGitHub及びGoogle Driveに公開されております'''ので、よろしければご利用くださいませ。</p>
+
+<p>当サイトに関するご質問は[http://@neet@mastodon.social https://mastodon.social/@neet]までご連絡ください。5年間、長きに渡りご愛顧いただきありがとうございました。</p></br>
+<p>Neetshin (@neet@masotodn.social)</p>
+
+<h3>アーカイブのご利用はこちら</h3>
+https://github.com/neetlab/mstdn.wiki-archives
+</div>
+
+<br/>
 <div id="header_wrapper">
 
 <h2 class="wiki_title">マストドン日本語ウィキへようこそパオ！</h2>

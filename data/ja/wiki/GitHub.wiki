@@ -1,1 +1,28 @@
-#転送 [[GitHub]]
+{{stub}}
+{{Infobox software
+| Name = {{Ruby|GitHub|ギットハブ}}
+| Image = [[ファイル:GitHub.png|300px]]<br />[[ファイル:Octicons-mark-github.png|150px]]
+| Developer =GitHub, Inc.
+| Platform = Web, Android, iOS, Chrome, Windows, macOS
+| Launch = 2008年4月
+| Web = https://github.com
+}}
+'''GitHub'''とは、プログラムのバージョン管理システム[[wikipedia:ja:git|git]]をベースに作られた、ソフトウェア開発プロジェクトのための共有ウェブサービスの一つである。
+
+[[Mastodon]]をはじめ、多くの[[分散SNS]]やオープンソースのソフトウェア・プロジェクトはこのGitHubで公開されている。
+
+== 概要 ==
+ソフトウェア開発者が、ソフトウェアのソースコードやファイルを共有・管理することができるサービス。
+
+プルやプッシュなどの機能を使い、プロジェクトの開発・管理を行う。
+
+また、[[ソーシャル・ネットワーキング・サービス]]（SNS）としての機能を持ち、ユーザー、フォロー・フォロワー、スター ([[お気に入り]]) といった概念が存在するのも特徴。
+
+2018年6月、OS・ソフトウェア開発などで知られる{{Jawp|microsoft}}による買収が発表された影響で、一部において他ウェブサイトにソースコードを移す流れが生じた。
+
+==関連項目==
+* [[マストドン公式リポジトリ]]
+* [[GitLab]]
+
+[[Category:ウェブサイト]]
+{{DEFAULTSORT:github}}

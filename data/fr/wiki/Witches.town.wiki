@@ -1,0 +1,63 @@
+{{Infobox instance
+ | Nom      = Witches Town
+ | Image    = [[Image:Logo de Witches Town.png|alt=Un pentagramme inversé de couleur jaune sur un fond gris.|Le logo de witches.town]]
+ | Domaine  = https://witches.town/
+ | Admin    = [https://witches.town/@TheSupreme The Supreme Witch]
+ | Pays     = France
+ | Création = 3 avril 2017<ref>[https://witches.town/@Alda Alda], [https://witches.town/@Alda/2734659 pouet], sur ''[[Witches.town|Witches Town]]'', 23 juin 2017 à 16h20, (consulté le 24 juin 2017)</ref> à 22h57<ref>[https://witches.town/@Alda Alda], [https://witches.town/@Alda/2734808 pouet], sur ''[[Witches.town|Witches Town]]'', 23 juin 2017 à 16h25, (consulté le 24 juin 2017)</ref>
+}}
+'''Witches Town''' (souvent désignée par son nom de domaine, '''witches.town''') était une instance [[Mastodon]], principalement francophone et crée en 2017 et fermée en mai 2018. Elle se voulait être un « endroit accueillant sur Mastodon pour les personnes queers, féministes, anarchistes et compagnie ainsi qu’à leur sympathisant·e·s »<ref name="about/more">[https://witches.town/about/more « witches.town »], sur ''[[Witches.town|Witches Town]]'', 2017 (consulté le 1 juillet 2017)</ref>.
+
+Au 1 juillet 2017, Witches Town comprenait 1.719 utilisateur·rice·s<ref name="about/more" />.
+
+==Communauté==
+La communauté de Witches Town était principalement composée de personnes queers ainsi que de militant·e·s féministes et anarchistes. On pouvait facilement y croiser des dessinateur·rice·s, des photographes, des concepteur·rice·s de jeux… Une partie non-négligeable de sa population active s’intéressait par ailleurs à l’informatique en général et aux logiciels libres en particulier.
+
+==Particularités==
+L’instance possèdait un thème centrée autour de la sorcellerie et de l’occultisme. Ainsi, on n’y parlait pas de « pouet » mais de « sort », pas de « favori » mais de « sigil », etc. La caractéristique technique la plus remarquable de l’instance y était sans doute la longueur maximale des statuts qui était non pas de cinq-cent mais de six-cent-soixante-six caractères.
+
+Chose rare, sur Witches Town les inscriptions n'étaient ouvertes qu’entre 20h et 21h, heure de Paris. L’ouverture des « portes » de l’instance était annoncée automatiquement chaque jour par [https://witches.town/@TheGateKeeper The Gatekeeper], un robot mis en place pour l’occasion.
+
+==Politique de modération==
+Witches Town se voulant être un endroit accueillant et sûr pour les personnes queers et féministes, la modération y était sensiblement plus stricte que dans d’autres instances. Celle-ci y était assurée de manière collégiale par une équipe de volontaires.
+
+===Règles===
+Les règles de Witches Town, telles qu’elles figurent sur [https://witches.town/about/more sa page d’information détaillée], prohibitaient le harcèlement, les comportements oppressifs, la violation du secret des correspondances privées entre mastonautes et la publication de nudité sur un fil public. De manière générale, les utilisateur·rice·s étaient incité·e·s à être gentil·le·s et bienveillant·e·s les un·e·s envers les autres.
+
+===Instances bloquées et silencées===
+Au 1 juillet 2017, les instances bloquées ou silencées étaient les suivantes :
+
+*anitwitter.moe
+*ediot.social
+*freezepeach.xyz
+*gorf.club
+*gs.smuglo.li
+*rainbowdash.net
+*sealion.club
+*shitposter.club
+*social.au2pb.net
+*social.heldscal.la
+*social.imirhil.fr
+*unsafe.space
+*woofer.alfter.us
+*pawoo.net (silencée, médias rejetés)
+*presidentielle.tech (silencée)
+*social.targaryen.house (silencée)
+
+Cette liste est mise à disposition du public [https://github.com/WitchesTown/InstanceInternals/blob/master/Blocklist.md sur GitHub].
+
+==Revue de presse==
+Witches Town est une des six instances citées par Sarah Jeong dans son article « [https://motherboard.vice.com/en_us/article/4x9v7q/from-witches-to-dolphins-these-are-the-communities-that-make-mastodon-great From Witches to Dolphins, These Are the Communities That Make Mastodon Great] ».
+
+==Galerie==
+<gallery mode="slideshow">
+Image:Page d’accueil de Witches Town.png|alt=La page d’accueil, au texte clair sur fond bleu. La mascotte de Mastodon est au centre de la page, à côté d’un texte indiquant les heures d’ouverture et invitant à se connecter.|La page d’accueil de l’instance
+Image:Page d’information de Witches Town.png|alt=La page d’information détaillée, au texte clair sur fond bleu. À gauche on peut lire une présentation de l’instance ainsi que le début de ses règles. À droite, on peut voir les informations de contact de l’administratrice.|La page d’information détaillée de l’instance
+Image:Interface principale de Witches Town.png|alt=L’interface principale. On peut voir, de gauche à droite, la colonne de composition, la colonne d’accueil (« Le Chaudron »), la colonne de notifications (« Le Corbeau ») et la colonne du fil public local (« Le Sabbat »).|L’interface principale de l’instance
+</gallery>
+
+==Références==
+<references />
+
+[[Catégorie:Instances]]
+[[ja:Witches.town]]

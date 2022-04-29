@@ -1,0 +1,29 @@
+{{Infobox instance
+ | Nom      = mastodon.xyz
+ | Domaine  = https://mastodon.xyz/
+ | Admin    = [https://mastodon.xyz/@TheKinrar TheKinrar]
+ | Pays     = France
+ | Création = 1 avril 2017 à 17h55<ref>[https://mastodon.xyz/@TheKinrar TheKinrar], [https://mastodon.xyz/@TheKinrar/1 pouet], sur ''[[Mastodon.xyz]]'', 1 avril 2017 à 17h55, (consulté le 1 juillet 2017)</ref>
+}}
+'''mastodon.xyz''' est une instance [[Mastodon]], principalement francophone et créée en 2017.
+
+Avec 14.097 utilisateur·rice·s<ref>[https://mastodon.xyz/about/more « À propos »], sur ''[[Mastodon.xyz]]'', 2017, (consulté le 8 janvier 2018)</ref>, mastodon.xyz était, au 7 janvier 2018, la sixième plus grosse instance du réseau et la plus grande instance francophone<ref>[https://instances.social/list/old All instances], sur ''[https://instances.social/ Mastodon instances]'', (consulté le 8 janvier 2018)</ref>.
+
+== Politique de modération ==
+La politique de modération de l’instance est relativement souple, son administrateur ne souhaitant pas mettre en place trop de restrictions sur le contenu posté par les utilisateur·rice·s.
+
+=== Règles ===
+Les règles de mastodon.xyz, telles qu’elles figurent sur [https://mastodon.xyz/about/more sa page d’informations détaillée], prohibent les comportements oppressifs et incitent les comptes parodiques à le signaler dans leur biographie.
+
+== Galerie ==
+<gallery mode="slideshow">
+Image:Page d’accueil de mastodon.xyz.png|alt=La page d’accueil, au texte clair sur clair sur un fond sombre. La mascotte de Mastodon est au centre de la page, à côté du formulaire d’inscription et d’un lien invitant à se connecter.|La page d’accueil de l’instance
+Image:Page d’information de mastodon.xyz.png|alt=La page d’information détaillée, au texte clair sur un fond sombre. On peut voir, dans un bandeau en haut de la page, le nombre d’utilisateur·rice·s de l’instance, le nombre de statuts publiés sur cette dernière, le nombre d’instances auxquelles elle est connectée ainsi que les informations de contact de l’administratrice. En-dessous, on peut lire les règles de l’instance.|La page d’information détaillée de l’instance
+Image:Interface principale de mastodon.xyz.png|alt=L’interface principale. On peut voir, de gauche à droite, la colonne de composition, la colonne d’accueil, la colonne de notifications et la colonne du fil public local.|L’interface principale de l’instance
+</gallery>
+
+== Références ==
+<references />
+
+[[Catégorie: Instances]]
+[[ja:Mastodon.xyz]]

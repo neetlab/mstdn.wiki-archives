@@ -2,5 +2,9 @@ Le '''Fediverse''' est un gestionnaire de réseau social décentralisé de micro
 
 Parmi les logiciels permettant de se connecter au Fediverse, les plus populaires sont [[Mastodon]] et GNU Social.
 
+Pour une présentation en vidéo : 
+* [https://framatube.org/w/9dRFC6Ya11NCVeYKn8ZhiD?subtitle=fr What is the Fediverse?] (sous-titres en français)
+* [https://videos.globenet.org/w/fFo5sF7WrKHfy2YRrXnjDj Introduction au fédiverse - Mastodon et Peertube]
+
 [[pl:Fediwersum]]
 [[ja:連合]]

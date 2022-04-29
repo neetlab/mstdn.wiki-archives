@@ -1,0 +1,85 @@
+This '''Media coverage''' page is an overview of the most ''notable'' media coverage of Mastodon. It's an combination of news articles, reflections and essays from mainstream and personal media. The lists are in chronological order and sorted by language.
+
+==English media==
+* Farokhmanesh, Megan. [https://www.theverge.com/2017/5/22/15535374/mastodon-spotlight-aftermath "What happened to Mastodon after its moment in the spotlight?"], ''The Verge'', 22 May 2017 
+* Smith, Ernie. [http://associationsnow.com/2017/05/twitter-mastodon-social-network-strategy/ "Why It’s So Hard to Topple Twitter"], ''Associations Now'', 2 May 2017
+* Rochko, Eugen. [https://medium.com/@Gargron/april-post-mortem-12e3d141878c "April post-mortem"], ''Medium'', 25 April 2017
+* Hart, Allie. [https://medium.com/@alliethehart/mourning-what-now-10964cce22a8 "Mourning What Now?!?!"], ''Medium'', 24 April 2017
+* Hart, Allie. [https://medium.com/@alliethehart/gameingers-are-dead-and-so-is-mastodon-705b535ed616 "Mourning Mastodon"], ''Medium'', 23 April 2017
+* Parreno, Ryan. [http://www.spot.ph/newsfeatures/the-latest-news-features/69860/what-mastodon-social-network-a1633-20170417 "What No One Else Has Told You About Mastodon"], ''Spot.ph'', 17 April 2017
+* Brown, Eileen. [http://www.zdnet.com/article/is-mastodon-the-new-social-media-star-or-imploding-black-hole/ "Is Mastodon the new social media star, or imploding black hole?"], ''ZDNet'', 17 April 2017
+* Morse, Jack. [http://mashable.com/2017/04/15/mastodon-has-instance-for-everyone/ "In the rapidly expanding Mastodon fediverse, there's an instance for everyone"], ''Mashable'', 15 April 2017
+* Jeong, Sarah. [https://motherboard.vice.com/en_us/article/from-witches-to-dolphins-these-are-the-communities-that-make-mastodon-great "From Witches to Dolphins, These Are the Communities That Make Mastodon Great"], ''Motherboard'', 14 April 2017
+* Robertson, Victoria. [https://www.uloop.com/news/view.php/234856/Mastodon-The-New-Twitter "Mastodon: The New Twitter?"], ''Uloop'', 13 April 2017
+* Rhodes, Margaret. [https://www.wired.com/2017/04/like-twitter-hate-trolls-try-mastodon/ "Like Twitter But Hate the Trolls? Try Mastodon"], ''Wired'', 13 April 2017
+* Westbrook, Adam. [https://www.thememo.com/2017/04/12/what-the-heck-is-mastodon-social-network-twitter/ "What the heck is Mastodon?"], ''The Memo'', 12 April 2017
+* Kostarelis, Stefan. [https://www.techly.com.au/2017/04/11/will-mastodon-succeed-in-killing-twitter/ "Will Mastodon succeed in killing Twitter?"], ''Techly'', 11 April 2017
+* Liu, Qina. [https://hackernoon.com/what-i-wish-i-knew-before-joining-mastodon-7a17e7f12a2b "What I wish I knew before joining Mastodon"], ''Hacker Noon'', 9 April 2017
+* Armstrong, Paul. [https://www.forbes.com/sites/paularmstrongtech/2017/04/09/mastodon-is-what-disruption-looks-like-right-before-it-happens/ "Mastodon Is What Disruption Looks Like Right Before It Happens"], ''Forbes'', 9 April 2017
+* Drott, Johanna. [https://medium.com/@sargoth/mastodon-pineapples-social-media-and-other-unanswered-questions-c5127c7c9aa0 "Mastodon, pineapples, social media and other unanswered questions"], ''Medium'', 9 April 2017
+* Rauschmayer, Dr. Axel. [http://2ality.com/2017/04/mastodon.html "Mastodon: like Twitter, but open and federated"], ''2ality'', 9 April 2017
+* Spearman, Kahron. [https://www.dailydot.com/upstream/mastodon-band-trolls-social-network/ "Mastodon the metal band trolls Mastodon the social media network "], ''The Daily Dot'', 7 April 2017
+* Lee, Nicole. [https://www.engadget.com/2017/04/07/mastodons-sudden-popularity-should-serve-as-twitters-wakeup-ca/ "Mastodon's sudden popularity should serve as Twitter's wakeup call"], ''Engadget'', 7 April 2017
+* [https://www.sanspoint.com/archives/2017/04/07/mastodon-a-different-way-to-think-about-social-media/ "Mastodon: A Different Way to Think About Social Media"], ''sanspoint.'', 7 April 2017
+* Kenlon, Seth. [https://opensource.com/article/17/4/guide-to-mastodon "A beginner's guide to microblogging on Mastodon"], ''Opensource.com'', 6 April 2017
+* Wong, Joon Ian. [https://qz.com/951078/the-complete-guide-to-using-mastodon-the-twitter-twtr-alternative/ "How to use Mastodon, the Twitter alternative that’s becoming super popular"], ''Quartz'', 6 April 2017
+* Lekach, Sasha. [http://mashable.com/2017/04/06/eugen-rochko-mastodon-interview/ "The coder who built Mastodon is 24, fiercely independent, and doesn’t care about money"], ''Mashable'', 6 April 2017
+* World, Robek. [https://robek.world/featured/what-is-gnu-social-and-is-mastodon-social-a-twitter-clone/ "What is GNU social and is Mastodon Social a “Twitter Clone”?"], ''Robek.world'', 6 April 2017
+* Blue, David. [http://www.extratone.com/tech/mastodon/ "Resurrected Federation - Interview with Eugen Rochko"], ''ExtraTone'', 6 April 2017
+* Burgess, Matt. [http://www.wired.co.uk/article/mastodon-social-network-what-how-create-account "Could Mastodon be the social network to replace Twitter?"], ''Wired'', 5 April 2017
+* [http://indianexpress.com/article/technology/social/mastodon-the-social-network-thats-proving-to-be-a-twitter-alternative-4600725/ "Mastodon: The social network that’s proving to be a Twitter alternative"], ''Indian Express'', 5 April 2017
+* Shinde, Jayesh. [http://www.indiatimes.com/technology/apps/meet-mastodon-an-open-source-twitter-lookalike-that-everyone-s-talking-about-274958.html "Meet Mastodon, An Open Source Twitter Lookalike That Everyone's Talking About"], ''India Times'', 5 April 2017
+* Boult, Adam. [http://www.telegraph.co.uk/technology/2017/04/05/mastodon-new-social-network-vying-next-twitter/ "What is Mastodon? The new social network vying to be the next Twitter"], ''Telegraph'', 5 April 2017
+* Dudley-Nicholson, Jennifer. [http://www.news.com.au/technology/online/social/social-network-mastodon-takes-on-twitter-promising-more-characters-privacy-and-control/news-story/ee1f445a423b4f439f5b2e6b593e7a5a "Social network Mastodon takes on Twitter, promising more characters, privacy and control"], ''News.com.au'', 5 April 2017
+* Kircher, Madison Malone. [http://nymag.com/selectall/2017/04/what-is-social-platform-mastodon-different-from-twitter.html "What the Heck Is Mastodon, and Why Is Everyone Talking About It?"], ''NYMag'', 4 April 2017
+* Morse, Jack. [http://mashable.com/2017/04/04/mastodon-twitter-social-network/ "Bye, Twitter. All the cool kids are migrating to Mastodon."], ''Mashable'', 4 April 2017
+* Newton, Casey. [https://www.theverge.com/2017/4/4/15177856/mastodon-social-network-twitter-clone "Mastodon.social is an open-source Twitter competitor that’s growing like crazy"], ''The Verge'', 4 April 2017
+* Jeong, Sarah. [https://motherboard.vice.com/en_us/article/mastodon-is-like-twitter-without-nazis-so-why-are-we-not-using-it "Mastodon Is Like Twitter Without Nazis, So Why Are We Not Using It?"], ''Motherboard'', 4 April 2017
+* Rochko, Eugen. [https://hackernoon.com/welcome-to-mastodon-111d9227e56a "Welcome to Mastodon"], ''Hacker Noon'', 1 April 2017
+* daveid. [https://news.ycombinator.com/item?id=13303346 "Show HN: Mastodon, a federated microblogging network"], ''Hacker News'', 3 Januari 2017
+* Sikkenga, Christopher. [http://awkwardhuman.com/blog/2016/12/21/mastodon-a-social-network-for-all-humans/ "Mastodon: A Social Network For All Humans"], ''Awkward Human'', 13 December 2016
+* Bonnington, Christina. [https://www.dailydot.com/debug/mastodon-open-source-social-media/ "Mastodon is an open source, decentralized version of Twitter"], ''The Daily Dot'', 22 November 2016
+* Tossell, Ben. [https://www.producthunt.com/posts/mastodon "Mastodon - Open-source decentralized microblogging platform"], ''Product Hunt'', 6 October 2016
+* daveid. [https://news.ycombinator.com/item?id=12646083 "Show HN: A new decentralized microblogging platform"], ''Hacker News'', 6 October 2016
+
+==Other languages==
+===Dutch media===
+* de Wit, Bastijn. [https://www.rauwcc.nl/blog/what-s-new-on-social-media-2 "What's new on Social Media"], ''RauwCC'', 26 April 2017
+* Marie, Ninah. [http://veiligheidinbeeld.weebly.com/-ergens-en-nergens/the-bits-and-bytes-of-mastodon "​The bits and bytes of Mastodon."], ''Weebly'', 25 April 2017
+* Vleugels, Anouk. [https://www.nrc.nl/nieuws/2017/04/24/wordt-mastodon-het-nieuwe-twitter-8388877-a1555784 "Wordt Mastodon het nieuwe Twitter?"], ''NRC'', 24 April 2017
+* Van Halen, Stephen. [https://www.a1news.nl/2017/04/wordt-mastodon-het-nieuwe-twitter/ "Wordt Mastodon het nieuwe Twitter?"], ''Amsterdam No.1 tijdschrift'', 24 April 2017
+* Raaphorst, Marco. [http://marcoraaphorst.nl/49722/mastodon-twitter-maar-beter/ "Mastodon, een soort Twitter maar dan beter"], ''Marco Raaphorst'', 15 April 2017
+* de Vries, Lykle. [http://www.lykledevries.nl/2017/04/14/mastodon-een-beter-alternatief-voor-twitter/ "Mastodon, een beter alternatief voor Twitter?"], ''Lyke de Vries'', 14 April 2017
+* van Oosten, Marensa. [http://www.d-writeone.nl/mastodon-social-media/ "Mastodon is de nieuwe social media site"], ''D-Write One'',  12 April 2017
+* Kopinga, Wim. [http://numrush.nl/2017/04/11/mastodon-sociaal-netwerk-twitter/ "Mastodon is hot. Maar is het uniek genoeg om zich te vestigen tussen de grote sociale netwerken?"], ''Numrush'', 11 April 2017
+* Rubens, Wilfred. [https://www.te-learning.nl/blog/mastodon-een-nieuwe-leertechnologie/ "Mastodon: een nieuwe leertechnologie?"], ''TE-learning'', 11 April 2017
+* Blom, Erwin. [http://fastmovingtargets.nl/2017/04/10/mastodon-hype-blijver/ "Mastodon: hype of blijver?"], ''Fast Moving Targets'', 10 April 2017
+* Trienpont, Vincent. [http://www.darvin.be/Mastodon "Mastodon: Vanwaar het enthousiasme?"], ''Darvin'', 7 April 2017
+* Smeets, Patrick. [http://www.dutchcowboys.nl/socialmedia/mastodon-open-source-alternatief-voor-twitter-in-de-spotlight "Mastodon: open-source alternatief voor Twitter in de spotlight"], ''DutchCowboys'', 6 April 2017
+* Kaal, Alice. [http://www.marketingfacts.nl/berichten/maak-kennis-met-mastodon-de-nieuwe-speler-in-social-media "Maak kennis met Mastodon, de nieuwe speler in social media"], ''Marketingfacts'', 6 April 2017
+* Evers, Freek. [http://www.demorgen.be/technologie/mastodon-een-alternatief-voor-twitter-ba650a4d/ "Mastodon, een alternatief voor Twitter?"], ''De Morgen'', 6 April 2017
+* Engels, Bjorn. [https://www.rootagency.be/blog/kmo/nieuw-social-media-land-de-twitter-concurrent-mastodon/ "Nieuw in social media land: Mastodon!"], ''Root Agency'', 6 April 2017
+* Ballois, Hanne. [http://www.sociallemon.be/blog/is-er-plaats-voor-mij-mastodon "Is er plaats voor mij? #Mastodon"], ''Social Lemon'', 6 April 2017
+* [http://jfkmagazine.nl/twitter-mastodon-social-media/ "Is Twitter dood? Mensen stappen massaal over op Mastodon"], ''JFK Magazine'', 5 April 2017
+* Meeuwsen, Frank. [http://diggingthedigital.com/Mastodon/ "Waarom is Mastodon zo leuk voor me?"], ''Digging the digital'', 5 April 2017
+* van der Zwaag, Gonny. [https://www.iculture.nl/nieuws/mastodon-twitter-alternatief/ "Mastodon is een snelgroeiend alternatief voor Twitter"], ''iCulture'', 5 April 2017
+* Güldenpfennig, Peter. [http://www.winmagpro.nl/content/open-source-twitter-alternatief-mastodon-gelanceerd "Open source Twitter-alternatief Mastodon gelanceerd"], ''Winmag Pro'', 3 November 2016
+
+===French media===
+* Samama, Pascal. [http://bfmbusiness.bfmtv.com/entreprise/qui-est-eugen-rochko-cet-allemand-de-24-ans-qui-a-cree-mastodon-1139641.html "Qui est Eugen Rochko, cet Allemand de 24 ans qui a créé Mastodon?"], ''BFMTV'', 11 April 2017
+* Zanchi, Jean-Sébastien. [http://www.01net.com/actualites/comment-debuter-sur-mastodon-le-twitter-alternatif-1137988.html "Comment débuter sur Mastodon, le Twitter alternatif"], ''01net'', 9 April 2017
+*  Hermann, Vincent.[https://www.nextinpact.com/news/103937-mastodon-reseau-social-libre-et-decentralise-pret-a-voler-dans-plumes-twitter.htm "Mastodon, le réseau social libre et décentralisé prêt à voler dans les plumes de Twitter"], ''Next INpact'', 7 April 2017
+
+===German media===
+* Reißmann, Ole.[http://www.bento.de/gadgets/mastodon-wie-die-twitter-alternative-funktioniert-1296037/ "So funktioniert Mastodon, das neue Twitter"], ''Bento'', 9 April 2017 
+* Wirminghaus, Niklas. [https://www.gruenderszene.de/allgemein/mastodon-so-wird-das-nix "Sorry, Mastodon, aber so wird das nix"], ''Grüenderszene'', 7 April 2017
+* Drees, Carsten. [https://www.mobilegeeks.de/artikel/mastodon/ "Zur Seite, Twitter: Mastodon ist (vielleicht) das „next big thing“"], ''Mobilegeeks.de'', 5 April 2017
+
+===Japanese media===
+* 松尾公也. [http://www.itmedia.co.jp/news/articles/1706/08/news057.html "「日本がシリコンバレーのルールに従う必要はない」　マストドン作者オイゲン・ロッコさん語る　Interop Tokyo 2017 「マストドン」ブリーフィング基調講演"], ''ITmedia'', 8 June 2017
+* [http://www.nikkei.com/article/DGXMZO16087770Y7A500C1000000/?dg=1 "ポストTwitter　マストドン開発者に狙い聞く"], ''The Nikkei (日本経済新聞)'', 16 May 2017
+* Taira, Kazuhiro. [http://www.huffingtonpost.jp/satoshi-endo/twitter-mastodon_b_15954976.html "Twitterのライバル？　実は、新しい「マストドン」（Mastodon）とは！"], ''HuffPost (ハフポスト日本版)'', 12 April 2017
+
+===Spanish media===
+* Medina, Édgar. [http://www.eltiempo.com/tecnosfera/novedades-tecnologia/mastodon-el-competidor-de-twitter-76092 "¿Qué es Mastodon, la nueva red social que amenaza a Twitter?"], ''El Tiempo'', 10 April 2017
+* [http://www.bbc.com/mundo/noticias-39505413 "Mastodon, la red social que quiere "aplastar" al pajarito de Twitter"], ''BBC Mundo'', 5 April 2017

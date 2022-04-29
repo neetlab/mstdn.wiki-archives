@@ -1,0 +1,13 @@
+<ruby>鳥<rt>とり</rt></ruby>とは、Mastodonの日本人コミュニティ内で使用されているスラングである。[[Twitter]]のロゴマークが鳥の姿をしていることが由来である。
+{{Infobox word
+| Name          = <ruby>鳥<rt>とり</rt></ruby>
+| Hinshi        = 名詞
+| Hatsu         = [[Mastodon.cloud]]
+}}
+
+
+== 概要 ==
+[[Mastodon.cloud]]やその他の日本語インスタンスに[[Twitter]]の空気を持ち込んだ人間のこと。しばしば[[鳥]]、[[青い鳥]]、[[鳥民]]、もしくは[[渡り鳥]]と呼称される。
+
+{{DEFAULTSORT:とり}}
+[[category:象語]]

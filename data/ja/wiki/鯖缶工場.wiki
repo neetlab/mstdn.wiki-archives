@@ -1,0 +1,23 @@
+{{Infobox website
+| Name    = {{ruby|鯖缶工場|さばかんこうじょう}}
+| Image   = [[ファイル:Sabakankojo.png|120px]]
+| URL     = https://discordapp.com/invite/mJJGAHv
+| Admin   = [[ぐすくま]]
+| Country = 日本
+| Start   = 2018年8月21日
+}}
+'''鯖缶工場'''は、[[Discord]]のチャンネル。[[ぐすくま]]が開設した。新しく[[インスタンス]]を立ち上げたいという人をサポートすることを目的としている<ref>https://abyss.fun/@guskma/100588784734939342</ref>。
+
+==関連項目==
+* [[鯖缶]]
+* [[鯖缶工場Wiki]] - 同じコンセプトのウィキ
+* [[Fedeloper forum]] - 似たコンセプトの[[Discourse]]フォーラム
+
+==外部リンク==
+* https://discord.gg/mJJGAHv
+
+==脚注==
+<references />
+
+{{DEFAULTSORT:さはかんこうしよう}}
+[[category:ウェブサイト]]

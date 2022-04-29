@@ -1,0 +1,22 @@
+{{Infobox website
+| Name    = 鯖缶工場Wiki
+<!-- | Image   = [[ファイル:Joinmastodonorg.jpg|300px]] -->
+| URL     = https://wiki.sabakan.industries/
+| Admin   = [[ぐすくま]]
+| Country = 日本
+| Start   = 2018年11月8日<ref>https://abyss.fun/@guskma/101034971508368444</ref>
+}}
+'''鯖缶工場Wiki'''は、[[分散SNS]]のインスタンスの構築とサーバー管理についての知見を記録するためのWiki。
+
+==関連項目==
+* [[鯖缶工場]] - 同じコンセプトの[[Discord]]チャンネル
+
+==外部リンク==
+* https://wiki.sabakan.industries/
+* https://github.com/wd-shiroma/sabakan-wiki
+
+==脚注==
+<references />
+
+{{DEFAULTSORT:さはかんこうしようういき}}
+[[category:ウェブサイト]]

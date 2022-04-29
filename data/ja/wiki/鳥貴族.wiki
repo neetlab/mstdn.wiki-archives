@@ -1,0 +1,19 @@
+<ruby>鳥貴族<rt>とりきぞく</rt></ruby>とは、Mastodonの日本人コミュニティ内で使用されているネットスラングである。
+
+{{Infobox word
+| Name          = <ruby>鳥貴族<rt>とりきぞく</rt></ruby>
+| Hinshi        = 名詞
+| Hatsu         = [[Mastodon.cloud]]
+}}
+
+== 概要 ==
+
+独自の文化が発達した[[Mastodon.cloud]]に[[Twitter]]のノリを持ち込む[[鳥]]と焼き鳥チェーンの「鳥貴族」をかけたスラング。空気を読まずに貴族のように横柄に振る舞うという悪いニュアンスが強いため、使用には注意が必要。
+
+== 出典 ==
+
+<references/>
+
+
+{{DEFAULTSORT:とりきそく}}
+[[category:象語]]

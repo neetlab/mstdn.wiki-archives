@@ -96,7 +96,7 @@
 
 ''Petites annonces sentimentales''
 
-'''<nowiki>#</nowiki>MastoApero'''
+'''<nowiki>#</nowiki>MastoApero''' / '''<nowiki>#</nowiki>MastApero''' / '''<nowiki>#</nowiki>FediApero'''
 
 ''Parce que la vraie vie, c'est aussi se voir en vrai''
 

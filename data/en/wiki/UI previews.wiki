@@ -1,0 +1,248 @@
+At the time of writing, there is no way to see an instance's user interface (UI) without creating an account. Users with accessibility needs have to create and then abandon accounts until they find a UI they can use.
+
+This page is intended to be a user-maintained resource that allows people to see a UI without having to sign up. It should contain information that can't be found on the About pages that you can see without registering.
+
+==Guidelines==
+
+Please keep instances in alphabetical order, and use the following template:
+
+<code><nowiki>=== Name of Instance ===</nowiki></code>
+
+<code><nowiki>* '''URL of instance:''' https://thing.thing</nowiki></code><br>
+<code><nowiki>* '''Default theme?''' Yes/No (If default, no need for screenshot)</nowiki></code><br>
+<code><nowiki>* '''Default names and symbols for functions such as toot, boost, etc?''' Yes/No; save > florp, toot > ping...</nowiki></code><br>
+<code><nowiki>* '''Brief description of main features of UI in words:''' Eg: black text on white background, different names or symbols for functions, etc.</nowiki></code><br>
+<code><nowiki>* '''Date this wiki entry was last updated:''' Eg: 2017-04-30</nowiki></code><br>
+<code><nowiki>[Optional; include only if not default] * '''Screenshot of instance in desktop browser, without user styles, showing Getting Started:'''</nowiki></code><br>
+<code><nowiki>[[File:Screenshot.png|500px]]</nowiki></code>
+
+Also:
+
+* Feel free to update the out-of-date entries.
+* If your instance's screenshot is small and you have a bigger resolution that can show more detail, feel free to update the entry for your instance with a larger screenshot.
+
+===What to do===
+
+# Check that your instance hasn't already been entered. To be extra-sure and save yourself some time, press <code>ctrl + F</code> to search the current page in your browser and type in your instance's URL. If your instance is on this list, it'll show up in this search. If your instance is listed but out of date, you can update it. If your instance is not yet listed, move onto the next step.
+# Copy the above template text to your clipboard.
+# Scroll down to the instance that comes before yours alphabetically, and click "Edit" on its header.
+# Paste your template text into the bottom of the edit box.
+# Edit the title (between the <nowiki>=</nowiki> symbols) and the first four sections, replacing the example text with your instance's information.
+## If your instance runs the default theme as on [[#List of instances#Mastodon.social (flagship)|the Mastodon flagship instance]] you can delete the fifth bullet point (the screenshot one), and click save. You will probably be asked to prove that you are not a robot, which just involves checking a box to confirm that you are not, in fact, a robot. Your work here is done!
+## If your instance has a custom theme, move onto the next step.
+# Open ''[[Special:Upload]]'' in a new tab.
+# Take a screenshot of your instance, with the "Getting Started" panel showing. You can click the star at the top left to put the Getting Started menu into the fourth column.
+## It helps to crop your image to remove browser things like the address bar, and you could also blur out any personal information if you are so inclined.
+# Upload it in your ''[[Special:Upload]]'' tab.
+# Copy the filename from the top of the new image file page, which will say something like "File:Filename.png", and paste that into the last line of the template in your list-editing tab - leaving the opening <code><nowiki>[[</nowiki></code> and closing <code><nowiki>|500px]]</nowiki></code> in tact.
+
+== List of instances ==
+
+=== A Weirder Earth ===
+
+* '''URL of instance:''' https://a.weirder.earth
+* '''Default theme?''' Standard colors, but highlighting usernames with a blue frame
+* '''Default names and symbols for functions such as toot, boost, etc?''' No: is following you > is watching you 👀, favourite > grok, Home Timeline > Your Reality Tunnel, Local Timeline > Consensual Hallucination, Federated Timeline > Hyperreality, Edit Profile > Edit Self 🔧
+* '''Brief description of main features of UI in words:''' Light text on a dark grey theme. Usernames in toots are highlighted with colours to identify instances, ie: all mentioned users from mastodon.social are highlighted in the same colour site-wide.
+* '''Date this wiki entry was last updated:''' 2017-05-02
+* '''Screenshot of instance in desktop browser, without user styles, showing Getting Started:'''
+[[File:A Weirder Earth default.png|500px]]
+
+=== Awoo.space ===
+
+* '''URL of instance:''' https://awoo.space
+* '''Default theme?''' Yes, except for the accent colour.
+* '''Default names and symbols for functions such as toot, boost, etc?''' Yes, except Toot > Awoo
+* '''Brief description of main features of UI in words:''' Light text on a dark grey theme, orange accent color
+* '''Date this wiki entry was last updated:''' 2017-05-02
+* '''Screenshot of instance in desktop browser, without user styles, showing Getting Started:'''
+[[File:Awoo space default.png|500px]]
+
+=== botsin.space ===
+
+* '''URL of instance:''' https://botsin.space
+* '''Default theme?''' Yes
+* '''Default names and symbols for functions such as toot, boost, etc?''' Yes
+* '''Brief description of main features of UI in words:''' Light text on a dark blue-grey background.
+* '''Date this wiki entry was last updated:''' 2017-06-12
+
+=== Café des blogueurs ===
+
+* '''URL of instance:''' https://cafe.des-blogueurs.org
+* '''Default theme?''' No
+* '''Default names and symbols for functions such as toot, boost, etc?''' Yes except for the french word for toot: publier → babiller (babble in english)
+* '''Brief description of main features of UI in words:''' Green and light grey theme; dark text on light background.
+* '''Date this wiki entry was last updated:''' 2017-06-07
+* '''Screenshot of instance in desktop browser, without user styles, showing Getting Started:'''
+[[File:Cafe des blogueurs.jpg|500px]]
+
+=== chaos.social ===
+
+* '''URL of instance:''' https://chaos.social
+* '''Default theme?''' Not quite
+* '''Default names and symbols for functions such as toot, boost, etc?''' Yes
+* '''Brief description of main features of UI in words:''' Slightly larger columns, custom image
+* '''Date this wiki entry was last updated:''' 2017-06-04
+* '''Screenshot of instance in desktop browser, without user styles, showing Getting Started:'''
+[[File:Chaossocial.png|500px]]
+
+=== Computer Fairies ===
+
+* '''URL of instance:''' https://computerfairi.es
+* '''Default theme?''' No
+* '''Default names and symbols for functions such as toot, boost, etc?''' Yes
+* '''Brief description of main features of UI in words:''' Light text on purple background, left column is green
+* '''Date this wiki entry was last updated:''' 2017-04-30
+* '''Screenshot of instance in desktop browser, without user styles, showing Getting Started:'''
+[[File:Computer_fairies_default.png|500px]] 
+
+=== Cybrespace ===
+
+* '''URL of instance:''' http://cybre.space
+* '''Default theme?''' No
+* '''Default names and symbols for functions such as toot, boost, etc?''' No. Toot > ping, boost > relay, save/like/star > florp.
+* '''Brief description of main features of UI in words:''' White text on dark background as default. The background behind the toot columns is a dark glitch art. Things that are blue in the default theme are green here, such as the boost symbol after you've boosted something. Column headers are renamed to look more... cybre.
+* '''Date this wiki entry was last updated:''' 2017-09-07
+* '''Screenshot of instance in desktop browser, without user styles, showing Getting Started:'''
+[[File:Cybre_space_05_24_17.jpg|500px]]
+
+=== Framapiaf ===
+
+* '''URL of instance:''' https://framapiaf.org/
+* '''Default theme?''' No
+* '''Default names and symbols for functions such as toot, boost, etc?''' Yes
+* '''Brief description of main features of UI in words:''' White background, purple column headers and toot button, lighter purple and light grey accents.
+* '''Date this wiki entry was last updated:''' 2017-08-25
+* '''Screenshot of instance in desktop browser, without user styles, showing Getting Started:''' (taken from the instance's /about)
+[[File:Framapiaf.jpg|500px]] 
+
+=== I'm in Space ===
+
+* '''URL of instance:''' https://im-in.space/
+* '''Default theme?''' No
+* '''Default names and symbols for functions such as toot, boost, etc?''' Functions yes, timelines no; Home > My space, Local > Solar System's timeline, Federated > Galactic timeline
+* '''Brief description of main features of UI in words:''' Uses the [https://userstyles.org/styles/140852/mastodon-flat-dark-and-colourful Flat, Dark and Colourful!] theme in dark blue with some orange and light blue elements. Light text on dark background.
+* '''Date this wiki entry was last updated:''' 2017-04-30
+* '''Screenshot of instance in desktop browser, without user styles, showing Getting Started:'''
+[[File:Im-in_space_default.png|500px]]
+
+=== LGBT. Mastodon. ===
+
+* '''URL of instance:''' https://lgbt.io
+* '''Default theme?''' No
+* '''Default names and symbols for functions such as toot, boost, etc?''' Yes
+* '''Brief description of main features of UI in words:''' White and purple accents on default dark background.
+* '''Date this wiki entry was last updated:''' 2017-05-06
+* '''Screenshot of instance in desktop browser, without user styles, showing Getting Started:'''
+[[File:LGBT_io.jpg|500px]]
+
+=== Masto Cafe ===
+* '''URL of instance:''' http://social.wxcafe.net
+* '''Default theme?''' No
+* '''Default names and symbols for functions such as toot, boost, etc?''' No; Save > Sweetened servings, Federated timeline > Terrace, Local timeline > The café. Columns: Counter, Orders.
+* '''Date this wiki entry was last updated:''' 2017-04-30
+* '''Screenshot of instance in desktop browser, without user styles, showing Getting Started:'''
+[[File:Masto Cafe default.png|500px]]
+
+=== Mastodon.social (flagship) ===
+
+* '''URL of instance:''' http://mastodon.social
+* '''Default theme?''' Yes
+* '''Default names and symbols for functions such as toot, boost, etc?''' Yes
+* '''Brief description of main features of UI in words:''' Light text on dark background. Low contrast.
+* '''Date this wiki entry was last updated:''' 2017-04-30
+* '''Screenshot of instance in desktop browser, without user styles, showing Getting Started:'''
+[[File:Mastodon social default.png|500px]]
+
+=== Octodon ===
+
+* '''URL of instance:''' http://octodon.social
+* '''Default theme?''' Yes
+* '''Default names and symbols for functions such as toot, boost, etc?''' Yes
+* '''Brief description of main features of UI in words:''' Light text on a dark blue-grey background.
+* '''Date this wiki entry was last updated:''' 2017-04-30
+
+=== Pawoo.net ===
+
+* '''URL of instance:''' https://pawoo.net
+* '''Default theme?''' Yes
+* '''Default names and symbols for functions such as toot, boost, etc?''' No
+* '''Brief description of main features of UI in words:''' Light text on a dark blue-grey background.
+* '''Date this wiki entry was last updated:''' 2017-06-5
+* '''Screenshot of instance in desktop browser, without user styles, showing random user:'''
+https://img.pawoo.net/media_attachments/files/000/246/363/original/097be32bf397cbd7.jpg (screenshot not recent, may have changed)
+
+=== Scholar Social ===
+
+* '''URL of instance:''' https://scholar.social
+* '''Default theme?''' Yes
+* '''Default names and symbols for functions such as toot, boost, etc?''' Yes
+* '''Brief description of main features of UI in words:''' Light text on a dark blue-grey background.
+* '''Date this wiki entry was last updated:''' 2017-04-30
+
+=== Soc.ialis.me ===
+
+* '''URL of instance:''' https://soc.ialis.me
+* '''Default theme?''' No
+* '''Default names and symbols for functions such as toot, boost, etc?''' Yes
+* '''Brief description of main features of UI in words:''' the colour Red is the general concept, of course.
+* '''Date this wiki entry was last updated:''' 2017-04-30
+* '''Screenshot of instance in desktop browser, without user styles, showing Getting Started:'''
+[[File:soc.ialis.me.screenshot.png|500px]]
+
+=== Targaryen House ===
+
+* '''URL of instance:''' https://social.targaryen.house
+* '''Default theme?''' No.
+* '''Default names and symbols for functions such as toot, boost, etc?''' No : Local Timeline > Valyria, Federated Timeline > The Known World, Boost > Burn, Toot > Fire
+* '''Brief description of main features of UI in words:''' Dark theme (gray with red dragon/fire), responsive columns, other symbols, show boosted user's avatar, and more...
+* '''Date this wiki entry was last updated:''' 2017-04-30
+* '''Screenshot of instance in desktop browser, without user styles, showing Getting Started:'''
+[[File:Targaryen.house.screenshot.png|500px]]
+
+=== Toot.Cat ===
+
+[[File:Tootcat normal.png|thumb|300px|Language: English]][[File:Tootcat catspeak.png|thumb|300px|Language: English (Catspeak)]]
+* '''URL of instance:''' https://toot.cat/
+* '''Default theme?''' Yes.
+* '''Default names and symbols for functions such as toot, boost, etc?''' Symbols are unchanged. Text changes exist as a separate "Catspeak" language, currently only available as a modified English. [https://toot.cat/@support/448430 Introduction of feature].
+* '''Brief description of main features of UI in words:''' Light text on a darker background. Cartoon picture of a cat in the lower right corner when viewing Getting Started. No other major visual changes from the default theme.
+* '''Date this wiki entry was last updated:''' 2017-05-02
+* '''Screenshot of instance in desktop browser, without user styles, showing Getting Started:'''
+{{clear}}
+
+=== Toot Planet ===
+
+* '''URL of instance:''' http://tootplanet.space
+* '''Default theme?''' No
+* '''Default names and symbols for functions such as toot, boost, etc?''' No:
+** favorite > star, mention > ping, follow > listen/receive transmissions
+** Home > Incoming Transmissions, Notifications > Hailing Frequency, Local timeline > The Planet, Federated timeline > The Federation
+* '''Brief description of main features of UI in words:''' High-saturation but dark colors; mostly blue/purple with pink and gold highlights. Space themed background.
+* '''Date this wiki entry was last updated:''' 2017-06-01
+* '''Screenshot of instance in desktop browser, without user styles, showing Getting Started:'''
+[[File:TootPlanet Default.png|500px]]
+
+=== Unixcorn ===
+
+* '''URL of instance:''' https://unixcorn.xyz
+* '''Default theme?''' Yes
+* '''Default names and symbols for functions such as toot, boost, etc?''' Yes
+* '''Brief description of main features of UI in words:''' Light text on a dark blue-grey background.
+* '''Date this wiki entry was last updated:''' 2017-06-12
+
+=== Witches Town ===
+
+* '''URL of instance:''' http://witches.town
+* '''Default theme?''' No
+* '''Default names and symbols for functions such as toot, boost, etc?''' No; most function names and symbols have been changed.
+* '''Brief description of main features of UI in words:''' Light text on darker theme. Overall purple. Many symbols and names of functions have been changed.
+* '''Date this wiki entry was last updated:''' 2017-04-30
+* '''Screenshot of instance in desktop browser, without user styles, showing Getting Started:'''
+[[File:Witches town default.png|500px]]
+
+==Resources and external links==
+
+* [http://www.unmung.com/mastoview Mastoview] - see local and federated timelines without making an account.
+* [https://instances.social/list/old Full list of instances] - including indications of whether they're open and how much uptime they have.
+* [https://github.com/tootsuite/mastodon/issues/2535 Github issue 2535] - a Github issue asking for people to be able to see a UI before registering.

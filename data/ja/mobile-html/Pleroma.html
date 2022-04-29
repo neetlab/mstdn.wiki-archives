@@ -1,0 +1,114 @@
+<div class="mw-parser-output"><div class="mf-section-0" id="mf-section-0"><table class="wikitable mastowiki-infobox mastowiki-infobox-software"><tbody><tr><th colspan="2"><ruby>Pleroma<rp>(</rp><rt>プレロマ</rt><rp>)</rp></ruby></th></tr><tr><td colspan="2" style="text-align: center"><a href="/%E3%83%95%E3%82%A1%E3%82%A4%E3%83%AB:Pleroma_logo_vector_nobg_nopan.svg" class="image"><img alt="Pleroma logo vector nobg nopan.svg" src="/images/thumb/7/77/Pleroma_logo_vector_nobg_nopan.svg/100px-Pleroma_logo_vector_nobg_nopan.svg.png" width="100" height="160" srcset="/images/thumb/7/77/Pleroma_logo_vector_nobg_nopan.svg/150px-Pleroma_logo_vector_nobg_nopan.svg.png 1.5x, /images/thumb/7/77/Pleroma_logo_vector_nobg_nopan.svg/200px-Pleroma_logo_vector_nobg_nopan.svg.png 2x"></a>
+</td></tr><tr><th scope="row">開発者
+</th>
+<td><a href="/Lain" title="Lain">lain</a>
+</td></tr><tr><th scope="row">ソースコード
+</th>
+<td><a rel="nofollow" class="external text" href="https://git.pleroma.social/pleroma/pleroma">GitLab</a>
+</td></tr><tr><th scope="row">プラットホーム
+</th>
+<td>Linux互換OS (サーバーサイド)<br>Web（クライアントサイド）
+</td></tr><tr><th scope="row">プログラミング言語
+</th>
+<td>Elixir
+</td></tr><tr><th scope="row">ライセンス
+</th>
+<td><a href="/GNU_Affero_General_Public_License" title="GNU Affero General Public License">GNU Affero General Public License</a>
+</td></tr><tr><th scope="row">Webサイト
+</th>
+<td><a rel="nofollow" class="external free" href="https://pleroma.social/">https://pleroma.social/</a>
+</td></tr></tbody></table><p><br><b>Pleroma</b>は<a href="/%E5%88%86%E6%95%A3SNS" title="分散SNS">分散SNS</a>の実装の一つ。
+</p>
+
+
+</div><h2 class="section-heading"><div class="mw-ui-icon mw-ui-icon-element indicator"></div><span id="概要"></span><span class="mw-headline" id=".E6.A6.82.E8.A6.81">概要</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/index.php?title=Pleroma&amp;veaction=edit&amp;section=1" class="mw-editsection-visualeditor" title="節を編集: 概要">編集</a><span class="mw-editsection-divider"> | </span><a href="/index.php?title=Pleroma&amp;action=edit&amp;section=1" title="節を編集: 概要">ソースを編集</a><span class="mw-editsection-bracket">]</span></span></h2><div class="mf-section-1" id="mf-section-1">
+<p><a href="/Lain" title="Lain">lain</a>により開発されている分散SNS。<a href="/OStatus" title="OStatus">OStatus</a>プロトコル<sup id="cite_ref-1" class="reference"><a href="#cite_note-1">[1]</a></sup>と<a href="/ActivityPub" title="ActivityPub">ActivityPub</a>プロトコルにより、マストドンを含む他の分散SNSの<a href="/%E3%82%A4%E3%83%B3%E3%82%B9%E3%82%BF%E3%83%B3%E3%82%B9" title="インスタンス">インスタンス</a>と<a href="/%E9%80%A3%E5%90%88" title="連合">連合</a>を形成することができる。また、<a href="/%E3%83%9E%E3%82%B9%E3%83%88%E3%83%89%E3%83%B3" class="mw-redirect" title="マストドン">Mastodon</a>のAPIとある程度の互換性があるため、マストドン用のクライアント (スマートフォンアプリなど) を使用できる場合がある。
+</p><p>GNU/Linuxで動作する。使用しているプログラミング言語はElixirである。マストドンと比較すると、低コストな計算機資源で動作することを標榜しており、2 GBのRAMでの運用<sup id="cite_ref-2" class="reference"><a href="#cite_note-2">[2]</a></sup>が可能である。ライセンスは<a href="/GNU_Affero_General_Public_License" title="GNU Affero General Public License">AGPL</a>である。
+</p><p>開発当初の連合プロトコルは<a href="/OStatus" title="OStatus">OStatus</a>のみであったが、2018年3月8日<sup id="cite_ref-3" class="reference"><a href="#cite_note-3">[3]</a></sup>に<a href="/ActivityPub" title="ActivityPub">ActivityPub</a>に対応した<sup id="cite_ref-4" class="reference"><a href="#cite_note-4">[4]</a></sup>。
+</p>
+</div><h2 class="section-heading"><div class="mw-ui-icon mw-ui-icon-element indicator"></div><span id="バックエンドとフロントエンドの組み合わせ"></span><span class="mw-headline" id=".E3.83.90.E3.83.83.E3.82.AF.E3.82.A8.E3.83.B3.E3.83.89.E3.81.A8.E3.83.95.E3.83.AD.E3.83.B3.E3.83.88.E3.82.A8.E3.83.B3.E3.83.89.E3.81.AE.E7.B5.84.E3.81.BF.E5.90.88.E3.82.8F.E3.81.9B">バックエンドとフロントエンドの組み合わせ</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/index.php?title=Pleroma&amp;veaction=edit&amp;section=2" class="mw-editsection-visualeditor" title="節を編集: バックエンドとフロントエンドの組み合わせ">編集</a><span class="mw-editsection-divider"> | </span><a href="/index.php?title=Pleroma&amp;action=edit&amp;section=2" title="節を編集: バックエンドとフロントエンドの組み合わせ">ソースを編集</a><span class="mw-editsection-bracket">]</span></span></h2><div class="mf-section-2" id="mf-section-2">
+<p>Pleromaはバックエンド (サーバーサイド) とフロントエンド (ウェブUI) が分離されており、それぞれ他の分散SNSと組み合わせることが可能である。<a href="/GNU_social" title="GNU social">GNU social</a>のバックエンドとPleromaのフロントエンドの組み合わせがGNU/Smug<sup id="cite_ref-5" class="reference"><a href="#cite_note-5">[5]</a></sup>とFreezePeach<sup id="cite_ref-6" class="reference"><a href="#cite_note-6">[6]</a></sup>で試みられた<sup id="cite_ref-7" class="reference"><a href="#cite_note-7">[7]</a></sup>。また <a href="/Gab" title="Gab">Gab social</a> (<a href="/Twitter" title="Twitter">Twitter</a> ライクな UI に改変した Mastodon のフォーク) のフロントエンドを基にした <a href="/Soapbox" title="Soapbox">Soapbox</a> も存在する。
+</p><p>PleromaのバックエンドとMastodonのフロントエンドの組み合わせも利用できる。この場合には、https://example.com/web のようなURLで Mastodon のフロントエンドを使用できる。ただし、MastodonフロントエンドはDevelopブランチでは廃止されており<sup id="cite_ref-8" class="reference"><a href="#cite_note-8">[8]</a></sup>、次のリリースで利用できなくなる予定である。
+</p>
+</div><h2 class="section-heading"><div class="mw-ui-icon mw-ui-icon-element indicator"></div><span id="名前の由来"></span><span class="mw-headline" id=".E5.90.8D.E5.89.8D.E3.81.AE.E7.94.B1.E6.9D.A5">名前の由来</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/index.php?title=Pleroma&amp;veaction=edit&amp;section=3" class="mw-editsection-visualeditor" title="節を編集: 名前の由来">編集</a><span class="mw-editsection-divider"> | </span><a href="/index.php?title=Pleroma&amp;action=edit&amp;section=3" title="節を編集: 名前の由来">ソースを編集</a><span class="mw-editsection-bracket">]</span></span></h2><div class="mf-section-3" id="mf-section-3">
+<p><b>pleroma</b>はギリシャ語で「全能性」を意味する。
+</p>
+</div><h2 class="section-heading"><div class="mw-ui-icon mw-ui-icon-element indicator"></div><span id="Pleromaのインスタンス一覧を提供するウェブサイト"></span><span class="mw-headline" id="Pleroma.E3.81.AE.E3.82.A4.E3.83.B3.E3.82.B9.E3.82.BF.E3.83.B3.E3.82.B9.E4.B8.80.E8.A6.A7.E3.82.92.E6.8F.90.E4.BE.9B.E3.81.99.E3.82.8B.E3.82.A6.E3.82.A7.E3.83.96.E3.82.B5.E3.82.A4.E3.83.88">Pleromaのインスタンス一覧を提供するウェブサイト</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/index.php?title=Pleroma&amp;veaction=edit&amp;section=4" class="mw-editsection-visualeditor" title="節を編集: Pleromaのインスタンス一覧を提供するウェブサイト">編集</a><span class="mw-editsection-divider"> | </span><a href="/index.php?title=Pleroma&amp;action=edit&amp;section=4" title="節を編集: Pleromaのインスタンス一覧を提供するウェブサイト">ソースを編集</a><span class="mw-editsection-bracket">]</span></span></h2><div class="mf-section-4" id="mf-section-4">
+<p><a href="/Fediverse_Observer_(Poduptime)" title="Fediverse Observer (Poduptime)">Fediverse Observer (Poduptime)</a> の <a rel="nofollow" class="external text" href="https://pleroma.fediverse.observer/list">Pleromaインスタンス一覧</a> は自動的に更新される。
+</p><p>the federationの <a rel="nofollow" class="external text" href="https://the-federation.info/pleroma">Pleromaインスタンス一覧</a> は自動的に更新される。
+</p>
+</div><h2 class="section-heading"><div class="mw-ui-icon mw-ui-icon-element indicator"></div><span id="Pleromaに対応しているクライアント"></span><span class="mw-headline" id="Pleroma.E3.81.AB.E5.AF.BE.E5.BF.9C.E3.81.97.E3.81.A6.E3.81.84.E3.82.8B.E3.82.AF.E3.83.A9.E3.82.A4.E3.82.A2.E3.83.B3.E3.83.88">Pleromaに対応しているクライアント</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/index.php?title=Pleroma&amp;veaction=edit&amp;section=5" class="mw-editsection-visualeditor" title="節を編集: Pleromaに対応しているクライアント">編集</a><span class="mw-editsection-divider"> | </span><a href="/index.php?title=Pleroma&amp;action=edit&amp;section=5" title="節を編集: Pleromaに対応しているクライアント">ソースを編集</a><span class="mw-editsection-bracket">]</span></span></h2><div class="mf-section-5" id="mf-section-5">
+<p>Pleromaは<a href="/Mastodon" title="Mastodon">マストドン</a>のAPIを模倣しているため、マストドン用のクライアントアプリは、Pleromaインスタンスでも利用できる。ただし、APIの挙動の違いから、正常に動作しない場合もある。また、Pleromaはマストドンの<a href="/%E3%82%B9%E3%83%88%E3%83%AA%E3%83%BC%E3%83%9F%E3%83%B3%E3%82%B0API" title="ストリーミングAPI">ストリーミングAPI</a>を模倣していないため、Pleromaのストリーミングに対応していないアプリが多い。この場合には、タイムラインの新しい投稿を取得するために、ユーザーが明示的に更新の操作を行う必要がある。
+</p><p>公式ドキュメント<sup id="cite_ref-9" class="reference"><a href="#cite_note-9">[9]</a></sup>によれば、Pleromaに対応しているクライアントアプリは以下である。前述のように、このリストに記載されていても、Pleromaのストリーミングに対応していないアプリが多い。
+</p>
+<ul><li><a href="/Roma" title="Roma">Roma</a> for Desktop (デスクトップ)</li>
+<li>Social (デスクトップ)</li>
+<li><a href="/Whalebird" title="Whalebird">whalebird</a> (デスクトップ)</li>
+<li>AndStatus (Android)</li>
+<li><a href="/Amaroq" title="Amaroq">Amaroq</a> (iOS)</li>
+<li><a href="/Fedilab" title="Fedilab">Fedilab</a> (Android)</li>
+<li>Kyclos (SailfishOS)</li>
+<li>Husky (Android)</li>
+<li>Fedi (iOS, Android)</li>
+<li><a href="/Tusky" title="Tusky">Tusky</a> (Android)</li>
+<li>Twidere (Android)</li>
+<li>Indigenous (Android)</li>
+<li><a href="/Brutaldon" title="Brutaldon">Brutaldon</a> (ウェブ)</li>
+<li><a href="/Halcyon" title="Halcyon">Halcyon</a> (ウェブ)</li>
+<li>Pinafone (ウェブ)</li>
+<li><a href="/Sengi" title="Sengi">Sengi</a> (ウェブ)</li>
+<li>DashFE (ウェブ)</li>
+<li>BloatFE (ウェブ)</li></ul></div><h2 class="section-heading"><div class="mw-ui-icon mw-ui-icon-element indicator"></div><span id="Pleromaに対応している関連ソフトウェア"></span><span class="mw-headline" id="Pleroma.E3.81.AB.E5.AF.BE.E5.BF.9C.E3.81.97.E3.81.A6.E3.81.84.E3.82.8B.E9.96.A2.E9.80.A3.E3.82.BD.E3.83.95.E3.83.88.E3.82.A6.E3.82.A7.E3.82.A2">Pleromaに対応している関連ソフトウェア</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/index.php?title=Pleroma&amp;veaction=edit&amp;section=6" class="mw-editsection-visualeditor" title="節を編集: Pleromaに対応している関連ソフトウェア">編集</a><span class="mw-editsection-divider"> | </span><a href="/index.php?title=Pleroma&amp;action=edit&amp;section=6" title="節を編集: Pleromaに対応している関連ソフトウェア">ソースを編集</a><span class="mw-editsection-bracket">]</span></span></h2><div class="mf-section-6" id="mf-section-6">
+<ul><li><a href="/%E3%83%95%E3%82%A9%E3%83%AD%E3%83%BC%E3%83%AA%E3%83%B3%E3%82%AF" title="フォローリンク">フォローリンク</a><sup id="cite_ref-10" class="reference"><a href="#cite_note-10">[10]</a></sup></li>
+<li><a href="/%E3%81%8A%E3%81%99%E3%81%99%E3%82%81%E3%83%95%E3%82%A9%E3%83%AD%E3%83%AF%E3%83%BC" title="おすすめフォロワー">おすすめフォロワー</a><sup id="cite_ref-11" class="reference"><a href="#cite_note-11">[11]</a></sup></li>
+<li><a href="/%E3%82%AB%E3%82%B9%E3%82%BF%E3%83%A0%E7%B5%B5%E6%96%87%E5%AD%97%E3%81%A7%E3%81%8A%E7%B5%B5%E3%81%8B%E3%81%8D%E3%83%84%E3%83%BC%E3%83%AB" title="カスタム絵文字でお絵かきツール">カスタム絵文字でお絵かきツール</a><sup id="cite_ref-12" class="reference"><a href="#cite_note-12">[12]</a></sup></li>
+<li><a href="/%E5%88%86%E6%95%A3SNS%E3%83%95%E3%82%A9%E3%83%BC%E3%83%A9%E3%83%A0" title="分散SNSフォーラム">分散SNSフォーラム</a> (廃止。当該項目を参照。)</li>
+<li><a href="/%E3%83%9E%E3%82%B9%E3%83%88%E3%83%89%E3%83%B3%E3%83%A6%E3%83%BC%E3%82%B6%E3%83%BC%E3%83%9E%E3%83%83%E3%83%81%E3%83%B3%E3%82%B0" title="マストドンユーザーマッチング">マストドンユーザーマッチング</a> (廃止。当該項目を参照。)</li>
+<li><a href="/%E3%83%9F%E3%82%B9%E3%83%86%E3%83%AA%E3%83%BC%E3%83%9D%E3%82%B9%E3%83%88" title="ミステリーポスト">ミステリーポスト</a> (廃止。当該項目を参照。)</li>
+<li><a href="/Mastodon_Birthday" title="Mastodon Birthday">Mastodon Birthday</a><sup id="cite_ref-13" class="reference"><a href="#cite_note-13">[13]</a></sup></li>
+<li><a href="/AnonyMasto" title="AnonyMasto">AnonyMasto</a><sup id="cite_ref-14" class="reference"><a href="#cite_note-14">[14]</a></sup> (廃止。当該項目を参照。)</li>
+<li><a href="/Who_To_Follow_For_Mastodon_%26_Pleroma" title="Who To Follow For Mastodon &amp; Pleroma">Who To Follow For Mastodon &amp; Pleroma</a></li></ul></div><h2 class="section-heading"><div class="mw-ui-icon mw-ui-icon-element indicator"></div><span id="マスコットキャラクター"></span><span class="mw-headline" id=".E3.83.9E.E3.82.B9.E3.82.B3.E3.83.83.E3.83.88.E3.82.AD.E3.83.A3.E3.83.A9.E3.82.AF.E3.82.BF.E3.83.BC">マスコットキャラクター</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/index.php?title=Pleroma&amp;veaction=edit&amp;section=7" class="mw-editsection-visualeditor" title="節を編集: マスコットキャラクター">編集</a><span class="mw-editsection-divider"> | </span><a href="/index.php?title=Pleroma&amp;action=edit&amp;section=7" title="節を編集: マスコットキャラクター">ソースを編集</a><span class="mw-editsection-bracket">]</span></span></h2><div class="mf-section-7" id="mf-section-7">
+<p>Pleromaのマスコットキャラクターとして<b>プロレマたん</b>または<b>pleroma-tan</b>が知られている。2019年4月にPleromaのリポジトリに追加され<sup id="cite_ref-15" class="reference"><a href="#cite_note-15">[15]</a></sup>、マストドン風フロントエンドの左下に表示される<sup id="cite_ref-16" class="reference"><a href="#cite_note-16">[16]</a></sup>ようになった。人間型のものと、狐化されたものが存在する。
+</p><p><a href="/%E3%83%95%E3%82%A1%E3%82%A4%E3%83%AB:Pleroma-tan.png" class="image"><img alt="Pleroma-tan.png" src="/images/thumb/1/14/Pleroma-tan.png/120px-Pleroma-tan.png" width="120" height="256" srcset="/images/thumb/1/14/Pleroma-tan.png/181px-Pleroma-tan.png 1.5x, /images/thumb/1/14/Pleroma-tan.png/241px-Pleroma-tan.png 2x"></a> <a href="/%E3%83%95%E3%82%A1%E3%82%A4%E3%83%AB:Pleroma-fox-tan.png" class="image"><img alt="Pleroma-fox-tan.png" src="/images/thumb/c/c3/Pleroma-fox-tan.png/143px-Pleroma-fox-tan.png" width="143" height="256" srcset="/images/thumb/c/c3/Pleroma-fox-tan.png/214px-Pleroma-fox-tan.png 1.5x, /images/thumb/c/c3/Pleroma-fox-tan.png/286px-Pleroma-fox-tan.png 2x"></a>
+</p>
+</div><h2 class="section-heading"><div class="mw-ui-icon mw-ui-icon-element indicator"></div><span id="関連項目"></span><span class="mw-headline" id=".E9.96.A2.E9.80.A3.E9.A0.85.E7.9B.AE">関連項目</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/index.php?title=Pleroma&amp;veaction=edit&amp;section=8" class="mw-editsection-visualeditor" title="節を編集: 関連項目">編集</a><span class="mw-editsection-divider"> | </span><a href="/index.php?title=Pleroma&amp;action=edit&amp;section=8" title="節を編集: 関連項目">ソースを編集</a><span class="mw-editsection-bracket">]</span></span></h2><div class="mf-section-8" id="mf-section-8">
+<ul><li><a href="/Newroma" title="Newroma">Newroma</a></li></ul></div><h2 class="section-heading"><div class="mw-ui-icon mw-ui-icon-element indicator"></div><span id="脚注"></span><span class="mw-headline" id=".E8.84.9A.E6.B3.A8">脚注</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/index.php?title=Pleroma&amp;veaction=edit&amp;section=9" class="mw-editsection-visualeditor" title="節を編集: 脚注">編集</a><span class="mw-editsection-divider"> | </span><a href="/index.php?title=Pleroma&amp;action=edit&amp;section=9" title="節を編集: 脚注">ソースを編集</a><span class="mw-editsection-bracket">]</span></span></h2><div class="mf-section-9" id="mf-section-9">
+<div class="mw-references-wrap mw-references-columns"><ol class="references"><li id="cite_note-1"><span class="mw-cite-backlink"><a href="#cite_ref-1">↑</a></span> <span class="reference-text">バージョン2.0.0で削除された。</span>
+</li>
+<li id="cite_note-2"><span class="mw-cite-backlink"><a href="#cite_ref-2">↑</a></span> <span class="reference-text"><a rel="nofollow" class="external text" href="https://pleroma.social/blog/2021/01/13/the-big-pleroma-and-fediverse-faq/">The Big Pleroma and Fediverse FAQ Part 1 - Beginner Questions</a></span>
+</li>
+<li id="cite_note-3"><span class="mw-cite-backlink"><a href="#cite_ref-3">↑</a></span> <span class="reference-text"><a rel="nofollow" class="external free" href="https://git.pleroma.social/pleroma/pleroma/commit/460062f2b04220ffcd8f20aa842cc95582d1f849">https://git.pleroma.social/pleroma/pleroma/commit/460062f2b04220ffcd8f20aa842cc95582d1f849</a></span>
+</li>
+<li id="cite_note-4"><span class="mw-cite-backlink"><a href="#cite_ref-4">↑</a></span> <span class="reference-text"><a rel="nofollow" class="external text" href="https://blog.soykaf.com/post/activity-pub-in-pleroma/">ActivityPub in Pleroma</a></span>
+</li>
+<li id="cite_note-5"><span class="mw-cite-backlink"><a href="#cite_ref-5">↑</a></span> <span class="reference-text"><a rel="nofollow" class="external free" href="https://gs.smuglo.li/suikabest2hu.html">https://gs.smuglo.li/suikabest2hu.html</a></span>
+</li>
+<li id="cite_note-6"><span class="mw-cite-backlink"><a href="#cite_ref-6">↑</a></span> <span class="reference-text"><a rel="nofollow" class="external free" href="https://freezepeach.xyz/pleroma.html">https://freezepeach.xyz/pleroma.html</a></span>
+</li>
+<li id="cite_note-7"><span class="mw-cite-backlink"><a href="#cite_ref-7">↑</a></span> <span class="reference-text">2022年1月時点で、どちらもアクセスできなくなっている。</span>
+</li>
+<li id="cite_note-8"><span class="mw-cite-backlink"><a href="#cite_ref-8">↑</a></span> <span class="reference-text"><a rel="nofollow" class="external text" href="https://git.pleroma.social/pleroma/pleroma/-/merge_requests/3392">Remove MastoFE from Pleroma, fixes #2625 (!3392)</a></span>
+</li>
+<li id="cite_note-9"><span class="mw-cite-backlink"><a href="#cite_ref-9">↑</a></span> <span class="reference-text"><a rel="nofollow" class="external free" href="https://docs-develop.pleroma.social/backend/clients/">https://docs-develop.pleroma.social/backend/clients/</a></span>
+</li>
+<li id="cite_note-10"><span class="mw-cite-backlink"><a href="#cite_ref-10">↑</a></span> <span class="reference-text"><a rel="nofollow" class="external free" href="https://mstdn.nere9.help/users/osapon/statuses/99755919266836138">https://mstdn.nere9.help/users/osapon/statuses/99755919266836138</a></span>
+</li>
+<li id="cite_note-11"><span class="mw-cite-backlink"><a href="#cite_ref-11">↑</a></span> <span class="reference-text"><a rel="nofollow" class="external free" href="https://mstdn.nere9.help/users/osapon/statuses/99755919266836138">https://mstdn.nere9.help/users/osapon/statuses/99755919266836138</a></span>
+</li>
+<li id="cite_note-12"><span class="mw-cite-backlink"><a href="#cite_ref-12">↑</a></span> <span class="reference-text"><a rel="nofollow" class="external free" href="https://git.pleroma.social/pleroma/pleroma/merge_requests/52">https://git.pleroma.social/pleroma/pleroma/merge_requests/52</a></span>
+</li>
+<li id="cite_note-13"><span class="mw-cite-backlink"><a href="#cite_ref-13">↑</a></span> <span class="reference-text">記事執筆者による独自調査。</span>
+</li>
+<li id="cite_note-14"><span class="mw-cite-backlink"><a href="#cite_ref-14">↑</a></span> <span class="reference-text">記事執筆者による独自調査。</span>
+</li>
+<li id="cite_note-15"><span class="mw-cite-backlink"><a href="#cite_ref-15">↑</a></span> <span class="reference-text"><a rel="nofollow" class="external text" href="https://git.pleroma.social/pleroma/pleroma/merge_requests/913">priv/static/images: Add pleroma-tan !913</a></span>
+</li>
+<li id="cite_note-16"><span class="mw-cite-backlink"><a href="#cite_ref-16">↑</a></span> <span class="reference-text"><a rel="nofollow" class="external text" href="https://git.pleroma.social/pleroma/pleroma/merge_requests/1018">mastodon_api_controller.ex: Add pleroma-tan to initial_state !1018</a></span>
+</li>
+</ol></div>
+</div><h2 class="section-heading"><div class="mw-ui-icon mw-ui-icon-element indicator"></div><span id="外部リンク"></span><span class="mw-headline" id=".E5.A4.96.E9.83.A8.E3.83.AA.E3.83.B3.E3.82.AF">外部リンク</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/index.php?title=Pleroma&amp;veaction=edit&amp;section=10" class="mw-editsection-visualeditor" title="節を編集: 外部リンク">編集</a><span class="mw-editsection-divider"> | </span><a href="/index.php?title=Pleroma&amp;action=edit&amp;section=10" title="節を編集: 外部リンク">ソースを編集</a><span class="mw-editsection-bracket">]</span></span></h2><div class="mf-section-10" id="mf-section-10">
+<ul><li><a rel="nofollow" class="external text" href="http://www.itmedia.co.jp/news/articles/1711/12/news018.html">新しい連合型SNS「Pleroma」はMastodonを置き換える？</a></li>
+<li><a rel="nofollow" class="external text" href="http://www.itmedia.co.jp/news/articles/1711/15/news124.html">Mastodonに続く新たな連合型SNS「Pleroma」作者に聞く 開発の背景、特徴、ロードマップ</a></li>
+<li><a rel="nofollow" class="external text" href="https://masto.news/2017/11/12/pleroma/">マストドンの次に来る？「Pleroma」の日本人ユーザーが増加中</a></li>
+<li><a rel="nofollow" class="external text" href="https://distsn.org/pleroma-instances.html">Pleromaインスタンス一覧</a></li></ul></div></div>
+
