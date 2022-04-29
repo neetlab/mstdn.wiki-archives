@@ -3,7 +3,7 @@
     <meta charset="UTF-8">
     <title>Peers API - マストドン日本語ウィキアーカイブ</title>
     <meta name="viewport" content="initial-scale=1.0, user-scalable=yes, minimum-scale=0.25, maximum-scale=5.0, width=device-width">
-    <link type="text/css" rel="stylesheet" href="style.css">
+    <link type="text/css" rel="stylesheet" href="/style.css">
     <style>
         body {
             margin:20px;
@@ -25,17 +25,17 @@
 </head>
 <body class="mediawiki ltr sitedir-ltr mw-hide-empty-elt ns-0 ns-subject page-11t rootpage-11t skin-vector action-view">
   <div id="content" class="mw-body" role="main">
-    <span id="wikiTitleMastodonWikiOriginal"><a href="index.html">マストドン日本語ウィキアーカイブ</a></span>
+    <span id="wikiTitleMastodonWikiOriginal"><a href="./index.html">マストドン日本語ウィキアーカイブ</a></span>
     <h1 id="firstHeading" class="firstHeading">Peers API</h1>
-    <div class="mw-parser-output"><p><b>Peers API</b>または<b>/api/v1/instance/peers</b>とは、<a href="/Mastodon" title="Mastodon">マストドン</a>のAPIの一つ。あるインスタンスが接続している他のインスタンスのリストをJSON形式で提供する。
+    <div class="mw-parser-output"><p><b>Peers API</b>または<b>/api/v1/instance/peers</b>とは、<a href="./Mastodon" title="Mastodon">マストドン</a>のAPIの一つ。あるインスタンスが接続している他のインスタンスのリストをJSON形式で提供する。
 </p><p>マストドンではバージョン2.1.2<sup id="cite_ref-1" class="reference"><a href="#cite_note-1">&#91;1&#93;</a></sup>からこのAPIが実装された。
-</p><p>Peers APIを再帰的に探索することで、インスタンスを登録する操作を行うことなく、自動的に<a href="/%E3%82%A4%E3%83%B3%E3%82%B9%E3%82%BF%E3%83%B3%E3%82%B9%E3%81%AE%E4%B8%80%E8%A6%A7%E3%82%92%E6%8F%90%E4%BE%9B%E3%81%99%E3%82%8B%E3%82%A6%E3%82%A7%E3%83%96%E3%82%B5%E3%82%A4%E3%83%88" title="インスタンスの一覧を提供するウェブサイト">インスタンス一覧</a>を作成することができる<sup id="cite_ref-2" class="reference"><a href="#cite_note-2">&#91;2&#93;</a></sup>。<a href="/Mastodon_Instances" title="Mastodon Instances">Mastodon Instances</a>は、手動で登録されたインスタンスだけでなく、Peers APIで自動的に収集されたインスタンスをリストに加えている<sup id="cite_ref-3" class="reference"><a href="#cite_note-3">&#91;3&#93;</a></sup>。
+</p><p>Peers APIを再帰的に探索することで、インスタンスを登録する操作を行うことなく、自動的に<a href="./%E3%82%A4%E3%83%B3%E3%82%B9%E3%82%BF%E3%83%B3%E3%82%B9%E3%81%AE%E4%B8%80%E8%A6%A7%E3%82%92%E6%8F%90%E4%BE%9B%E3%81%99%E3%82%8B%E3%82%A6%E3%82%A7%E3%83%96%E3%82%B5%E3%82%A4%E3%83%88" title="インスタンスの一覧を提供するウェブサイト">インスタンス一覧</a>を作成することができる<sup id="cite_ref-2" class="reference"><a href="#cite_note-2">&#91;2&#93;</a></sup>。<a href="./Mastodon_Instances" title="Mastodon Instances">Mastodon Instances</a>は、手動で登録されたインスタンスだけでなく、Peers APIで自動的に収集されたインスタンスをリストに加えている<sup id="cite_ref-3" class="reference"><a href="#cite_note-3">&#91;3&#93;</a></sup>。
 </p>
-<h2><span id="他の分散SNSとの関係"></span><span class="mw-headline" id=".E4.BB.96.E3.81.AE.E5.88.86.E6.95.A3SNS.E3.81.A8.E3.81.AE.E9.96.A2.E4.BF.82">他の分散SNSとの関係</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/index.php?title=Peers_API&amp;veaction=edit&amp;section=1" class="mw-editsection-visualeditor" title="節を編集: 他の分散SNSとの関係">編集</a><span class="mw-editsection-divider"> | </span><a href="/index.php?title=Peers_API&amp;action=edit&amp;section=1" title="節を編集: 他の分散SNSとの関係">ソースを編集</a><span class="mw-editsection-bracket">]</span></span></h2>
-<p><a href="/Pleroma" title="Pleroma">Pleroma</a>では2018年1月15日<sup id="cite_ref-4" class="reference"><a href="#cite_note-4">&#91;4&#93;</a></sup>に、Peers APIがdevelopブランチにマージされた。
-</p><p><a href="/Misskey" title="Misskey">Misskey</a>では2018年10月16日<sup id="cite_ref-5" class="reference"><a href="#cite_note-5">&#91;5&#93;</a></sup>にPeers APIが実装された。Misskeyではマストドン互換APIを削減する決定がなされた<sup id="cite_ref-6" class="reference"><a href="#cite_note-6">&#91;6&#93;</a></sup><sup id="cite_ref-7" class="reference"><a href="#cite_note-7">&#91;7&#93;</a></sup>が、Peers APIは維持されている<sup id="cite_ref-8" class="reference"><a href="#cite_note-8">&#91;8&#93;</a></sup>。
+<h2><span id="他の分散SNSとの関係"></span><span class="mw-headline" id=".E4.BB.96.E3.81.AE.E5.88.86.E6.95.A3SNS.E3.81.A8.E3.81.AE.E9.96.A2.E4.BF.82">他の分散SNSとの関係</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="./index.php?title=Peers_API&amp;veaction=edit&amp;section=1" class="mw-editsection-visualeditor" title="節を編集: 他の分散SNSとの関係">編集</a><span class="mw-editsection-divider"> | </span><a href="./index.php?title=Peers_API&amp;action=edit&amp;section=1" title="節を編集: 他の分散SNSとの関係">ソースを編集</a><span class="mw-editsection-bracket">]</span></span></h2>
+<p><a href="./Pleroma" title="Pleroma">Pleroma</a>では2018年1月15日<sup id="cite_ref-4" class="reference"><a href="#cite_note-4">&#91;4&#93;</a></sup>に、Peers APIがdevelopブランチにマージされた。
+</p><p><a href="./Misskey" title="Misskey">Misskey</a>では2018年10月16日<sup id="cite_ref-5" class="reference"><a href="#cite_note-5">&#91;5&#93;</a></sup>にPeers APIが実装された。Misskeyではマストドン互換APIを削減する決定がなされた<sup id="cite_ref-6" class="reference"><a href="#cite_note-6">&#91;6&#93;</a></sup><sup id="cite_ref-7" class="reference"><a href="#cite_note-7">&#91;7&#93;</a></sup>が、Peers APIは維持されている<sup id="cite_ref-8" class="reference"><a href="#cite_note-8">&#91;8&#93;</a></sup>。
 </p>
-<h2><span id="脚注"></span><span class="mw-headline" id=".E8.84.9A.E6.B3.A8">脚注</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/index.php?title=Peers_API&amp;veaction=edit&amp;section=2" class="mw-editsection-visualeditor" title="節を編集: 脚注">編集</a><span class="mw-editsection-divider"> | </span><a href="/index.php?title=Peers_API&amp;action=edit&amp;section=2" title="節を編集: 脚注">ソースを編集</a><span class="mw-editsection-bracket">]</span></span></h2>
+<h2><span id="脚注"></span><span class="mw-headline" id=".E8.84.9A.E6.B3.A8">脚注</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="./index.php?title=Peers_API&amp;veaction=edit&amp;section=2" class="mw-editsection-visualeditor" title="節を編集: 脚注">編集</a><span class="mw-editsection-divider"> | </span><a href="./index.php?title=Peers_API&amp;action=edit&amp;section=2" title="節を編集: 脚注">ソースを編集</a><span class="mw-editsection-bracket">]</span></span></h2>
 <div class="mw-references-wrap"><ol class="references">
 <li id="cite_note-1"><span class="mw-cite-backlink"><a href="#cite_ref-1">↑</a></span> <span class="reference-text"><a rel="nofollow" class="external free" href="https://github.com/tootsuite/mastodon/releases/tag/v2.1.2">https://github.com/tootsuite/mastodon/releases/tag/v2.1.2</a></span>
 </li>
